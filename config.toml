@@ -1,0 +1,13 @@
+baseurl = "https://blog.kazu634.com/"
+title = "His greatness lies in his sense of responsibility"
+languageCode = "ja"
+theme = "angels-ladder"
+
+[params]
+  subtitle = "I wanna be a Jedi Padawan."
+  facebook = "https://www.facebook.com/kazu634"
+  twitter = "https://twitter.com/kazu634"
+  github = "https://github.com/kazu634"
+  profile = "/images/profile.png"
+  analytics = "UA-57665492-1"
+  copyright = "Written by Kazuhiro MUSASHI"
