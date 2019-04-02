@@ -2,7 +2,6 @@
 title: Fluentd X GrowthForecastの組み合わせで可視化してみた
 author: kazu634
 date: 2014-04-27
-url: /2014/04/27/visualize_the_bottleneck_using_fluentd_x_growthforecast/
 geo_latitude:
   - 38.306184
 geo_longitude:

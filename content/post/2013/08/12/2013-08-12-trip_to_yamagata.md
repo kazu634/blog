@@ -2,7 +2,6 @@
 title: 山形は素敵な瀬戸物屋さんが多かった
 author: kazu634
 date: 2013-08-12
-url: /2013/08/12/trip_to_yamagata/
 geo_latitude:
   - 38.248820
 geo_longitude:

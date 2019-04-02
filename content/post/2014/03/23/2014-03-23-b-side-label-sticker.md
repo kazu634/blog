@@ -2,7 +2,6 @@
 title: B-SIDE LABELのステッカー
 author: kazu634
 date: 2014-03-23
-url: /2014/03/23/b-side-label-sticker/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1706;}'
 wordtwit_post_info:

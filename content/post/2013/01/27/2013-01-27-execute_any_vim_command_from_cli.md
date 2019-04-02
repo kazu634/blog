@@ -2,7 +2,6 @@
 title: Vimで任意のコマンドを実行して終了する方法
 author: kazu634
 date: 2013-01-27
-url: /2013/01/27/execute_any_vim_command_from_cli/
 has_been_twittered:
   - yes
 tmac_last_id:

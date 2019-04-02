@@ -2,7 +2,6 @@
 title: 選挙
 author: kazu634
 date: 2012-12-04
-url: /2012/12/04/2012_national_election/
 has_been_twittered:
   - yes
 tmac_last_id:

@@ -4,7 +4,6 @@ date = 2018-06-25T23:36:05+08:00
 Description = "Hanoi市街地から少し離れた宝石のようなカフェに行ってきました。"
 Tags = ["Hanoi"]
 Categories = ["旅行"]
-url = "/2018/06/25/hanoi-cafe-maison-de-tet-decor/"
 thumbnail = "images/41335917114_1c1d187c35_o.jpg"
 +++
 

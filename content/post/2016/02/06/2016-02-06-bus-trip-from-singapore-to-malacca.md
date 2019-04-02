@@ -4,7 +4,6 @@ Description = "シンガポールからバスでマラッカへ向かう時の�
 Tags = ["Singapore", "Malacca"]
 date = "2016-02-06T22:37:22+08:00"
 title = "シンガポールからマラッカへのバス旅行"
-url = "/2016/02/06/bus-trip-from-singapore-to-malacca/"
 +++
 
 <a href="https://flic.kr/p/DiF5k6" title="All Photos-101 by -kazu634-"><img src="https://farm2.staticflickr.com/1615/24485204779_bd6818ddd8_z.jpg" width="640" height="480" alt="All Photos-101"></a>

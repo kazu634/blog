@@ -4,7 +4,6 @@ date = 2019-01-06T23:07:40+07:00
 Description = "Golangのライブラリtviewを使うと、お気軽にCUIを作成できるみたいなので、お試しで使ってみました。今回はExcelファイルの中身を確認するよ。"
 Tags = []
 Categories = ["golang", "programming"]
-url = "/2019/01/06/go-excel-util-using-tview/"
 image="https://farm5.staticflickr.com/4849/45718165635_328355a940_z.jpg"
 +++
 

@@ -2,7 +2,6 @@
 title: Sinatraを初めて使ってみた
 author: kazu634
 date: 2013-11-10
-url: /2013/11/10/first_impression_on_sinatra/
 geo_latitude:
   - 38.306436
 geo_longitude:

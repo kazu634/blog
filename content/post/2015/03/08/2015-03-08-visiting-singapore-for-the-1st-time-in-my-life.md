@@ -2,7 +2,6 @@
 title: シンガポールへの出張＋観光
 author: kazu634
 date: 2015-03-08
-url: /2015/03/08/visiting-singapore-for-the-1st-time-in-my-life/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:6678;}'
 wordtwit_post_info:

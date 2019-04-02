@@ -2,7 +2,6 @@
 Description = "気仙沼発のカフェ・フユセイルコーヒーをコーヒー豆から挽いて飲んでいます"
 Tags = ["kesennuma"]
 Categories = ["coffee"]
-url = "/2016/12/08/fullsail-coffee-beans-from-kesennuma/"
 date = "2016-12-08T00:37:24+08:00"
 title = "コーヒーのある生活: フルセイルコーヒーのリアス"
 image="https://c5.staticflickr.com/6/5528/30489092404_9ee12f6786.jpg"

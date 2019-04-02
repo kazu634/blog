@@ -2,7 +2,6 @@
 title: Hobonichi Plannerを買いました
 author: kazu634
 date: 2012-10-27
-url: /2012/10/27/hobonichi_planner/
 has_been_twittered:
   - yes
 tmac_last_id:

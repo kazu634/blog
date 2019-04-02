@@ -2,7 +2,6 @@
 title: すし哲@塩釜のお寿司を食べてきた
 author: kazu634
 date: 2014-10-12
-url: /2014/10/12/enjoyed_sushi_at_sushi_tetsu/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1867;}'
 wordtwit_post_info:

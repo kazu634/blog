@@ -2,7 +2,6 @@
 title: 今度はボットが襲来しました
 author: kazu634
 date: 2015-01-26
-url: /2015/01/27/google-bot-visit-my-site-many-times/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:6646;}'
 wordtwit_post_info:

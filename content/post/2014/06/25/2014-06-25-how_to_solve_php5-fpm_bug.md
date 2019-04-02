@@ -2,7 +2,6 @@
 title: Ubuntu Precise で Php5-fpm のソケットファイルのオーナー・グループが気づかぬうちに変わってた
 author: kazu634
 date: 2014-06-25
-url: /2014/06/25/how_to_solve_php5-fpm_bug/
 geo_latitude:
   - 38.306223
 geo_longitude:

@@ -2,7 +2,6 @@
 title: サプライズに直面すると人は考え始めるものです
 author: kazu634
 date: 2015-12-17
-url: /2015/12/17/people-stops-to-think-when-facing-surprises/
 categories:
   - 読書
   - メモ

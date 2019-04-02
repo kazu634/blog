@@ -2,7 +2,6 @@
 title: ユリウス・カエサル ルビコン以前──ローマ人の物語 IV を読む
 author: kazu634
 date: 2014-10-12
-url: /2014/10/12/excerpt_from_julius_caesar_to_the_banks_of_the_rubicon/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1868;}'
 wordtwit_post_info:

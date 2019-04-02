@@ -4,7 +4,6 @@ date = 2018-04-08T19:03:49+08:00
 Description = "バックパッカーの聖地ということで有名なカオサン通りを訪ねてきました"
 Tags = ["Bangkok", "Kahosan Road"]
 Categories = ["旅行"]
-url = "/2018/04/08/visiting-khaosan-roads-in-bangkok/"
 thumbnail = "images/41095266962_a21471b635_z.jpg"
 +++
 

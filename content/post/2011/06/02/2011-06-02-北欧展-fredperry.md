@@ -2,7 +2,6 @@
 title: '北欧展 @ FRED&PERRY'
 author: kazu634
 date: 2011-06-02
-url: /2011/06/02/_1704/
 has_been_twittered:
   - yes
 tmac_last_id:

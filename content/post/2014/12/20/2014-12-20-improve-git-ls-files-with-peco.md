@@ -2,7 +2,6 @@
 title: peco + git ls-files を改良してみた
 author: kazu634
 date: 2014-12-20
-url: /2014/12/20/improve-git-ls-files-with-peco/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:5569;}'
 wordtwit_post_info:

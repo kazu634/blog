@@ -2,7 +2,6 @@
 title: Nagiosでドメイン有効期限を監視する
 author: kazu634
 date: 2013-01-27
-url: /2013/01/27/check_domain_expiration_by_nagios/
 has_been_twittered:
   - yes
 tmac_last_id:

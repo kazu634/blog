@@ -2,7 +2,6 @@
 title: 日本酒×市田邸のお知らせ
 author: kazu634
 date: 2013-01-19
-url: /2013/01/19/japanese_sake_x_ichida_house/
 has_been_twittered:
   - yes
 tmac_last_id:

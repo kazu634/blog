@@ -4,7 +4,6 @@ date = {{ .Date }}
 Description = ""
 Tags = []
 Categories = []
-url = ""
 image=""
 +++
 

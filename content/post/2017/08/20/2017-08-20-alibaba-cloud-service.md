@@ -4,7 +4,6 @@ date = 2017-08-20T22:24:03+08:00
 Description = "Alibabaのクラウドサービスについて考えたことでございます。"
 Tags = []
 Categories = ["Cloud", "China"]
-url = "/2017/08/20/alibaba-cloud-service/"
 draft = false
 thumbnail = "images/25718827003_b8dfdc8fac.jpg"
 +++

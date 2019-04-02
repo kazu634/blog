@@ -2,7 +2,6 @@
 title: Nagiosからの通知を Growl 経由で受け取る
 author: kazu634
 date: 2012-12-25
-url: /2012/12/25/notification_from_nagios_via_growl/
 has_been_twittered:
   - yes
 tmac_last_id:

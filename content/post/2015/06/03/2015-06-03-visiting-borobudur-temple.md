@@ -2,7 +2,6 @@
 title: 'インドネシアの世界遺産を見てきた: Borobudur Temple'
 author: kazu634
 date: 2015-06-03
-url: /2015/06/03/visiting-borobudur-temple/
 tmac_last_id:
   - 665467423064223744
 categories:

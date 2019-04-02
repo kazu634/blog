@@ -4,7 +4,6 @@ Description = "いきものがかりのギター・リードを担当する水�
 Tags = []
 date = "2016-02-14T23:10:46+08:00"
 title = "人間とは”感じとる”いきものだ"
-url = "/2016/02/14/quote-from-mizuno-yoshiki-20160214/"
 image = "https://farm3.staticflickr.com/2750/4236375007_ae06de0927_z.jpg"
 +++
 いきものがかりのギター・リードを担当する水野良樹さんが語る「感じ取られるべきもの」について:

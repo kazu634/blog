@@ -2,7 +2,6 @@
 title: Chef Clientの12.0.0で後方互換性が失われていたようだ (12.0.0-1で修正済み)
 author: kazu634
 date: 2014-12-09
-url: /2014/12/09/chef-client-1200-introduces-backward-incompatibility/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:5553;}'
 wordtwit_post_info:

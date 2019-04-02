@@ -2,7 +2,6 @@
 title: Blue Bottle Coffeeに行ってきました
 author: kazu634
 date: 2015-02-11
-url: /2015/02/11/visiting-blue-bottle-coffee-kiyosumi-shirakawa/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:6667;}'
 wordtwit_post_info:

@@ -2,7 +2,6 @@
 title: Mugen Power
 author: kazu634
 date: 2010-11-04
-url: /2010/11/04/mugen-power/
 has_been_twittered:
   - yes
 tmac_last_id:

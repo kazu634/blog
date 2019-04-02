@@ -2,7 +2,6 @@
 title: Ubuntu 12.04でOpenVPNをインストールする
 author: kazu634
 date: 2013-09-20
-url: /2013/09/20/how_to_install_openvpn_under_ubuntu_1204/
 geo_latitude:
   - 38.305994
 geo_longitude:

@@ -2,7 +2,6 @@
 title: 意地悪であれば失敗する
 author: kazu634
 date: 2014-11-30
-url: /2014/11/30/my-impression-on-mean-people-fail/
 tmac_last_id:
   - 555736428702101505
 wordtwit_posted_tweets:

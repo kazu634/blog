@@ -4,7 +4,6 @@ Description = "マラッカへ旅行してきました。"
 Tags = ["Malacca"]
 date = "2016-02-09T22:25:13+08:00"
 title = "マラッカ海峡で有名なマラッカへ行ってきました"
-url = "/2016/02/09/stay-in-malacca/"
 +++
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/42332031@N02/24548801099/in/album-72157664419041836/" title="Untitled"><img src="https://farm2.staticflickr.com/1700/24548801099_c0eb9f3625_z.jpg" width="640" height="480" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

@@ -2,7 +2,6 @@
 title: チェンマイ旅行3日目
 author: kazu634
 date: 2013-03-02
-url: /2013/03/02/chiang_mai_3rd_day/
 has_been_twittered:
   - yes
 tmac_last_id:

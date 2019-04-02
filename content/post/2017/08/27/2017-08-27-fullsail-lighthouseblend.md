@@ -4,7 +4,6 @@ date = 2017-08-27T21:00:35+08:00
 Description = "フルセイルコーヒーのLight House Blendを飲み始めました。力強い光で陸地の存在を知らせる<灯台>は海と岬の守り番。眠らない灯台守のための深煎りブレンド。あと、HARIOのケトルも買いました。"
 Tags = []
 Categories = ["コーヒー"]
-url = "/2017/08/27/fullsail-lighthouseblend/"
 draft = false
 thumbnail = "images/IMG_0072.JPG"
 +++

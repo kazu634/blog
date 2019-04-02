@@ -2,7 +2,6 @@
 title: ドメインの残り有効期限を取得するシェルスクリプト
 author: kazu634
 date: 2013-01-14
-url: /2013/01/14/check_domain_expiration/
 has_been_twittered:
   - yes
 tmac_last_id:

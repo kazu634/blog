@@ -2,7 +2,6 @@
 title: シンガポールの自転車屋さん – (1)
 author: kazu634
 date: 2015-05-23
-url: /2015/05/23/bicycle-shop-at-singapore-001/
 tmac_last_id:
   - 665467423840145408
 categories:

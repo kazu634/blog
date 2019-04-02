@@ -2,7 +2,6 @@
 title: RTX810と無線LANアクセスポイントを組み合わせてみた
 author: kazu634
 date: 2014-10-20
-url: /2014/10/21/rtx810_with_wifi_access_point/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1879;}'
 wordtwit_post_info:

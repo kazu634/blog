@@ -2,7 +2,6 @@
 title: 軍艦島 4K (Ultra HD) – Japan’s “Battleship Island”
 author: kazu634
 date: 2014-11-08
-url: /2014/11/08/4k-ultra-hd-japans-battleship-island/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:5510;}'
 wordtwit_post_info:

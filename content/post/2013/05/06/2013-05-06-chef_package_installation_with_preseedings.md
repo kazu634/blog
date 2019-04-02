@@ -2,7 +2,6 @@
 title: Chefで事前応答ファイルを準備してパッケージをインストールする
 author: kazu634
 date: 2013-05-06
-url: /2013/05/06/chef_package_installation_with_preseedings/
 has_been_twittered:
   - yes
 tmac_last_id:

@@ -4,7 +4,6 @@ date = 2017-11-26T22:54:05+08:00
 Description = "お友達がシンガポールに弾丸でやってきたので、主だった観光地を案内して回りました。"
 Tags = ["Singapore"]
 Categories = ["旅行"]
-url = "/2017/11/26/singapore-sightseeing-2017/"
 thumbnail = "images/24757210958_9bdb218cf8.jpg"
 draft = false
 +++

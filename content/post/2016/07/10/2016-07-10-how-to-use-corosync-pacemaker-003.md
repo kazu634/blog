@@ -5,7 +5,6 @@ Tags = []
 date = "2016-07-10T23:48:32+08:00"
 draft = false
 title = "Pacemaker + Corosyncを用いてクラスタ環境の構築 - Pacemaker, Corosyncの構築"
-url = "/2016/07/10/how-to-use-corosync-pacemaker-003/"
 thumbnail = "images/7241213444_1c8a40e897.jpg"
 +++
 

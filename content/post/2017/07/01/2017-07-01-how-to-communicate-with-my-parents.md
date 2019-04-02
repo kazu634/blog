@@ -4,7 +4,6 @@ Tags = ["Line"]
 Categories = ["メモ"]
 date = "2017-07-01T20:45:07+08:00"
 title = "両親とのコミュニケーション手段を確保するよ"
-url = "/2017/07/01/how-to-communicate-with-my-parents/"
 draft = false
 image="https://farm3.staticflickr.com/2945/15231860837_337b8b0360_z.jpg"
 +++

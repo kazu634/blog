@@ -2,7 +2,6 @@
 title: 'インドネシアの世界遺産を見てきた: Prambanan Temple'
 author: kazu634
 date: 2015-06-01
-url: /2015/06/01/visiting-prambanan-temple/
 tmac_last_id:
   - 665467423840145408
 categories:

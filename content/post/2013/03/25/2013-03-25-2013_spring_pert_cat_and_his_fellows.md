@@ -2,7 +2,6 @@
 title: 小生意気な猫とその仲間たち 遠藤正美 木彫展
 author: kazu634
 date: 2013-03-25
-url: /2013/03/25/2013_spring_pert_cat_and_his_fellows/
 has_been_twittered:
   - yes
 categories:

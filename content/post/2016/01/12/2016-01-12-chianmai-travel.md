@@ -4,7 +4,6 @@ Description = "2015-2016の年末年始は友達を訪ねてChiang Maiに行き�
 Tags = [ "Chiang Mai" ]
 date = "2016-01-12T23:19:01+08:00"
 title = "友達訪ねてChiang Maiに行ってきた"
-url = "/2016/01/12/chianmai-travel/"
 +++
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/42332031@N02/24112528536/in/dateposted-public/" title="Untitled"><img src="https://farm2.staticflickr.com/1684/24112528536_05138dc11f_z.jpg" width="640" height="480" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

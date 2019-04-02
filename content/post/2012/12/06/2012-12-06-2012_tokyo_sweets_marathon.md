@@ -2,7 +2,6 @@
 title: 2012東京スイーツマラソンに参加しました
 author: kazu634
 date: 2012-12-06
-url: /2012/12/06/2012_tokyo_sweets_marathon/
 has_been_twittered:
   - yes
 tmac_last_id:

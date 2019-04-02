@@ -2,7 +2,6 @@
 title: The real hero is always a hero by mistake…
 author: kazu634
 date: 2014-11-02
-url: /2014/11/03/the-real-hero-is-always-a-hero-by-mistake/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:5482;}'
 wordtwit_post_info:

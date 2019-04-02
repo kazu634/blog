@@ -2,7 +2,6 @@
 title: 銀河英雄伝説1黎明編で気になった部分
 author: kazu634
 date: 2014-12-12
-url: /2014/12/12/favorite-quote-from-galaxy-heroes-01/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:5556;}'
 wordtwit_post_info:

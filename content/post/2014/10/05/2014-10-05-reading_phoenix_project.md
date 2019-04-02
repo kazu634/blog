@@ -2,7 +2,6 @@
 title: 『the DevOps 逆転だ!究極の継続的デリバリー』を読む
 author: kazu634
 date: 2014-10-05
-url: /2014/10/05/reading_phoenix_project/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1787;}'
 wordtwit_post_info:
