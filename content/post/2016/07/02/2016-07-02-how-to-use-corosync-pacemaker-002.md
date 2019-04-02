@@ -5,7 +5,6 @@ Tags = []
 date = "2016-07-02T23:48:32+08:00"
 draft = false
 title = "Pacemaker + Corosyncを用いてクラスタ環境の構築 - iSCSIサーバを利用した共有ディスクの作成"
-url = "/2016/07/02/how-to-use-corosync-pacemaker-002/"
 thumbnail = "images/7241213444_1c8a40e897.jpg"
 +++
 

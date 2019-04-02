@@ -2,7 +2,6 @@
 title: コンシューマー向けのハイエンドルーターでVPNを利用してみた
 author: kazu634
 date: 2015-01-31
-url: /2015/01/31/use-vpn-server-function-of-highend-consumer-router/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:6658;}'
 wordtwit_post_info:

@@ -2,7 +2,6 @@
 title: nginxのログローテーションがうまく動いていないのでmonitを使って対症療法してみた
 author: kazu634
 date: 2015-06-06
-url: /2015/06/06/restart-nginx-when-its-logrotation-fails/
 tmac_last_id:
   - 665467420228890624
 categories:

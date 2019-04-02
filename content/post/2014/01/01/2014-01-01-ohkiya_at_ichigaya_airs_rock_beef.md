@@ -2,7 +2,6 @@
 title: 大木屋のエアーズロック食べてきた！
 author: kazu634
 date: 2014-01-01
-url: /2014/01/01/ohkiya_at_ichigaya_airs_rock_beef/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1672;}'
 wordtwit_post_info:

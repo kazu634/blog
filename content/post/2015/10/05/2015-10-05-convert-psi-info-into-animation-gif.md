@@ -2,7 +2,6 @@
 title: 'じゆうけんきゅう: シンガポールのhaze情報のページからPSI情報を取得してアニメーションGIFにしてみた'
 author: kazu634
 date: 2015-10-04
-url: /2015/10/05/convert-psi-info-into-animation-gif/
 tmac_last_id:
   - 665467418412756993
 categories:

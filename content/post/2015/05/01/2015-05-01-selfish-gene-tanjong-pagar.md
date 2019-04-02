@@ -2,7 +2,6 @@
 title: Selfish Gene @ Tanjong Pagar
 author: kazu634
 date: 2015-05-01
-url: /2015/05/01/selfish-gene-tanjong-pagar/
 tmac_last_id:
   - 665467424393797632
 categories:

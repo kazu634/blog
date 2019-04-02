@@ -2,7 +2,6 @@
 title: 大木屋・本店に行ってまたエアーズロック食べてきた
 author: kazu634
 date: 2014-03-02
-url: /2014/03/02/o-kiya_nippori_airs_rock_again/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1695;}'
 wordtwit_post_info:

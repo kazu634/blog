@@ -2,7 +2,6 @@
 title: 銀河英雄伝説を再読する
 author: kazu634
 date: 2014-11-01
-url: /2014/11/01/rereading-legend-of-the-galactic-heroes/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1905;}'
 wordtwit_post_info:

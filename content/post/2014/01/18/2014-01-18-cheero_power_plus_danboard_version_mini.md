@@ -2,7 +2,6 @@
 title: 'cheero Power Plus DANBOARD version -mini- を買ったよ'
 author: kazu634
 date: 2014-01-18
-url: /2014/01/18/cheero_power_plus_danboard_version_mini/
 wordtwit_post_info:
   - 'O:8:"stdClass":14:{s:6:"manual";b:1;s:11:"tweet_times";i:1;s:5:"delay";s:1:"0";s:7:"enabled";s:1:"1";s:10:"separation";i:60;s:7:"version";s:5:"3.0.3";s:14:"tweet_template";s:99:"ブログに新しい記事を投稿したよ: cheero Power Plus DANBOARD を買ったよ - [link] ";s:6:"status";i:2;s:6:"result";a:0:{}s:13:"tweet_counter";i:4;s:13:"tweet_log_ids";a:3:{i:0;i:1675;i:1;i:1677;i:2;i:1678;}s:9:"hash_tags";a:0:{}s:8:"accounts";a:1:{i:0;s:7:"kazu634";}s:4:"text";s:118:"ブログに新しい記事を投稿したよ: cheero Power Plus DANBOARD を買ったよ - http://tinyurl.com/kkr562s";}'
 tmac_last_id:

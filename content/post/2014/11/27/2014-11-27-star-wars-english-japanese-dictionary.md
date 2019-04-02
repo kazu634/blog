@@ -2,7 +2,6 @@
 title: スター・ウォーズ英和辞典 ジェダイ入門者編
 author: kazu634
 date: 2014-11-27
-url: /2014/11/27/star-wars-english-japanese-dictionary/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:5539;}'
 wordtwit_post_info:

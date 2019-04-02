@@ -2,7 +2,6 @@
 title: TimexのIronman
 author: kazu634
 date: 2011-08-17
-url: /2011/08/17/_1728/
 has_been_twittered:
   - yes
 tmac_last_id:

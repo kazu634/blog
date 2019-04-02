@@ -2,7 +2,6 @@
 title: はてなブログから記事をインポートしました
 author: kazu634
 date: 2014-11-02
-url: /2014/11/03/importing-articles-from-hatena-blog/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:5480;}'
 wordtwit_post_info:

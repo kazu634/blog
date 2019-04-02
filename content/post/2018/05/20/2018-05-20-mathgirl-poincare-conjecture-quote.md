@@ -4,7 +4,6 @@ date = 2018-05-20T22:51:19+08:00
 Description = "数学ガール ポアンカレ予想で気になった部分を引用しておきます"
 Tags = []
 Categories = ["メモ", "読書"]
-url = "/2018/05/20/mathgirl-poincare-conjecture-quote/"
 thumbnail = "images/513qPks0l4L._SL160_.jpg"
 +++
 

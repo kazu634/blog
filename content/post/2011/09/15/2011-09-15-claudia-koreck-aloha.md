@@ -2,7 +2,6 @@
 title: Claudia Koreck, Aloha
 author: kazu634
 date: 2011-09-15
-url: /2011/09/15/claudia-koreck-aloha/
 has_been_twittered:
   - yes
 tmac_last_id:

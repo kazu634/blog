@@ -2,7 +2,6 @@
 title: Testing Pixelpipe
 author: kazu634
 date: 2010-10-05
-url: /2010/10/05/testing-pixelpipe/
 has_been_twittered:
   - yes
 tmac_last_id:

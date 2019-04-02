@@ -2,7 +2,6 @@
 title: マスターブランチでのコミットを禁止するpre-commitスクリプト
 author: kazu634
 date: 2013-03-16
-url: /2013/03/16/do-not-commit-on-master-branch/
 has_been_twittered:
   - yes
 tmac_last_id:

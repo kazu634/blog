@@ -2,7 +2,6 @@
 title: Packerを使ってVirtual Boxのイメージを作成する
 author: kazu634
 date: 2014-10-29
-url: /2014/10/30/making_virtualbox_image_using_packer/
 tmac_last_id:
   - 530867855634747392
 wordtwit_posted_tweets:

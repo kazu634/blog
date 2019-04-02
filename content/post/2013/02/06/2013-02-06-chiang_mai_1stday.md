@@ -2,7 +2,6 @@
 title: チェンマイ旅行1日目
 author: kazu634
 date: 2013-02-06
-url: /2013/02/06/chiang_mai_1stday/
 has_been_twittered:
   - yes
 tmac_last_id:

@@ -2,7 +2,6 @@
 title: panda wearing scarfs
 author: kazu634
 date: 2013-02-21
-url: /2013/02/22/panda_wearing_scarfs/
 has_been_twittered:
   - yes
 tmac_last_id:

@@ -4,7 +4,6 @@ date = 2018-04-01T23:42:02+08:00
 Description = "SIMフリーWiFIルーターのAterm MR05LNを買いました"
 Tags = []
 Categories = ["Gadget"]
-url = "/2018/04/01/sim-free-wifirouter/"
 draft = false
 thumbnail = "images/41161511511_01c2b81bd2_z.jpg"
 +++

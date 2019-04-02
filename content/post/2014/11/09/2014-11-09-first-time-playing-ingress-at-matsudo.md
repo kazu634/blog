@@ -2,7 +2,6 @@
 title: 松戸でIngressを始めてみました
 author: kazu634
 date: 2014-11-09
-url: /2014/11/09/first-time-playing-ingress-at-matsudo/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:5517;}'
 wordtwit_post_info:

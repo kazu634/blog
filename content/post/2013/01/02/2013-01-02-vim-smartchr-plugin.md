@@ -2,7 +2,6 @@
 title: 半角スペースを入力する手間を省く
 author: kazu634
 date: 2013-01-02
-url: /2013/01/02/vim-smartchr-plugin/
 has_been_twittered:
   - yes
 tmac_last_id:

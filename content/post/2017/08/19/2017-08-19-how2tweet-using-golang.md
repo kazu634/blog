@@ -4,7 +4,6 @@ date = 2017-08-19T23:02:35+08:00
 Description = "Golangを利用してTwitterにツイートする方法を調べました。"
 Tags = []
 Categories = ["Golang"]
-url = "/2017/08/19/how2tweet-using-golang/"
 draft = false
 image="https://farm5.staticflickr.com/4441/36623773886_ef58e32e8e.jpg"
 +++

@@ -2,7 +2,6 @@
 title: 夜のサイクリング用にファイバーフレアライトを買った
 author: kazu634
 date: 2013-12-22
-url: /2013/12/22/fibre_flare_light_lpt04602/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1662;}'
 wordtwit_post_info:

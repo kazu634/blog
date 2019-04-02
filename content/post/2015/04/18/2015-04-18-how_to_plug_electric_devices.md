@@ -2,7 +2,6 @@
 title: シンガポールのコンセントの使い方
 author: kazu634
 date: 2015-04-18
-url: /2015/04/18/how_to_plug_electric_devices/
 tmac_last_id:
   - 665445575299637249
 categories:

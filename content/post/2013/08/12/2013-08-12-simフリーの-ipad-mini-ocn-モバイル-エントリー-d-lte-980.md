@@ -2,7 +2,6 @@
 title: SIMフリーの iPad Mini + OCN モバイル エントリー D LTE 980
 author: kazu634
 date: 2013-08-12
-url: /2013/08/12/_1798/
 geo_latitude:
   - 38.306239
 geo_longitude:

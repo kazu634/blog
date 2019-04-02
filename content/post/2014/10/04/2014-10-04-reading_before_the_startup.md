@@ -2,7 +2,6 @@
 title: ゲームの攻略法が効かなくなる領域に足を踏み出す
 author: kazu634
 date: 2014-10-04
-url: /2014/10/04/reading_before_the_startup/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1783;}'
 wordtwit_post_info:

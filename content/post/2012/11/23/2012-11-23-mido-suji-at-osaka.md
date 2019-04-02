@@ -2,7 +2,6 @@
 title: 御堂筋沿いをぶらぶら
 author: kazu634
 date: 2012-11-23
-url: /2012/11/23/mido-suji-at-osaka/
 has_been_twittered:
   - yes
 tmac_last_id:

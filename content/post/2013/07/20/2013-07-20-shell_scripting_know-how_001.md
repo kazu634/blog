@@ -2,7 +2,6 @@
 title: お仕事で覚えたシェルスクリプトの使い方
 author: kazu634
 date: 2013-07-20
-url: /2013/07/20/shell_scripting_know-how_001/
 geo_latitude:
   - 38.306231
 geo_longitude:

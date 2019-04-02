@@ -2,7 +2,6 @@
 title: 海外赴任する前に事前に確認しておくと慌てずに済むことリスト
 author: kazu634
 date: 2015-04-03
-url: /2015/04/04/check-list-for-working-abroad/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:6702;}'
 wordtwit_post_info:

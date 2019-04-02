@@ -2,7 +2,6 @@
 title: Moleskine reporter with the Apple logo
 author: kazu634
 date: 2010-12-21
-url: /2010/12/21/moleskin-reporter-withe-the-apple-logo/
 has_been_twittered:
   - yes
 tmac_last_id:

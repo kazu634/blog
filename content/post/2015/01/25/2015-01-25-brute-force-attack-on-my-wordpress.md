@@ -2,7 +2,6 @@
 title: ブルートフォースアタックの形跡があったんだけど。。。
 author: kazu634
 date: 2015-01-25
-url: /2015/01/25/brute-force-attack-on-my-wordpress/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:6634;}'
 wordtwit_post_info:

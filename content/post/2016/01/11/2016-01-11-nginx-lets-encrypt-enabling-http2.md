@@ -4,7 +4,6 @@ Description = "nginx + Let's Encryptを用いてhttp/2環境を構築してみ�
 Tags = []
 date = "2016-01-11T23:32:47+08:00"
 title = "nginx + let's encryptを利用してHTTP/2を有効化した"
-url = "/2016/01/11/nginx-lets-encrypt-enabling-http2/"
 thumnail = "images/24021542270_0971890cc8_z.jpg"
 +++
 

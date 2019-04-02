@@ -2,7 +2,6 @@
 title: 品川区営駐輪場の申し込みフローが複雑なんだけど
 author: kazu634
 date: 2014-06-21
-url: /2014/06/21/application_to_shinagawa_ward_bicycle_stop_is_so_complicated/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1723;}'
 wordtwit_post_info:

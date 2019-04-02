@@ -4,7 +4,6 @@ date = 2017-12-25T22:40:04+08:00
 Description = " 「世界の車窓から」でマレー鉄道が取り上げられているのを見て、ふと思い立ってジョホールバルからクアラルンプールまで電車で移動してみました。"
 Tags = ["Malaysia", "Kuala Lumpur"]
 Categories = ["旅行"]
-url = "/2017/12/25/train-trip-to-kl/"
 draft = false
 thumbnail = "images/38373120425_473aeced91_z.jpg"
 +++

@@ -2,7 +2,6 @@
 title: Nginxでサーバ名未定義のリクエスト処理を防ぐ
 author: kazu634
 date: 2014-09-11
-url: /2014/09/11/how_to_prevent_nginx_from_not_handling_the_request_without_virtual_hostname/
 geo_latitude:
   - 38.306195
 geo_longitude:

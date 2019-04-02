@@ -2,7 +2,6 @@
 title: オシムがブラジルワールドカップについて
 author: kazu634
 date: 2014-09-28
-url: /2014/09/28/ivica_osim_talking_about_brazil_world_cup/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1777;}'
 wordtwit_post_info:

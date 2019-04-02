@@ -2,7 +2,6 @@
 title: apt-mirrorを使ってネットワークインストール可能なレポジトリを作成する
 author: kazu634
 date: 2013-02-09
-url: /2013/02/09/make_network-installable_repository_by_apt-mirror/
 has_been_twittered:
   - yes
 tmac_last_id:

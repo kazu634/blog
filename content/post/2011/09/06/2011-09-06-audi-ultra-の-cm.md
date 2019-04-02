@@ -2,7 +2,6 @@
 title: audi ultra の CM
 author: kazu634
 date: 2011-09-06
-url: /2011/09/06/_1734/
 has_been_twittered:
   - yes
 tmac_last_id:

@@ -3,7 +3,6 @@ title: Chefを用いたインフラの自動構築
 author: kazu634
 date: 2013-03-31
 excerpt: Chefをインストールし、レシピを作成できるようになるまでを扱っています。
-url: /2013/03/31/setting-up-infrastructure-by-chef/
 has_been_twittered:
   - yes
 tmac_last_id:

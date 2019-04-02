@@ -2,7 +2,6 @@
 title: 炒飯つくったよ
 author: kazu634
 date: 2013-06-22
-url: /2013/06/22/making_chinese_fried_rice/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1559;}'
 wordtwit_post_info:

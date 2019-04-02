@@ -2,7 +2,6 @@
 title: ServerspecでOS種別に応じてテストを実行する
 author: kazu634
 date: 2014-12-17
-url: /2014/12/17/testing-based-on-os-type-using-serverspec/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:5561;}'
 wordtwit_post_info:

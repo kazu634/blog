@@ -2,7 +2,6 @@
 title: 堀口珈琲のお試しセットでコーヒーを飲んでみる
 author: kazu634
 date: 2014-09-27
-url: /2014/09/27/horiguchi-speciality-coffee/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1775;}'
 wordtwit_post_info:

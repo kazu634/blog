@@ -2,7 +2,6 @@
 title: みんみん@宇都宮で餃子を食べてきた
 author: kazu634
 date: 2014-11-04
-url: /2014/11/04/gyouza-at-utunomiya-minmin/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:5493;}'
 wordtwit_post_info:

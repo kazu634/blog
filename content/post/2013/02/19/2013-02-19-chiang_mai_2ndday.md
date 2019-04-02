@@ -2,7 +2,6 @@
 title: チェンマイ旅行2日目
 author: kazu634
 date: 2013-02-19
-url: /2013/02/19/chiang_mai_2ndday/
 has_been_twittered:
   - yes
 tmac_last_id:

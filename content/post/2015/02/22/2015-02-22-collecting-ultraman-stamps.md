@@ -2,7 +2,6 @@
 title: ウルトラマンスタンプを回収する旅へ
 author: kazu634
 date: 2015-02-22
-url: /2015/02/22/collecting-ultraman-stamps/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:6671;}'
 wordtwit_post_info:

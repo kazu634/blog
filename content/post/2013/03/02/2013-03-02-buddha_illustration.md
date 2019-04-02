@@ -2,7 +2,6 @@
 title: ブッダ
 author: kazu634
 date: 2013-03-02
-url: /2013/03/02/buddha_illustration/
 has_been_twittered:
   - yes
 tmac_last_id:

@@ -2,7 +2,6 @@
 title: 北千住へサイクリング
 author: kazu634
 date: 2012-11-24
-url: /2012/11/24/bicycle-trip-to-kita-senju/
 has_been_twittered:
   - yes
 tmac_last_id:

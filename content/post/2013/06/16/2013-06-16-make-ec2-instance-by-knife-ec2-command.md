@@ -2,7 +2,6 @@
 title: knife ec2コマンドで AWS EC2 インスタンスを作成する
 author: kazu634
 date: 2013-06-16
-url: /2013/06/16/make-ec2-instance-by-knife-ec2-command/
 has_been_twittered:
   - failed
 twitter_failure_code:

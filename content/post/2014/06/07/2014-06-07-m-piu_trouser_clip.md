@@ -2,7 +2,6 @@
 title: m+のtrouser’s clip買いました
 author: kazu634
 date: 2014-06-07
-url: /2014/06/07/m-piu_trouser_clip/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1719;}'
 wordtwit_post_info:

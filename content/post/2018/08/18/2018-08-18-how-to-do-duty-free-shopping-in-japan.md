@@ -4,7 +4,6 @@ date = 2018-08-18T17:51:50+09:00
 Description = "「免税」という言葉があることは知っていましたが、よくわかっていないので調べてみました。海外で働いている日本人は、日本に一時帰国中でも免税ができるそうなので、日本に帰国して実際に試してみました。"
 Tags = []
 Categories = ["旅行"]
-url = "/2018/08/18/how-to-do-duty-free-shopping-in-japan/"
 thumbnail = "images/2032727810_2e24bcb68e_z.jpg"
 +++
 

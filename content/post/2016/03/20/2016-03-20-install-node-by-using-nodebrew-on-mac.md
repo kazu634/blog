@@ -4,7 +4,6 @@ Description = "Hubot使ってみたかったから、nodebrewを使って、node
 Tags = []
 date = "2016-03-20T14:53:36+08:00"
 title = "nodebrewを使って、node.jsをMacにインストールしてみた"
-url = "/2016/03/20/install-node-by-using-nodebrew-on-mac/"
 thumbnail = "images/4932794177_e73e90a820_z.jpg"
 +++
 

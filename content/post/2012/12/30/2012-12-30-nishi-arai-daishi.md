@@ -2,7 +2,6 @@
 title: 西新井大師を訪ねて
 author: kazu634
 date: 2012-12-30
-url: /2012/12/30/nishi-arai-daishi/
 has_been_twittered:
   - yes
 tmac_last_id:

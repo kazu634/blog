@@ -2,7 +2,6 @@
 title: 銀河英雄伝説2で気になった部分
 author: kazu634
 date: 2015-01-04
-url: /2015/01/04/favorite-quote-from-galaxy-heroes-02/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:5577;}'
 wordtwit_post_info:

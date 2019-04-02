@@ -2,7 +2,6 @@
 title: 横浜卸売市場〜シーパラダイスに行って参りました
 author: kazu634
 date: 2013-04-19
-url: /2013/04/19/yokohama-fish-market-and-sea-paradise/
 has_been_twittered:
   - yes
 tmac_last_id:

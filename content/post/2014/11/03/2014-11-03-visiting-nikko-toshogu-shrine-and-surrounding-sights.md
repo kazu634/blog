@@ -2,7 +2,6 @@
 title: 日光観光に行ってきた
 author: kazu634
 date: 2014-11-03
-url: /2014/11/03/visiting-nikko-toshogu-shrine-and-surrounding-sights/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:5491;}'
 wordtwit_post_info:

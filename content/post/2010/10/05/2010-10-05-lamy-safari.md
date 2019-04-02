@@ -2,7 +2,6 @@
 title: Lamy Safari
 author: kazu634
 date: 2010-10-05
-url: /2010/10/05/lamy-safari/
 has_been_twittered:
   - yes
 tmac_last_id:

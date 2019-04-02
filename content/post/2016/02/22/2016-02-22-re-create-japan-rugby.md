@@ -4,7 +4,6 @@ Description = "日本ラグビーの今後の指導方針についての提言�
 Tags = []
 date = "2016-02-22T23:30:27+08:00"
 title = "おそろしくたくさん練習した日本は南アフリカに勝てた"
-url = "/2016/02/22/re-create-japan-rugby/"
 thumbnail = "images/21776716854_3e379726b2_z.jpg"
 +++
 日本ラグビーの今後の指導方針についての提言。<a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01BD98K6C/simsnes-22/ref=nosim/" name="amazletlink" target="_blank">Number</a>からの引用です:

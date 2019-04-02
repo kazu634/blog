@@ -2,7 +2,6 @@
 title: Google Calendarと連携して最近更新した予定を表示するWebサービス作ったよ
 author: kazu634
 date: 2014-06-07
-url: /2014/06/07/web_service_cooperating_google_calendar/
 geo_latitude:
   - 38.306186
 geo_longitude:

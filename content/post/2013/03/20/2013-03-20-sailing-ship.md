@@ -3,7 +3,6 @@ title: Sailing ship
 author: kazu634
 date: 2013-03-20
 excerpt: Cafeで見つけた帆船の模型です。
-url: /2013/03/20/sailing-ship/
 has_been_twittered:
   - yes
 tmac_last_id:

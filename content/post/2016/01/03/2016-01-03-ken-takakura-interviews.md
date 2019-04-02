@@ -2,7 +2,6 @@
 title: あなたが努力していることは必ず誰かが見ている。だから、手を抜かないでみんなでいい映画をつくろう
 author: kazu634
 date: 2016-01-02
-url: /2016/01/03/ken-takakura-interviews/
 categories:
   - メモ
   - 読書

@@ -5,7 +5,6 @@ Tags = []
 date = "2016-10-31T21:07:13+08:00"
 draft = false
 title = "EdgeRouter XとVyOS on AWSで拠点間VPNを構築する"
-url = "/2016/10/31/site-to-site-vpn-using-edgerouterx-and-vyos/"
 thumbnail = "images/3100879440_3e9d0ff8dc_b.jpg"
 +++
 

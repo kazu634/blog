@@ -2,7 +2,6 @@
 title: 'Systems Performance: Enterprise and the Cloud を読む'
 author: kazu634
 date: 2014-10-31
-url: /2014/10/31/reading-systems-performance-enterprise-and-the-cloud/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1897;}'
 wordtwit_post_info:

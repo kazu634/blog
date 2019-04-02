@@ -2,7 +2,6 @@
 title: 引数で与えた文字列とservice_nameが一致するGrowthforecastのグラフを一括で削除するスクリプト
 author: kazu634
 date: 2015-01-15
-url: /2015/01/15/delete_growthforecast_graphs_matching_the_given_string/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:6599;}'
 wordtwit_post_info:

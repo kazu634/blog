@@ -2,7 +2,6 @@
 title: キャプテン翼展に行ってきました
 author: kazu634
 date: 2014-07-07
-url: /2014/07/07/visiting_captain_tsubasa_exhibition/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1734;}'
 wordtwit_post_info:

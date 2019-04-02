@@ -2,7 +2,6 @@
 title: 国立科学博物館で行われている大恐竜展を観に行った！
 author: kazu634
 date: 2013-12-14
-url: /2013/12/14/2013_dinasour_exhibition_at_national_museum_of_nature_and_science/
 wordtwit_posted_tweets:
   - 'a:1:{i:0;i:1655;}'
 wordtwit_post_info:

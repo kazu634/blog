@@ -2,7 +2,6 @@
 title: 'Japan Vyatta Users Meeting Spring 2013 in Tokyo #jvum2013s'
 author: kazu634
 date: 2013-04-05
-url: /2013/04/05/japan-vyatta-users-meeting-spring-2013-in-tokyo-jvum2013s/
 has_been_twittered:
   - yes
 tmac_last_id:
