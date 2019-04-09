@@ -1,0 +1,32 @@
+{{ partial "labs-header-content.html" . }}
+
+  <!-- Main Section Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <main id="single" role="main">
+    <div class="article-header">
+      <h1>{{ .Title }}</h1>
+      <div class="meta">
+        {{ .Date.Format "Jan 2, 2006" }} &nbsp;
+        {{ range .Params.categories }}
+        #<a href="/categories/{{ . | urlize }}">{{ . }}</a>&nbsp;
+        {{ end }}
+        {{ range .Params.tags }}
+          #<a href="/tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
+        {{ end }}: {{ .Description }}
+      </div>
+    </div>
+    <article>
+      {{ .Content }}
+
+  </main>
+
+  <nav class="pagination">
+    {{ if .Next }}
+      <span class="previous">&larr; <a href="{{ .Next.Permalink }}" rel="prev">{{ .Next.Title }}</a></span>
+    {{ end }}
+    {{ if .Prev }}
+      <span class="next"><a href="{{ .Prev.Permalink }}" rel="next">{{ .Prev.Title }}</a> &rarr;</span>
+    {{ end }}
+  </nav>
+
+{{ partial "footer.html" . }}
