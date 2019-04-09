@@ -1,0 +1,31 @@
+<div id='{{ .Get "id" }}'></div>
+
+<script>
+	// タイルレイヤーを作成する
+	var cyberjapandata = L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png', {
+		  maxZoom: 18,
+		  attribution: '&copy; <a href="https://maps.gsi.go.jp/development/ichiran.html" target="_blank">国土地理院</a>',
+		  }),
+		openstreetmap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a>'
+		  }),
+		mapbox = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoia2F6dTYzNCIsImEiOiJjanU4OHg0YjIyMjcxNDNsb2dnM2k5bHhqIn0.dsjWTh-G_TcJ9bOGWLvT2Q', {
+		    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+		    maxZoom: 18,
+		    id: 'mapbox.streets',
+		    accessToken: 'pk.eyJ1Ijoia2F6dTYzNCIsImEiOiJjanU4OHg0YjIyMjcxNDNsb2dnM2k5bHhqIn0.dsjWTh-G_TcJ9bOGWLvT2Q'
+		  });
+
+	var baseMaps = {
+	    "国土地理院": cyberjapandata,
+	    "OpenStreetMap": openstreetmap,
+	    "Mapbox": mapbox
+	};
+
+	// 地図を作成する
+	var mymap = L.map('{{ .Get "id" }}', {layers: [mapbox]});
+	L.control.layers(baseMaps).addTo(mymap);
+
+	// 地図の中心座標とズームレベルを設定する
+	mymap.setView([{{ .Get "lat" }}, {{ .Get "long" }}], 15);
+</script>
