@@ -1,0 +1,8 @@
+<script>
+    var circle = L.circle([{{ .Get "lat" }}, {{ .Get "long" }}], {
+      color: 'red',
+      fillColor: '#f03',
+      fillOpacity: 0.5,
+      radius: 500
+    }).addTo(mymap);
+</script>
