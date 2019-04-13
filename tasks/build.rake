@@ -20,8 +20,6 @@ end
 
 desc 'Generate the HTML pages'
 task :build do
-  sh 'hugo'
-
   cd 'content/post' do
     if os == :linux
       sh 'grep -l ecx.images-amazon.com *.md | sort | uniq | xargs --no-run-if-empty sed -ie "s/http:\/\/ecx.images-amazon.com/https:\/\/images-na.ssl-images-amazon.com/g"'
@@ -33,4 +31,10 @@ task :build do
     sh 'rm *.mde || true'
     sh 'rm *.md-e || true'
   end
+
+  cd 'public' do
+    sh 'rm -rf *'
+  end
+
+  sh 'hugo'
 end
