@@ -1,0 +1,29 @@
+<script>
+  // Changing topojson to geojson
+  L.TopoJSON = L.GeoJSON.extend({
+    addData: function(jsonData) {
+      if (jsonData.type === "Topology") {
+        for (let key in jsonData.objects) {
+          if (jsonData.objects.hasOwnProperty(key)) {
+            let geojson = topojson.feature(jsonData, jsonData.objects[key]);
+            L.GeoJSON.prototype.addData.call(this, geojson);
+          }
+        }
+      } else {
+        L.GeoJSON.prototype.addData.call(this, jsonData);
+      }
+    }
+  });
+
+  const topoLayer = new L.TopoJSON();
+
+  fetch('{{ .Get "url" | plainify }}')
+    .then(response => {
+      return response.json();
+    })
+    .then(data => {
+      topoLayer.addData(data);
+      topoLayer.addTo(mymap);
+    });
+</script>
+
