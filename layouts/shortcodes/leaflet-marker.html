@@ -1,0 +1,4 @@
+<script>
+  var marker = L.marker([{{ .Get "lat" }}, {{ .Get "long" }}]).addTo(mymap);
+  marker.bindPopup("{{ .Get "msg" }}").openPopup();
+</script>
