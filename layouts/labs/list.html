@@ -6,14 +6,34 @@
     <div class="article-header light-gray"><h1>{{ .Title }}</h1></div>
     {{.Content}}
     <br>
-    {{ range .Data.Pages }}
+    {{ $paginator := .Paginate (where .Data.Pages  "Type" "labs") }}
+    {{ range $paginator.Pages }}
     <div class="summary">
       <h2><a href="{{ .Permalink }}">{{ .Title }} {{ if .Draft }}:: DRAFT{{end}}</a></h2>
       <div class="meta">
-        {{ .Date.Format "Jan 2, 2006" }}: {{.Description}}
+        {{ .Date.Format "Jan 2, 2006" }} &nbsp;
+        {{ range .Params.categories }}
+          #<a href="/categories/{{ . | urlize }}">{{ . }}</a>&nbsp;
+        {{ end }}
+        {{ range .Params.tags }}
+          #<a href="/tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
+        {{ end }}: {{ .Description }}
       </div>
     </div>
     {{ end }}
   </main>
+
+<!-- Paginator Section Layout
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<nav>
+  {{ $paginator := .Paginate (where .Data.Pages "Type" "labs") }}
+  {{ if .Paginator.HasPrev }}
+  <a href="{{ .Paginator.Prev.URL }}">Prev</a>
+  {{ end }}
+  <span class="">Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</span>
+  {{ if .Paginator.HasNext }}
+  <a href="{{ .Paginator.Next.URL }}">Next</a>
+  {{ end }}
+</nav>
 
 {{ partial "footer.html" . }}
