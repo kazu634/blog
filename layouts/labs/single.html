@@ -21,11 +21,11 @@
   </main>
 
   <nav class="pagination">
-    {{ if .Next }}
-      <span class="previous">&larr; <a href="{{ .Next.Permalink }}" rel="prev">{{ .Next.Title }}</a></span>
+    {{ with .PrevInSection }}
+    <span class="previous">&larr; <a href="{{ .Permalink }}" rel="prev">{{ .Title }}</a></span>
     {{ end }}
-    {{ if .Prev }}
-      <span class="next"><a href="{{ .Prev.Permalink }}" rel="next">{{ .Prev.Title }}</a> &rarr;</span>
+    {{ with .NextInSection }}
+    <span class="next"><a href="{{ .Permalink }}" rel="next">{{ .Title }}</a> &rarr;</span>
     {{ end }}
   </nav>
 
