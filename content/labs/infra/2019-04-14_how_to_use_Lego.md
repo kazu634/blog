@@ -186,41 +186,25 @@ Additional Configuration:
 ### 証明書の取得
 
 ```
-export AWS_ACCESS_KEY_ID="xxxx"
-export AWS_SECRET_ACCESS_KEY="yyyy"
-export AWS_HOSTED_ZONE_ID="zzzz"
-export AWS_REGION="ap-northeast-1"
+kazu634@ip-10-0-1-234% export AWS_ACCESS_KEY_ID="xxxx"
+kazu634@ip-10-0-1-234% export AWS_SECRET_ACCESS_KEY="yyyy"
+kazu634@ip-10-0-1-234% export AWS_HOSTED_ZONE_ID="zzzz"
+kazu634@ip-10-0-1-234% export AWS_REGION="ap-northeast-1"
 
-kazu634@ip-10-0-1-234% ./lego --dns route53 --domains
-lego.kazu634.com --email simoom634@yahoo.co.jp run
-2019/03/31 05:02:07 [INFO] [lego.kazu634.com] acme: Ob
-taining bundled SAN certificate
-2019/03/31 05:02:08 [INFO] [lego.kazu634.com] AuthURL:
- https://acme-v02.api.letsencrypt.org/acme/authz/kT24l
-TOu3gbmepIH2vWudVjaxSTi8Q2Lu1y_BGlxD1E
-2019/03/31 05:02:08 [INFO] [lego.kazu634.com] acme: Co
-uld not find solver for: tls-alpn-01
-2019/03/31 05:02:08 [INFO] [lego.kazu634.com] acme: Co
-uld not find solver for: http-01
-2019/03/31 05:02:08 [INFO] [lego.kazu634.com] acme: us
-e dns-01 solver
-2019/03/31 05:02:08 [INFO] [lego.kazu634.com] acme: Pr
-eparing to solve DNS-01
-2019/03/31 05:02:09 [INFO] Wait for route53 [timeout:
-2m0s, interval: 4s]
-2019/03/31 05:02:42 [INFO] [lego.kazu634.com] acme: Tr
-ying to solve DNS-01
-2019/03/31 05:02:42 [INFO] [lego.kazu634.com] acme: Ch
-ecking DNS record propagation using [localhost:53 127.
-0.0.1:53]
-2019/03/31 05:02:42 [INFO] Wait for propagation [timeo
-ut: 2m0s, interval: 4s]
-2019/03/31 05:02:47 [INFO] [lego.kazu634.com] The serv
-er validated our request
-2019/03/31 05:02:47 [INFO] [lego.kazu634.com] acme: Cl
-eaning DNS-01 challenge
-2019/03/31 05:02:47 [INFO] Wait for route53 [timeout:
-2m0s, interval: 4s]
+kazu634@ip-10-0-1-234% ./lego --dns route53 --domains lego.kazu634.com --email simoom634@yahoo.co.jp run
+2019/03/31 05:02:07 [INFO] [lego.kazu634.com] acme: Obtaining bundled SAN certificate
+2019/03/31 05:02:08 [INFO] [lego.kazu634.com] AuthURL: https://acme-v02.api.letsencrypt.org/acme/authz/kT24lTOu3gbmepIH2vWudVjaxSTi8Q2Lu1y_BGlxD1E
+2019/03/31 05:02:08 [INFO] [lego.kazu634.com] acme: Could not find solver for: tls-alpn-01
+2019/03/31 05:02:08 [INFO] [lego.kazu634.com] acme: Could not find solver for: http-01
+2019/03/31 05:02:08 [INFO] [lego.kazu634.com] acme: use dns-01 solver
+2019/03/31 05:02:08 [INFO] [lego.kazu634.com] acme: Preparing to solve DNS-01
+2019/03/31 05:02:09 [INFO] Wait for route53 [timeout:2m0s, interval: 4s]
+2019/03/31 05:02:42 [INFO] [lego.kazu634.com] acme: Trying to solve DNS-01
+2019/03/31 05:02:42 [INFO] [lego.kazu634.com] acme: Checking DNS record propagation using [localhost:53 127.0.0.1:53]
+2019/03/31 05:02:42 [INFO] Wait for propagation [timeout: 2m0s, interval: 4s]
+2019/03/31 05:02:47 [INFO] [lego.kazu634.com] The server validated our request
+2019/03/31 05:02:47 [INFO] [lego.kazu634.com] acme: Cleaning DNS-01 challenge
+2019/03/31 05:02:47 [INFO] Wait for route53 [timeout:2m0s, interval: 4s]
 2019/03/31 05:03:25 [INFO] [lego.kazu634.com] acme: Validations succeeded; requesting certificates
 2019/03/31 05:03:26 [INFO] [lego.kazu634.com] Server responded with a certificate.
 ```
