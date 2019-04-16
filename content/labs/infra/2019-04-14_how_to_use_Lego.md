@@ -9,7 +9,7 @@ image="https://live.staticflickr.com/2554/4156026735_6b97110206.jpg"
 [Lego](https://github.com/go-acme/lego)を用いてSSL/TSL証明書を取得する方法を説明します。ここではDNS認証でSSL/TSL証明書を取得する方法を説明します。
 
 ## LegoとLet’s Encrypt
-`Let’s Encrypt`はSSL/TSL証明書を発行してくれるサービスです。
+[Let&#39;s Encrypt](https://letsencrypt.org/)はSSL/TSL証明書を発行してくれるサービスです。
 
 SSL/TSL証明書を発行するにあたり、そのドメインの所有者が本当に手続きをしているのか本人確認の手続きをします。
 
@@ -66,7 +66,7 @@ sequenceDiagram
 </div>
 
 ### ここまでのまとめ
-[Lego](https://github.com/go-acme/lego)はコマンドラインで`Let’s Encrypt`を用いてSSL/TSL証明書を発行するツールです。DNS認証にも対応しており、各種マネージドのDNSサービスを利用することで、自動的にTXTレコードを変更して、SSL/TSL証明書を取得することができます。
+[Lego](https://github.com/go-acme/lego)はコマンドラインで[Let&#39;s Encrypt](https://letsencrypt.org/)を用いてSSL/TSL証明書を発行するツールです。DNS認証にも対応しており、各種マネージドのDNSサービスを利用することで、自動的にTXTレコードを変更して、SSL/TSL証明書を取得することができます。
 
 <div class="mermaid">
 sequenceDiagram
