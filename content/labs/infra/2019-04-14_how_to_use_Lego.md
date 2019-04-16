@@ -6,7 +6,7 @@ Description="Legoを用いたDNS経由でのSSL/TSL証明書取得について�
 image="https://live.staticflickr.com/2554/4156026735_6b97110206.jpg"
 +++
 
-`lego`を用いてSSL/TSL証明書を取得する方法を説明します。ここではDNS認証でSSL/TSL証明書を取得する方法を説明します。
+[Lego](https://github.com/go-acme/lego)を用いてSSL/TSL証明書を取得する方法を説明します。ここではDNS認証でSSL/TSL証明書を取得する方法を説明します。
 
 ## LegoとLet’s Encrypt
 `Let’s Encrypt`はSSL/TSL証明書を発行してくれるサービスです。
@@ -66,7 +66,7 @@ sequenceDiagram
 </div>
 
 ### ここまでのまとめ
-Legoはコマンドラインで`Let’s Encrypt`を用いてSSL/TSL証明書を発行するツールです。DNS認証にも対応しており、各種マネージドのDNSサービスを利用することで、自動的にTXTレコードを変更して、SSL/TSL証明書を取得することができます。
+[Lego](https://github.com/go-acme/lego)はコマンドラインで`Let’s Encrypt`を用いてSSL/TSL証明書を発行するツールです。DNS認証にも対応しており、各種マネージドのDNSサービスを利用することで、自動的にTXTレコードを変更して、SSL/TSL証明書を取得することができます。
 
 <div class="mermaid">
 sequenceDiagram
@@ -130,7 +130,7 @@ drwxr-xr-x 14 kazu634 kazu634 4.0K Mar 31 04:34 ..
 ```
 
 ## 使い方
-ここでは`lego`の使い方を説明します。
+ここでは[Lego](https://github.com/go-acme/lego)の使い方を説明します。
 
 ### 下準備
 各種環境変数を指定して利用します。
