@@ -87,7 +87,7 @@ sequenceDiagram
     Lego ->> User: SSL/TSL Certificate
 </div>
 
-この記事ではAWSのマネージドDNSサービス`route53`を利用して、SSL/TSL証明書を取得してみます。
+この記事ではAWSのマネージドDNSサービス・[Amazon Route 53](https://aws.amazon.com/route53/)を利用して、SSL/TSL証明書を取得してみます。
 
 ## Legoのインストール方法
 githubからダウンロードします。
@@ -254,7 +254,7 @@ drwxr-xr-x 4 kazu634 kazu634 4.0K Mar 31 04:59 ..
 後で書く
 
 ### ワイルドカード証明書が必要な場合
-`route53`側で以下のようにレコードを作成する:
+[Amazon Route 53](https://aws.amazon.com/route53/)側で以下のようにレコードを作成する:
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/42332031@N02/46692293625/in/photostream/" title="Untitled"><img src="https://live.staticflickr.com/7902/46692293625_bdfb426704.jpg" width="500" height="349" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
