@@ -177,6 +177,31 @@ Additional Configuration:
 - `AWS_HOSTED_ZONE_ID`
 - `AWS_REGION`
 
+つまりこのようなフローになります:
+
+<div class="mermaid">
+sequenceDiagram
+    participant User
+    participant Lego
+    participant Let’s Encrypt
+    participant Route53
+
+    note over User,Route53: Preparation
+    User ->> User: Specify AWS Environment Variables
+
+    note over User,Route53: Actual Operation
+    User ->> Lego: Request
+    Lego ->> Let’s Encrypt: Request
+    Let’s Encrypt ->> Lego: Return the key
+    Lego ->> Route53: Specify the key to the TXT record
+    note over Lego,Route53: Wait for TXT record to propagate
+    Lego ->> Let’s Encrypt: Request to continue
+    Let’s Encrypt ->> Route53: Check the TXT record
+    Route53 ->> Let’s Encrypt: Return the TXT record
+    Let’s Encrypt ->> Lego: SSL/TSL Certificate
+    Lego ->> User: SSL/TSL Certificate
+</div>
+
 ### AWS_ACCESS_KYE_IDとAWS_SECRET_ACCESS_KEYの調べ方
 後で書く
 
