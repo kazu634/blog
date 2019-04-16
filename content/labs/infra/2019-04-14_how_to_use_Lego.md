@@ -15,7 +15,7 @@ SSL/TSL証明書を発行するにあたり、そのドメインの所有者が�
 
 手続き方法には以下の方法があります。
 
-### HTTP認証
+### HTTP-01認証
 ドメインの所有者であれば、そのドメインにアクセスした際に表示されるコンテンツを自由にできるはずですので、それを利用した認証方式です。
 
 <div class="mermaid">
@@ -33,14 +33,18 @@ sequenceDiagram
 
     Note over User, DNS: 3. Request SSL/TSL Certificate
     User ->> Let’s Encrypt: Request
+    Let’s Encrypt ->> User: File name
+    Let’s Encrypt ->> User: Token
+    User ->> Web Server: Put the file with the token
+    User ->> Let’s Encrypt: Request to continue
     Let’s Encrypt ->> DNS: Name Resolution Request
     DNS ->> Let’s Encrypt: Name Resolution Response
     Let’s Encrypt ->> Web Server: HTTP Request (Port 80) via Internet
-    Web Server ->> Let’s Encrypt: HTTP Response (200)
+    Web Server ->> Let’s Encrypt: HTTP Response (200) with the valid token
     Let’s Encrypt ->> User: SSL/TSL Certificate
 </div>
 
-### DNS認証
+### DNS-01認証
 ドメインの所有者であれば、そのドメインのTXTレコードを自由に設定できるはずですので、それを利用した認証方式です。
 
 <div class="mermaid">
@@ -80,7 +84,8 @@ sequenceDiagram
     User ->> Lego: Request
     Lego ->> Let’s Encrypt: Request
     Let’s Encrypt ->> Lego: Return the key
-    Lego ->> DNS: Specify the key to the TXT record
+    Lego ->> DNS: Create the sub domain
+    Lego ->> DNS: Specify the key to the TXT record of the sub domain
     note over Lego,DNS: Wait for TXT record to propagate
     Lego ->> Let’s Encrypt: Request to continue
     Let’s Encrypt ->> DNS: Check the TXT record
@@ -197,7 +202,8 @@ sequenceDiagram
     User ->> Lego: Request
     Lego ->> Let’s Encrypt: Request
     Let’s Encrypt ->> Lego: Return the key
-    Lego ->> Route53: Specify the key to the TXT record
+    Lego ->> Route53: Create the sub domain
+    Lego ->> Route53: Specify the key to the TXT record of the sub domain
     note over Lego,Route53: Wait for TXT record to propagate
     Lego ->> Let’s Encrypt: Request to continue
     Let’s Encrypt ->> Route53: Check the TXT record
