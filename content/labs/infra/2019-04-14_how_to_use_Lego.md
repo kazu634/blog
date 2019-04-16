@@ -135,13 +135,6 @@ drwxr-xr-x 14 kazu634 kazu634 4.0K Mar 31 04:34 ..
 ここでは[Lego](https://github.com/go-acme/lego)の使い方を説明します。
 
 ### 下準備
-各種環境変数を指定して利用します。
-
-- `AWS_ACCESS_KEY_ID`
-- `AWS_SECRET_ACCESS_KEY`
-- `AWS_HOSTED_ZONE_ID`
-- `AWS_REGION`
-
 コマンドラインのヘルプはこんな感じになります:
 
 ```
@@ -176,6 +169,13 @@ Additional Configuration:
         - "AWS_PROPAGATION_TIMEOUT": Maximum waiting time for DNS propagation
         - "AWS_TTL": The TTL of the TXT record used for the DNS challenge
 ```
+
+ここから各種環境変数を指定して利用する必要があるとわかります:
+
+- `AWS_ACCESS_KEY_ID`
+- `AWS_SECRET_ACCESS_KEY`
+- `AWS_HOSTED_ZONE_ID`
+- `AWS_REGION`
 
 ### AWS_ACCESS_KYE_IDとAWS_SECRET_ACCESS_KEYの調べ方
 後で書く
