@@ -95,6 +95,8 @@ sequenceDiagram
 githubからダウンロードします。
 
 ### ダウンロード
+ファイルのダウンロードは何でも構いませんが、たとえば以下のようになるかと思います:
+
 ```
 kazu634@ip-10-0-1-234% wget https://github.com/go-acme/lego/releases/download/v2.4.0/lego_v2.4.0_linux_amd64.t
 ar.gz
@@ -116,6 +118,8 @@ lego_v2.4.0_linux_amd64.tar 100%[=========================================>]   8
 ```
 
 ### 解凍
+解凍方法は以下のようになるかと思います:
+
 ```
 kazu634@ip-10-0-1-234% tar xvzf lego_v2.4.0_linux_amd64.tar.gz                                      [~/works]
 CHANGELOG.md
@@ -211,6 +215,7 @@ sequenceDiagram
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/42332031@N02/33730730248/in/dateposted/" title="Untitled"><img src="https://live.staticflickr.com/7899/33730730248_53708c0113.jpg" width="500" height="349" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### 証明書の取得
+それでは証明書を取得してみます。以下のように実行することになると思います:
 
 ```
 kazu634@ip-10-0-1-234% export AWS_ACCESS_KEY_ID="xxxx"
