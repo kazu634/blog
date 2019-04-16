@@ -151,7 +151,7 @@ All DNS codes:
 More information: https://go-acme.github.io/lego/dns
 ```
 
-`route53`特有の注意事項はこちら:
+[Amazon Route 53](https://aws.amazon.com/route53/)特有の注意事項はこちら:
 
 ```
 kazu634@ip-10-0-1-234% ./lego dnshelp -c route53
@@ -181,7 +181,7 @@ Additional Configuration:
 後で書く
 
 ### AWS_HOSTED_ZONE_IDの調べ方
-`route53`で`Hosted Zone ID`の部分を調べます:
+[Amazon Route 53](https://aws.amazon.com/route53/)で`Hosted Zone ID`の部分を調べます:
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/42332031@N02/33730730248/in/dateposted/" title="Untitled"><img src="https://live.staticflickr.com/7899/33730730248_53708c0113.jpg" width="500" height="349" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
