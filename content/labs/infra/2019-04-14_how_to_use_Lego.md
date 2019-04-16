@@ -68,6 +68,8 @@ sequenceDiagram
 ### ここまでのまとめ
 [Lego](https://github.com/go-acme/lego)はコマンドラインで[Let&#39;s Encrypt](https://letsencrypt.org/)を用いてSSL/TSL証明書を発行するツールです。DNS認証にも対応しており、各種マネージドのDNSサービスを利用することで、自動的にTXTレコードを変更して、SSL/TSL証明書を取得することができます。
 
+おおまかな処理の流れをまとめると、以下のようになります。[Lego](https://github.com/go-acme/lego)を利用することで、煩雑な手続きをまとめて実行してくれていることがわかると思います:
+
 <div class="mermaid">
 sequenceDiagram
     participant User
