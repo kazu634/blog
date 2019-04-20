@@ -6,17 +6,17 @@ Description="Legoを用いたDNS経由でのSSL/TSL証明書取得について�
 image="https://live.staticflickr.com/2554/4156026735_6b97110206.jpg"
 +++
 
-`lego`を用いてSSL/TSL証明書を取得する方法を説明します。ここではDNS認証でSSL/TSL証明書を取得する方法を説明します。
+[Lego](https://github.com/go-acme/lego)を用いてSSL/TSL証明書を取得する方法を説明します。ここではDNS認証でSSL/TSL証明書を取得する方法を説明します。
 
 ## LegoとLet’s Encrypt
-`Let’s Encrypt`はSSL/TSL証明書を発行してくれるサービスです。
+[Let&#39;s Encrypt](https://letsencrypt.org/)はSSL/TSL証明書を発行してくれるサービスです。
 
 SSL/TSL証明書を発行するにあたり、そのドメインの所有者が本当に手続きをしているのか本人確認の手続きをします。
 
 手続き方法には以下の方法があります。
 
-### HTTP認証
-ドメインの所有者であれば、そのドメインにアクセスした際に表示されるコンテンツを自由にできるはずですので、それを利用した認証方式です。
+### HTTP-01認証
+ドメインの所有者であれば、そのドメインにアクセスした際に表示されるコンテンツを自由にできるはずですので、それを利用した認証方式です。具体的には[Let&#39;s Encrypt](https://letsencrypt.org/)から送られてきたトークンを記入したファイルをウェブサーバで配信できる状態にして、[Let&#39;s Encrypt](https://letsencrypt.org/)にそのファイル・トークンを確認してもらうことで、ドメインを所有していることを証明します。
 
 <div class="mermaid">
 sequenceDiagram
@@ -33,15 +33,24 @@ sequenceDiagram
 
     Note over User, DNS: 3. Request SSL/TSL Certificate
     User ->> Let’s Encrypt: Request
+    Let’s Encrypt ->> User: File name
+    Let’s Encrypt ->> User: Token
+    User ->> Web Server: Put the file with the token
+    User ->> Let’s Encrypt: Request to continue
     Let’s Encrypt ->> DNS: Name Resolution Request
     DNS ->> Let’s Encrypt: Name Resolution Response
     Let’s Encrypt ->> Web Server: HTTP Request (Port 80) via Internet
-    Web Server ->> Let’s Encrypt: HTTP Response (200)
+    Web Server ->> Let’s Encrypt: HTTP Response (200) with the valid token
     Let’s Encrypt ->> User: SSL/TSL Certificate
 </div>
 
-### DNS認証
-ドメインの所有者であれば、そのドメインのTXTレコードを自由に設定できるはずですので、それを利用した認証方式です。
+### DNS-01認証
+ドメインの所有者であれば、
+
+1. そのドメインのサブドメインを作成できる
+2. 作成したサブドメインのTXTレコードを自由に設定できる
+
+はずですので、それを利用した認証方式です。[Let&#39;s Encrypt](https://letsencrypt.org/)から送られてきたトークンをTXTレコードに指定し、それを[Let&#39;s Encrypt](https://letsencrypt.org/)に確認してもらうことで、ドメインを所有していることを証明します。
 
 <div class="mermaid">
 sequenceDiagram
@@ -66,7 +75,9 @@ sequenceDiagram
 </div>
 
 ### ここまでのまとめ
-Legoはコマンドラインで`Let’s Encrypt`を用いてSSL/TSL証明書を発行するツールです。DNS認証にも対応しており、各種マネージドのDNSサービスを利用することで、自動的にTXTレコードを変更して、SSL/TSL証明書を取得することができます。
+[Lego](https://github.com/go-acme/lego)はコマンドラインで[Let&#39;s Encrypt](https://letsencrypt.org/)を用いてSSL/TSL証明書を発行するツールです。DNS認証にも対応しており、各種マネージドのDNSサービスを利用することで、自動的にTXTレコードを変更して、SSL/TSL証明書を取得することができます。
+
+おおまかな処理の流れをまとめると、以下のようになります。[Lego](https://github.com/go-acme/lego)を利用することで、煩雑な手続きをまとめて実行してくれていることがわかると思います:
 
 <div class="mermaid">
 sequenceDiagram
@@ -78,7 +89,8 @@ sequenceDiagram
     User ->> Lego: Request
     Lego ->> Let’s Encrypt: Request
     Let’s Encrypt ->> Lego: Return the key
-    Lego ->> DNS: Specify the key to the TXT record
+    Lego ->> DNS: Create the sub domain
+    Lego ->> DNS: Specify the key to the TXT record of the sub domain
     note over Lego,DNS: Wait for TXT record to propagate
     Lego ->> Let’s Encrypt: Request to continue
     Let’s Encrypt ->> DNS: Check the TXT record
@@ -87,12 +99,14 @@ sequenceDiagram
     Lego ->> User: SSL/TSL Certificate
 </div>
 
-この記事ではAWSのマネージドDNSサービス`route53`を利用して、SSL/TSL証明書を取得してみます。
+この記事ではAWSのマネージドDNSサービス・[Amazon Route 53](https://aws.amazon.com/route53/)を利用して、SSL/TSL証明書を取得してみます。
 
 ## Legoのインストール方法
 githubからダウンロードします。
 
 ### ダウンロード
+ファイルのダウンロードは何でも構いませんが、たとえば以下のようになるかと思います:
+
 ```
 kazu634@ip-10-0-1-234% wget https://github.com/go-acme/lego/releases/download/v2.4.0/lego_v2.4.0_linux_amd64.t
 ar.gz
@@ -114,6 +128,8 @@ lego_v2.4.0_linux_amd64.tar 100%[=========================================>]   8
 ```
 
 ### 解凍
+解凍方法は以下のようになるかと思います:
+
 ```
 kazu634@ip-10-0-1-234% tar xvzf lego_v2.4.0_linux_amd64.tar.gz                                      [~/works]
 CHANGELOG.md
@@ -130,16 +146,9 @@ drwxr-xr-x 14 kazu634 kazu634 4.0K Mar 31 04:34 ..
 ```
 
 ## 使い方
-ここでは`lego`の使い方を説明します。
+ここでは[Lego](https://github.com/go-acme/lego)の使い方を説明します。
 
 ### 下準備
-各種環境変数を指定して利用します。
-
-- `AWS_ACCESS_KEY_ID`
-- `AWS_SECRET_ACCESS_KEY`
-- `AWS_HOSTED_ZONE_ID`
-- `AWS_REGION`
-
 コマンドラインのヘルプはこんな感じになります:
 
 ```
@@ -156,7 +165,7 @@ All DNS codes:
 More information: https://go-acme.github.io/lego/dns
 ```
 
-`route53`特有の注意事項はこちら:
+[Amazon Route 53](https://aws.amazon.com/route53/)特有の注意事項はこちら:
 
 ```
 kazu634@ip-10-0-1-234% ./lego dnshelp -c route53
@@ -175,52 +184,70 @@ Additional Configuration:
         - "AWS_TTL": The TTL of the TXT record used for the DNS challenge
 ```
 
+ここから各種環境変数を指定して利用する必要があるとわかります:
+
+- `AWS_ACCESS_KEY_ID`
+- `AWS_SECRET_ACCESS_KEY`
+- `AWS_HOSTED_ZONE_ID`
+- `AWS_REGION`
+
+つまりこのようなフローになります:
+
+<div class="mermaid">
+sequenceDiagram
+    participant User
+    participant Lego
+    participant Let’s Encrypt
+    participant Route53
+
+    note over User,Route53: Preparation
+    User ->> User: Specify AWS Environment Variables
+
+    note over User,Route53: Actual Operation
+    User ->> Lego: Request
+    Lego ->> Let’s Encrypt: Request
+    Let’s Encrypt ->> Lego: Return the key
+    Lego ->> Route53: Create the sub domain
+    Lego ->> Route53: Specify the key to the TXT record of the sub domain
+    note over Lego,Route53: Wait for TXT record to propagate
+    Lego ->> Let’s Encrypt: Request to continue
+    Let’s Encrypt ->> Route53: Check the TXT record
+    Route53 ->> Let’s Encrypt: Return the TXT record
+    Let’s Encrypt ->> Lego: SSL/TSL Certificate
+    Lego ->> User: SSL/TSL Certificate
+</div>
+
 ### AWS_ACCESS_KYE_IDとAWS_SECRET_ACCESS_KEYの調べ方
 後で書く
 
 ### AWS_HOSTED_ZONE_IDの調べ方
-`route53`で`Hosted Zone ID`の部分を調べます:
+[Amazon Route 53](https://aws.amazon.com/route53/)で`Hosted Zone ID`の部分を調べます:
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/42332031@N02/33730730248/in/dateposted/" title="Untitled"><img src="https://live.staticflickr.com/7899/33730730248_53708c0113.jpg" width="500" height="349" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### 証明書の取得
+それでは証明書を取得してみます。以下のように実行することになると思います:
 
 ```
-export AWS_ACCESS_KEY_ID="xxxx"
-export AWS_SECRET_ACCESS_KEY="yyyy"
-export AWS_HOSTED_ZONE_ID="zzzz"
-export AWS_REGION="ap-northeast-1"
+kazu634@ip-10-0-1-234% export AWS_ACCESS_KEY_ID="xxxx"
+kazu634@ip-10-0-1-234% export AWS_SECRET_ACCESS_KEY="yyyy"
+kazu634@ip-10-0-1-234% export AWS_HOSTED_ZONE_ID="zzzz"
+kazu634@ip-10-0-1-234% export AWS_REGION="ap-northeast-1"
 
-kazu634@ip-10-0-1-234% ./lego --dns route53 --domains
-lego.kazu634.com --email simoom634@yahoo.co.jp run
-2019/03/31 05:02:07 [INFO] [lego.kazu634.com] acme: Ob
-taining bundled SAN certificate
-2019/03/31 05:02:08 [INFO] [lego.kazu634.com] AuthURL:
- https://acme-v02.api.letsencrypt.org/acme/authz/kT24l
-TOu3gbmepIH2vWudVjaxSTi8Q2Lu1y_BGlxD1E
-2019/03/31 05:02:08 [INFO] [lego.kazu634.com] acme: Co
-uld not find solver for: tls-alpn-01
-2019/03/31 05:02:08 [INFO] [lego.kazu634.com] acme: Co
-uld not find solver for: http-01
-2019/03/31 05:02:08 [INFO] [lego.kazu634.com] acme: us
-e dns-01 solver
-2019/03/31 05:02:08 [INFO] [lego.kazu634.com] acme: Pr
-eparing to solve DNS-01
-2019/03/31 05:02:09 [INFO] Wait for route53 [timeout:
-2m0s, interval: 4s]
-2019/03/31 05:02:42 [INFO] [lego.kazu634.com] acme: Tr
-ying to solve DNS-01
-2019/03/31 05:02:42 [INFO] [lego.kazu634.com] acme: Ch
-ecking DNS record propagation using [localhost:53 127.
-0.0.1:53]
-2019/03/31 05:02:42 [INFO] Wait for propagation [timeo
-ut: 2m0s, interval: 4s]
-2019/03/31 05:02:47 [INFO] [lego.kazu634.com] The serv
-er validated our request
-2019/03/31 05:02:47 [INFO] [lego.kazu634.com] acme: Cl
-eaning DNS-01 challenge
-2019/03/31 05:02:47 [INFO] Wait for route53 [timeout:
-2m0s, interval: 4s]
+kazu634@ip-10-0-1-234% ./lego --dns route53 --domains lego.kazu634.com --email simoom634@yahoo.co.jp run
+2019/03/31 05:02:07 [INFO] [lego.kazu634.com] acme: Obtaining bundled SAN certificate
+2019/03/31 05:02:08 [INFO] [lego.kazu634.com] AuthURL: https://acme-v02.api.letsencrypt.org/acme/authz/kT24lTOu3gbmepIH2vWudVjaxSTi8Q2Lu1y_BGlxD1E
+2019/03/31 05:02:08 [INFO] [lego.kazu634.com] acme: Could not find solver for: tls-alpn-01
+2019/03/31 05:02:08 [INFO] [lego.kazu634.com] acme: Could not find solver for: http-01
+2019/03/31 05:02:08 [INFO] [lego.kazu634.com] acme: use dns-01 solver
+2019/03/31 05:02:08 [INFO] [lego.kazu634.com] acme: Preparing to solve DNS-01
+2019/03/31 05:02:09 [INFO] Wait for route53 [timeout:2m0s, interval: 4s]
+2019/03/31 05:02:42 [INFO] [lego.kazu634.com] acme: Trying to solve DNS-01
+2019/03/31 05:02:42 [INFO] [lego.kazu634.com] acme: Checking DNS record propagation using [localhost:53 127.0.0.1:53]
+2019/03/31 05:02:42 [INFO] Wait for propagation [timeout: 2m0s, interval: 4s]
+2019/03/31 05:02:47 [INFO] [lego.kazu634.com] The server validated our request
+2019/03/31 05:02:47 [INFO] [lego.kazu634.com] acme: Cleaning DNS-01 challenge
+2019/03/31 05:02:47 [INFO] Wait for route53 [timeout:2m0s, interval: 4s]
 2019/03/31 05:03:25 [INFO] [lego.kazu634.com] acme: Validations succeeded; requesting certificates
 2019/03/31 05:03:26 [INFO] [lego.kazu634.com] Server responded with a certificate.
 ```
@@ -254,7 +281,7 @@ drwxr-xr-x 4 kazu634 kazu634 4.0K Mar 31 04:59 ..
 後で書く
 
 ### ワイルドカード証明書が必要な場合
-`route53`側で以下のようにレコードを作成する:
+[Amazon Route 53](https://aws.amazon.com/route53/)側で以下のようにレコードを作成する:
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/42332031@N02/46692293625/in/photostream/" title="Untitled"><img src="https://live.staticflickr.com/7902/46692293625_bdfb426704.jpg" width="500" height="349" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
