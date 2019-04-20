@@ -7,7 +7,7 @@ Categories = []
 thumbnail = ""
 +++
 
-兵站にスポットを当てたSF小説ということで[星系出雲の兵站 1](https://www.amazon.co.jp/%E6%98%9F%E7%B3%BB%E5%87%BA%E9%9B%B2%E3%81%AE%E5%85%B5%E7%AB%99-1-%E3%83%8F%E3%83%A4%E3%82%AB%E3%83%AF%E6%96%87%E5%BA%ABJA-%E6%9E%97-%E8%AD%B2%E6%B2%BB/dp/4150313407)が紹介されていたので、読んでみました。
+兵站にスポットを当てたSF小説ということで[星系出雲の兵站 1](https://www.amazon.co.jp/exec/obidos/ASIN/4150313407/simsnes-22/ref=nosim/)が紹介されていたので、読んでみました。
 
 司馬遼太郎さんは『坂の上の雲』の中で、こんな風に書いていますが、
 
