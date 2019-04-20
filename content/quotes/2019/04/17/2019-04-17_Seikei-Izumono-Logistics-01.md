@@ -7,7 +7,7 @@ Categories = []
 thumbnail = ""
 +++
 
-兵站にスポットを当てたSF小説ということで[星系出雲の兵站 1](https://www.amazon.co.jp/%E6%98%9F%E7%B3%BB%E5%87%BA%E9%9B%B2%E3%81%AE%E5%85%B5%E7%AB%99-1-%E3%83%8F%E3%83%A4%E3%82%AB%E3%83%AF%E6%96%87%E5%BA%ABJA-%E6%9E%97-%E8%AD%B2%E6%B2%BB/dp/4150313407)が紹介されていたので、読んでみました。
+兵站にスポットを当てたSF小説ということで[星系出雲の兵站 1](https://www.amazon.co.jp/exec/obidos/ASIN/4150313407/simsnes-22/ref=nosim/)が紹介されていたので、読んでみました。
 
 司馬遼太郎さんは『坂の上の雲』の中で、こんな風に書いていますが、
 
@@ -64,5 +64,5 @@ thumbnail = ""
 > 英雄でも凡人でも、人類には違いない。そして我々が守るべきは、その人類だ。そして無駄死にから英雄は生まれない、いや、それを英雄にしてはいかんのだ」
 
 <hr>
-<div class="amazlet-box" style="margin-bottom:0px;"><div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150313407/simsnes-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51pF%2BhdxBbL._SL160_.jpg" alt="星系出雲の兵站 1 (ハヤカワ文庫JA)" style="border: none;" /></a></div><div class="amazlet-info" style="line-height:120%; margin-bottom: 10px"><div class="amazlet-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150313407/simsnes-22/ref=nosim/" name="amazletlink" target="_blank">星系出雲の兵站 1 (ハヤカワ文庫JA)</a><div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 19.04.20</div></div><div class="amazlet-detail">林 譲治 <br />早川書房 <br />売り上げランキング: 168,017<br /></div><div class="amazlet-sub-info" style="float: left;"><div class="amazlet-link" style="margin-top: 5px"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150313407/simsnes-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="amazlet-footer" style="clear: left"></div></div>
+<div class="amazlet-box" style="margin-bottom:0px;"><div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4150313407/simsnes-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51pF%2BhdxBbL._SL160_.jpg" alt="星系出雲の兵站 1 (ハヤカワ文庫JA)" style="border: none;" /></a></div><div class="amazlet-info" style="line-height:120%; margin-bottom: 10px"><div class="amazlet-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4150313407/simsnes-22/ref=nosim/" name="amazletlink" target="_blank">星系出雲の兵站 1 (ハヤカワ文庫JA)</a><div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 19.04.20</div></div><div class="amazlet-detail">林 譲治 <br />早川書房 <br />売り上げランキング: 168,017<br /></div><div class="amazlet-sub-info" style="float: left;"><div class="amazlet-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4150313407/simsnes-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="amazlet-footer" style="clear: left"></div></div>
 
