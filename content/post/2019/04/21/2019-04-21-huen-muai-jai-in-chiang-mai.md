@@ -1,11 +1,21 @@
 +++
-title = "2019 04 21 Huen Muai Jai in Chiang Mai"
+title = "タイ北部の料理を食べられるHuen Muai Jaiに行きました"
 date = 2019-04-21T17:38:34+08:00
-Description = ""
+Description = "タイ北部の料理を食べられるHuen Muai Jaiに行きました。"
 Tags = []
-Categories = []
+Categories = ["旅行"]
 image=""
 +++
 
-<div class="mermaid">
-</div>
+Chiang Maiにあるタイ北部の料理を出してくれる有名店。このお店は2016年末にも来ていて、友達と一緒にご飯食べたのでした。
+
+[]
+
+こちらはKhao Soi Gaiです。カレー風味だけどココナッツミルク入っていて、まろやかな味です:
+
+[]
+
+こちらは野菜炒めだよ:
+
+[]
+
