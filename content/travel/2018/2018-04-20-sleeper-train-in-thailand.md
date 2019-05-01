@@ -9,6 +9,10 @@ thumbnail = "https://live.staticflickr.com/65535/46742785275_36c9039521_z.jpg"
 
 BangkokからChiang Maiへ、寝台列車に乗って旅をしてきました。Chinag Maiは、友達の結婚式で訪ねてから、もう3度目の訪問になります。あの時間の経つのが緩やかなところがおススメです。
 
+このような形で移動します:
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/42332031@N02/47694903772/in/dateposted/" title="Untitled"><img src="https://live.staticflickr.com/65535/47694903772_78bc17060e_z.jpg" width="640" height="447" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## チケット予約
 [Thai Sleeper Trains: What You Must Know - Go To Thailand](https://gotothailand.com/thai-sleeper-trains/)を参考にして、[12Go: Book Trains, Buses, Ferries, Transfers & Flights](https://12go.asia/en)でオンライン予約しました。
 
