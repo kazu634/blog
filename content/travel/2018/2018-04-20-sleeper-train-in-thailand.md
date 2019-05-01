@@ -7,7 +7,6 @@ Categories = ["旅行"]
 thumbnail = "https://live.staticflickr.com/65535/46742785275_36c9039521_z.jpg"
 +++
 
-# Bangkok <-> Chiang Mai寝台列車の旅
 BangkokからChiang Maiへ、寝台列車に乗って旅をしてきました。Chinag Maiは、友達の結婚式で訪ねてから、もう3度目の訪問になります。あの時間の経つのが緩やかなところがおススメです。
 
 ## チケット予約
