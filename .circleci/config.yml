@@ -2,16 +2,14 @@ version: 2
 jobs:
   build:
     docker:
-      - image: debian:stretch
+      - image: cibuilds/hugo:latest
 
     steps:
       - checkout
-
       - run:
-          name: Greeting
-          command: echo Hello, world.
-
+          name: "Run Hugo"
+          command: HUGO_ENV=production hugo -v -s src/
       - run:
-          name: Print the Current Time
-          command: date
+          name: "Test Website"
+          command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
 
