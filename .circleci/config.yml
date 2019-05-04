@@ -47,4 +47,4 @@ jobs:
           name: Deploy
           command: |
             ssh -p ${SSHPORT} ${USER_NAME}@${HOST_NAME} "rm -rf /var/www/test/*"
-            rsync -e "ssh -p ${SSHPORT}" -az --delete public/ ${USER_NAME}@${HOST_NAME}:/var/www/test
+            rsync -e "ssh -p ${SSHPORT}" --omit-dir-times -avz --delete public/ ${USER_NAME}@${HOST_NAME}:/var/www/test
