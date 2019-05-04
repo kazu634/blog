@@ -6,14 +6,6 @@ jobs:
 
     steps:
       - checkout
-      - add_ssh_keys:
-          fingerprints:
-            - "7d:eb:56:da:3f:71:e1:fd:2f:c1:86:18:fe:08:8b:f9"
-      - run:
-          name: Start ssh-keyscan
-          command: |
-            ssh-keyscan -p ${SSHPORT} ${HOST_NAME} >> ~/.ssh/known_hosts
-
       - run:
           name: Change Amazon Links
           working_directory: /root/project/
@@ -42,3 +34,17 @@ jobs:
             do
               gzip -c ${TARGET} > ${TARGET}.gz
             done
+
+      - add_ssh_keys:
+          fingerprints:
+            - "7d:eb:56:da:3f:71:e1:fd:2f:c1:86:18:fe:08:8b:f9"
+      - run:
+          name: Start ssh-keyscan
+          command: |
+            ssh-keyscan -p ${SSHPORT} ${HOST_NAME} >> ~/.ssh/known_hosts
+
+      - run:
+          name: Deploy
+          command: |
+            ssh -p ${SSHPORT} ${USER_NAME}@${HOST_NAME} "rm -rf /var/www/test/*"
+            rsync -e "ssh -p ${SSHPORT}" -az --delete public ${USER_NAME}@${HOST_NAME}:/var/www/test
