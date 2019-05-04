@@ -18,7 +18,7 @@ jobs:
           name: "Run Hugo"
           working_directory: /root/project/
           command: |
-            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+            if [ "${CIRCLE_BRANCH}" != "master" ]; then
               hugo -e staging -v -s /root/project/
             else
               hugo -e production -v -s /root/project/
