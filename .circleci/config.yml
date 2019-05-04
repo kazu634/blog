@@ -17,7 +17,12 @@ jobs:
       - run:
           name: "Run Hugo"
           working_directory: /root/project/
-          command: hugo -e staging -v -s /root/project/
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+              hugo -e staging -v -s /root/project/
+            else
+              hugo -e production -v -s /root/project/
+            fi
 
       - run:
           name: Change Amazon Links
@@ -44,7 +49,12 @@ jobs:
             ssh-keyscan -p ${SSHPORT} ${HOST_NAME} >> ~/.ssh/known_hosts
 
       - run:
-          name: Deploy
+          name: Deploy (Not Master)
           command: |
-            ssh -p ${SSHPORT} ${USER_NAME}@${HOST_NAME} "rm -rf /var/www/test/*"
-            rsync -e "ssh -p ${SSHPORT}" --omit-dir-times -rltvz --delete public/ ${USER_NAME}@${HOST_NAME}:/var/www/test
+            if [ "${CIRCLE_BRANCH}" != "master" ]; then
+              ssh -p ${SSHPORT} ${USER_NAME}@${HOST_NAME} "rm -rf /var/www/test/*"
+              rsync -e "ssh -p ${SSHPORT}" --omit-dir-times -rltvz --delete public/ ${USER_NAME}@${HOST_NAME}:/var/www/test
+            else
+              ssh -p ${SSHPORT} ${USER_NAME}@${HOST_NAME} "rm -rf /var/www/blog/*"
+              rsync -e "ssh -p ${SSHPORT}" --omit-dir-times -rltvz --delete public/ ${USER_NAME}@${HOST_NAME}:/var/www/blog
+            fi
