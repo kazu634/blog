@@ -17,7 +17,7 @@ jobs:
       - run:
           name: "Run Hugo"
           working_directory: /root/project/
-          command: HUGO_ENV=production hugo -v -s /root/project/
+          command: HUGO_ENV=staging hugo -v -s /root/project/
 
       - run:
           name: Change Amazon Links
@@ -47,4 +47,4 @@ jobs:
           name: Deploy
           command: |
             ssh -p ${SSHPORT} ${USER_NAME}@${HOST_NAME} "rm -rf /var/www/test/*"
-            rsync -e "ssh -p ${SSHPORT}" -az --delete public ${USER_NAME}@${HOST_NAME}:/var/www/test
+            rsync -e "ssh -p ${SSHPORT}" -az --delete public/ ${USER_NAME}@${HOST_NAME}:/var/www/test
