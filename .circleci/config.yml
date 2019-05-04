@@ -38,7 +38,6 @@ jobs:
           name: "Gzip css/js/images"
           working_directory: /root/project/
           command: |
-            TARGETS=`find ./public/ -type f -regextype posix-egrep -regex ".*\.(css|js|png|jpg|JPG|PNG|CSS|JS)"
             for TARGET in `find ./public/ -type f -regextype posix-egrep -regex ".*\.(css|js|png|jpg|JPG|PNG|CSS|JS)"`
             do
               gzip -c ${TARGET} > ${TARGET}.gz
