@@ -11,5 +11,5 @@ jobs:
           command: HUGO_ENV=production hugo -v -s /root/project/
       - run:
           name: "Test Website"
-          command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
+          command: htmlproofer /root/project/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
 
