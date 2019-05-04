@@ -9,3 +9,5 @@ jobs:
       - run:
           name: "Run Hugo"
           command: HUGO_ENV=production hugo -v -s /root/project/
+      - store_artifacts:
+          path: /tmp/artifacts
