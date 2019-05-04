@@ -6,8 +6,34 @@ jobs:
 
     steps:
       - checkout
+      - add_ssh_keys:
+          fingerprints:
+            - "7d:eb:56:da:3f:71:e1:fd:2f:c1:86:18:fe:08:8b:f9"
+      - run:
+          name: Start ssh-keyscan
+          command: |
+            ssh-keyscan ${HOST_NAME} >> ~/.ssh/known_hosts
+
+      - run:
+          name: Change Amazon Links
+          command: |
+            grep -l -r ecx.images-amazon.com content/ | sort | uniq | xargs -t --no-run-if-empty sed -ie "s/http:\/\/ecx.images-amazon.com/https:\/\/images-na.ssl-images-amazon.com/g"
+            grep -l -r "http://www.amazon.co.jp/exec" content/ | sort | uniq | xargs -t --no-run-if-empty sed -i -e "s/http:\/\/www.amazon.co.jp\/exec/https:\/\/www.amazon.co.jp\/exec/g"
+
       - run:
           name: "Run Hugo"
           command: HUGO_ENV=production hugo -v -s /root/project/
-      - store_artifacts:
-          path: /root/project/public
+
+      - run:
+          name: Change Amazon Links
+          command: |
+            grep -l -r ecx.images-amazon.com content/ | sort | uniq | xargs -t --no-run-if-empty sed -ie "s/http:\/\/ecx.images-amazon.com/https:\/\/images-na.ssl-images-amazon.com/g"
+
+      - run:
+          name: "Gzip css/js/images"
+          command: |
+            TARGETS=`find ./public/ -type f -regextype posix-egrep -regex ".*\.(css|js|png|jpg|JPG|PNG|CSS|JS)"
+            for TARGET in `find ./public/ -type f -regextype posix-egrep -regex ".*\.(css|js|png|jpg|JPG|PNG|CSS|JS)"`
+            do
+              gzip -c ${TARGET} > ${TARGET}.gz
+            done
