@@ -36,5 +36,5 @@ task :build do
     sh 'rm -rf *'
   end
 
-  sh 'hugo'
+  sh 'hugo -e staging -v'
 end
