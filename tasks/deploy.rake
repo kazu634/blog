@@ -12,8 +12,6 @@ task :deploy => [:build] do
     end
   end
 
-  sh 'rsync -e "ssh -p 10022" -az --delete public webadm@10.0.1.234:~/works'
-
-  sh 'ssh -p 10022 webadm@10.0.1.234 "rm -rf /var/www/blog/*"'
-  sh 'ssh -p 10022 webadm@10.0.1.234 "cp -pr ~/works/public/* /var/www/blog/"'
+  sh 'ssh -p 10022 webadm@10.0.1.234 "rm -rf /var/www/test/*"'
+  sh 'rsync -e "ssh -p 10022" -rltvz --omit-dir-times --delete public/ webadm@10.0.1.234:/var/www/test'
 end
