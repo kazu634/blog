@@ -4,6 +4,7 @@ date=2019-04-14
 publishdate=2019-04-14
 Description="Legoを用いたDNS経由でのSSL/TSL証明書取得について調べた内容をまとめました"
 image="https://live.staticflickr.com/2554/4156026735_6b97110206.jpg"
+Categories = ["インフラ"]
 +++
 
 [Lego](https://github.com/go-acme/lego)を用いてSSL/TSL証明書を取得する方法を説明します。ここではDNS認証でSSL/TSL証明書を取得する方法を説明します。
@@ -278,7 +279,7 @@ drwxr-xr-x 4 kazu634 kazu634 4.0K Mar 31 04:59 ..
 ```
 
 ### IISで利用する場合
-後で書く
+[Lego](https://github.com/go-acme/lego)ではうまくIISに登録できないことがわかったため、[WindowsサーバのIISにLet's Encryptで取得したワイルドカードSSL証明書をインポートする](https://blog.kazu634.com/labs/infra/2019-05-11-create-wildcard-ssl-certificate-on-windows/)を参照してください。
 
 ### ワイルドカード証明書が必要な場合
 [Amazon Route 53](https://aws.amazon.com/route53/)側で以下のようにレコードを作成する:
@@ -313,4 +314,4 @@ kazu634@ip-10-0-1-234% ./lego --dns route53 --domains "*.kazu634.com" --email si
 - [How to Import & Export SSL Certificates in IIS 7 | DigiCert](https://www.digicert.com/ssl-support/pfx-import-export-iis-7.htm)
 - [Importing & Exporting SSL Certificates In IIS 8 & IIS 8.5](https://www.digicert.com/ssl-support/pfx-import-export-iis-8.htm)
 - [IIS 10 Exporting/Importing SSL Certificates | digicert.com](https://www.digicert.com/ssl-support/certificate-pfx-file-export-import-iis-10.htm)
-
+- [WindowsサーバのIISにLet's Encryptで取得したワイルドカードSSL証明書をインポートする](https://blog.kazu634.com/labs/infra/2019-05-11-create-wildcard-ssl-certificate-on-windows/)
