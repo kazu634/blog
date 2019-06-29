@@ -18,8 +18,8 @@ def os
   )
 end
 
-desc 'Generate the HTML pages'
-task :build do
+desc 'Preparation for Generating the HTML Pages'
+task :prep do
   cd 'content/' do
     if os == :linux
       sh 'grep -l -r ecx.images-amazon.com | sort | uniq | xargs --no-run-if-empty sed -ie "s/http:\/\/ecx.images-amazon.com/https:\/\/images-na.ssl-images-amazon.com/g"'
@@ -37,6 +37,4 @@ task :build do
   cd 'public' do
     sh 'rm -rf *'
   end
-
-  sh 'hugo -e staging -v'
 end
