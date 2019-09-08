@@ -2,12 +2,10 @@
 title = "Line Mobile Thailand生活始めました"
 date = 2019-09-08T13:05:34+08:00
 Description = "タイで働き始めてもうすぐ10ヶ月程度。よくよく考えてみると、Lineを使っていることが多いことに気づきました。そうであれば、タイでも展開をしているLine MobileのSIMを使った方が料金少なめで済むのではないかと考え申し込みました"
-Tags = [""]
-Categories = [""]
-image=""
+Categories = ["gadget"]
+image="https://live.staticflickr.com/3779/8978581081_25a8dd4df6_z.jpg"
 +++
 
-# LineMobile生活を始めてみました
 タイで働き始めてもうすぐ10ヶ月程度。よくよく考えてみると、Lineを使っていることが多いことに気づきました。そうであれば、タイでも展開をしているLine MobileのSIMを使った方が料金少なめで済むのではないかと考え、Line Mobileを申し込んでみました。
 
 Line Mobileの申し込み手続きは参考リンクを見ていただくとして、SIMを申し込むと2-3日で郵送されてきます。こんな感じです:
