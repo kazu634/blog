@@ -12,17 +12,21 @@ image=""
 
 Line Mobileの申し込み手続きは参考リンクを見ていただくとして、SIMを申し込むと2-3日で郵送されてきます。こんな感じです:
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/42332031@N02/48699999537/in/dateposted/" title="IMG_1684.JPG"><img src="https://live.staticflickr.com/65535/48699999537_a3e9e449b6_z.jpg" width="480" height="640" alt="IMG_1684.JPG"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 私が選んだプランは1ヶ月10GBのプランで、月々249THB (1000円行かないくらい)です。普段は7GB程度/月を利用しているので、これで十分かなと思っています。
 
 Line Mobileには専用のアプリがあって、このような見た目です:
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/42332031@N02/48699999877/in/dateposted/" title="IMG_1689.PNG"><img src="https://live.staticflickr.com/65535/48699999877_cfb2388637_z.jpg" width="296" height="640" alt="IMG_1689.PNG"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 無料通話期間の残りと無料データ利用料がわかります。こんな感じでドリルダウンできます。
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/42332031@N02/48699830651/in/dateposted/" title="IMG_1690.PNG"><img src="https://live.staticflickr.com/65535/48699830651_1ffd6cd005_z.jpg" width="296" height="640" alt="IMG_1690.PNG"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 こちらはLineをどれくらい利用したかです。
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/42332031@N02/48700000972/in/dateposted/" title="IMG_1691.PNG"><img src="https://live.staticflickr.com/65535/48700000972_8b12167244_z.jpg" width="296" height="640" alt="IMG_1691.PNG"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 タイのdtacの回線を利用して提供しているということで、バンコク市街地を抜け出すと電波がそれほど良くないようですが、いまのところ不便を感じることはありません。
 
