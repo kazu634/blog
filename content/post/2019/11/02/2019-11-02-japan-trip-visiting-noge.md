@@ -1,6 +1,6 @@
 +++
 title = "野毛を訪ねてきました"
-date = 2019-09-08T13:05:34+q08:00
+date = 2019-11-02T10:05:34+08:00
 Description = "一時帰国中に横浜の野毛を訪ねてきました。おでんとどぜう鍋をおいしくいただいてきました。"
 Categories = ["旅行", "野毛"]
 image="https://live.staticflickr.com/65535/48916089983_840f8b3fba_z.jpg"
