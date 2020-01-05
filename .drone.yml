@@ -3,7 +3,7 @@ type: docker
 name: default
 
 steps:
-  - name: fetch
+  - name: Modify Amazon Links
     image: cibuilds/hugo:0.62.1
     commands:
       - set +o pipefail
