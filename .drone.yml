@@ -11,7 +11,7 @@ steps:
 
   - name: hugo
     image: cibuilds/hugo:0.62.1
-    commands: |
+    commands: >
       if [ "${DRONE_BRANCH}" != "master" ]; then
         hugo -e staging -v -s
       else
@@ -20,7 +20,7 @@ steps:
 
   - name: Compress-the-Assets
     image: cibuilds/hugo:0.62.1
-    commands: |
+    commands: >
       for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`
       do
         gzip -c ${TARGET} > ${TARGET}.gz
