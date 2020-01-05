@@ -3,7 +3,7 @@ type: docker
 name: default
 
 steps:
-  - name: Modify Amazon Links
+  - name: ModifyAmazonLinks
     image: cibuilds/hugo:0.62.1
     commands:
       - grep -l -r ecx.images-amazon.com content/ | sort | uniq | xargs -t --no-run-if-empty sed -ie "s/http:\/ / ecx.images-amazon.com/https:\/ / images-na.ssl-images-amazon.com/g"
