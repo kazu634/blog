@@ -1,0 +1,15 @@
+kind: pipeline
+type: docker
+name: default
+
+steps:
+  - name: fetch
+    image: cibuilds/hugo:0.62.1
+    commands:
+      - set +o pipefail
+      - grep -l -r ecx.images-amazon.com content/ | sort | uniq | xargs -t --no-run-if-empty sed -ie "s/http:\/ / ecx.images-amazon.com/https:\/ / images-na.ssl-images-amazon.com/g"
+      - grep -l -r "http://www.amazon.co.jp/exec" content/ | sort | uniq | xargs -t --no-run-if-empty sed -i -e "s/http:\/ / www.amazon.co.jp\/exec/https:\/ / www.amazon.co.jp\/exec/g"
+
+trigger:
+  event:
+    - push
