@@ -12,19 +12,12 @@ steps:
   - name: hugo
     image: cibuilds/hugo:0.62.1
     commands:
-      - if [ "${DRONE_BRANCH}" != "master" ]; then \
-        hugo -e staging -v -s \
-      else \
-        hugo -e production -v -s \
-      fi
+      - if [ "${DRONE_BRANCH}" != "master" ]; then hugo -e staging -v -s; else hugo -e production -v -s; fi
 
   - name: Compress-the-Assets
     image: cibuilds/hugo:0.62.1
-    commands: >
-      for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"` \
-      do \
-        gzip -c ${TARGET} > ${TARGET}.gz \
-      done
+    commands:
+      for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`; do gzip -c ${TARGET} > ${TARGET}.gz; done
 
 trigger:
   event:
