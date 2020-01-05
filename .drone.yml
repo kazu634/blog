@@ -17,7 +17,7 @@ steps:
   - name: Compress-the-Assets
     image: cibuilds/hugo:0.62.1
     commands:
-      for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`; do gzip -c ${TARGET} > ${TARGET}.gz; done
+      - for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`; do gzip -c ${TARGET} > ${TARGET}.gz; done
 
 trigger:
   event:
