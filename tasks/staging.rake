@@ -15,6 +15,6 @@ task :stag => [:prep] do
     end
   end
 
-  sh 'ssh -p 10022 webadm@10.0.1.234 "rm -rf /var/www/test/*"'
-  sh 'rsync -e "ssh -p 10022" -rltvz --omit-dir-times --delete public/ webadm@10.0.1.234:/var/www/test'
+  sh 'ssh -p 10022 webadm@10.0.1.166 "rm -rf /var/www/test/*"'
+  sh 'rsync -e "ssh -p 10022" -rltvz --omit-dir-times --delete public/ webadm@10.0.1.166:/var/www/test'
 end
