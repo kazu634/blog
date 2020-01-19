@@ -30,6 +30,8 @@ steps:
       source: public/
       key:
         from_secret: ssh_key
+      rm: true
+      strip_components: 1
 
 trigger:
   event:
