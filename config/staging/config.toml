@@ -11,3 +11,6 @@ theme = "angels-ladder"
   profile = "/images/profile.png"
   analytics = "UA-57665492-1"
   copyright = "Written by Kazuhiro MUSASHI"
+
+[markup.goldmark.renderer]
+  unsafe = true
