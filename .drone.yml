@@ -30,7 +30,6 @@ steps:
         from_secret: ssh_key
       script:
         - rm -rf /var/www/blog/*
-        - rm -rf /home/webadm/works/public/*
 
   - name: scp
     image: appleboy/drone-scp
