@@ -30,7 +30,7 @@ steps:
       source: public/
       key:
         from_secret: ssh_key
-      rm: true
+      overwrite: true
       strip_components: 1
 
 trigger:
