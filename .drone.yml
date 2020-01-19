@@ -1,6 +1,6 @@
 kind: pipeline
 type: docker
-name: default
+name: production
 
 steps:
   - name: Modify-Amazon-Links
@@ -12,7 +12,7 @@ steps:
   - name: hugo
     image: cibuilds/hugo:0.62.1
     commands:
-      - if [ "${DRONE_BRANCH}" != "master" ]; then hugo -e staging -v -s .; else hugo -e production -v -s .; fi
+      - hugo -e production -v -s .
 
   - name: Compress-the-Assets
     image: cibuilds/hugo:0.62.1
@@ -34,5 +34,46 @@ steps:
       strip_components: 1
 
 trigger:
-  event:
-    - push
+  branch:
+  - master
+
+---
+kind: pipeline
+type: docker
+name: staging
+
+steps:
+  - name: Modify-Amazon-Links
+    image: cibuilds/hugo:0.62.1
+    commands:
+      - grep -l -r ecx.images-amazon.com content/ | sort | uniq | xargs -t --no-run-if-empty sed -ie "s/http:\/\/ecx.images-amazon.com/https:\/\/images-na.ssl-images-amazon.com/g"
+      - grep -l -r "http://www.amazon.co.jp/exec" content/ | sort | uniq | xargs -t --no-run-if-empty sed -i -e "s/http:\/ / www.amazon.co.jp\/exec/https:\/ / www.amazon.co.jp\/exec/g"
+
+  - name: hugo
+    image: cibuilds/hugo:0.62.1
+    commands:
+      - hugo -e staging -v -s .
+
+  - name: Compress-the-Assets
+    image: cibuilds/hugo:0.62.1
+    commands:
+      - for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`; do gzip -c ${TARGET} > ${TARGET}.gz; done
+      - for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`; do rm -f ${TARGET}; done
+
+  - name: scp
+    image: appleboy/drone-scp
+    settings:
+      host: 10.0.1.166
+      username: webadm
+      port: 10022
+      target: /var/www/test
+      source: public/
+      key:
+        from_secret: ssh_key
+      overwrite: true
+      strip_components: 1
+
+trigger:
+  branch:
+    exclude:
+    - master
