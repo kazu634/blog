@@ -20,13 +20,27 @@ steps:
       - for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`; do gzip -c ${TARGET} > ${TARGET}.gz; done
       - for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`; do rm -f ${TARGET}; done
 
+  - name: housekeep
+    image: appleboy/drone-ssh
+    settings:
+      host: 10.0.1.166
+      username: webadm
+      port: 10022
+      key:
+        from_secret: ssh_key
+      script:
+        - rm -rf /var/www/blog/*
+        - rm -rf /home/webadm/works/public/*
+
   - name: scp
     image: appleboy/drone-scp
     settings:
       host: 10.0.1.166
       username: webadm
       port: 10022
-      target: /var/www/blog
+      target:
+        - /var/www/blog
+        - /home/webadm/works/public
       source: public/
       key:
         from_secret: ssh_key
