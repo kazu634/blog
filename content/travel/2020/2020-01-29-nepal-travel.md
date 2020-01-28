@@ -16,31 +16,32 @@ image = ""
 
 これは屋台のお土産物屋さんです:
 
-[image:A52B3A07-2FE0-441A-B7F7-0E8F3C678F71-12414-00000B59D5423DF9/Photo Jan 27, 2020 150037.jpg]
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49449990138/in/album-72157712859847972/" title="IMG_20200125_171614.jpg"><img src="https://live.staticflickr.com/65535/49449990138_46df8bde3e_z.jpg" width="640" height="480" alt="IMG_20200125_171614.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ネパールの国旗が飾ってありました:
 
-[image:B85C3FB3-3BCE-44DA-BB07-490035409511-12414-00000B59E1DB3EC6/Photo Jan 27, 2020 150045.jpg]
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49450705732/in/album-72157712859847972/" title="IMG_20200125_195638.jpg"><img src="https://live.staticflickr.com/65535/49450705732_bb0682a15f_z.jpg" width="640" height="480" alt="IMG_20200125_195638.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 こちらはオーガニックティーのお店:
 
-[image:9E12E76D-F289-4D14-8C3E-C734B9F2CC25-12414-00000B59EF762DD0/Photo Jan 27, 2020 150055.jpg]
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49450706142/in/album-72157712859847972/" title="IMG_20200125_195731.jpg"><img src="https://live.staticflickr.com/65535/49450706142_b0ddfab229_z.jpg" width="640" height="480" alt="IMG_20200125_195731.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 夜遅かったけど、八百屋も開いていました:
 
-[image:ACF8CF69-8D78-4FC4-85F4-FD0B2DEC234F-12414-00000B59F9314D27/Photo Jan 27, 2020 150102.jpg]
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49450506161/in/album-72157712859847972/" title="MVIMG_20200125_200537.jpg"><img src="https://live.staticflickr.com/65535/49450506161_9a8d54d617_z.jpg" width="640" height="480" alt="MVIMG_20200125_200537.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 こちらは何か注文していたみたいです:
 
-[image:0DBB7FD1-CD31-4B9D-A4E6-5E87D2486DC4-12414-00000B5A07B00E0F/Photo Jan 27, 2020 150112.jpg]
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49449997153/in/album-72157712859847972/" title="IMG_20200125_200646.jpg"><img src="https://live.staticflickr.com/65535/49449997153_42dc2520e9_z.jpg" width="640" height="480" alt="IMG_20200125_200646.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 これは仏教的な何かかな。。:
 
-[image:69A0495E-8B9C-4618-9C73-7E548E25E0B8-12414-00000B633CE72016/Photo Jan 27, 2020 154336.jpg]
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49450479781/in/album-72157712859847972/" title="IMG_20200125_200719.jpg"><img src="https://live.staticflickr.com/65535/49450479781_a0dda94bb4_z.jpg" width="640" height="480" alt="IMG_20200125_200719.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 お面もありました:
 
-[image:45842E5E-09E6-4A3B-BAF7-F72238D84D30-12414-00000B5A1B7B79A4/Photo Jan 27, 2020 150126.jpg]
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49450707352/in/album-72157712859847972/" title="IMG_20200125_201256.jpg"><img src="https://live.staticflickr.com/65535/49450707352_c8fab073b6_z.jpg" width="640" height="480" alt="IMG_20200125_201256.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 2日目: 色々と観光
 2日目は色々と観光してきました。初日の空港で出会った観光ガイドさんにアレンジしてもらいました。滞在期間が短かったので、お金で解決した感があります。。
