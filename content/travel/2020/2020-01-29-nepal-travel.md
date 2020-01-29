@@ -48,7 +48,7 @@ image = "https://live.staticflickr.com/65535/49450740856_d5fd2be650_z.jpg"
 ### エベレストエキスプレス
 Yeti航空の[エベレストエキスプレス](https://www.yetiairlines.com/destination/everest-express)を利用しました。およそ大人1人で200USD程度でした。
 
-[エベレストエキスプレス](https://www.yetiairlines.com/destination/everest-express]はスエベレストやヒマラヤ山脈の山々を見るツアーですので、視界が悪い場合には視界が良くなるまでフライトが遅延します。私の場合は、6:45発の予定が結局、9:30発に延期になってしまいました。
+[エベレストエキスプレス](https://www.yetiairlines.com/destination/everest-express)はスエベレストやヒマラヤ山脈の山々を見るツアーですので、視界が悪い場合には視界が良くなるまでフライトが遅延します。私の場合は、6:45発の予定が結局、9:30発に延期になってしまいました。
 
 こちらは一度搭乗したけれども、再びターミナルに戻された時の写真です:
 
