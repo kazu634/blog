@@ -91,12 +91,12 @@ Stupaと呼ばれるお寺の周りに門前街が形成されていました。
 
 ここでネパールの人のソウルフード・ダルバートを食べたのですが、写真を撮り忘れ。。エベレストビールはしっかりと写真を撮っていました:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49450783026/in/album-72157712860683891/" title="IMG_20200126_125618.jpg"><img src="https://live.staticflickr.com/65535/49450783026_840edeae1a_z.jpg" width="640" height="480" alt="IMG_20200126_125618.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49450722771/in/album-72157712859847972/" title="00000PORTRAIT_00000_BURST20200126125928143.jpg"><img src="https://live.staticflickr.com/65535/49450722771_98d2fb8247_z.jpg" width="480" height="640" alt="00000PORTRAIT_00000_BURST20200126125928143.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Swayambhunath Stupa: Monkey Templeと呼ばれる仏教のお寺
 最後にMonkey Templeと呼ばれるお寺を訪ねました。山の上にStupaと呼ばれる寺院があります:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49450717287/in/album-72157712859847972/" title="IMG_20200126_145216.jpg"><img src="https://live.staticflickr.com/65535/49450717287_e3ef44c941_z.jpg" width="480" height="640" alt="IMG_20200126_145216.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49450488616/in/dateposted/" title="IMG_20200126_145155.jpg"><img src="https://live.staticflickr.com/65535/49450488616_b1f8f46f82_z.jpg" width="640" height="480" alt="IMG_20200126_145155.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ただここにはお猿さんと犬さんがたくさんいました。仲良くご飯を食べています:
 
