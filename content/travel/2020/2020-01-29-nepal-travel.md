@@ -107,7 +107,7 @@ Stupaと呼ばれるお寺の周りに門前街が形成されていました。
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49450728147/in/album-72157712859847972/" title="IMG_20200126_150633.jpg"><img src="https://live.staticflickr.com/65535/49450728147_9e91f0dd64_z.jpg" width="480" height="640" alt="IMG_20200126_150633.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### まとめ
-エベレストエキスプレスの3時間遅れがあって、もう観光するはずだったのですが時間切れになってしまいました。
+エベレストエキスプレスの3時間遅れがあって、もっと観光するはずだったのですが時間切れになってしまいました。
 
 ### 3日目: 移動日
 3日目は移動日ということで、特にどこへも行っていません。カトマンズだけでも、もう2日程度時間があれば楽しかったのになぁ…と反省しています。
