@@ -70,11 +70,10 @@ steps:
       - sudo hugo -e staging -v -s .
 
   - name: Compress-the-Assets
-    user: root
     image: cibuilds/hugo:0.64.1
     commands:
-      - for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`; do gzip -c ${TARGET} > ${TARGET}.gz; done
-      - for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`; do rm -f ${TARGET}; done
+      - for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`; do sudo gzip -c ${TARGET} > ${TARGET}.gz; done
+      - for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`; do sudo rm -f ${TARGET}; done
 
   - name: housekeep
     image: appleboy/drone-ssh
