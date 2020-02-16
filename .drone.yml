@@ -12,7 +12,6 @@ steps:
   - name: hugo
     image: cibuilds/hugo:0.64.1
     commands:
-      - ls -lR .
       - hugo --cacheDir /tmp -e staging -v -s .
 
   - name: Compress-the-Assets
@@ -67,7 +66,7 @@ steps:
   - name: hugo
     image: cibuilds/hugo:0.64.1
     commands:
-      - ls -lR .
+      - pwd && id & ls -lR /drone/src
       - hugo --cacheDir /tmp -e staging -v -s .
 
   - name: Compress-the-Assets
