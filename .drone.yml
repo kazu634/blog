@@ -58,17 +58,20 @@ name: staging
 
 steps:
   - name: Modify-Amazon-Links
+    user: root
     image: cibuilds/hugo:0.64.1
     commands:
       - grep -l -r ecx.images-amazon.com content/ | sort | uniq | xargs -t --no-run-if-empty sed -ie "s/http:\/\/ecx.images-amazon.com/https:\/\/images-na.ssl-images-amazon.com/g"
       - grep -l -r "http://www.amazon.co.jp/exec" content/ | sort | uniq | xargs -t --no-run-if-empty sed -i -e "s/http:\/\/www.amazon.co.jp\/exec/https:\/\/www.amazon.co.jp\/exec/g"
 
   - name: hugo
+    user: root
     image: cibuilds/hugo:0.64.1
     commands:
-      - sudo hugo -e staging -v -s .
+      - hugo -e staging -v -s .
 
   - name: Compress-the-Assets
+    user: root
     image: cibuilds/hugo:0.64.1
     commands:
       - for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`; do gzip -c ${TARGET} > ${TARGET}.gz; done
