@@ -68,7 +68,7 @@ steps:
     user: root
     image: cibuilds/hugo:0.64.1
     commands:
-      - hugo -e staging -v -s .
+      - hugo --cacheDir /tmp -e staging -v -s .
 
   - name: Compress-the-Assets
     user: root
