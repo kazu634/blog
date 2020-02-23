@@ -21,28 +21,28 @@ SSL/TSL証明書を発行するにあたり、そのドメインの所有者が�
 
 <div class="mermaid">
 sequenceDiagram
-    participant User
-    participant Web Server
-    participant Let’s Encrypt
-    participant DNS
+   participant User
+   participant Web Server
+   participant Let’s Encrypt
+   participant DNS
 
-    Note over User, DNS: 1. Resolve Host Name
-    User ->> DNS: Add A/CNAME record
+   Note over User, DNS: 1. Resolve Host Name
+   User ->> DNS: Add A/CNAME record
 
-    Note over User, DNS: 2. Start Listening (Port 80)
-    User ->> Web Server: Set up Web Server
+   Note over User, DNS: 2. Start Listening (Port 80)
+   User ->> Web Server: Set up Web Server
 
-    Note over User, DNS: 3. Request SSL/TSL Certificate
-    User ->> Let’s Encrypt: Request
-    Let’s Encrypt ->> User: File name
-    Let’s Encrypt ->> User: Token
-    User ->> Web Server: Put the file with the token
-    User ->> Let’s Encrypt: Request to continue
-    Let’s Encrypt ->> DNS: Name Resolution Request
-    DNS ->> Let’s Encrypt: Name Resolution Response
-    Let’s Encrypt ->> Web Server: HTTP Request (Port 80) via Internet
-    Web Server ->> Let’s Encrypt: HTTP Response (200) with the valid token
-    Let’s Encrypt ->> User: SSL/TSL Certificate
+   Note over User, DNS: 3. Request SSL/TSL Certificate
+   User ->> Let’s Encrypt: Request
+   Let’s Encrypt ->> User: File name
+   Let’s Encrypt ->> User: Token
+   User ->> Web Server: Put the file with the token
+   User ->> Let’s Encrypt: Request to continue
+   Let’s Encrypt ->> DNS: Name Resolution Request
+   DNS ->> Let’s Encrypt: Name Resolution Response
+   Let’s Encrypt ->> Web Server: HTTP Request (Port 80) via Internet
+   Web Server ->> Let’s Encrypt: HTTP Response (200) with the valid token
+   Let’s Encrypt ->> User: SSL/TSL Certificate
 </div>
 
 ### DNS-01認証
