@@ -30,7 +30,7 @@ thumbnail = "images/41603208672_984110305c_z.jpg"
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49600167212/in/dateposted-public/" title="Screenshot 2020-02-29 at 8.42.47 PM"><img src="https://live.staticflickr.com/65535/49600167212_728597d7f9_z.jpg" width="640" height="357" alt="Screenshot 2020-02-29 at 8.42.47 PM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-個人的な都合で、東南アジア各国だけでなく、インドと台湾も含めております。また、シンガポールは点にしか過ぎなくなるため、ベトナムとフィリピンの間の領域をシンガポールとしました。
+個人的な都合で、東南アジア各国だけでなく、インドと台湾も含めております。また、シンガポールは点にしか過ぎなくなるため、ベトナムとフィリピンとマレーシアの間の領域をシンガポールとしました。
 
 ## Metabaseでの設定
 [Metabase](https://github.com/metabase/metabase)での設定方法を説明します。
@@ -64,3 +64,6 @@ thumbnail = "images/41603208672_984110305c_z.jpg"
 
 ## まとめ
 地図による可視化はチャレンジしてみたかったのですが、[Metabase](https://github.com/metabase/metabase)による可視化は自分でGeojsonを作成することができるため、カスタマイズが可能で色々と試してみたくなります。
+
+## 参考
+- [Metabaseをお試しで使ってみた](https://blog.kazu634.com/labs/linux/2018-07-02-play-with-metabase/)
