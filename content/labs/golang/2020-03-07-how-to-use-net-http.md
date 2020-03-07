@@ -11,7 +11,7 @@ Golang標準ライブラリの`net/http`でREST APIをたたく時に必要と�
 ## 基本のお作法
 基本はこんな感じになります:
 
-```go
+```
 package main
 
 import (
@@ -63,7 +63,7 @@ func run(args []string) int {
 ### ヘッダーを追加したい
 以下のように、生成した`HTTP Requst`オブジェクトにヘッダーを追加します:
 
-```go
+```
     header := http.Header{}
     header.Set("Content-Length", "10000")
     header.Add("Content-Type", "application/json")
@@ -75,7 +75,7 @@ func run(args []string) int {
 ### HTTPリクエストボディーを指定したい
 `http.NewRequest`で`HTTP Request`オブジェクト作成時の3番目の引数に指定します:
 
-```go
+```
     req, err := http.NewRequest("POST", "ここにエンドポイントのURL", byte.NewBuffer(“foo”))
 ```
 
@@ -84,7 +84,7 @@ func run(args []string) int {
 ### HTTPリクエストボディーにJSONを指定したい
 `encoding/json`の`json.Marshal`関数で`JSON`オブジェクトを作成し、`byte`オブジェクトに変換します。以下抜粋です:
 
-```go
+```
 type RequestBody struct {
     EventId string `json:"eventId"`
     Message string `json:"message"`
@@ -111,7 +111,7 @@ type RequestBody struct {
 ### HTTPレスポンスで受け取ったJSONを扱いたい
 受け取るレスポンスに対応する構造体を定義して、`json.Unmarsha()`を利用します。[JSON-to-Go: Convert JSON to Go instantly](https://mholt.github.io/json-to-go/)を使うと幸せになれるよ。
 
-```go
+```
 type Response struct {
     Timestamp  int64  `json:"timestamp"`
     Status     int    `json:"status"`
