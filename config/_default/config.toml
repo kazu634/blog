@@ -4,7 +4,7 @@ languageCode = "ja"
 theme = "angels-ladder"
 
 [params]
-  subtitle = "I wanna be a Jedi Padawan."
+  subtitle = "Named after the quotation from Wind, Sand, and Stars by Saint Exupery."
   facebook = "https://www.facebook.com/kazu634"
   twitter = "https://twitter.com/MusashiKazuhiro"
   github = "https://github.com/kazu634"
