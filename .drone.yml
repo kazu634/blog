@@ -10,7 +10,7 @@ steps:
       - grep -l -r "http://www.amazon.co.jp/exec" content/ | sort | uniq | xargs -t --no-run-if-empty sed -i -e "s/http:\/\/www.amazon.co.jp\/exec/https:\/\/www.amazon.co.jp\/exec/g"
 
   - name: hugo
-    image: cibuilds/hugo:0.64.1
+    image: cibuilds/hugo:0.69.0
     commands:
       - sudo hugo -e production -v -s .
 
@@ -64,7 +64,7 @@ steps:
       - grep -l -r "http://www.amazon.co.jp/exec" content/ | sort | uniq | xargs -t --no-run-if-empty sed -i -e "s/http:\/\/www.amazon.co.jp\/exec/https:\/\/www.amazon.co.jp\/exec/g"
 
   - name: hugo
-    image: cibuilds/hugo:0.64.1
+    image: cibuilds/hugo:0.69.0
     commands:
       - sudo hugo -e staging -v -s .
 
