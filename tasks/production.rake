@@ -4,7 +4,7 @@ require 'find'
 
 desc 'Deploy the hugo contents to the server'
 task :prod => [:prep] do
-  sh 'hugo -v'
+  sh 'hugo -v --minify'
 
   sh 'find public -type f -name "*.gz" -delete'
 
