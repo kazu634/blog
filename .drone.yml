@@ -18,7 +18,7 @@ steps:
     image: alpine:3.9
     commands:
       - for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`; do gzip -c ${TARGET} > ${TARGET}.gz; done
-      - for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`; do rm -f ${TARGET}; done
+      - for TARGET in `find public/ -type f | egrep "\.(html|HTML)$"`; do gzip -c ${TARGET} > ${TARGET}.gz; done
 
   - name: housekeep
     image: appleboy/drone-ssh
@@ -72,7 +72,7 @@ steps:
     image: alpine:3.9
     commands:
       - for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`; do gzip -c ${TARGET} > ${TARGET}.gz; done
-      - for TARGET in `find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$"`; do rm -f ${TARGET}; done
+      - for TARGET in `find public/ -type f | egrep "\.(html|HTML)$"`; do gzip -c ${TARGET} > ${TARGET}.gz; done
 
   - name: housekeep
     image: appleboy/drone-ssh
