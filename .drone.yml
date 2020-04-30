@@ -17,8 +17,7 @@ steps:
   - name: Compress-the-Assets
     image: alpine:3.9
     commands:
-      - find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$" | xargs -n 1 -i% -P 0 -t sh -c 'cp % %.bk && gzip % && mv %.bk %'
-      - find public/ -type f | egrep "\.(html|HTML)$" | xargs -n 1 -i% -P 0 -t sh -c 'cp % %.bk && gzip % && mv %.bk %'
+      - find public/ -type f | egrep "\.(css|js|png|jpg|html|JPG|PNG|CSS|JS|HTML)$" | xargs -n 1 -i% -P 0 sh -c 'cp % %.bk && gzip % && mv %.bk %'
 
   - name: housekeep
     image: appleboy/drone-ssh
@@ -71,8 +70,7 @@ steps:
   - name: Compress-the-Assets
     image: alpine:3.9
     commands:
-      - find public/ -type f | egrep "\.(css|js|png|jpg|JPG|PNG|CSS|JS)$" | xargs -n 1 -i% -P 0 -t sh -c 'cp % %.bk && gzip % && mv %.bk %'
-      - find public/ -type f | egrep "\.(html|HTML)$" | xargs -n 1 -i% -P 0 -t sh -c 'cp % %.bk && gzip % && mv %.bk %'
+      - find public/ -type f | egrep "\.(css|js|png|jpg|html|JPG|PNG|CSS|JS|HTML)$" | xargs -n 1 -i% -P 0 sh -c 'cp % %.bk && gzip % && mv %.bk %'
 
   - name: housekeep
     image: appleboy/drone-ssh
