@@ -19,7 +19,7 @@ SSL/TSL証明書を発行するにあたり、そのドメインの所有者が�
 ### HTTP-01認証
 ドメインの所有者であれば、そのドメインにアクセスした際に表示されるコンテンツを自由にできるはずですので、それを利用した認証方式です。具体的には[Let&#39;s Encrypt](https://letsencrypt.org/)から送られてきたトークンを記入したファイルをウェブサーバで配信できる状態にして、[Let&#39;s Encrypt](https://letsencrypt.org/)にそのファイル・トークンを確認してもらうことで、ドメインを所有していることを証明します。
 
-<div class="mermaid">
+{{<mermaid align="center">}}
 sequenceDiagram
     participant User
     participant Web Server
@@ -43,7 +43,7 @@ sequenceDiagram
     Let’s Encrypt ->> Web Server: HTTP Request (Port 80) via Internet
     Web Server ->> Let’s Encrypt: HTTP Response (200) with the valid token
     Let’s Encrypt ->> User: SSL/TSL Certificate
-</div>
+{{< /mermaid >}}
 
 ### DNS-01認証
 ドメインの所有者であれば、
@@ -53,7 +53,7 @@ sequenceDiagram
 
 はずですので、それを利用した認証方式です。[Let&#39;s Encrypt](https://letsencrypt.org/)から送られてきたトークンをTXTレコードに指定し、それを[Let&#39;s Encrypt](https://letsencrypt.org/)に確認してもらうことで、ドメインを所有していることを証明します。
 
-<div class="mermaid">
+{{<mermaid align="center">}}
 sequenceDiagram
     participant User
     participant Let’s Encrypt
@@ -73,14 +73,14 @@ sequenceDiagram
     else TXT record: not valid
         Let’s Encrypt ->> User: Failure Notice
     end
-</div>
+{{< /mermaid >}}
 
 ### ここまでのまとめ
 [Lego](https://github.com/go-acme/lego)はコマンドラインで[Let&#39;s Encrypt](https://letsencrypt.org/)を用いてSSL/TSL証明書を発行するツールです。DNS認証にも対応しており、各種マネージドのDNSサービスを利用することで、自動的にTXTレコードを変更して、SSL/TSL証明書を取得することができます。
 
 おおまかな処理の流れをまとめると、以下のようになります。[Lego](https://github.com/go-acme/lego)を利用することで、煩雑な手続きをまとめて実行してくれていることがわかると思います:
 
-<div class="mermaid">
+{{<mermaid align="center">}}
 sequenceDiagram
     participant User
     participant Lego
@@ -98,7 +98,7 @@ sequenceDiagram
     DNS ->> Let’s Encrypt: Return the TXT record
     Let’s Encrypt ->> Lego: SSL/TSL Certificate
     Lego ->> User: SSL/TSL Certificate
-</div>
+{{< /mermaid >}}
 
 この記事ではAWSのマネージドDNSサービス・[Amazon Route 53](https://aws.amazon.com/route53/)を利用して、SSL/TSL証明書を取得してみます。
 
@@ -108,7 +108,7 @@ githubからダウンロードします。
 ### ダウンロード
 ファイルのダウンロードは何でも構いませんが、たとえば以下のようになるかと思います:
 
-```
+```sh
 kazu634@ip-10-0-1-234% wget https://github.com/go-acme/lego/releases/download/v2.4.0/lego_v2.4.0_linux_amd64.t
 ar.gz
 --2019-03-31 04:33:09--  https://github.com/go-acme/lego/releases/download/v2.4.0/lego_v2.4.0_linux_amd64.tar.gz
@@ -131,7 +131,7 @@ lego_v2.4.0_linux_amd64.tar 100%[=========================================>]   8
 ### 解凍
 解凍方法は以下のようになるかと思います:
 
-```
+```sh
 kazu634@ip-10-0-1-234% tar xvzf lego_v2.4.0_linux_amd64.tar.gz                                      [~/works]
 CHANGELOG.md
 LICENSE
@@ -152,7 +152,7 @@ drwxr-xr-x 14 kazu634 kazu634 4.0K Mar 31 04:34 ..
 ### 下準備
 コマンドラインのヘルプはこんな感じになります:
 
-```
+```sh
 kazu634@ip-10-0-1-234% ./lego dnshelp
 Credentials for DNS providers must be passed through environment variables.
 
@@ -168,7 +168,7 @@ More information: https://go-acme.github.io/lego/dns
 
 [Amazon Route 53](https://aws.amazon.com/route53/)特有の注意事項はこちら:
 
-```
+```sh
 kazu634@ip-10-0-1-234% ./lego dnshelp -c route53
 Configuration for Amazon Route 53.
 Code: 'route53'
@@ -194,7 +194,7 @@ Additional Configuration:
 
 つまりこのようなフローになります:
 
-<div class="mermaid">
+{{<mermaid align="center">}}
 sequenceDiagram
     participant User
     participant Lego
@@ -216,7 +216,7 @@ sequenceDiagram
     Route53 ->> Let’s Encrypt: Return the TXT record
     Let’s Encrypt ->> Lego: SSL/TSL Certificate
     Lego ->> User: SSL/TSL Certificate
-</div>
+{{< /mermaid >}}
 
 ### AWS_ACCESS_KYE_IDとAWS_SECRET_ACCESS_KEYの調べ方
 後で書く
@@ -229,7 +229,7 @@ sequenceDiagram
 ### 証明書の取得
 それでは証明書を取得してみます。以下のように実行することになると思います:
 
-```
+```sh
 kazu634@ip-10-0-1-234% export AWS_ACCESS_KEY_ID="xxxx"
 kazu634@ip-10-0-1-234% export AWS_SECRET_ACCESS_KEY="yyyy"
 kazu634@ip-10-0-1-234% export AWS_HOSTED_ZONE_ID="zzzz"
@@ -257,7 +257,7 @@ kazu634@ip-10-0-1-234% ./lego --dns route53 --domains lego.kazu634.com --email s
 ### nginxで証明書を指定する
 以下のように証明書が取得されているはずです:
 
-```
+```sh
 kazu634@ip-10-0-1-234% pwd
 /home/kazu634/works/.lego/certificates
 
@@ -273,7 +273,7 @@ drwxr-xr-x 4 kazu634 kazu634 4.0K Mar 31 04:59 ..
 
 この場合、`nginx`には以下のように指定します:
 
-```
+```nginx
     ssl_certificate     /home/kazu634/works/.lego/certificates/lego.kazu634.com.crt;
     ssl_certificate_key /home/kazu634/works/.lego/certificates/lego.kazu634.com.key;
 ```
@@ -288,7 +288,7 @@ drwxr-xr-x 4 kazu634 kazu634 4.0K Mar 31 04:59 ..
 
 その後は通常通り、コマンドを実行します:
 
-```
+```sh
 kazu634@ip-10-0-1-234% ./lego --dns route53 --domains "*.kazu634.com" --email simoom634@yahoo.co.jp run
 2019/03/31 06:26:23 [INFO] [*.kazu634.com] acme: Obtaining bundled SAN certificate
 2019/03/31 06:26:23 [INFO] [*.kazu634.com] AuthURL: https://acme-v02.api.letsencrypt.org/acme/authz/FSIRwOjEhpS6H5U0hV2OT-s1ez8qRlHFNmLZ3-0PNw8

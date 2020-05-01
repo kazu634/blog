@@ -18,7 +18,7 @@ image="https://farm9.staticflickr.com/8462/29581774242_bf25a0a820_z.jpg"
 ## 簡単な説明
 下の図のLineBotServerの部分を作り込みます:
 
-<div class="mermaid">
+{{<mermaid align="center">}}
 sequenceDiagram
   User->>Line: Some Action(s)
   Line->>LineBotServer: Make HTTP Request
@@ -29,7 +29,7 @@ sequenceDiagram
     LineBotServer->>Line: Make HTTP Request, using REST API
     Line->>User: Show some message(s) as Reply
   end
-</div>
+{{< /mermaid >}}
 
 ## Line Developerに登録する
 [お金をかけずにLINEのMessaging APIの投稿(push)と返信(replay)を試してみる。 | ポンコツエンジニアのごじゃっぺ開発日記。](https://blog.pnkts.net/2018/06/03/line-messaging-api/)に書いてある通りに進めます。
@@ -116,7 +116,7 @@ Botのcallback URLに対して、データをPOSTリクエストで送信する�
 クイックレスポンスの時にのみ利用できるアクションのようです。位置情報の画面が出てくるようです。
 
 ## コード
-```
+```go
 package main
 
 import (
