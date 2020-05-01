@@ -8,12 +8,7 @@ task :stag => [:prep] do
 
   sh 'find public -type f -name "*.gz" -delete'
 
-  Find.find("#{Dir::pwd}/public") do |f|
-    if f =~ /\.(css|js|png|jpg|html|JPG|PNG|CSS|JS|HTML)$/ && FileTest.file?(f)
-      sh "gzip -c #{f} > #{f}.gz"
-      # sh "rm #{f}"
-    end
-  end
+  sh 'find public/ -type f | egrep "\.(css|js|png|jpg|html|JPG|PNG|CSS|JS|HTML)$" | xargs -n 1 -i% -P 0 sh -c "cp % %.bk && gzip % && mv %.bk %"'
 
   sh 'ssh -p 10022 webadm@10.0.1.166 "rm -rf /var/www/test/*"'
   sh 'rsync -e "ssh -p 10022" -rltvz --omit-dir-times --delete public/ webadm@10.0.1.166:/var/www/test'
