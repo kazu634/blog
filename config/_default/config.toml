@@ -13,11 +13,8 @@ theme = "angels-ladder"
   copyright = "Written by Kazuhiro MUSASHI"
 
 [markup]
+
   [markup.highlight]
     codeFences = true
     guessSyntax = true
     style = "monokai"
-
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe= true
