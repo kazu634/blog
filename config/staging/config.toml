@@ -13,4 +13,8 @@ theme = "angels-ladder"
   copyright = "Written by Kazuhiro MUSASHI"
 
 [markup]
-  defaultMarkdownHandler = "blackfriday"
+
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    style = "monokai"
