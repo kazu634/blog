@@ -1,7 +1,7 @@
 +++
 title = "Kubernetes上でJupyterを稼働させる"
 date = 2020-05-10T18:12:22+08:00
-Description = "GolangからOLEを利用することでOutlookを操作してみました。"
+Description = "データサイエンティスト入門講座を受講するため、Jupyterをお家Kubernetes上で動作させました。"
 Tags = []
 Categories = ["python", "jupyter", "kubernetes"]
 +++
