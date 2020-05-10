@@ -16,7 +16,7 @@ Udemyがバーゲンをしていることに気づいたため、日本のゴー
 ## JupyterのDockerイメージに日本語フォントを導入する
 [Jupyterのmatplotlibを使用する際の日本語豆腐を解決 - Qiita](https://qiita.com/Gvling/items/29516eebccf527e7be5d)を参考にして、日本語フォントを導入します:
 
-```
+```docker
 FROM jupyter/datascience-notebook
 
 COPY ./ipag.ttf /opt/conda/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/ipag.ttf
@@ -34,7 +34,7 @@ Kubernetesの設定をまとめます。
 ### Persistent Volume
 Persistent Volumeはお家NASからNFSで領域を確保しています。
 
-```
+```yaml
 apiVersion: v1                                                                                               
 kind: PersistentVolume                                                                                       
 metadata:                                                                                                    
@@ -81,7 +81,7 @@ spec:
 ### Persistent Volume Claim
 確保したPersistent Volumeから、領域を確保します。
 
-```
+```yaml
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
@@ -120,7 +120,7 @@ spec:
 ### Deployment
 Deploymentの設定で、`Jupyter`のコンテナをデプロイします。レプリカの数は1個にしています。おそらく複数コンテナを起動しても、ステートレスに接続できないと考えたためです。
 
-```
+```yaml
 apiVersion: apps/v1                                                                                          
 kind: Deployment                                                                                             
 metadata:                                                                                                    
@@ -169,7 +169,7 @@ spec:
 ### serviceの設定
 serviceの設定は以下になります。プライベートIPアドレスの`192.168.10.210/24`でアクセスできるようにしています。ポート番号は80にしました。
 
-```
+```yaml
 apiVersion: v1
 kind: Service
 metadata:
