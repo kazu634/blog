@@ -25,7 +25,7 @@ Categories = ["python", "jupyter"]
 ### Pandasで出力される基本統計量について
 `describe()`を実行すると、以下の要素が出力されます:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49901856442/" title="Untitled"><img src="https://live.staticflickr.com/65535/49901856442_66b5bb48d6_z.jpg" width="640" height="385" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49901856482/" title="Untitled"><img src="https://live.staticflickr.com/65535/49901856482_b61612ba85_z.jpg" width="640" height="319" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ここの要素の説明は以下になります:
 
