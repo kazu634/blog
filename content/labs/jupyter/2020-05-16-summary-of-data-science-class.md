@@ -11,7 +11,13 @@ Categories = ["python", "jupyter"]
 ## 前提
 [【Practice】Boxed Lunch Sales Forecasting | SIGNATE - Data Science Competition](https://signate.jp/competitions/24)で入手できる、以下のような表データを例に取り上げて見ていきます:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49901856477/" title="Untitled"><img src="https://live.staticflickr.com/65535/49901856477_5c36c25a40_z.jpg" width="640" height="147" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+|   | datetime   | y   | week | soldout | name                 | kcal | remarks | event | payday | weather | precipitation | temperature |
+|---|------------|-----|------|---------|----------------------|------|---------|-------|--------|---------|---------------|-------------|
+| 0 | 2013-11-18 | 90  | 月   | 0       | 厚切りイカフライ     | NaN  | NaN     | NaN   | NaN    | 快晴    | --            | 19.8        |
+| 1 | 2013-11-19 | 101 | 火   | 1       | 手作りヒレカツ       | NaN  | NaN     | NaN   | NaN    | 快晴    | --            | 17.0        |
+| 2 | 2013-11-20 | 118 | 水   | 0       | 白身魚唐揚げ野菜あん | NaN  | NaN     | NaN   | NaN    | 快晴    | --            | 15.5        |
+| 3 | 2013-11-21 | 120 | 木   | 1       | 若鶏ピリ辛焼         | NaN  | NaN     | NaN   | NaN    | 快晴    | --            | 15.2        |
+| 4 | 2013-11-22 | 130 | 金   | 1       | ビッグメンチカツ     | NaN  | NaN     | NaN   | NaN    | 快晴    | --            | 16.1        |
 
 ## 基本統計量について
 [基本統計量 | トライフィールズ](https://www.trifields.jp/statistical-analysis-basic-statistics-164)によれば、
@@ -25,7 +31,16 @@ Categories = ["python", "jupyter"]
 ### Pandasで出力される基本統計量について
 `describe()`を実行すると、以下の要素が出力されます:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49901856482/" title="Untitled"><img src="https://live.staticflickr.com/65535/49901856482_b61612ba85_z.jpg" width="640" height="319" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+|       | y          | soldout    | kcal       | payday | temperature |
+|-------|------------|------------|------------|--------|-------------|
+| count | 207.000000 | 207.000000 | 166.000000 | 10.0   | 207.000000  |
+| mean  | 86.623188  | 0.449275   | 404.409639 | 1.0    | 19.252174   |
+| std   | 32.882448  | 0.498626   | 29.884641  | 0.0    | 8.611365    |
+| min   | 29.000000  | 0.000000   | 315.000000 | 1.0    | 1.200000    |
+| 25%   | 57.000000  | 0.000000   | 386.000000 | 1.0    | 11.550000   |
+| 50%   | 78.000000  | 0.000000   | 408.500000 | 1.0    | 19.800000   |
+| 75%   | 113.000000 | 1.000000   | 426.000000 | 1.0    | 26.100000   |
+| max   | 171.000000 | 1.000000   | 462.000000 | 1.0    | 34.600000   |
 
 ここの要素の説明は以下になります:
 
@@ -72,7 +87,16 @@ Categories = ["python", "jupyter"]
 
 このグラフを見ると、40〜60の値をとっているデータの個数が一番多いということがわかります。注目している列の基本統計量を見ると、このようになっています:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/49901856442/" title="Untitled"><img src="https://live.staticflickr.com/65535/49901856442_66b5bb48d6_z.jpg" width="640" height="385" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+| Item  | Value      |
+|-------|------------|
+| count | 207.00000  |
+| mean  | 86.623188  |
+| std   | 32.882448  |
+| min   | 29.000000  |
+| 25%   | 57.000000  |
+| 50%   | 78.000000  |
+| 75%   | 113.000000 |
+| max   | 171.000000 |
 
 y軸の合計が207。「平均値±標準偏差」の区間に大体のデータが集約されているので、54〜118の区間に大体のデータが集まっている。平均は86で、中央値は78。
 
