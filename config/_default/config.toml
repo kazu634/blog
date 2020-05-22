@@ -12,6 +12,13 @@ theme = "angels-ladder"
   analytics = "UA-57665492-1"
   copyright = "Written by Kazuhiro MUSASHI"
 
+  description = "the blog written by @MusashiKazuhiro"
+  title = "His greatness lies in his sense of responsibility"
+  images = ["/images/profile.png"]
+
+[taxonomies]
+  series = "series"
+
 [markup]
   [markup.highlight]
     codeFences = true
