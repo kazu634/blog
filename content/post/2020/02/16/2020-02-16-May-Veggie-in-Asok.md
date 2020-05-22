@@ -3,7 +3,7 @@ title = "May Veggieを訪ねてきました"
 date = 2020-02-16T10:10:34+08:00
 Description = "Asokにあるベジタリアンレストラン May Veggie を訪ねてきました"
 Categories = ["Bangkok"]
-image="https://live.staticflickr.com/65535/49542629583_ab6c53794e_z.jpg"
+images=["https://live.staticflickr.com/65535/49542629583_ab6c53794e_z.jpg"]
 +++
 
 May VeggieはAsok駅近くのベジタリアンレストラン。これ、本当にベジタリアン！？という新鮮な驚きを味わったのでした。

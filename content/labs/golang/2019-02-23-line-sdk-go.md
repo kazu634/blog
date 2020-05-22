@@ -4,7 +4,7 @@ date = 2019-03-03T19:12:22+08:00
 Description = "GolangでLine APIを利用してみましたよ。"
 Tags = []
 Categories = ["golang", "programming"]
-image="https://farm9.staticflickr.com/8462/29581774242_bf25a0a820_z.jpg"
+images = ["https://farm9.staticflickr.com/8462/29581774242_bf25a0a820_z.jpg"]
 +++
 
 # GolangでLine APIをいじくる

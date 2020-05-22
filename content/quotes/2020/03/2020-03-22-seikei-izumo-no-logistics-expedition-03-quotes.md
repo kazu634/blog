@@ -4,7 +4,7 @@ date = 2020-03-22
 Description = "星系出雲兵站-遠征- 3で気になった部分をまとめています"
 Tags = []
 Categories = []
-image = "https://m.media-amazon.com/images/I/51Dv5DmDJbL._SL160_.jpg"
+images = ["https://m.media-amazon.com/images/I/51Dv5DmDJbL._SL160_.jpg"]
 +++
 
 [星系出雲兵站-遠征- 3](https://www.amazon.co.jp/exec/obidos/ASIN/B084SVWRPL/simsnes-22/)で気になった部分をまとめました。

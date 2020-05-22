@@ -4,7 +4,7 @@ date = 2019-07-16
 Description = "元F1レーサーのジェンソン・バトンがスーパーGTドライバーになるにあたってのコメントを引用しました"
 Tags = []
 Categories = []
-thumbnail = "https://live.staticflickr.com/4862/45016957865_5f33ef4891_z.jpg"
+images = ["https://live.staticflickr.com/4862/45016957865_5f33ef4891_z.jpg"]
 +++
 
 元F1レーサーのジェンソン・バトンがスーパーGTドライバーになるにあたってのコメントを引用しました:

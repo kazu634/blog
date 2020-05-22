@@ -4,7 +4,7 @@ date = 2018-05-20T22:51:19+08:00
 Description = "数学ガール ポアンカレ予想で気になった部分を引用しておきます"
 Tags = []
 Categories = []
-thumbnail = "images/513qPks0l4L._SL160_.jpg"
+images = ["images/513qPks0l4L._SL160_.jpg"]
 +++
 
 [数学ガール/ポアンカレ予想 \(「数学ガール」シリーズ6\) ](https://www.amazon.co.jp/%E6%95%B0%E5%AD%A6%E3%82%AC%E3%83%BC%E3%83%AB-%E3%83%9D%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%AC%E4%BA%88%E6%83%B3-%E3%80%8C%E6%95%B0%E5%AD%A6%E3%82%AC%E3%83%BC%E3%83%AB%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA6-%E7%B5%90%E5%9F%8E-%E6%B5%A9/dp/4797384786)で気になった部分を引用しておきます:

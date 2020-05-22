@@ -4,7 +4,7 @@ date = 2017-09-03T22:47:31+08:00
 Description = "GolangでどうすればExcelファイルを読み込めるのか調べました。"
 Tags = []
 Categories = ["Golang"]
-thumbnail = "images/6052788455_79a263eeea.jpg"
+images = ["images/6052788455_79a263eeea.jpg"]
 +++
 
 `github.com/tealeg/xlsx`を用いればいいみたいということがわかりました。

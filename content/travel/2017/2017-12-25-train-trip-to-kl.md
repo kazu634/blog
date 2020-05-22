@@ -5,7 +5,7 @@ Description = " 「世界の車窓から」でマレー鉄道が取り上げら�
 Tags = ["Malaysia", "Kuala Lumpur"]
 Categories = ["旅行"]
 draft = false
-thumbnail = "images/38373120425_473aeced91_z.jpg"
+images = ["images/38373120425_473aeced91_z.jpg"]
 +++
 
 「世界の車窓から」でマレー鉄道が取り上げられているのを見て、ふと思い立ってジョホールバルからクアラルンプールまで電車で移動してみました。

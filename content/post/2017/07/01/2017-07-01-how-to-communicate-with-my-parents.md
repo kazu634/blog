@@ -5,7 +5,7 @@ Categories = ["メモ"]
 date = "2017-07-01T20:45:07+08:00"
 title = "両親とのコミュニケーション手段を確保するよ"
 draft = false
-image="https://farm3.staticflickr.com/2945/15231860837_337b8b0360_z.jpg"
+images = ["https://farm3.staticflickr.com/2945/15231860837_337b8b0360_z.jpg"]
 +++
 
 いま私はシンガポールで働いているのですが、私の会社では一年に一度12日間を日本で過ごす休暇をいただくことができます。ちょうどお盆期間中に日本に一時帰国予定です。

@@ -1,5 +1,5 @@
 +++
-thumbnail = "images/5691141369_0eb8199f37_z.jpg"
+images = ["images/5691141369_0eb8199f37_z.jpg"]
 tags = []
 categories = ["golang", "programming"]
 date = "2018-09-02T18:40:47+09:00"

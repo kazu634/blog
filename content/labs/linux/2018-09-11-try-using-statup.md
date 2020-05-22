@@ -1,5 +1,5 @@
 +++
-thumbnail = "images/43806262985_22aca620eb_z.jpg"
+images = ["images/43806262985_22aca620eb_z.jpg"]
 tags = []
 categories = ["インフラ"]
 date = "2018-09-11T01:25:05+09:00"

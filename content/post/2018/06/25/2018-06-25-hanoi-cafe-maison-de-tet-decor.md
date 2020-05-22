@@ -4,7 +4,7 @@ date = 2018-06-25T23:36:05+08:00
 Description = "Hanoi市街地から少し離れた宝石のようなカフェに行ってきました。"
 Tags = ["Hanoi"]
 Categories = ["旅行"]
-thumbnail = "images/41335917114_1c1d187c35_o.jpg"
+images = ["images/41335917114_1c1d187c35_o.jpg"]
 +++
 
 Hanoiの週末に訪れたカフェ。とてもお洒落で雰囲気のいいお店。また訪れたい。

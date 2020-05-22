@@ -4,7 +4,7 @@ date = 2018-05-18T21:03:59+08:00
 Description = "ハノイの週末を360度カメラで撮影してきました。"
 Tags = ["Hanoi"]
 Categories = ["旅行"]
-thumbnail = "images/42033629132_bc6df9c4d0_o.jpg"
+images = ["images/42033629132_bc6df9c4d0_o.jpg"]
 +++
 
 ハノイの週末を360度カメラで撮影してきました。
