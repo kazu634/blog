@@ -4,7 +4,7 @@ Description = "シンガポールでIELTSの試験を受けました。IELTSが�
 Tags = ["Singapore"]
 date = "2016-02-28T23:03:10+08:00"
 title = "シンガポールで資格試験を受けてきて日本と違うなと思った3つのこと"
-thumbnail = "images/14345331717_5cf5cde59d_z.jpg"
+images = ["images/14345331717_5cf5cde59d_z.jpg"]
 +++
 
 英会話の先生に勧められて、[IELTS](https://ja.wikipedia.org/wiki/IELTS)の試験を受けてきました。[IELTS](https://ja.wikipedia.org/wiki/IELTS)というのは、

@@ -5,7 +5,7 @@ Tags = []
 date = "2016-10-31T21:07:13+08:00"
 draft = false
 title = "EdgeRouter XとVyOS on AWSで拠点間VPNを構築する"
-thumbnail = "images/3100879440_3e9d0ff8dc_b.jpg"
+images = ["images/3100879440_3e9d0ff8dc_b.jpg"]
 +++
 
 [EdgeRouter X がすごい \| yabe\.jp](http://yabe.jp/gadgets/edgerouter-x/)に触発されて、EdgeRouter Xを購入しました。手元のハードとしてきちんとしたルーターがあるっていいことだと思います。色々と実験できるので。

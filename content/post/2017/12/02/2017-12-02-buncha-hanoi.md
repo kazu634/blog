@@ -5,7 +5,7 @@ Description = "Hanoi名物のBun Chaを食べました。オバマ元アメリ�
 Tags = ["Hanoi"]
 Categories = ["旅行"]
 draft = false
-thumbnail = "images/38744582481_7916e4511f.jpg"
+images = ["images/38744582481_7916e4511f.jpg"]
 +++
 
 ハノイに来て、名物の[Bun cha](https://en.wikipedia.org/wiki/Bun_cha)を食べて来ました。[Bun cha](https://en.wikipedia.org/wiki/Bun_cha)というのは、

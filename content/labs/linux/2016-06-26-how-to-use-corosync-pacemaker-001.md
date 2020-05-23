@@ -4,7 +4,7 @@ Description = "Pacemaker + Corosyncを用いてクラスタ環境を構築して
 Tags = []
 date = "2016-06-26T23:02:50+08:00"
 title = "Pacemaker + Corosyncを用いてクラスタ環境の構築 - 事前準備"
-thumbnail = "images/7241213444_1c8a40e897.jpg"
+images = ["images/7241213444_1c8a40e897.jpg"]
 +++
 
 お仕事でLinux環境でHAクラスタを検証する必要が出てきたので、手順を調べてみました。

@@ -4,7 +4,7 @@ date = 2019-06-16T16:43:41+07:00
 Description = "2019/05/18-20の期間、ヤンゴン旅行へ行ってきました。ミャンマー仏教の総本山、シェダゴンパゴダへ行ってきました。"
 Tags = ["Yangon"]
 Categories = ["旅行"]
-image="https://live.staticflickr.com/65535/40924208703_2afa35c59b_z.jpg"
+images = ["https://live.staticflickr.com/65535/40924208703_2afa35c59b_z.jpg"]
 +++
 
 ミャンマー仏教の総本山、シェダゴンパゴダに行ってまいりました。Wikipediaによると:

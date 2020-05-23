@@ -5,7 +5,7 @@ Description = "有名？な点心屋さんに行って、点心を食べてき�
 Tags = ["Singapore", "Chinatown"]
 Categories = ["Chinese"]
 draft = false
-image="https://farm5.staticflickr.com/4304/35433458813_20b70790b9.jpg"
+images = ["https://farm5.staticflickr.com/4304/35433458813_20b70790b9.jpg"]
 +++
 
 

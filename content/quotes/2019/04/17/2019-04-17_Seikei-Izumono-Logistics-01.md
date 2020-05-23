@@ -4,7 +4,6 @@ date = 2019-04-17
 Description = "兵站(= Military Logistics)にスポットを当てたSF小説ということで読んでみました。"
 Tags = []
 Categories = []
-thumbnail = ""
 +++
 
 兵站にスポットを当てたSF小説ということで[星系出雲の兵站 1](https://www.amazon.co.jp/exec/obidos/ASIN/4150313407/simsnes-22/ref=nosim/)が紹介されていたので、読んでみました。

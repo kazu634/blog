@@ -4,7 +4,7 @@ date = 2019-01-06T23:07:40+07:00
 Description = "Golangのライブラリtviewを使うと、お気軽にCUIを作成できるみたいなので、お試しで使ってみました。今回はExcelファイルの中身を確認するよ。"
 Tags = []
 Categories = ["golang", "programming"]
-image="https://farm5.staticflickr.com/4849/45718165635_328355a940_z.jpg"
+images = ["https://farm5.staticflickr.com/4849/45718165635_328355a940_z.jpg"]
 +++
 
 「[gocuiのコンポーネントライブラリを作った話](https://qiita.com/gorilla0513/items/ea26398e6dfcaf0674c2)」という記事を読んでいて、[rivo/tview](https://github.com/rivo/tview)というライブラリを使うと、CUIをお手軽に作成できるようなので、お試しで使ってみました。

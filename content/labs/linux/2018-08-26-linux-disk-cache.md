@@ -1,5 +1,5 @@
 +++
-thumbnail = "images/9592407287_1bb4d50e78_z.jpg"
+images = ["images/9592407287_1bb4d50e78_z.jpg"]
 tags = []
 categories = ["Linux", "インフラ"]
 date = "2018-08-26T23:06:30+08:00"

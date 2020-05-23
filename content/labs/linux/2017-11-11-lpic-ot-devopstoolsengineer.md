@@ -4,7 +4,7 @@ date = 2017-11-11T22:58:38+08:00
 Description = "LPICについて調べていたら、英語でしか受験できないLPIC OT: DevOps Tools Engineerという試験を見つけたよ。最近のオープンソースを用いたDevOps関係のはやりを抑えた試験になっているみたい"
 Tags = []
 Categories = ["Linux"]
-thumbnail = "images/38278788676_0cd63ffc01.jpg"
+images = ["images/38278788676_0cd63ffc01.jpg"]
 draft = false
 +++
 

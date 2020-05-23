@@ -4,7 +4,7 @@ date = 2018-07-02T21:15:53+08:00
 Description = "オープンソースのお手軽BIツール・Metabaseをお試しで使ってみました。これ使えば、エンジニアじゃない人にもグラフを作ってもらえそう"
 Tags = []
 Categories = ["Tools", "Metabase"]
-thumbnail = "images/41603208672_984110305c_z.jpg"
+images = ["images/41603208672_984110305c_z.jpg"]
 +++
 
 [Metabase](https://www.metabase.com/)という、オープンソースのお手軽BIツールがあるということで試してみました。これぐらいお手軽だと、エンジニアじゃない人にも「触ってみて」と言えそうです。
