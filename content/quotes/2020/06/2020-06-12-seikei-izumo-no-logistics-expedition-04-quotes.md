@@ -4,7 +4,7 @@ date = 2020-06-12
 Description = "星系出雲兵站-遠征- 4で気になった部分をまとめています"
 Tags = []
 Categories = []
-images = [""]
+images = ["https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B088TLCPK8&Format= _SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=simsnes-22&language=ja_JP"]
 +++
 
 『[星系出雲の兵站-遠征-4](https://www.amazon.co.jp/%E6%98%9F%E7%B3%BB%E5%87%BA%E9%9B%B2%E3%81%AE%E5%85%B5%E7%AB%99-%E9%81%A0%E5%BE%81-4-%E3%83%8F%E3%83%A4%E3%82%AB%E3%83%AF%E6%96%87%E5%BA%ABJA-%E6%9E%97-%E8%AD%B2%E6%B2%BB/dp/4150314322)』で気になった部分をまとめました。
@@ -106,4 +106,10 @@ images = [""]
 > 天涯で白兵戦を演じた中隊長時代なら、危険を顧みず突っ込んでゆくようなこともできた。しかし、自分の部下が旅団規模になったいま、シャロンにとって部下の安全はかつてないほど重要になった。
 > 
 > 自分が安全な場所にいて、部下だけが必要以上に危険に身を晒すようなことが我慢できないからである。
+
+
+<div class="krb-amzlt-box" style="margin-bottom:0px;"><div class="krb-amzlt-image" style="float:left;margin:0px 12px 1px 0px;"><a href="https://www.amazon.co.jp/%E6%98%9F%E7%B3%BB%E5%87%BA%E9%9B%B2%E3%81%AE%E5%85%B5%E7%AB%99%E2%80%95%E9%81%A0%E5%BE%81%E2%80%95-%EF%BC%94-%E3%83%8F%E3%83%A4%E3%82%AB%E3%83%AF%E6%96%87%E5%BA%ABJA-%E6%9E%97-%E8%AD%B2%E6%B2%BB-ebook/dp/B088TLCPK8/ref=as_li_ss_il?_encoding=UTF8&qid=&sr=&linkCode=li2&tag=simsnes-22&linkId=11d1f6eec2c797a95b604e9ff084cdf9&language=ja_JP" target="_blank" rel="nofollow" rel="nofollow"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B088TLCPK8&Format= _SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=simsnes-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=simsnes-22&language=ja_JP&l=li2&o=9&a=B088TLCPK8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div><div class="krb-amzlt-info" style="line-height:120%; margin-bottom: 10px"><div class="krb-amzlt-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/%E6%98%9F%E7%B3%BB%E5%87%BA%E9%9B%B2%E3%81%AE%E5%85%B5%E7%AB%99%E2%80%95%E9%81%A0%E5%BE%81%E2%80%95-%EF%BC%94-%E3%83%8F%E3%83%A4%E3%82%AB%E3%83%AF%E6%96%87%E5%BA%ABJA-%E6%9E%97-%E8%AD%B2%E6%B2%BB-ebook/dp/B088TLCPK8/ref=as_li_ss_il?_encoding=UTF8&qid=&sr=&linkCode=li2&tag=simsnes-22&linkId=11d1f6eec2c797a95b604e9ff084cdf9&language=ja_JP" name="amazletlink" target="_blank" rel="nofollow" rel="nofollow">星系出雲の兵站―遠征― ４ (ハヤカワ文庫JA) Kindle版</a><div class="krb-amzlt-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">posted with <a href="https://kaereba.com/wind/" title="amazlet" target="_blank" rel="nofollow" rel="nofollow">カエレバ</a></div></div><div class="krb-amzlt-detail"></div><div class="krb-amzlt-sub-info" style="float: left;"><div class="krb-amzlt-link" style="margin-top: 5px"><a href="https://www.amazon.co.jp/%E6%98%9F%E7%B3%BB%E5%87%BA%E9%9B%B2%E3%81%AE%E5%85%B5%E7%AB%99%E2%80%95%E9%81%A0%E5%BE%81%E2%80%95-%EF%BC%94-%E3%83%8F%E3%83%A4%E3%82%AB%E3%83%AF%E6%96%87%E5%BA%ABJA-%E6%9E%97-%E8%AD%B2%E6%B2%BB-ebook/dp/B088TLCPK8/ref=as_li_ss_il?_encoding=UTF8&qid=&sr=&linkCode=li2&tag=simsnes-22&linkId=11d1f6eec2c797a95b604e9ff084cdf9&language=ja_JP" name="amazletlink" target="_blank" rel="nofollow" rel="nofollow">Amazon.co.jpで詳細を見る</a></div></div></div><div class="krb-amzlt-footer" style="clear: left"></div></div>
+
+
+
 
