@@ -9,6 +9,8 @@ chart=true
 『グラフを作る前に読む本』に、グラフをどのようにようにように使い分けるかについてまとめられていたのでメモします。
 
 ## まとめるとこんな感じ
+書いてあることをまとめると、以下のようになるようです:
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/50000844672/" title="Untitled"><img src="https://live.staticflickr.com/65535/50000844672_9eb0556d44_z.jpg" width="640" height="340" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 各グラフの使いどころ
@@ -21,8 +23,8 @@ chart=true
 > 「高さ」を比べて項目の量の違いを感覚的につかめるのが棒グラフの特徴です。
 
 
-{{<chart height="200">}}
-    var ctx = document.getElementById('myChart');
+{{<chart canvas="box" height="200">}}
+    var ctx = document.getElementById('box');
     var myChart = new Chart(ctx, {
     type: 'bar',
     data: {
@@ -60,3 +62,9 @@ chart=true
     }
 });
 {{< /chart >}}
+
+
+項目の並び順に気をつけると、もっとわかりやすくなるそうです:
+
+> 棒グラフの一番得意な表現方法は「比較」だと述べました。しかし、単純に「比較」するといっても、どのようにデータ項目を並べるかで伝わり方は大きく変わります。棒グラフを作成する秘訣は、何を「比較」するためにデータ項目を並べるか、その順番にあると言っても、過言ではありません。
+
