@@ -6,11 +6,24 @@ images = [""]
 chart=true
 +++
 
-テスト。
+『グラフを作る前に読む本』に、グラフをどのようにようにように使い分けるかについてまとめられていたのでメモします。
 
-{{<chart>}}
-var ctx = document.getElementById('myChart');
-var myChart = new Chart(ctx, {
+## まとめるとこんな感じ
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/50000844672/" title="Untitled"><img src="https://live.staticflickr.com/65535/50000844672_9eb0556d44_z.jpg" width="640" height="340" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## 各グラフの使いどころ
+
+### 棒グラフ
+棒グラフの特徴として、以下のようにまとめられていました:
+
+> 棒グラフでは、複数並んだ棒の高さを比べて「棒が大きい(小さい)項目はどれだろう？」と考えます。つまり棒グラフが一番得意な表現方法はデータの「比較」です。棒グラフを使えば、比べたいデータを最も分かりやすクズで表現できます。
+> 
+> 「高さ」を比べて項目の量の違いを感覚的につかめるのが棒グラフの特徴です。
+
+
+{{<chart height="200">}}
+    var ctx = document.getElementById('myChart');
+    var myChart = new Chart(ctx, {
     type: 'bar',
     data: {
         labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
