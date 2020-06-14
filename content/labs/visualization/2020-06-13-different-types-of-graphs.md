@@ -203,7 +203,7 @@ chart=true
           suggestedMin: 0,
           stepSize: 10,
           callback: function(value, index, values){
-            return  value +  'points'
+            return  value
           }
         }
       }
