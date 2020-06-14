@@ -92,7 +92,7 @@ chart=true
                 'rgba(0,0,0,0)',
                 'rgba(0,0,0,0)',
                 'rgba(0,0,0,0)'
-            },
+            ],
             borderColor: [
                 'rgba(255, 99, 132, 1)',
                 'rgba(54, 162, 235, 1)',
