@@ -167,7 +167,7 @@ chart=true
 レーダーチャートの特徴は以下のようにまとめられていました:
 
 - レーダーチャートが一番得意な表現方法は複数あるデータ項目の「比較」
-- 線で結ばれた面の「大きさ」、「滑らかさ」を比べてデータの代償を感覚的に掴めるのがレーダーチャートの特徴
+- 線で結ばれた面の「大きさ」、「滑らかさ」を比べてデータの大小を感覚的に掴めるのがレーダーチャートの特徴
 - 特定のデータ項目のみに現れた傾向を比較したいのか、データ項目同士を比較したいのか、グラフを作る前に方針を決めておく
 
 {{<chart canvas="radar-chart" height="200">}}
@@ -199,11 +199,12 @@ chart=true
       },
       scale:{
         ticks:{
-        suggestedMax: 100,
-        suggestedMin: 0,
-        stepSize: 10,
-        callback: function(value, index, values){
-          return  value +  '点'
+          suggestedMax: 100,
+          suggestedMin: 0,
+          stepSize: 10,
+          callback: function(value, index, values){
+            return  value +  'points'
+          }
         }
       }
     }
