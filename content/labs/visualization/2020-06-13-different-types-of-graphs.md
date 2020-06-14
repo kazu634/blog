@@ -131,7 +131,7 @@ chart=true
 > 円グラフは縁の中心から12時方向に引いた線を起点にして、項目の打ち分けごとに角度に置き換えて面を作り、「角度が大きい(小さい)項目はどれだろう？」「全体に対して占める割合が大きい(小さい)項目はどれだろう？」と考えます。つまり、円グラフが一番得意な表現方法は、データ全体の「内訳」です。
 
 円の「角度」から内訳を感覚的につかめるのが、円グラフの特徴とのこと。下のグラフを見れば、A型とO型が大きな割合を占めていることがわかります:
- 
+
 {{<chart canvas="pie-chart" height="200">}}
   var ctx = document.getElementById("pie-chart");
   var myPieChart = new Chart(ctx, {
@@ -163,5 +163,49 @@ chart=true
 - 総量がわからないので違う円グラフの内訳と比較できない
 - 時系列データを用いた時間経過による内訳の推移を表現できない
 
+### レーダーチャート
+レーダーチャートの特徴は以下のようにまとめられていました:
 
+- レーダーチャートが一番得意な表現方法は複数あるデータ項目の「比較」
+- 線で結ばれた面の「大きさ」、「滑らかさ」を比べてデータの代償を感覚的に掴めるのがレーダーチャートの特徴
+- 特定のデータ項目のみに現れた傾向を比較したいのか、データ項目同士を比較したいのか、グラフを作る前に方針を決めておく
 
+{{<chart canvas="radar-chart" height="200">}}
+  var ctx = document.getElementById("radar-chart");
+  var myPieChart = new Chart(ctx, {
+    type: 'radar',
+    data: { 
+      labels: ["English", "Math", "Japanese", "Science", "History"],
+      datasets: [{
+        label: 'Alice',
+        data: [92, 72, 86, 74, 86],
+        backgroundColor: 'RGBA(225,95,150, 0.5)',
+        borderColor: 'RGBA(225,95,150, 1)',
+        borderWidth: 1,
+        pointBackgroundColor: 'RGB(46,106,177)'
+      }, {
+        label: 'Bob',
+        data: [73, 95, 80, 87, 79],
+        backgroundColor: 'RGBA(115,255,25, 0.5)',
+        borderColor: 'RGBA(115,255,25, 1)',
+        borderWidth: 1,
+        pointBackgroundColor: 'RGB(46,106,177)'
+      }]
+    },
+    options: {
+      title: {
+        display: true,
+        text: 'Test Results'
+      },
+      scale:{
+        ticks:{
+        suggestedMax: 100,
+        suggestedMin: 0,
+        stepSize: 10,
+        callback: function(value, index, values){
+          return  value +  '点'
+        }
+      }
+    }
+  });
+{{< /chart >}}
