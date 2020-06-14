@@ -229,6 +229,8 @@ chart=true
 
 > 伝えたい内容は、2つのデータ項目間の比較でも推移でも偏りでもありません。「関係」というデータ同士のつながりです。
 
+下の散布図を見ると、英語と数学のテストの成績には関係性が隠れていそうです:
+
 {{<chart canvas="scatter-chart" height="200">}}
   var ctx = document.getElementById("scatter-chart");
 
