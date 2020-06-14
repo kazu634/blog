@@ -132,3 +132,28 @@ chart=true
 
 円の「角度」から内訳を感覚的につかめるのが、円グラフの特徴とのこと。
  
+{{<chart canvas="pie-chart" height="200">}}
+  var ctx = document.getElementById("pie-chart");
+  var myPieChart = new Chart(ctx, {
+    type: 'pie',
+    data: {
+      labels: ["A", "O", "B", "AB"],
+      datasets: [{
+          backgroundColor: [
+              "#BB5179",
+              "#FAFF67",
+              "#58A27C",
+              "#3C00FF"
+          ],
+          data: [38, 31, 21, 10]
+      }]
+    },
+    options: {
+      title: {
+        display: true,
+        text: 'Blood Type Ratio'
+      }
+    }
+});
+{{< /chart >}}
+
