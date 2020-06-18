@@ -461,6 +461,12 @@ chart=true
         yAxes: [{
           stacked: true,
         }]
+      },
+      plugins: {
+        colorschemes: {
+          scheme: 'tableau.Tableau20',
+          fillAlpha: 0.3
+        },
       }
     }
   });
@@ -469,3 +475,4 @@ chart=true
 
 ## 参考
 - [Chart.jsでグラフを描画してみた - Qiita](https://qiita.com/Haruka-Ogawa/items/59facd24f2a8bdb6d369#3-2-%E6%A3%92%E3%82%B0%E3%83%A9%E3%83%95)
+- [ChartJS stacked line chart](https://codepen.io/natenorberg/pen/WwqRar)
