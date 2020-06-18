@@ -359,37 +359,57 @@ chart=true
 {{< /chart >}}
 
 #### 内訳を重視する積み上げ棒グラフ
-内訳を重視した場合は、総量に対する割合を積み上げて、以下のようなグラフを利用することになりそう:
+内訳を重視した場合は、総量に対する割合を積み上げて、合計が100%になるようにした、以下のようなグラフを利用することになりそう:
 
 {{<chart canvas="stacked-ratio-bar-chart" height="200">}}
-  var mychart = new Chart(document.getElementById("stacked-ratio-bar-chart"), {
-    type: "bar",
+  var ctx = document.getElementById("stacked-bar-chart");
+  var myBarChart = new Chart(ctx, {
+    type: 'bar',
     data: {
-      labels: ["2020/01", "2020/02"],
-      datasets: [{
-        label: "bad",
-        data: [5, 25]
+      labels: ['8月1日', '8月2日', '8月3日', '8月4日', '8月5日', '8月6日', '8月7日'],
+      datasets: [
+        {
+          label: 'A店 来客数',
+          data: [62, 65, 93, 85, 51, 66, 47]
+      },{
+          label: 'B店 来客数',
+          data: [55, 45, 73, 75, 41, 45, 58]
+      },{
+          label: 'C店 来客数',
+          data: [33, 45, 62, 55, 31, 45, 38]
+      }]
     },
-      {
-        label: "better",
-        data: [15, 10]
-    },
-      {
-        label: "good",
-        data: [10, 8]
-      }
-    ]},
     options: {
+      title: {
+        display: true,
+        text: '支店別 来客数'
+      },
+      scales: {
+        xAxes: [{
+          stacked: true
+        }],
+        yAxes: [{
+          stacked: true,
+          ticks: {
+            suggestedMax: 250,
+            suggestedMin: 0,
+            stepSize: 10,
+            callback: function(value, index, values){
+              return  value +  '人'
+            }
+          }
+        }]
+      },
       plugins: {
-        stacked100: {
-          enable: true
-        },
         colorschemes: {
           scheme: 'tableau.Tableau20',
           fillAlpha: 0.3
-        }
-      }
-    }
+        },
+        stacked100: {
+          enable: true
+        },
+      }  
+    },
   });
 {{< /chart >}}
 
