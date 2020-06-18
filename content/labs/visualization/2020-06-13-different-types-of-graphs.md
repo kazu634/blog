@@ -395,7 +395,7 @@ chart=true
             suggestedMin: 0,
             stepSize: 10,
             callback: function(value, index, values){
-              return  value +  '人'
+              return  value +  '%'
             }
           }
         }]
