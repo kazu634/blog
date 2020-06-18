@@ -365,7 +365,7 @@ chart=true
   var mychart = new Chart(document.getElementById("stacked-ratio-bar-chart"), {
     type: "bar",
     data: {
-      labels: ["Foo", "Bar"],
+      labels: ["2020/01", "2020/02"],
       datasets: [{
         label: "bad",
         data: [5, 25]
