@@ -362,7 +362,7 @@ chart=true
 内訳を重視した場合は、総量に対する割合を積み上げて、合計が100%になるようにした、以下のようなグラフを利用することになりそう:
 
 {{<chart canvas="stacked-ratio-bar-chart" height="200">}}
-  var ctx = document.getElementById("stacked-bar-chart");
+  var ctx = document.getElementById("stacked-ratio-bar-chart");
   var myBarChart = new Chart(ctx, {
     type: 'bar',
     data: {
