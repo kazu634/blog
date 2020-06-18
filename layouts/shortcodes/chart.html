@@ -1,0 +1,4 @@
+<canvas id="{{ if .Get "canvas" }}{{ .Get "canvas" }}{{ else }}myChart{{ end }}" width="{{ if .Get "width" }}{{ .Get "width" }}{{ else }}400{{ end }}" height="{{ if .Get "height" }}{{ .Get "height" }}{{ else }}400{{ end }}"></canvas>
+<script>
+  {{ safeJS .Inner }}
+</script>

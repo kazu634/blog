@@ -36,6 +36,10 @@
     -->
   </style>
   {{ end }}
+  
+  {{ if .Params.chart }}
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.css" />
+  {{ end }}
 
   <!-- RSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -51,6 +55,12 @@
   <!-- Make sure you put this AFTER Leaflet's CSS -->
   <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.0/topojson.min.js"></script>
+  {{ end }}
+
+  {{ if .Params.chart }}
+  <script type="text/javascript" src="https://npmcdn.com/chart.js@latest/dist/Chart.bundle.min.js"></script>
+  <script type="text/javascript" src="https://y-takey.github.io/chartjs-plugin-stacked100/plugin.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/chartjs-plugin-colorschemes"></script>
   {{ end }}
 
   <!-- OGP Settings  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
