@@ -299,7 +299,15 @@ chart=true
 
 > 積み上げ棒グラフは、棒の中に必ず複数のデータ項目を描きます。棒の内訳に1つのデータ項目しかない積み上げ棒グラフは、何も積み上げていないので単なる棒グラフです。そんな積み上げ棒グラフを目にする機会は少ないでしょう。積み上げ棒グラフでは、あるデータ項目の内訳の高さを比べて「全体に対して占める割合が大きい(小さい)データ量はどれだろう？」と考えます。つまり積み上げ棒グラフが一番得意な表現方法は、データ全体の「内訳」の「比較」です。積み上げ棒グラフは、各データ項目が全体に対して占める割合を比べやすいように図で表現できます。
 
+以下の説明で書かれているように、積み上げ棒グラフには2種類の読み方がある:
+
 > 積み上げ棒グラフは、円グラフが得意とする「内訳」と棒グラフが得意とする「比較」のどちらを強調したいか決めれば、何が言いたいのかより伝わります。
+
+1. 「比較」を重視する作り方
+2. 「内訳」を重視する作り方
+
+#### 比較を重視する積み上げ棒グラフ
+比較を重視した場合は、総量を純粋に積み上げて、以下のようなグラフを利用することになりそう:
 
 {{<chart canvas="stacked-bar-chart" height="200">}}
   var ctx = document.getElementById("stacked-bar-chart");
@@ -347,6 +355,41 @@ chart=true
         }
       }  
   },
+  });
+{{< /chart >}}
+
+#### 内訳を重視する積み上げ棒グラフ
+内訳を重視した場合は、総量に対する割合を積み上げて、以下のようなグラフを利用することになりそう:
+
+{{<chart canvas="stacked-ratio-bar-chart" height="200">}}
+  var mychart = new Chart(document.getElementById("stacked-ratio-bar-chart"), {
+    type: "bar",
+    data: {
+      labels: ["Foo", "Bar"],
+      datasets: [{
+        label: "bad",
+        data: [5, 25]
+    },
+      {
+        label: "better",
+        data: [15, 10]
+    },
+      {
+        label: "good",
+        data: [10, 8]
+      }
+    ]},
+    options: {
+      plugins: {
+        stacked100: {
+          enable: true
+        },
+        colorschemes: {
+          scheme: 'tableau.Tableau20',
+          fillAlpha: 0.3
+        }
+      }
+    }
   });
 {{< /chart >}}
 
