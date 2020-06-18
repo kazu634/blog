@@ -31,14 +31,6 @@ chart=true
         datasets: [{
             label: '# of Votes',
             data: [12, 19, 3, 5, 2, 3],
-            backgroundColor: [
-                'rgba(255, 99, 132, 0.2)',
-                'rgba(54, 162, 235, 0.2)',
-                'rgba(255, 206, 86, 0.2)',
-                'rgba(75, 192, 192, 0.2)',
-                'rgba(153, 102, 255, 0.2)',
-                'rgba(255, 159, 64, 0.2)'
-            ],
             borderColor: [
                 'rgba(255, 99, 132, 1)',
                 'rgba(54, 162, 235, 1)',
@@ -57,9 +49,15 @@ chart=true
                     beginAtZero: true
                 }
             }]
-        }
-    }
-});
+        },
+        plugins: {
+          colorschemes: {
+            scheme: 'tableau.Tableau20',
+            fillAlpha: 0.3
+          }
+        } 
+      }
+  });
 {{< /chart >}}
 
 
@@ -85,14 +83,6 @@ chart=true
         datasets: [{
             label: '# of Votes',
             data: [12, 19, 3, 5, 2, 3],
-            backgroundColor: [
-                'rgba(0,0,0,0)',
-                'rgba(0,0,0,0)',
-                'rgba(0,0,0,0)',
-                'rgba(0,0,0,0)',
-                'rgba(0,0,0,0)',
-                'rgba(0,0,0,0)'
-            ],
             borderColor: [
                 'rgba(255, 99, 132, 1)',
                 'rgba(54, 162, 235, 1)',
@@ -111,7 +101,13 @@ chart=true
                     beginAtZero: true
                 }
             }]
-        }
+        },
+        plugins: {
+          colorschemes: {
+            scheme: 'tableau.Tableau20',
+            fillAlpha: 0.3
+          }
+        } 
     }
 });
 {{< /chart >}}
@@ -139,22 +135,22 @@ chart=true
     data: {
       labels: ["A", "O", "B", "AB"],
       datasets: [{
-          backgroundColor: [
-              "#BB5179",
-              "#FAFF67",
-              "#58A27C",
-              "#3C00FF"
-          ],
-          data: [38, 31, 21, 10]
+        data: [38, 31, 21, 10]
       }]
     },
     options: {
       title: {
         display: true,
         text: 'Blood Type Ratio'
-      }
+      },
+      plugins: {
+        colorschemes: {
+          scheme: 'tableau.Tableau20',
+          fillAlpha: 0.3
+        }
+      } 
     }
-});
+  });
 {{< /chart >}}
 
 #### 円グラフの利用が推奨されない理由
@@ -179,14 +175,12 @@ chart=true
       datasets: [{
         label: 'Alice',
         data: [92, 72, 86, 74, 86],
-        backgroundColor: 'RGBA(225,95,150, 0.5)',
         borderColor: 'RGBA(225,95,150, 1)',
         borderWidth: 1,
         pointBackgroundColor: 'RGB(46,106,177)'
       }, {
         label: 'Bob',
         data: [73, 95, 80, 87, 79],
-        backgroundColor: 'RGBA(115,255,25, 0.5)',
         borderColor: 'RGBA(115,255,25, 1)',
         borderWidth: 1,
         pointBackgroundColor: 'RGB(46,106,177)'
@@ -206,7 +200,13 @@ chart=true
             return  value
           }
         }
-      }
+      },
+      plugins: {
+        colorschemes: {
+          scheme: 'tableau.Tableau20',
+          fillAlpha: 0.3
+        }
+      } 
     }
   });
 {{< /chart >}}
@@ -240,13 +240,11 @@ chart=true
       datasets: [
         {
           label: '1st Class',
-          data: [{x:90, y:82},{x:39, y:45},{x:63, y:65},{x:83, y:75},{x:83, y:95}],
-          backgroundColor: 'RGBA(225,95,150, 1)',
-        }, 
+          data: [{x:90, y:82},{x:39, y:45},{x:63, y:65},{x:83, y:75},{x:83, y:95}]
+          }, 
         {
           label: '2nd Class',
-          data: [{x:97, y:92},{x:63, y:70},{x:48, y:52},{x:83, y:79},{x:66, y:74}],
-          backgroundColor: 'RGBA(115,255,25, 1)',
+          data: [{x:97, y:92},{x:63, y:70},{x:48, y:52},{x:83, y:79},{x:66, y:74}]
         }]
     },
     options:{
@@ -283,10 +281,19 @@ chart=true
             }
           }
         }]
+      },
+      plugins: {
+        colorschemes: {
+          scheme: 'tableau.Tableau20',
+          fillAlpha: 0.3
+        }
       }
     }
   });
 {{< /chart >}}
+
+### 積み上げ棒グラフ
+
 
 
 ## 参考
