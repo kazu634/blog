@@ -457,8 +457,6 @@ chart=true
       }]
     },
     options: {
-      responsive: false,
-      // Can't just just `stacked: true` like the docs say
       scales: {
         yAxes: [{
           stacked: true,
