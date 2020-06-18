@@ -423,14 +423,14 @@ chart=true
 
 ### 面グラフ
 
-{{<chart canvas="stacked-ratio-bar-chart" height="200">}}
+{{<chart canvas="area-stacked-chart" height="200">}}
   const loggedIn = [26, 36, 42, 38, 40, 30, 12];
   const available = [34, 44, 33, 24, 25, 28, 25];
   const availableForExisting = [16, 13, 25, 33, 40, 33, 45];
   const unavailable = [5, 9, 10, 9, 18, 19, 20];
   const xData = [13, 14, 15, 16, 17, 18, 19];
 
-  var ctx = document.getElementById("stacked-ratio-bar-chart");
+  var ctx = document.getElementById("area-stacked-chart");
   var myBarChart = new Chart(ctx, {
     type: 'line',
     data: {
