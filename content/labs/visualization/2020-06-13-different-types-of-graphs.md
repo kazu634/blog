@@ -91,6 +91,14 @@ chart=true
                 'rgba(153, 102, 255, 1)',
                 'rgba(255, 159, 64, 1)'
             ],
+            backgroundColor: [
+                'rgba(0,0,0,0)',
+                'rgba(0,0,0,0)',
+                'rgba(0,0,0,0)',
+                'rgba(0,0,0,0)',
+                'rgba(0,0,0,0)',
+                'rgba(0,0,0,0)'
+            ],
             borderWidth: 1
         }]
     },
