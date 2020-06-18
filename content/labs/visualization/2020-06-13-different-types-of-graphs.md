@@ -421,5 +421,53 @@ chart=true
   });
 {{< /chart >}}
 
+### 面グラフ
+
+{{<chart canvas="stacked-ratio-bar-chart" height="200">}}
+  const loggedIn = [26, 36, 42, 38, 40, 30, 12];
+  const available = [34, 44, 33, 24, 25, 28, 25];
+  const availableForExisting = [16, 13, 25, 33, 40, 33, 45];
+  const unavailable = [5, 9, 10, 9, 18, 19, 20];
+  const xData = [13, 14, 15, 16, 17, 18, 19];
+
+  var ctx = document.getElementById("stacked-ratio-bar-chart");
+  var myBarChart = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: xData,
+      datasets: [{
+        label: "Unavailable",
+        fill: true,
+        borderCapStyle: 'butt',
+        data: unavailable
+      }, {
+        label: "Available for Existing",
+        fill: true,
+        borderCapStyle: 'butt',
+        data: availableForExisting
+      }, {
+        label: "Available",
+        fill: true,
+        borderCapStyle: 'butt',
+        data: available
+      }, {
+        label: "Logged In",
+        fill: true,
+        data: loggedIn
+      }]
+    },
+    options: {
+      responsive: false,
+      // Can't just just `stacked: true` like the docs say
+      scales: {
+        yAxes: [{
+          stacked: true,
+        }]
+      }
+    }
+  });
+{{< /chart >}}
+
+
 ## 参考
 - [Chart.jsでグラフを描画してみた - Qiita](https://qiita.com/Haruka-Ogawa/items/59facd24f2a8bdb6d369#3-2-%E6%A3%92%E3%82%B0%E3%83%A9%E3%83%95)
