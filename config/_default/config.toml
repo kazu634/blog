@@ -19,7 +19,9 @@ HasCJKLanguage = true
   images = ["/images/profile.png"]
 
 [taxonomies]
+  category = "categories"
   series = "series"
+  tag = "tags"
 
 [markup]
   [markup.highlight]
