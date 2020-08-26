@@ -2,6 +2,7 @@ baseurl = "http://test.kazu634.com/"
 title = "His greatness lies in his sense of responsibility"
 languageCode = "ja"
 theme = "angels-ladder"
+HasCJKLanguage = true
 
 [params]
   subtitle = "named after the quotation from Wind, Sand, and Stars by Saint Exupery."
