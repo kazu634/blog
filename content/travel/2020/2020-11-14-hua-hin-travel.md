@@ -32,4 +32,26 @@ Special Expressの到着ということで、駅には人混みが:
 
 ![Image](https://farm66.staticflickr.com/65535/50597794751_6c2c8b1260_c.jpg)
 
+## ホアヒンの風景
+宿泊したホテルがリゾートホテルで、海岸に面したプライベートビーチ付きのホテルでした。
 
+### ホテルの中身
+ホテルは本当に素敵でした。プールサイドと抜けるような青空です。
+
+![Image](https://farm66.staticflickr.com/65535/50597917002_3936c01501_c.jpg)
+
+こちらはこども用のアトラクション:
+
+![Image](https://farm66.staticflickr.com/65535/50597051628_6486439c43_c.jpg)
+
+![Image](https://farm66.staticflickr.com/65535/50597796911_2276d27232_c.jpg)
+
+### ビーチはこんな感じ
+青空がいい感じですね。
+
+![Image](https://farm66.staticflickr.com/65535/50597795876_c02d0f3b07_c.jpg)
+
+![Image](https://farm66.staticflickr.com/65535/50597050623_e8fe36ee9e_c.jpg)
+
+## まとめ
+本当はインスタ映えスポットなどあるのですが、滞在した3日間では雨降りが多くて、ほとんどホテルの中で過ごしたのでした。。
