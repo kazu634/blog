@@ -1,5 +1,5 @@
 +++
-Categories = [ "nginx" ]
+categories = [ "nginx" ]
 description = "nginx + Let's Encryptを用いてhttp/2環境を構築してみました。"
 tags = []
 date = "2016-01-11T23:32:47+08:00"

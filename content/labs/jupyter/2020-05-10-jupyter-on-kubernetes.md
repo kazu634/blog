@@ -3,7 +3,7 @@ title = "Kubernetes上でJupyterを稼働させる"
 date = 2020-05-10T18:12:22+08:00
 description = "データサイエンティスト入門講座を受講するため、Jupyterをお家Kubernetes上で動作させました。"
 tags = []
-Categories = ["python", "jupyter", "kubernetes"]
+categories = ["python", "jupyter", "kubernetes"]
 +++
 
 Udemyがバーゲンをしていることに気づいたため、日本のゴールデンウィーク期間中は「[【ゼロから始めるデータ分析】 ビジネスケースで学ぶPythonデータサイエンス入門](https://www.udemy.com/course/optworks_1/)」でお勉強をしています。まだ終わっていません。。

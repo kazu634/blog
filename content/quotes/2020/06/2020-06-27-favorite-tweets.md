@@ -3,7 +3,7 @@ title = "必要な前提知識がない対象に、大前提や基礎の理解�
 date = 2020-06-27
 description = "お気に入りのTweetをまとめました。"
 tags = []
-Categories = []
+categories = []
 +++
 
 気になるtweetをまとめてみましたよ。

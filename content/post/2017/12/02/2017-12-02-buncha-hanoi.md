@@ -3,7 +3,7 @@ title = "Hanoi名物のBun Chaを食べてきた"
 date = 2017-12-02T00:29:49+08:00
 description = "Hanoi名物のBun Chaを食べました。オバマ元アメリカ大統領も食べたことがあるんだって。"
 tags = ["Hanoi"]
-Categories = ["旅行"]
+categories = ["旅行"]
 draft = false
 images = ["images/38744582481_7916e4511f.jpg"]
 +++

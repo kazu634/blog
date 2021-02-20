@@ -3,7 +3,7 @@ title = "バックパッカーの聖地ということで有名なカオサン�
 date = 2018-04-08T19:03:49+08:00
 description = "バックパッカーの聖地ということで有名なカオサン通りを訪ねてきました"
 tags = ["Bangkok", "Kahosan Road"]
-Categories = ["旅行"]
+categories = ["旅行"]
 images = ["images/41095266962_a21471b635_z.jpg"]
 +++
 

@@ -3,7 +3,7 @@ title = "わたしはずっと前から、「自分が誰かと仕事をした�
 date = 2020-01-27
 description = "『岩田聡はこんなことを話していた』を読んでいて、気になった部分をまとめてみました。"
 tags = []
-Categories = []
+categories = []
 image = ""
 +++
 

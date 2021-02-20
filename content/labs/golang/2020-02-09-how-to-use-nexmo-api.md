@@ -3,7 +3,7 @@ title = "nexmo APIの使い方"
 date = 2020-02-09T03:12:22+08:00
 description = "nexmo APIの使い方のメモ書きです"
 tags = []
-Categories = ["golang", "programming"]
+categories = ["golang", "programming"]
 +++
 
 SMS送信などができるWebサービス、nexmo APIの使い方をまとめます。基本は参考URLからのコピペです。。

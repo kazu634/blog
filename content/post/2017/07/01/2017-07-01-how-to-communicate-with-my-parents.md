@@ -1,7 +1,7 @@
 +++
 description = "日本に一時帰国中に両親とコミュニケーションをとるためにやることリストを検討しました"
 tags = ["Line"]
-Categories = ["メモ"]
+categories = ["メモ"]
 date = "2017-07-01T20:45:07+08:00"
 title = "両親とのコミュニケーション手段を確保するよ"
 draft = false

@@ -3,7 +3,7 @@ title = "データサイエンス入門講座で学んだことをまとめま�
 date = 2020-05-16T20:12:22+08:00
 description = "データサイエンティスト入門講座を受講していて学んだことをまとめてみましたよ。"
 tags = []
-Categories = ["python", "jupyter"]
+categories = ["python", "jupyter"]
 +++
 
 「[【ゼロから始めるデータ分析】 ビジネスケースで学ぶPythonデータサイエンス入門](https://www.udemy.com/course/optworks_1/)」で統計について学んだことをここにまとめていきます。

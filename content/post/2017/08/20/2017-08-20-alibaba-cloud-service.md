@@ -3,7 +3,7 @@ title = "Alibaba Cloudサービスについて"
 date = 2017-08-20T22:24:03+08:00
 description = "Alibabaのクラウドサービスについて考えたことでございます。"
 tags = []
-Categories = ["Cloud", "China"]
+categories = ["Cloud", "China"]
 draft = false
 images = ["images/25718827003_b8dfdc8fac.jpg"]
 +++

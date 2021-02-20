@@ -3,7 +3,7 @@ title = "レースに戻りたいとは思っても、F1に未練は感じなか
 date = 2019-07-16
 description = "元F1レーサーのジェンソン・バトンがスーパーGTドライバーになるにあたってのコメントを引用しました"
 tags = []
-Categories = []
+categories = []
 images = ["https://live.staticflickr.com/4862/45016957865_5f33ef4891_z.jpg"]
 +++
 

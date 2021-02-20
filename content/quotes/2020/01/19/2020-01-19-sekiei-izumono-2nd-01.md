@@ -3,7 +3,7 @@ title = "戦費全体で見れば、艦隊決戦は派手だが安い、膠着�
 date = 2020-01-19
 description = "兵站(= Military Logistics)にスポットを当てたSF小説ということで読んでみました。"
 tags = []
-Categories = []
+categories = []
 images = ["https://images-fe.ssl-images-amazon.com/images/I/51raFJDaLfL._SL160_.jpg"]
 +++
 

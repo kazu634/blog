@@ -3,7 +3,7 @@ title = "GolangでTwitterに投稿する方法"
 date = 2017-08-19T23:02:35+08:00
 description = "Golangを利用してTwitterにツイートする方法を調べました。"
 tags = []
-Categories = ["Golang"]
+categories = ["Golang"]
 draft = false
 images = ["https://farm5.staticflickr.com/4441/36623773886_ef58e32e8e.jpg"]
 +++

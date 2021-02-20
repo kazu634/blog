@@ -1,5 +1,5 @@
 +++
-Categories = ["Clustering", "Pacemaker", "Corosync"]
+categories = ["Clustering", "Pacemaker", "Corosync"]
 description = "Pacemaker + Corosyncを用いてクラスタ環境を構築してみました。RHEL 6.4で検証しました。"
 tags = []
 date = "2016-06-26T23:02:50+08:00"
