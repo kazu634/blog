@@ -1,7 +1,7 @@
 +++
 Categories = ["つれづれ"]
 description = "シンガポールでIELTSの試験を受けました。IELTSがそうなのか、シンガポールの試験を受ける仕組みがそうなのか、まだ区別できていませんが、日本と違うなと思ったことを記録しておきます"
-Tags = ["Singapore"]
+tags = ["Singapore"]
 date = "2016-02-28T23:03:10+08:00"
 title = "シンガポールで資格試験を受けてきて日本と違うなと思った3つのこと"
 images = ["images/14345331717_5cf5cde59d_z.jpg"]

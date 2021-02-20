@@ -1,7 +1,7 @@
 +++
 Categories = ["VyOS","Edgerouter"]
 description = "EdgeRouter XとVyOS on AWSでOpenVPNを用いた拠点間VPNをはりました"
-Tags = []
+tags = []
 date = "2016-10-31T21:07:13+08:00"
 draft = false
 title = "EdgeRouter XとVyOS on AWSで拠点間VPNを構築する"

@@ -2,7 +2,7 @@
 title = "数学ガール ポアンカレ予想で気になった部分"
 date = 2018-05-20T22:51:19+08:00
 description = "数学ガール ポアンカレ予想で気になった部分を引用しておきます"
-Tags = []
+tags = []
 Categories = []
 images = ["images/513qPks0l4L._SL160_.jpg"]
 +++

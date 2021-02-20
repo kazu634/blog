@@ -2,7 +2,7 @@
 title = "シンガポールの主だった観光地を回ってきました。"
 date = 2017-11-26T22:54:05+08:00
 description = "お友達がシンガポールに弾丸でやってきたので、主だった観光地を案内して回りました。"
-Tags = ["Singapore"]
+tags = ["Singapore"]
 Categories = ["旅行"]
 images = ["images/24757210958_9bdb218cf8.jpg"]
 draft = false

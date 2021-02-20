@@ -2,7 +2,7 @@
 title = "我々が未踏分野を切り開く。だからこそ、機械的に判断して機械的に動く。そうすれば何が足りないのか見えてくる"
 date = 2019-08-04
 description = "兵站(= Military Logistics)にスポットを当てたSF小説ということで読んでみました。"
-Tags = []
+tags = []
 Categories = []
 +++
 

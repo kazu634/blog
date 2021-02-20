@@ -2,7 +2,7 @@
 title = "Huen Muai Jai: 北部タイ料理を食べられるお店"
 date = 2019-04-21T17:38:34+08:00
 description = "Chiang Maiにある北部タイ料理を食べられるレストラン、Huen Muai Jaiを訪ねました。"
-Tags = ["Chiang Mai"]
+tags = ["Chiang Mai"]
 Categories = ["旅行"]
 images = ["https://live.staticflickr.com/65535/46934424104_07703374f9.jpg"]
 +++

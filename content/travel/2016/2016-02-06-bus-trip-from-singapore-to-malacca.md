@@ -1,7 +1,7 @@
 +++
 Categories = ["旅行"]
 description = "シンガポールからバスでマラッカへ向かう時の注意事項"
-Tags = ["Singapore", "Malacca"]
+tags = ["Singapore", "Malacca"]
 date = "2016-02-06T22:37:22+08:00"
 title = "シンガポールからマラッカへのバス旅行"
 +++

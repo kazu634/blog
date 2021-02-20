@@ -2,7 +2,7 @@
 title = "星系出雲の兵站1で気になった部分"
 date = 2019-04-17
 description = "兵站(= Military Logistics)にスポットを当てたSF小説ということで読んでみました。"
-Tags = []
+tags = []
 Categories = []
 +++
 

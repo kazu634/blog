@@ -1,7 +1,7 @@
 +++
 Categories = []
 description = "日本ラグビーの今後の指導方針についての提言。Numberからの引用です"
-Tags = []
+tags = []
 date = "2016-02-22T23:30:27+08:00"
 title = "おそろしくたくさん練習した日本は南アフリカに勝てた"
 images = ["images/21776716854_3e379726b2_z.jpg"]

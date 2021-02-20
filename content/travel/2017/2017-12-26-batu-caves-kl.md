@@ -2,7 +2,7 @@
 title = "クアラルンプールにあるBatu Cavesを訪ねてきました"
 date = 2017-12-26T22:22:22+08:00
 description = "クアラルンプールの観光地を尋ねてみたら、Batu Cavesをお勧めされたので行ってきました。「洞窟なんだろうなぁ」と思って行ったのですが、実物はヒンディー教の寺院でした（洞窟の中に寺院があった）。"
-Tags = ["Malaysia", "Kuala Lumpur"]
+tags = ["Malaysia", "Kuala Lumpur"]
 Categories = ["旅行"]
 draft = false
 images = ["images/24399731637_7d2126dc7c_z.jpg"]
