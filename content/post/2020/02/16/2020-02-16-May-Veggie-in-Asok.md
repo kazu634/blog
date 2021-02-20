@@ -1,7 +1,7 @@
 +++
 title = "May Veggieを訪ねてきました"
 date = 2020-02-16T10:10:34+08:00
-Description = "Asokにあるベジタリアンレストラン May Veggie を訪ねてきました"
+description = "Asokにあるベジタリアンレストラン May Veggie を訪ねてきました"
 Categories = ["Bangkok"]
 images=["https://live.staticflickr.com/65535/49542629583_ab6c53794e_z.jpg"]
 +++

@@ -1,7 +1,7 @@
 +++
 title = "人は変わることができる。意識を変えねばならない状況に置かれれば彼も変わるだろう。"
 date = 2020-03-22
-Description = "星系出雲兵站-遠征- 3で気になった部分をまとめています"
+description = "星系出雲兵站-遠征- 3で気になった部分をまとめています"
 Tags = []
 Categories = []
 images = ["https://m.media-amazon.com/images/I/51Dv5DmDJbL._SL160_.jpg"]

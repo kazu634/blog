@@ -1,7 +1,7 @@
 +++
 title = "JavaScriptではじめるWebマップアプリケーション: Chapter2-1"
 date = 2019-05-01T19:06:46+08:00
-Description = "JavaScriptではじめるWebマップアプリケーションの内容を淡々と試してみます。"
+description = "JavaScriptではじめるWebマップアプリケーションの内容を淡々と試してみます。"
 Categories = ["Leaflet.js"]
 +++
 

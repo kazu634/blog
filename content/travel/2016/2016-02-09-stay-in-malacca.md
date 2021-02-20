@@ -1,6 +1,6 @@
 +++
 Categories = ["旅行"]
-Description = "マラッカへ旅行してきました。"
+description = "マラッカへ旅行してきました。"
 Tags = ["Malacca"]
 date = "2016-02-09T22:25:13+08:00"
 title = "マラッカ海峡で有名なマラッカへ行ってきました"

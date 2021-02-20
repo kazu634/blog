@@ -1,6 +1,6 @@
 +++
 Categories = ["Clustering", "Pacemaker", "Corosync"]
-Description = "Pacemaker + Corosyncを用いてクラスタ環境を構築してみました。RHEL 6.4で検証しました。今回はPacemakeとCorosyncを利用できるようにします"
+description = "Pacemaker + Corosyncを用いてクラスタ環境を構築してみました。RHEL 6.4で検証しました。今回はPacemakeとCorosyncを利用できるようにします"
 Tags = []
 date = "2016-07-10T23:48:32+08:00"
 draft = false

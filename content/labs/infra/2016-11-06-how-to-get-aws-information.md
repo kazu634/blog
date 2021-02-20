@@ -1,6 +1,6 @@
 +++
 draft = false
-Description = "お仕事で必要に迫られたのでAWS EC2の利用状況をコマンドラインから取得する方法を調べてみました"
+description = "お仕事で必要に迫られたのでAWS EC2の利用状況をコマンドラインから取得する方法を調べてみました"
 Tags = []
 Categories = ["AWS"]
 date = "2016-11-06T23:38:21+08:00"

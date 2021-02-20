@@ -1,9 +1,10 @@
 +++
 title = "ホアヒンを訪ねてきました"
 date = 2020-11-14T10:49:49+08:00
-Description = "タイの「葉山」、ホアヒンを訪ねてきました。"
-Tags = ["HuaHin"]
-Categories = ["旅行"]
+description = "タイの「葉山」、ホアヒンを訪ねてきました。"
+tags = ["HuaHin"]
+categories = ["旅行"]
+author = "kazu634"
 images = ["https://live.staticflickr.com/65535/49450740856_d5fd2be650_z.jpg"]
 +++
 
@@ -13,7 +14,7 @@ images = ["https://live.staticflickr.com/65535/49450740856_d5fd2be650_z.jpg"]
 ホアヒンの場所はここです。バンコクから見ると、ちょうどパタヤの反対側にあるイメージです:
 
 ![Image](https://farm66.staticflickr.com/65535/50599699317_348bf8ab5a_c.jpg)
- 
+
 ## 移動手段
 バンコクからは車だと2〜3時間程度だそうです。私は鉄道を使って行きました。Special Expressというのに乗ると、ご飯がついてきます。ご飯はこんな感じです:
 

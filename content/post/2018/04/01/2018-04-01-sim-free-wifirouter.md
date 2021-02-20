@@ -1,7 +1,7 @@
 +++
 title = "SIMフリーWifiルーター: AtermMR05LNを買いました"
 date = 2018-04-01T23:42:02+08:00
-Description = "SIMフリーWiFIルーターのAterm MR05LNを買いました"
+description = "SIMフリーWiFIルーターのAterm MR05LNを買いました"
 Tags = []
 Categories = ["Gadget"]
 draft = false

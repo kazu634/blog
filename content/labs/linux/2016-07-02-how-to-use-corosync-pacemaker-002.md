@@ -1,6 +1,6 @@
 +++
 Categories = ["Clustering", "Pacemaker", "Corosync"]
-Description = "Pacemaker + Corosyncを用いてクラスタ環境を構築してみました。RHEL 6.4で検証しました。今回は共有ディスクを利用できるようにします"
+description = "Pacemaker + Corosyncを用いてクラスタ環境を構築してみました。RHEL 6.4で検証しました。今回は共有ディスクを利用できるようにします"
 Tags = []
 date = "2016-07-02T23:48:32+08:00"
 draft = false

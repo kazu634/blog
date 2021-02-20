@@ -1,7 +1,7 @@
 +++
 title = "自分が安全な場所にいて、部下だけが必要以上に危険に身を晒すようなことが我慢できないからである。"
 date = 2020-06-12
-Description = "星系出雲兵站-遠征- 4で気になった部分をまとめています"
+description = "星系出雲兵站-遠征- 4で気になった部分をまとめています"
 Tags = []
 Categories = []
 images = ["https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B088TLCPK8&Format= _SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=simsnes-22&language=ja_JP"]

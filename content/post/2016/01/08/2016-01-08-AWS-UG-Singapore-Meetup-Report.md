@@ -1,6 +1,6 @@
 +++
 Categories = [ "AWS" ]
-Description = "6th Jan 2016に行われたAWS User Group Singaporeのレポートです。ただし英語。。。"
+description = "6th Jan 2016に行われたAWS User Group Singaporeのレポートです。ただし英語。。。"
 Tags = [ "Singapore" ]
 date = "2016-01-08T22:23:32+08:00"
 title = "AWS UG Singapore Meetup Report (6th Jan 2016)"

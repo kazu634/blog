@@ -1,7 +1,7 @@
 +++
 title = "飲茶酒楼で点心を食べてきた！"
 date =  "2017-07-29T20:07:51+09:00"
-Description = "有名？な点心屋さんに行って、点心を食べてきました。シンガポールのチャイナタウンにありますよ。"
+description = "有名？な点心屋さんに行って、点心を食べてきました。シンガポールのチャイナタウンにありますよ。"
 Tags = ["Singapore", "Chinatown"]
 Categories = ["Chinese"]
 draft = false

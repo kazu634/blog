@@ -1,7 +1,7 @@
 +++
 title = "Huen Muai Jai: 北部タイ料理を食べられるお店"
 date = 2019-04-21T17:38:34+08:00
-Description = "Chiang Maiにある北部タイ料理を食べられるレストラン、Huen Muai Jaiを訪ねました。"
+description = "Chiang Maiにある北部タイ料理を食べられるレストラン、Huen Muai Jaiを訪ねました。"
 Tags = ["Chiang Mai"]
 Categories = ["旅行"]
 images = ["https://live.staticflickr.com/65535/46934424104_07703374f9.jpg"]

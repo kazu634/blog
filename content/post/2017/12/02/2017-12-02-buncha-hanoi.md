@@ -1,7 +1,7 @@
 +++
 title = "Hanoi名物のBun Chaを食べてきた"
 date = 2017-12-02T00:29:49+08:00
-Description = "Hanoi名物のBun Chaを食べました。オバマ元アメリカ大統領も食べたことがあるんだって。"
+description = "Hanoi名物のBun Chaを食べました。オバマ元アメリカ大統領も食べたことがあるんだって。"
 Tags = ["Hanoi"]
 Categories = ["旅行"]
 draft = false

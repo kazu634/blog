@@ -1,7 +1,7 @@
 +++
 title = "Metabaseをお試しで使ってみた"
 date = 2018-07-02T21:15:53+08:00
-Description = "オープンソースのお手軽BIツール・Metabaseをお試しで使ってみました。これ使えば、エンジニアじゃない人にもグラフを作ってもらえそう"
+description = "オープンソースのお手軽BIツール・Metabaseをお試しで使ってみました。これ使えば、エンジニアじゃない人にもグラフを作ってもらえそう"
 Tags = []
 Categories = ["Tools", "Metabase"]
 images = ["images/41603208672_984110305c_z.jpg"]

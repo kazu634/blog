@@ -1,6 +1,6 @@
 +++
 Categories = ["VyOS","Edgerouter"]
-Description = "EdgeRouter XとVyOS on AWSでOpenVPNを用いた拠点間VPNをはりました"
+description = "EdgeRouter XとVyOS on AWSでOpenVPNを用いた拠点間VPNをはりました"
 Tags = []
 date = "2016-10-31T21:07:13+08:00"
 draft = false
@@ -52,7 +52,7 @@ Uptime:       13:38:07 up 1 day,  4:33,  1 user,  load average: 1.16, 1.60, 1.86
 ```
 vyos@VyOS-AMI:~$ show version
 Version:      VyOS 1.1.7
-Description:  VyOS 1.1.7 (helium)
+description:  VyOS 1.1.7 (helium)
 Copyright:    2016 VyOS maintainers and contributors
 Built by:     maintainers@vyos.net
 Built on:     Wed Feb 17 09:57:31 UTC 2016

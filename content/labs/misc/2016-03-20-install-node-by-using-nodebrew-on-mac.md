@@ -1,6 +1,6 @@
 +++
 Categories = ["node.js"]
-Description = "Hubot使ってみたかったから、nodebrewを使って、node.jsをMac (El Capitan 10.11.3)にインストールしてみました。"
+description = "Hubot使ってみたかったから、nodebrewを使って、node.jsをMac (El Capitan 10.11.3)にインストールしてみました。"
 Tags = []
 date = "2016-03-20T14:53:36+08:00"
 title = "nodebrewを使って、node.jsをMacにインストールしてみた"

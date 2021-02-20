@@ -1,7 +1,7 @@
 +++
 title = "GolangでTwitterに投稿する方法"
 date = 2017-08-19T23:02:35+08:00
-Description = "Golangを利用してTwitterにツイートする方法を調べました。"
+description = "Golangを利用してTwitterにツイートする方法を調べました。"
 Tags = []
 Categories = ["Golang"]
 draft = false
