@@ -4,6 +4,8 @@ author: kazu634
 date: 2015-10-04
 tmac_last_id:
   - 665467418412756993
+author:
+  - kazu634
 categories:
   - cron
   - linux

@@ -4,6 +4,7 @@ date = 2020-01-19
 description = "兵站(= Military Logistics)にスポットを当てたSF小説ということで読んでみました。"
 tags = []
 categories = []
+author = "kazu634"
 images = ["https://images-fe.ssl-images-amazon.com/images/I/51raFJDaLfL._SL160_.jpg"]
 +++
 

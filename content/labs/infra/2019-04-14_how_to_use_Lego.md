@@ -5,6 +5,7 @@ publishdate=2019-04-14
 description="Legoを用いたDNS経由でのSSL/TSL証明書取得について調べた内容をまとめました"
 images = ["https://live.staticflickr.com/2554/4156026735_6b97110206.jpg"]
 categories = ["インフラ"]
+author = "kazu634"
 +++
 
 [Lego](https://github.com/go-acme/lego)を用いてSSL/TSL証明書を取得する方法を説明します。ここではDNS認証でSSL/TSL証明書を取得する方法を説明します。

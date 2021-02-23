@@ -4,6 +4,7 @@ date = 2020-01-27
 description = "『岩田聡はこんなことを話していた』を読んでいて、気になった部分をまとめてみました。"
 tags = []
 categories = []
+author = "kazu634"
 image = ""
 +++
 

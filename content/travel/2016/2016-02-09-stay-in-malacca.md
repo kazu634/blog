@@ -1,5 +1,6 @@
 +++
 categories = ["旅行"]
+author = "kazu634"
 description = "マラッカへ旅行してきました。"
 tags = ["Malacca"]
 date = "2016-02-09T22:25:13+08:00"

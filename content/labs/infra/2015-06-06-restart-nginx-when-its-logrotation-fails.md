@@ -4,6 +4,8 @@ author: kazu634
 date: 2015-06-06
 tmac_last_id:
   - 665467420228890624
+author:
+  - kazu634
 categories:
   - nginx
   - wordpress

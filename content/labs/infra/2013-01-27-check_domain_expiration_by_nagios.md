@@ -6,6 +6,8 @@ has_been_twittered:
   - yes
 tmac_last_id:
   - 307653283424636929
+author:
+  - kazu634
 categories:
   - nagios
   - Programming

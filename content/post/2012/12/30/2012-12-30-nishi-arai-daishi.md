@@ -6,6 +6,8 @@ has_been_twittered:
   - yes
 tmac_last_id:
   - 303816628007743489
+author:
+  - kazu634
 categories:
   - つれづれ
 tags:

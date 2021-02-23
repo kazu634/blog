@@ -6,6 +6,8 @@ has_been_twittered:
   - yes
 tmac_last_id:
   - 303816623784083456
+author:
+  - kazu634
 categories:
   - Programming
   - シェルスクリプト

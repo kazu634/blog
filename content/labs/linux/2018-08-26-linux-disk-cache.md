@@ -2,6 +2,7 @@
 images = ["images/9592407287_1bb4d50e78_z.jpg"]
 tags = []
 categories = ["Linux", "インフラ"]
+author = "kazu634"
 date = "2018-08-26T23:06:30+08:00"
 title = "Linuxサーバでディスクキャッシュを説明する"
 description = ""

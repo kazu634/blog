@@ -3,6 +3,7 @@ draft = false
 description = "お仕事で必要に迫られたのでAWS EC2の利用状況をコマンドラインから取得する方法を調べてみました"
 tags = []
 categories = ["AWS"]
+author = "kazu634"
 date = "2016-11-06T23:38:21+08:00"
 title = "aws-cliを用いてEC2インスタンスの情報を取得する"
 images = ["https://c1.staticflickr.com/9/8561/15670725648_356a50f786.jpg"]

@@ -4,6 +4,7 @@ date = 2018-04-01T23:42:02+08:00
 description = "SIMフリーWiFIルーターのAterm MR05LNを買いました"
 tags = []
 categories = ["Gadget"]
+author = "kazu634"
 draft = false
 images = ["images/41161511511_01c2b81bd2_z.jpg"]
 +++

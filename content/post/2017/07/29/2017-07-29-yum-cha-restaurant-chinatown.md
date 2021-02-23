@@ -4,6 +4,7 @@ date =  "2017-07-29T20:07:51+09:00"
 description = "有名？な点心屋さんに行って、点心を食べてきました。シンガポールのチャイナタウンにありますよ。"
 tags = ["Singapore", "Chinatown"]
 categories = ["Chinese"]
+author = "kazu634"
 draft = false
 images = ["https://farm5.staticflickr.com/4304/35433458813_20b70790b9.jpg"]
 +++

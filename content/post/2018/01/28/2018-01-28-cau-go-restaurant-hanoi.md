@@ -4,6 +4,7 @@ date = 2018-01-28T14:11:23+08:00
 description = "ハノイ出張に行き、お勧めされた Cau Go Restaurant に行ってきました。ロケーション・景色・料理、すべてが良かったです。"
 tags = ["Hanoi"]
 categories = ["旅行"]
+author = "kazu634"
 draft = false
 images = ["images/26002890188_b3fac7b085_z.jpg"]
 +++

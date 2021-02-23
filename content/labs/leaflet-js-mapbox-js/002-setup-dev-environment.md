@@ -3,6 +3,7 @@ title = "JavaScriptではじめるWebマップアプリケーション: Chapter2
 date = 2019-05-01T19:06:46+08:00
 description = "JavaScriptではじめるWebマップアプリケーションの内容を淡々と試してみます。"
 categories = ["Leaflet.js"]
+author = "kazu634"
 +++
 
 『[JavaScriptではじめるWebマップアプリケーション \(PDF版\)](https://booth.pm/ja/items/1314906)』の内容を淡々と試してみます。まずは`Leaflet.js`で地図を表示してみます:

@@ -4,6 +4,8 @@ author: kazu634
 date: 2015-05-01
 tmac_last_id:
   - 665467424393797632
+author:
+  - kazu634
 categories:
   - つれづれ
 tags:

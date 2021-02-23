@@ -1,5 +1,6 @@
 +++
 categories = ["旅行"]
+author = "kazu634"
 description = "シンガポールからバスでマラッカへ向かう時の注意事項"
 tags = ["Singapore", "Malacca"]
 date = "2016-02-06T22:37:22+08:00"

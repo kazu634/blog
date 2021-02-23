@@ -3,6 +3,7 @@ title = "日本に帰国して驚いたこと・試してみたこと"
 date = 2021-01-20T10:10:34+09:00
 description = "6年ぶりに日本に帰国して驚いたことや試してみたことをまとめてみました"
 categories = ["Japan"]
+author = "kazu634"
 images=["https://farm66.staticflickr.com/65535/50174999868_811915dd45_c.jpg"]
 +++
 

@@ -4,6 +4,7 @@ date = 2018-06-25T23:36:05+08:00
 description = "Hanoi市街地から少し離れた宝石のようなカフェに行ってきました。"
 tags = ["Hanoi"]
 categories = ["旅行"]
+author = "kazu634"
 images = ["images/41335917114_1c1d187c35_o.jpg"]
 +++
 

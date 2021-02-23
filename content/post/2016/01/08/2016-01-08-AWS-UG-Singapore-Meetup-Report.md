@@ -1,5 +1,6 @@
 +++
 categories = [ "AWS" ]
+author = "kazu634"
 description = "6th Jan 2016に行われたAWS User Group Singaporeのレポートです。ただし英語。。。"
 tags = [ "Singapore" ]
 date = "2016-01-08T22:23:32+08:00"

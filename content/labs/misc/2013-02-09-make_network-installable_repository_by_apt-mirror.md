@@ -2,6 +2,8 @@
 title: apt-mirrorを使ってネットワークインストール可能なレポジトリを作成する
 author: kazu634
 date: 2013-02-09
+author:
+  - kazu634
 categories:
   - apt
   - インフラ

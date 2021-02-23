@@ -4,6 +4,7 @@ date = 2019-07-21T19:00:09+08:00
 description = "半沢直樹を読みました。原作もテレビと同じでスカッとする活劇だったんですね！"
 tags = []
 categories = []
+author = "kazu634"
 image=""
 +++
 

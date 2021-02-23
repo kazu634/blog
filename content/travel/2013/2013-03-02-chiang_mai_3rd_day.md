@@ -6,6 +6,8 @@ has_been_twittered:
   - yes
 tmac_last_id:
   - 318266676514803713
+author:
+  - kazu634
 categories:
   - 旅行
 tags:

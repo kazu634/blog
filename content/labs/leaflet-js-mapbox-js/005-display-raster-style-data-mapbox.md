@@ -3,6 +3,7 @@ title = "JavaScriptではじめるWebマップアプリケーション: Chapter3
 date = 2019-06-29T18:41:00+07:00
 description = "JavaScriptではじめるWebマップアプリケーションの内容を淡々と試してみます。"
 categories = ["Mapbox GL JS"]
+author = "kazu634"
 +++
 
 『[JavaScriptではじめるWebマップアプリケーション \(PDF版\)](https://booth.pm/ja/items/1314906)』の内容を淡々と試してみます。`Mapbox.js`でラスタ形式の地図を表示してみます:

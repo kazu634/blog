@@ -6,6 +6,8 @@ has_been_twittered:
   - yes
 tmac_last_id:
   - 9223372036854775807
+author:
+  - kazu634
 categories:
   - スポーツ
   - ランニング

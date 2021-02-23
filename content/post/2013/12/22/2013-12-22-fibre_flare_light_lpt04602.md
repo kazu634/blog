@@ -8,6 +8,8 @@ wordtwit_post_info:
   - 'O:8:"stdClass":13:{s:6:"manual";b:1;s:11:"tweet_times";i:1;s:5:"delay";s:1:"0";s:7:"enabled";s:1:"1";s:10:"separation";i:60;s:7:"version";s:5:"3.0.3";s:14:"tweet_template";s:120:"ブログに新しい記事を投稿したよ: 夜のサイクリング用にファイバーフレアライト - [link] ";s:6:"status";i:2;s:6:"result";a:0:{}s:13:"tweet_counter";i:3;s:13:"tweet_log_ids";a:2:{i:0;i:1661;i:1;i:1662;}s:9:"hash_tags";a:0:{}s:8:"accounts";a:1:{i:0;s:7:"kazu634";}}'
 tmac_last_id:
   - 483168249152946176
+author:
+  - kazu634
 categories:
   - サイクリング
   - スポーツ

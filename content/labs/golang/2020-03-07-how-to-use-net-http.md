@@ -4,6 +4,7 @@ date = 2020-03-07T21:12:22+08:00
 description = "Golangの標準ライブラリnet/httpでREST APIをたたくときのメモです。"
 tags = []
 categories = ["golang", "programming"]
+author = "kazu634"
 +++
 
 Golang標準ライブラリの`net/http`でREST APIをたたく時に必要となりそうなことをまとめます。

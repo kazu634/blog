@@ -4,6 +4,8 @@ author: kazu634
 date: 2015-06-01
 tmac_last_id:
   - 665467423840145408
+author:
+  - kazu634
 categories:
   - 旅行
 tags:

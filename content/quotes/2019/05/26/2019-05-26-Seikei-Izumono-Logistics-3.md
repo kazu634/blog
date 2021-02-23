@@ -4,6 +4,7 @@ date = 2019-05-26
 description = "兵站(= Military Logistics)にスポットを当てたSF小説ということで読んでみました。"
 tags = []
 categories = []
+author = "kazu634"
 +++
 
 [前回](https://blog.kazu634.com/quotes/2019/04/17/2019-04-17_seikei-izumono-logistics-01/)兵站にスポットを当てたSF小説ということで[星系出雲の兵站 1](https://www.amazon.co.jp/exec/obidos/ASIN/4150313407/simsnes-22/ref=nosim/)を読みましたが、3巻目まで到達しました。

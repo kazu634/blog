@@ -14,6 +14,8 @@ geo_public:
   - 1
 tmac_last_id:
   - 650679918020325376
+author:
+  - kazu634
 categories:
   - つれづれ
 tags:

@@ -2,6 +2,7 @@
 images = ["images/43806262985_22aca620eb_z.jpg"]
 tags = []
 categories = ["インフラ"]
+author = "kazu634"
 date = "2018-09-11T01:25:05+09:00"
 title = "お手軽にステータスページを作成できるStatupを触ってみた"
 description = "お手軽にステータスページを作成できるStatupを試しに使ってみました"

@@ -6,6 +6,8 @@ has_been_twittered:
   - yes
 tmac_last_id:
   - 303816639021977600
+author:
+  - kazu634
 categories:
   - サイクリング
   - スポーツ

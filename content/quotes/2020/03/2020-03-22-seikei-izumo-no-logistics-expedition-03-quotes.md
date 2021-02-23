@@ -4,6 +4,7 @@ date = 2020-03-22
 description = "星系出雲兵站-遠征- 3で気になった部分をまとめています"
 tags = []
 categories = []
+author = "kazu634"
 images = ["https://m.media-amazon.com/images/I/51Dv5DmDJbL._SL160_.jpg"]
 +++
 

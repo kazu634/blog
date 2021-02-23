@@ -4,6 +4,8 @@ author: kazu634
 date: 2015-05-23
 tmac_last_id:
   - 665467423840145408
+author:
+  - kazu634
 categories:
   - サイクリング
 tags:

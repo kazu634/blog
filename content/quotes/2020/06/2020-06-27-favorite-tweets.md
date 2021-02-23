@@ -4,6 +4,7 @@ date = 2020-06-27
 description = "お気に入りのTweetをまとめました。"
 tags = []
 categories = []
+author = "kazu634"
 +++
 
 気になるtweetをまとめてみましたよ。

@@ -4,6 +4,7 @@ date = 2020-08-23T19:49:43+08:00
 description = "Grafana Lokiを試しに使ってみたのでレポートしてみるよ"
 tags = []
 categories = ["Linux", "インフラ", "Grafana", "Loki"]
+author = "kazu634"
 image=""
 +++
 
