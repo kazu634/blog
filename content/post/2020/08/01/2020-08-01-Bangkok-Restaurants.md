@@ -5,6 +5,7 @@ description = "緊急事態宣言が緩和されつつあるバンコクで、6/
 categories = ["Bangkok"]
 author = "kazu634"
 images=["https://farm66.staticflickr.com/65535/50174999868_811915dd45_c.jpg"]
+tags = []
 +++
 
 緊急事態宣言が緩和されつつあるバンコクで、6/15〜に外でお食事した写真をまとめていますよ。

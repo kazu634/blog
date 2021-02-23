@@ -5,6 +5,7 @@ description = "タイで働き始めてもうすぐ10ヶ月程度。よくよく
 categories = ["gadget"]
 author = "kazu634"
 images = ["https://live.staticflickr.com/3779/8978581081_25a8dd4df6_z.jpg"]
+tags = []
 +++
 
 タイで働き始めてもうすぐ10ヶ月程度。よくよく考えてみると、Lineを使っていることが多いことに気づきました。そうであれば、タイでも展開をしているLine MobileのSIMを使った方が料金少なめで済むのではないかと考え、Line Mobileを申し込んでみました。

@@ -5,6 +5,7 @@ description = "Asokにあるベジタリアンレストラン May Veggie を訪�
 categories = ["Bangkok"]
 author = "kazu634"
 images=["https://live.staticflickr.com/65535/49542629583_ab6c53794e_z.jpg"]
+tags = []
 +++
 
 May VeggieはAsok駅近くのベジタリアンレストラン。これ、本当にベジタリアン！？という新鮮な驚きを味わったのでした。
