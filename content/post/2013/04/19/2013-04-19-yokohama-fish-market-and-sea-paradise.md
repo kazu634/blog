@@ -1,6 +1,6 @@
 ---
 title: 横浜卸売市場〜シーパラダイスに行って参りました
-date: 2013-04-19
+date: 2013-04-19T15:04:05Z
 author:
   - kazu634
 categories:
