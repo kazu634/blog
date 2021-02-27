@@ -1,7 +1,7 @@
 ---
 title: 山形は素敵な瀬戸物屋さんが多かった
 author: kazu634
-date: 2013-08-12
+date: 2013-08-12T15:04:05Z
 author:
   - kazu634
 categories:

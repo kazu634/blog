@@ -1,6 +1,6 @@
 +++
 title = "戦費全体で見れば、艦隊決戦は派手だが安い、膠着状態は地味だが、長期化により確実に社会の資産を食い尽くす。"
-date = 2020-01-19
+date = 2020-01-19T15:04:05Z
 description = "兵站(= Military Logistics)にスポットを当てたSF小説ということで読んでみました。"
 tags = ["book"]
 categories = ["Quotes"]

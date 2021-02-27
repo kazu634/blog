@@ -1,7 +1,7 @@
 ---
 title: 『修行論』を読んで気になった部分
 author: kazu634
-date: 2013-08-13
+date: 2013-08-13T15:04:05Z
 author:
   - kazu634
 categories:

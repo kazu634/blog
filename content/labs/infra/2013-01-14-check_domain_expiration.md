@@ -1,7 +1,7 @@
 ---
 title: ドメインの残り有効期限を取得するシェルスクリプト
 author: kazu634
-date: 2013-01-14
+date: 2013-01-14T15:04:05Z
 has_been_twittered:
   - yes
 tmac_last_id:

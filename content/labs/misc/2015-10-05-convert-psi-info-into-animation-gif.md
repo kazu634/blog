@@ -1,7 +1,7 @@
 ---
 title: 'じゆうけんきゅう: シンガポールのhaze情報のページからPSI情報を取得してアニメーションGIFにしてみた'
 author: kazu634
-date: 2015-10-04
+date: 2015-10-04T15:04:05Z
 author:
   - kazu634
 categories:

@@ -1,6 +1,6 @@
 ---
 title: キャプテン翼展に行ってきました
-date: 2014-07-07
+date: 2014-07-07T15:04:05Z
 author:
   - kazu634
 categories:

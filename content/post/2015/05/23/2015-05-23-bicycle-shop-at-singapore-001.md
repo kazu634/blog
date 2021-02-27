@@ -1,6 +1,6 @@
 ---
 title: シンガポールの自転車屋さん – (1)
-date: 2015-05-23
+date: 2015-05-23T15:04:05Z
 author:
   - kazu634
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Education is about opening doors for people and showing them rooms that that would otherwise be hidden.
 author: kazu634
-date: 2008-12-13
+date: 2008-12-13T15:04:05Z
 author:
   - kazu634
 categories:

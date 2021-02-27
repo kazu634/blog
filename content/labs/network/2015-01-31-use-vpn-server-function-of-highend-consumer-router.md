@@ -1,7 +1,7 @@
 ---
 title: コンシューマー向けのハイエンドルーターでVPNを利用してみた
 author: kazu634
-date: 2015-01-31
+date: 2015-01-31T15:04:05Z
 author:
   - kazu634
 categories:

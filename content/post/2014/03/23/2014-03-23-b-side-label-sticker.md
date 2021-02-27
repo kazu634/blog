@@ -1,6 +1,6 @@
 ---
 title: B-SIDE LABELのステッカー
-date: 2014-03-23
+date: 2014-03-23T15:04:05Z
 author:
   - kazu634
 categories:

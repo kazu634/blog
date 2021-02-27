@@ -1,7 +1,7 @@
 ---
 title: If you work really hard, and you’re kind, amazing thing will happen.
 author: kazu634
-date: 2010-01-24
+date: 2010-01-24T15:04:05Z
 author:
   - kazu634
 categories:

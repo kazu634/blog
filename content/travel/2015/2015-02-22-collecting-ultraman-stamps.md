@@ -1,7 +1,7 @@
 ---
 title: ウルトラマンスタンプを回収する旅へ
 author: kazu634
-date: 2015-02-22
+date: 2015-02-22T15:04:05Z
 categories:
   - Travel
 tags:

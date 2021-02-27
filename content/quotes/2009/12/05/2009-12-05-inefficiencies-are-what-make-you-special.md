@@ -1,7 +1,7 @@
 ---
 title: Inefficiencies are what make you special.
 author: kazu634
-date: 2009-12-05
+date: 2009-12-05T15:04:05Z
 author:
   - kazu634
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 西新井大師を訪ねて
-date: 2012-12-30
+date: 2012-12-30T15:04:05Z
 author:
   - kazu634
 categories:

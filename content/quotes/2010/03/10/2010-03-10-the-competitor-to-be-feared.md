@@ -1,7 +1,7 @@
 ---
 title: The competitor to be feared…
 author: kazu634
-date: 2010-03-10
+date: 2010-03-10T15:04:05Z
 author:
   - kazu634
 categories:

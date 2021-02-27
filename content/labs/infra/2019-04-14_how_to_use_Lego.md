@@ -1,7 +1,7 @@
 +++
 title="Legoの使い方メモ"
-date=2019-04-14
-publishdate=2019-04-14
+date=2019-04-14T15:04:05Z
+publishdate=2019-04-14T15:04:05Z
 description="Legoを用いたDNS経由でのSSL/TSL証明書取得について調べた内容をまとめました"
 images = ["https://live.staticflickr.com/2554/4156026735_6b97110206.jpg"]
 categories = ["Labs", "Infra"]

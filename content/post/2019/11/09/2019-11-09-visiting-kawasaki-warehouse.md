@@ -3,7 +3,7 @@ title = "ウェアハウス川崎を訪ねてきました"
 date = 2019-11-09T10:05:34+08:00
 description = "一時帰国中に川崎にあるゲームセンター・ウェアハウス川崎を訪ねてきました。香港にある九龍城をモチーフにしたゲームセンターだそうです"
 categories = ["Travel", "Misc"]
-tags = "kawasaki"
+tags = ["kawasaki"]
 author = "kazu634"
 images = ["https://live.staticflickr.com/65535/48916097103_74e0785756_z.jpg"]
 +++

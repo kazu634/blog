@@ -1,7 +1,7 @@
 ---
 title: The real hero is always a hero by mistake…
 author: kazu634
-date: 2014-11-02
+date: 2014-11-02T15:04:05Z
 author:
   - kazu634
 categories:

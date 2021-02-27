@@ -1,7 +1,7 @@
 ---
 title: チェンマイ旅行2日目
 author: kazu634
-date: 2013-02-19
+date: 2013-02-19T15:04:05Z
 author:
   - kazu634
 categories:

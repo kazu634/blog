@@ -1,7 +1,7 @@
 ---
 title: 気になった文章 from Tumblr
 author: kazu634
-date: 2010-03-26
+date: 2010-03-26T15:04:05Z
 author:
   - kazu634
 categories:

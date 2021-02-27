@@ -1,7 +1,7 @@
 ---
 title: チェンマイ旅行3日目
 author: kazu634
-date: 2013-03-02
+date: 2013-03-02T15:04:05Z
 author:
   - kazu634
 categories:

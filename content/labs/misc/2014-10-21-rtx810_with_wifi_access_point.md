@@ -1,7 +1,7 @@
 ---
 title: RTX810と無線LANアクセスポイントを組み合わせてみた
 author: kazu634
-date: 2014-10-20
+date: 2014-10-20T15:04:05Z
 author:
   - kazu634
 categories:

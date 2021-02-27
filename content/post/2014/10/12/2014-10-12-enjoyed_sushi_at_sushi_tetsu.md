@@ -1,6 +1,6 @@
 ---
 title: すし哲@塩釜のお寿司を食べてきた
-date: 2014-10-12
+date: 2014-10-12T15:04:05Z
 author:
   - kazu634
 categories:

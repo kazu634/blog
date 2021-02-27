@@ -1,7 +1,7 @@
 ---
 title: Fluentd X GrowthForecastの組み合わせで可視化してみた
 author: kazu634
-date: 2014-04-27
+date: 2014-04-27T15:04:05Z
 author:
   - kazu634
 categories:

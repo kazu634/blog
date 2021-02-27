@@ -1,7 +1,7 @@
 ---
 title: 'Paul Graham: Six Principles for Making New Things'
 author: kazu634
-date: 2008-02-25
+date: 2008-02-25T15:04:05Z
 author:
   - kazu634
 categories:

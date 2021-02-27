@@ -1,6 +1,6 @@
 ---
 title: 北千住へサイクリング
-date: 2012-11-24
+date: 2012-11-24T15:04:05Z
 author:
   - kazu634
 categories:

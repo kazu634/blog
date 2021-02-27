@@ -1,7 +1,7 @@
 ---
 title: みんみん@宇都宮で餃子を食べてきた
 author: kazu634
-date: 2014-11-04
+date: 2014-11-04T15:04:05Z
 categories:
   - Travel
 tags:

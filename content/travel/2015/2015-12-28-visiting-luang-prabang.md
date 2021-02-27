@@ -1,7 +1,7 @@
 ---
 title: Luang Prabang滞在
 author: kazu634
-date: 2015-12-28
+date: 2015-12-28T15:04:05Z
 categories:
   - Travel
 tags:

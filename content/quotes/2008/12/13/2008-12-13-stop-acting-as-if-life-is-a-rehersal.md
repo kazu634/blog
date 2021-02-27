@@ -1,7 +1,7 @@
 ---
 title: Stop acting as if life is a rehersal.
 author: kazu634
-date: 2008-12-13
+date: 2008-12-13T15:04:05Z
 author:
   - kazu634
 categories:

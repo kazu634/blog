@@ -1,7 +1,7 @@
 ---
 title: 『the DevOps 逆転だ!究極の継続的デリバリー』を読む
 author: kazu634
-date: 2014-10-05
+date: 2014-10-05T15:04:05Z
 author:
   - kazu634
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Working smart involves identifying the things you need to do …
 author: kazu634
-date: 2008-09-28
+date: 2008-09-28T15:04:05Z
 author:
   - kazu634
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Because ”it sucks” is not a reason to redesign.
 author: kazu634
-date: 2009-10-07
+date: 2009-10-07T15:04:05Z
 author:
   - kazu634
 categories:

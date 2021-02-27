@@ -1,7 +1,7 @@
 ---
 title: お仕事で覚えたシェルスクリプトの使い方
 author: kazu634
-date: 2013-07-20
+date: 2013-07-20T15:04:05Z
 author:
   - kazu634
 categories:

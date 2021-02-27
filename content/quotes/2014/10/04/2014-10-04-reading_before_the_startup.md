@@ -1,7 +1,7 @@
 ---
 title: ゲームの攻略法が効かなくなる領域に足を踏み出す
 author: kazu634
-date: 2014-10-04
+date: 2014-10-04T15:04:05Z
 author:
   - kazu634
 categories:

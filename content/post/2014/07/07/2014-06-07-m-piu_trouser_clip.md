@@ -1,6 +1,6 @@
 ---
 title: m+のtrouser’s clip買いました
-date: 2014-06-07
+date: 2014-06-07T15:04:05Z
 author:
   - kazu634
 categories:

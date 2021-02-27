@@ -1,7 +1,7 @@
 ---
 title: knife ec2コマンドで AWS EC2 インスタンスを作成する
 author: kazu634
-date: 2013-06-16
+date: 2013-06-16T15:04:05Z
 author:
   - kazu634
 categories:

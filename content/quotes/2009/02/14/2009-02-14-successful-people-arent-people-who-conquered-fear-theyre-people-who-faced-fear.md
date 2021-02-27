@@ -1,7 +1,7 @@
 ---
 title: Successful people aren’t people who conquered fear, they’re people who faced fear.
 author: kazu634
-date: 2009-02-14
+date: 2009-02-14T15:04:05Z
 author:
   - kazu634
 categories:

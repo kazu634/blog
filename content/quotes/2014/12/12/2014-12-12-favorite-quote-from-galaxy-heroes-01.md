@@ -1,7 +1,7 @@
 ---
 title: 銀河英雄伝説1黎明編で気になった部分
 author: kazu634
-date: 2014-12-12
+date: 2014-12-12T15:04:05Z
 author:
   - kazu634
 categories:

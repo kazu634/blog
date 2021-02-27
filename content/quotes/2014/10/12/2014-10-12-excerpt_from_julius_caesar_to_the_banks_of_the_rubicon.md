@@ -1,7 +1,7 @@
 ---
 title: ユリウス・カエサル ルビコン以前──ローマ人の物語 IV を読む
 author: kazu634
-date: 2014-10-12
+date: 2014-10-12T15:04:05Z
 author:
   - kazu634
 categories:

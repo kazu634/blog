@@ -1,7 +1,7 @@
 ---
 title: 'インドネシアの世界遺産を見てきた: Prambanan Temple'
 author: kazu634
-date: 2015-06-01
+date: 2015-06-01T15:04:05Z
 categories:
   - Travel
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'インドネシアの世界遺産を見てきた: Borobudur Temple'
 author: kazu634
-date: 2015-06-03
+date: 2015-06-03T15:04:05Z
 categories:
   - Travel
 tags:

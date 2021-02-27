@@ -1,7 +1,7 @@
 ---
 title: オシムがブラジルワールドカップについて
 author: kazu634
-date: 2014-09-28
+date: 2014-09-28T15:04:05Z
 author:
   - kazu634
 categories:

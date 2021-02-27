@@ -1,7 +1,7 @@
 ---
 title: 日光観光に行ってきた
 author: kazu634
-date: 2014-11-03
+date: 2014-11-03T15:04:05Z
 author:
   - kazu634
 categories:

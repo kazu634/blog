@@ -1,6 +1,6 @@
 ---
 title: しまなみ海道を自転車で駆け抜けてきた
-date: 2014-08-17
+date: 2014-08-17T15:04:05Z
 author:
   - kazu634
 categories:

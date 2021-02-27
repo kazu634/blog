@@ -1,6 +1,6 @@
 ---
 title: 大木屋のエアーズロック食べてきた！
-date: 2014-01-01
+date: 2014-01-01T15:04:05Z
 author:
   - kazu634
 categories:

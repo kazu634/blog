@@ -1,7 +1,7 @@
 ---
 title: 今度はボットが襲来しました
 author: kazu634
-date: 2015-01-26
+date: 2015-01-26T15:04:05Z
 author:
   - kazu634
 categories:

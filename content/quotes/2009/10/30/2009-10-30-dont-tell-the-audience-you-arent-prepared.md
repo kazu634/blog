@@ -1,7 +1,7 @@
 ---
 title: Don’t tell the audience you aren’t prepared.
 author: kazu634
-date: 2009-10-30
+date: 2009-10-30T15:04:05Z
 author:
   - kazu634
 categories:

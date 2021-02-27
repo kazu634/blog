@@ -1,7 +1,7 @@
 ---
 title: 日本人が残業をするのは、生産的になろうとするためではない
 author: kazu634
-date: 2014-11-15
+date: 2014-11-15T15:04:05Z
 author:
   - kazu634
 categories:

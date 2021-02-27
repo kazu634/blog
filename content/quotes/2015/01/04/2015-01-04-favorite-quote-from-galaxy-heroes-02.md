@@ -1,7 +1,7 @@
 ---
 title: 銀河英雄伝説2で気になった部分
 author: kazu634
-date: 2015-01-04
+date: 2015-01-04T15:04:05Z
 author:
   - kazu634
 categories:

@@ -1,7 +1,7 @@
 ---
 title: 'Systems Performance: Enterprise and the Cloud を読む'
 author: kazu634
-date: 2014-10-31
+date: 2014-10-31T15:04:05Z
 author:
   - kazu634
 categories:

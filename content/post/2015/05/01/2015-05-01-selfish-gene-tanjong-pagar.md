@@ -1,6 +1,6 @@
 ---
 title: Selfish Gene @ Tanjong Pagar
-date: 2015-05-01
+date: 2015-05-01T15:04:05Z
 author:
   - kazu634
 categories:

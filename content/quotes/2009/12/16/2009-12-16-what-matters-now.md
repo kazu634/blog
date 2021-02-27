@@ -1,7 +1,7 @@
 ---
 title: What matters now.
 author: kazu634
-date: 2009-12-15
+date: 2009-12-15T15:04:05Z
 author:
   - kazu634
 categories:

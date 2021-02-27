@@ -1,7 +1,7 @@
 ---
 title: If you set your goals ridiculously high and it’s a failure,
 author: kazu634
-date: 2009-11-12
+date: 2009-11-12T15:04:05Z
 author:
   - kazu634
 categories:

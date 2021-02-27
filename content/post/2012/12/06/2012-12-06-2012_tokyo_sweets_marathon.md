@@ -1,6 +1,6 @@
 ---
 title: 2012東京スイーツマラソンに参加しました
-date: 2012-12-06
+date: 2012-12-06T15:04:05Z
 author:
   - kazu634
 categories:
