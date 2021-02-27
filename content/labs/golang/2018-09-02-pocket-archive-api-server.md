@@ -1,7 +1,7 @@
 +++
 images = ["images/5691141369_0eb8199f37_z.jpg"]
-tags = []
-categories = ["golang", "programming"]
+tags = ["Golang"]
+categories = ["Labs", "Program"]
 author = "kazu634"
 date = "2018-09-02T18:40:47+09:00"
 title = "APIサーバを作ってみた: Pocketの記事をアーカイブするよ"

@@ -2,8 +2,8 @@
 title = "必要な前提知識がない対象に、大前提や基礎の理解を無視して、理解させるのなんてのは無理だよ。"
 date = 2020-06-27
 description = "お気に入りのTweetをまとめました。"
-tags = []
-categories = []
+tags = ["web"]
+categories = ["Quotes"]
 author = "kazu634"
 +++
 

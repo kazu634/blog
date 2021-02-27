@@ -2,8 +2,8 @@
 title = "わたしはずっと前から、「自分が誰かと仕事をしたら『つぎもあいつと仕事がしたい』と言わせよう」というのがモットーだったんです。"
 date = 2020-01-27
 description = "『岩田聡はこんなことを話していた』を読んでいて、気になった部分をまとめてみました。"
-tags = []
-categories = []
+tags = ["book"]
+categories = ["Quotes"]
 author = "kazu634"
 image = ""
 +++

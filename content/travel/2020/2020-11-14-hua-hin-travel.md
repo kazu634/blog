@@ -2,8 +2,8 @@
 title = "ホアヒンを訪ねてきました"
 date = 2020-11-14T10:49:49+08:00
 description = "タイの「葉山」、ホアヒンを訪ねてきました。"
-tags = ["HuaHin"]
-categories = ["旅行"]
+tags = ["hua hin"]
+categories = ["Travel"]
 author = "kazu634"
 images = ["https://live.staticflickr.com/65535/49450740856_d5fd2be650_z.jpg"]
 +++

@@ -2,16 +2,13 @@
 title: 'Systems Performance: Enterprise and the Cloud を読む'
 author: kazu634
 date: 2014-10-31
-wordtwit_posted_tweets:
-  - 'a:1:{i:0;i:1897;}'
-wordtwit_post_info:
-  - 'O:8:"stdClass":14:{s:6:"manual";b:1;s:11:"tweet_times";i:1;s:5:"delay";s:1:"0";s:7:"enabled";s:1:"1";s:10:"separation";i:60;s:7:"version";s:3:"3.7";s:14:"tweet_template";s:112:"ブログに新しい記事を投稿したよ: Systems Performance: Enterprise and the Cloud を読む - [link] ";s:6:"status";i:2;s:6:"result";a:0:{}s:13:"tweet_counter";i:2;s:13:"tweet_log_ids";a:1:{i:0;i:1897;}s:9:"hash_tags";a:0:{}s:8:"accounts";a:1:{i:0;s:7:"kazu634";}s:4:"text";s:131:"ブログに新しい記事を投稿したよ: Systems Performance: Enterprise and the Cloud を読む - http://tinyurl.com/nbjfteb";}'
-tmac_last_id:
-  - 531456470185811968
 author:
   - kazu634
 categories:
-  - インフラ
+  - Labs
+  - Infra
+tags:
+  - book
 
 ---
 <a href="http://www.amazon.co.jp/Systems-Performance-Enterprise-Brendan-Gregg-ebook/dp/B00FLYU9T2/ref=sr_1_6?s=english-books&ie=UTF8&qid=1414762573&sr=1-6&keywords=system+performance" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.amazon.co.jp/Systems-Performance-Enterprise-Brendan-Gregg-ebook/dp/B00FLYU9T2/ref=sr_1_6?s=english-books&ie=UTF8&qid=1414762573&sr=1-6&keywords=system+performance', 'Systems Performance: Enterprise and the Cloud');">Systems Performance: Enterprise and the Cloud</a>を読んでいます。システム管理の分野で顕著な成果として2013年度のLISA Awardというのを受賞した書籍らしいのですが、これがまた面白い。たぶん自分が何を説明しているのかを正確に理解している人が、わかりやすく伝える努力を惜しまずに書くとこんな書籍になるのだと思う。これは最後まで読まねば。

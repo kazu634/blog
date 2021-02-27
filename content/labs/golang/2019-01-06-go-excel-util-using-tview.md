@@ -2,8 +2,8 @@
 title = "GolangのCUIライブラリを使ってExcelの中身を確認するツールを作ってみた"
 date = 2019-01-06T23:07:40+07:00
 description = "Golangのライブラリtviewを使うと、お気軽にCUIを作成できるみたいなので、お試しで使ってみました。今回はExcelファイルの中身を確認するよ。"
-tags = []
-categories = ["golang", "programming"]
+tags = ["Golang"]
+categories = ["Labs", "Program"]
 author = "kazu634"
 images = ["https://farm5.staticflickr.com/4849/45718165635_328355a940_z.jpg"]
 +++

@@ -2,8 +2,8 @@
 title = "GolangでOLEを利用してOutlookを操作、メールをエクスポートする"
 date = 2020-04-19T18:12:22+08:00
 description = "GolangからOLEを利用することでOutlookを操作してみました。"
-tags = []
-categories = ["golang", "programming"]
+tags = ["Golang"]
+categories = ["Labs", "Program"]
 author = "kazu634"
 +++
 

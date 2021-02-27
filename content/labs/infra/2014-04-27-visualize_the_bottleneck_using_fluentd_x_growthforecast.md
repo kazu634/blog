@@ -2,20 +2,15 @@
 title: Fluentd X GrowthForecastの組み合わせで可視化してみた
 author: kazu634
 date: 2014-04-27
-geo_latitude:
-  - 38.306184
-geo_longitude:
-  - 141.022638
-geo_public:
-  - 1
-wordtwit_posted_tweets:
-  - 'a:1:{i:0;i:1859;}'
-wordtwit_post_info:
-  - 'O:8:"stdClass":13:{s:6:"manual";b:0;s:11:"tweet_times";s:1:"1";s:5:"delay";s:1:"0";s:7:"enabled";s:1:"1";s:10:"separation";i:60;s:7:"version";s:3:"3.7";s:14:"tweet_template";b:0;s:6:"status";i:2;s:6:"result";a:0:{}s:13:"tweet_counter";i:2;s:13:"tweet_log_ids";a:1:{i:0;i:1859;}s:9:"hash_tags";a:0:{}s:8:"accounts";a:1:{i:0;s:7:"kazu634";}}'
 author:
   - kazu634
 categories:
+  - Infra
+  - Labs
+  - Monitoring
+tags:
   - growthforecast
+  - fluentd
 
 ---
 `Fluentd`と`GrowthForecast`を組み合わせてレスポンスタイムの可視化を実施しました。

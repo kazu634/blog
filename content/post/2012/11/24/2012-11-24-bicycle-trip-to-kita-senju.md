@@ -1,22 +1,17 @@
 ---
 title: 北千住へサイクリング
-author: kazu634
 date: 2012-11-24
-has_been_twittered:
-  - yes
-tmac_last_id:
-  - 303816639021977600
 author:
   - kazu634
 categories:
-  - サイクリング
-  - スポーツ
+  - Misc
 tags:
-  - 三ノ輪
-  - 上野
-  - 入谷
-  - 北千住
-  - 南千住
+  - cycling
+  - minowa
+  - ueno
+  - iriya
+  - kitasenju
+  - minamisenju
 
 ---
 ポカポカ陽気に誘われて本日はサイクリングへ。北千住まで行って来ました！ There was a problem connecting to Twitter. 

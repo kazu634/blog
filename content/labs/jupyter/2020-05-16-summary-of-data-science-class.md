@@ -2,8 +2,8 @@
 title = "データサイエンス入門講座で学んだことをまとめます"
 date = 2020-05-16T20:12:22+08:00
 description = "データサイエンティスト入門講座を受講していて学んだことをまとめてみましたよ。"
-tags = []
-categories = ["python", "jupyter"]
+tags = ["python"]
+categories = ["Labs", "Jupyter"]
 author = "kazu634"
 +++
 

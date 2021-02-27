@@ -5,8 +5,11 @@ date: 2015-12-17
 author:
   - kazu634
 categories:
+  - Quotes
 tags:
+  - book
 description: Sports Graphics Numberを読んで気になった部分
+
 ---
 水泳の荻野選手:
 

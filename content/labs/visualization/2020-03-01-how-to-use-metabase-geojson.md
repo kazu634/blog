@@ -2,8 +2,8 @@
 title = "MetabaseでGeojsonを用いたカスタムマップを利用する"
 date = 2020-03-01T09:15:53+08:00
 description = "オープンソースのお手軽BIツール・Metabaseで自分で作成した白地図上にデータを可視化できるようになっていたようなので、試してみました"
-tags = []
-categories = ["Tools", "Metabase"]
+categories = ["Labs", "Visualization"]
+tags = ["metabase"]
 author = "kazu634"
 images = ["images/41603208672_984110305c_z.jpg"]
 +++

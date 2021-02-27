@@ -2,8 +2,8 @@
 title = "結局、万人が納得するような綺麗でエレガントな解答などない。その事実を前に、自分たちは泥を被っていかねばならない。ただ泥をかぶるのは避けられないとしても、被る泥の量は減らせるのだ。"
 date = 2020-03-13
 description = "星系出雲兵站-遠征- 2で気になった部分"
-tags = []
-categories = []
+tags = ["book"]
+categories = ["Quotes"]
 author = "kazu634"
 images = ["https://m.media-amazon.com/images/I/51ZjJ8TjEpL._SL160_.jpg"]
 +++

@@ -2,8 +2,8 @@
 title = "Grafana Lokiをお試しで使ってみたよ"
 date = 2020-08-23T19:49:43+08:00
 description = "Grafana Lokiを試しに使ってみたのでレポートしてみるよ"
-tags = []
-categories = ["Linux", "インフラ", "Grafana", "Loki"]
+tags = ["Loki", "Grafana", "Linux"]
+categories = ["Labs", "Infra"]
 author = "kazu634"
 image=""
 +++

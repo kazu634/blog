@@ -2,10 +2,9 @@
 title = "ジョホールバルからクアラルンプールの電車旅行"
 date = 2017-12-25T22:40:04+08:00
 description = " 「世界の車窓から」でマレー鉄道が取り上げられているのを見て、ふと思い立ってジョホールバルからクアラルンプールまで電車で移動してみました。"
-tags = ["Malaysia", "Kuala Lumpur"]
-categories = ["旅行"]
+tags = ["malaysia", "kuala lumpur"]
+categories = ["Travel"]
 author = "kazu634"
-draft = false
 images = ["images/38373120425_473aeced91_z.jpg"]
 +++
 

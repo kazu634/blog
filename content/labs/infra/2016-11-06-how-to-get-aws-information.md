@@ -1,8 +1,7 @@
 +++
-draft = false
 description = "お仕事で必要に迫られたのでAWS EC2の利用状況をコマンドラインから取得する方法を調べてみました"
-tags = []
-categories = ["AWS"]
+tags = ["AWS"]
+categories = ["Labs", "Infra"]
 author = "kazu634"
 date = "2016-11-06T23:38:21+08:00"
 title = "aws-cliを用いてEC2インスタンスの情報を取得する"

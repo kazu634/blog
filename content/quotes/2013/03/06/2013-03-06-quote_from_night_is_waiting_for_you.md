@@ -3,15 +3,13 @@ title: 夜は、待っている。で気になった部分
 author: kazu634
 date: 2013-03-06
 excerpt: 「忘れてないよ」のいちばんの表現は「会う」だよねー。
-has_been_twittered:
-  - yes
-tmac_last_id:
-  - 325244763651592193
 author:
   - kazu634
 categories:
-format: quote
+  - Quotes
 tags:
+  - book
+
 ---
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/4902516764/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/4902516764/simsnes-22/ref=nosim/', '夜は、待っている。 (Hobonichi books)');" target="_blank" name="amazletlink">夜は、待っている。 (Hobonichi books)</a>で気になった部分です:
 

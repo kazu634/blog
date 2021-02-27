@@ -2,8 +2,8 @@
 title = "Kubernetes上でJupyterを稼働させる"
 date = 2020-05-10T18:12:22+08:00
 description = "データサイエンティスト入門講座を受講するため、Jupyterをお家Kubernetes上で動作させました。"
-tags = []
-categories = ["python", "jupyter", "kubernetes"]
+tags = ["python", "kubernetes"]
+categories = ["Labs", "Jupyter"]
 author = "kazu634"
 +++
 

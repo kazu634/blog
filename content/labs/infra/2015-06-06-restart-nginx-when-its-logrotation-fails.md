@@ -7,9 +7,11 @@ tmac_last_id:
 author:
   - kazu634
 categories:
-  - nginx
-  - wordpress
+  - Labs
+  - Infra
 tags:
+  - nginx
+
 ---
 LinuxなどのOSでは、Cronなどの仕組みを使ってログのローテーションをします。しかし最近`nginx`のログローテーションがうまく動かず、アクセスログが空になっている時があることに気づきました。これは問題です。というのも、`nginx`のログからレスポンスタイムを分析しているため、ログが取得できないとグラフがおかしくなってしまうのです。
 

@@ -1,8 +1,8 @@
 +++
-categories = ["VyOS","Edgerouter"]
 author = "kazu634"
 description = "EdgeRouter XとVyOS on AWSでOpenVPNを用いた拠点間VPNをはりました"
-tags = []
+categories = ["Labs", "Network"]
+tags = ["vyOS","edgerouter"]
 date = "2016-10-31T21:07:13+08:00"
 draft = false
 title = "EdgeRouter XとVyOS on AWSで拠点間VPNを構築する"

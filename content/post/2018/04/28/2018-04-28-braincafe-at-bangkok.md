@@ -2,8 +2,8 @@
 title = "Brainwakecafeを訪ねてきました"
 date = 2018-04-28T10:12:17+09:00
 description = "Sukhumvit Soi23の奥の方にあるカフェ。ブログを検索していて、オシャレスポットであることを知る。バンコク旅行の最終日に訪問。"
-tags = ["Bangkok"]
-categories = ["旅行"]
+tags = ["bangkok"]
+categories = ["Misc", "Travel"]
 author = "kazu634"
 images = ["images/41114324812_ffbd19a811.jpg"]
 +++

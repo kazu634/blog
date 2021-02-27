@@ -1,18 +1,13 @@
 ---
 title: 横浜卸売市場〜シーパラダイスに行って参りました
-author: kazu634
 date: 2013-04-19
-has_been_twittered:
-  - yes
-tmac_last_id:
-  - 368276259257589761
 author:
   - kazu634
 categories:
-  - つれづれ
+  - Misc
 tags:
-  - 八景島
-  - 横浜
+  - hakkeijima
+  - yokohama
 
 ---
 4月の頭に横浜卸売市場とシーパラダイスに行って参りました。楽しかったです！

@@ -2,10 +2,8 @@
 title: Luang Prabang滞在
 author: kazu634
 date: 2015-12-28
-author:
-  - kazu634
 categories:
-  - 旅行
+  - Travel
 tags:
   - Luang Prabang
 description: ラオスのLuan Prabangに旅行に行きました。

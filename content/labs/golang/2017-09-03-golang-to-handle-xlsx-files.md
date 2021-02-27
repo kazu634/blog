@@ -2,8 +2,8 @@
 title = "GolangでExcelファイル(.xlsx)を読み込む"
 date = 2017-09-03T22:47:31+08:00
 description = "GolangでどうすればExcelファイルを読み込めるのか調べました。"
-tags = []
-categories = ["Golang"]
+tags = ["Golang"]
+categories = ["Labs", "Program"]
 author = "kazu634"
 images = ["images/6052788455_79a263eeea.jpg"]
 +++

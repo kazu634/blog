@@ -2,8 +2,8 @@
 title = "WindowsサーバのIISにLet's Encryptで取得したワイルドカードSSL証明書をインポートする"
 date = 2019-05-11T23:49:43+08:00
 description = "WindowsサーバのIISにLet's Encryptで取得したワイルドカードSSL証明書をインポートする方法を調べたのでまとめています"
-tags = []
-categories = ["Windows", "iis", "インフラ"]
+tags = ["Windows", "iis"]
+categories = ["Labs", "Infra"]
 author = "kazu634"
 image=""
 +++

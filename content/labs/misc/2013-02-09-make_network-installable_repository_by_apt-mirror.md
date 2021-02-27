@@ -5,9 +5,14 @@ date: 2013-02-09
 author:
   - kazu634
 categories:
-  - apt
-  - インフラ
+  - Labs
+  - Linux
+  - Infra
 tags:
+  - apt
+  - ubuntu
+  preseed
+
 ---
 apt-mirrorを使用してネットワークインストール可能なレポジトリを作成しようとしたら、うまくいかずにハマったのでここにまとめておきます。
 

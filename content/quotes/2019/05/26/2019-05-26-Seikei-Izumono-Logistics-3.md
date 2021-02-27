@@ -2,8 +2,8 @@
 title = "星系出雲の兵站3で気になった部分"
 date = 2019-05-26
 description = "兵站(= Military Logistics)にスポットを当てたSF小説ということで読んでみました。"
-tags = []
-categories = []
+tags = ["book"]
+categories = ["Quotes"]
 author = "kazu634"
 +++
 

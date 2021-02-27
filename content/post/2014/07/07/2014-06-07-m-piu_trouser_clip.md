@@ -1,19 +1,12 @@
 ---
 title: m+のtrouser’s clip買いました
-author: kazu634
 date: 2014-06-07
-wordtwit_posted_tweets:
-  - 'a:1:{i:0;i:1719;}'
-wordtwit_post_info:
-  - 'O:8:"stdClass":13:{s:6:"manual";b:0;s:11:"tweet_times";s:1:"1";s:5:"delay";s:1:"0";s:7:"enabled";s:1:"1";s:10:"separation";i:60;s:7:"version";s:3:"3.6";s:14:"tweet_template";b:0;s:6:"status";i:2;s:6:"result";a:0:{}s:13:"tweet_counter";i:2;s:13:"tweet_log_ids";a:1:{i:0;i:1719;}s:9:"hash_tags";a:0:{}s:8:"accounts";a:1:{i:0;s:7:"kazu634";}}'
-tmac_last_id:
-  - 513518240224776193
 author:
   - kazu634
 categories:
-  - サイクリング
+  - Misc
 tags:
-  - 蔵前
+  - kuramae
 
 ---
 <a href="http://m-piu.com/catalog/trousers-clip/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://m-piu.com/catalog/trousers-clip/', 'm+');">m+</a>と<a href="http://www.tokyobike.com/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.tokyobike.com/', 'Tokyo Bike');" title="Tokyo Bike"  target="_blank">Tokyo Bike</a>がコラボして作成した Trouser&#8217;s Clip を購入しました。これです:

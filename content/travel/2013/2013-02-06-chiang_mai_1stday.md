@@ -2,14 +2,10 @@
 title: チェンマイ旅行1日目
 author: kazu634
 date: 2013-02-06
-has_been_twittered:
-  - yes
-tmac_last_id:
-  - 312741269958955008
 author:
   - kazu634
 categories:
-  - 旅行
+  - Travel
 tags:
   - Chiang Mai
 

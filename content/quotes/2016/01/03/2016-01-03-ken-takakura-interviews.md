@@ -4,9 +4,11 @@ author: kazu634
 date: 2016-01-02
 author:
   - kazu634
-categories:
 description: 『高倉健インタビューズ』を読んで気になった部分をまとめています
+categories:
+  - Quotes
 tags:
+  - book
 ---
 『<a href="https://www.amazon.co.jp/exec/obidos/ASIN/4833420171/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/4833420171/simsnes-22/ref=nosim/', '高倉健インタヴューズ');" name="amazletlink" target="_blank">高倉健インタヴューズ</a>』を読んで気になった部分を抜粋してみました。
 

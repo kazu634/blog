@@ -1,25 +1,12 @@
 ---
 title: B-SIDE LABELのステッカー
-author: kazu634
 date: 2014-03-23
-wordtwit_posted_tweets:
-  - 'a:1:{i:0;i:1706;}'
-wordtwit_post_info:
-  - 'O:8:"stdClass":13:{s:6:"manual";b:0;s:11:"tweet_times";s:1:"1";s:5:"delay";s:1:"0";s:7:"enabled";s:1:"1";s:10:"separation";i:60;s:7:"version";s:3:"3.6";s:14:"tweet_template";b:0;s:6:"status";i:2;s:6:"result";a:0:{}s:13:"tweet_counter";i:2;s:13:"tweet_log_ids";a:1:{i:0;i:1706;}s:9:"hash_tags";a:0:{}s:8:"accounts";a:1:{i:0;s:7:"kazu634";}}'
-geo_latitude:
-  - 35.721292
-geo_longitude:
-  - 139.762562
-geo_public:
-  - 1
-tmac_last_id:
-  - 500985662321860612
 author:
   - kazu634
 categories:
-  - つれづれ
+  - Misc
 tags:
-  - 京都
+  - kyoto
 
 ---
 京都をぶらぶらしていて、<a href="http://www.bside-label.com/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.bside-label.com/', 'B-Side Label');">B-Side Label</a>の店舗を発見しました。マリオがギター担いでいるんです。気になりますよね。

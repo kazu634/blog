@@ -2,16 +2,13 @@
 title: コンシューマー向けのハイエンドルーターでVPNを利用してみた
 author: kazu634
 date: 2015-01-31
-wordtwit_posted_tweets:
-  - 'a:1:{i:0;i:6658;}'
-wordtwit_post_info:
-  - 'O:8:"stdClass":14:{s:6:"manual";b:1;s:11:"tweet_times";i:1;s:5:"delay";s:1:"0";s:7:"enabled";s:1:"1";s:10:"separation";i:60;s:7:"version";s:3:"3.7";s:14:"tweet_template";s:142:"ブログに新しい記事を投稿したよ: コンシューマー向けのハイエンドルーターでVPNを利用してみ…  - [link] ";s:6:"status";i:2;s:6:"result";a:0:{}s:13:"tweet_counter";i:2;s:13:"tweet_log_ids";a:1:{i:0;i:6658;}s:9:"hash_tags";a:0:{}s:8:"accounts";a:1:{i:0;s:7:"kazu634";}s:4:"text";s:161:"ブログに新しい記事を投稿したよ: コンシューマー向けのハイエンドルーターでVPNを利用してみ…  - http://tinyurl.com/mwh37en";}'
-tmac_last_id:
-  - 594128247962505216
 author:
   - kazu634
 categories:
-  - インフラ
+  - Labs
+  - Network
+tags:
+  - vpn
 
 ---
 <a href="https://www.flickr.com/photos/pedrik/5553465029" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.flickr.com/photos/pedrik/5553465029', '');" title="Router by pedrik, on Flickr"><img class=" aligncenter" src="https://farm6.staticflickr.com/5251/5553465029_5fc7dbb0d2.jpg" alt="Router" width="500" height="333" /></a>

@@ -2,9 +2,9 @@
 title = "JavaScriptではじめるWebマップアプリケーション: Chapter2-2"
 date = 2019-05-01T21:07:08+07:00
 description = "JavaScriptではじめるWebマップアプリケーションの内容を淡々と試してみます。"
-categories = ["Mapbox GL JS"]
+categories = ["Labs", "Map"]
 author = "kazu634"
-tags = []
+tags = ["mapbox.js"]
 +++
 
 『[JavaScriptではじめるWebマップアプリケーション \(PDF版\)](https://booth.pm/ja/items/1314906)』の内容を淡々と試してみます。`Mapbox GL JS`で地図を表示してみます:

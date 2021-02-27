@@ -9,9 +9,12 @@ tmac_last_id:
 author:
   - kazu634
 categories:
-  - Programming
-  - シェルスクリプト
+  - Infra
+  - Labs
 tags:
+  - DNS
+  - Domain
+  - ShellScript
 ---
 とあるところで独自ドメインの更新忘れが起きていて、名前解決できていない状態になっていました。。。独自ドメインの更新忘れはかなり致命的な状況に陥ることに気づいたので、監視できる仕組みを構築せねばということで、調べて作成してみました。
 
@@ -23,8 +26,7 @@ whoisコマンドが使用出来ることが前提です。debian系なら、「
 
 作成したシェルスクリプトは<a href="https://gist.github.com/4527473" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://gist.github.com/4527473', 'Gist');" title="Gist"  target="_blank">Gist</a>でも公開しています。以下の通りです:
 
-<pre class="lang:default decode:true" title="check_domain_expiration">#!/bin/bash
-
+```
 ########################################
 # Name: Kazuhiro MUSASHI
 #
@@ -80,7 +82,8 @@ REMAIN_DAYS=$((DIFF_SEC/86400))
 
 echo ${REMAIN_DAYS}
 
-exit 0</pre>
+exit 0
+```
 
 ## 参考にしたサイト
 

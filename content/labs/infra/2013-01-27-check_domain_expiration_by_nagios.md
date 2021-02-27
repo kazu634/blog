@@ -9,10 +9,11 @@ tmac_last_id:
 author:
   - kazu634
 categories:
-  - nagios
-  - Programming
-  - シェルスクリプト
+  - Labs
+  - Infra
+  - Monitoring
 tags:
+  - nagios
 ---
 「<a href="http://blog.kazu634.com/2013/01/14/check_domain_expiration/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.kazu634.com/2013/01/14/check_domain_expiration/', 'ドメインの残り有効期限を取得するシェルスクリプト');" title="ドメインの残り有効期限を取得するシェルスクリプト"  target="_blank">ドメインの残り有効期限を取得するシェルスクリプト</a>」で紹介したスクリプトを Nagios から使用できるようにしてみました。
 

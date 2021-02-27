@@ -2,8 +2,8 @@
 title = "物事の是非は、決断したときに決まるものではない。評価が定まるのは、常にあとになってからだ。"
 date = 2019-07-21T19:00:09+08:00
 description = "半沢直樹を読みました。原作もテレビと同じでスカッとする活劇だったんですね！"
-tags = []
-categories = []
+tags = ["book"]
+categories = ["Quotes"]
 author = "kazu634"
 image=""
 +++

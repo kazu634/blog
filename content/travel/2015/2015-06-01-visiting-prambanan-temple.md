@@ -2,15 +2,11 @@
 title: 'インドネシアの世界遺産を見てきた: Prambanan Temple'
 author: kazu634
 date: 2015-06-01
-tmac_last_id:
-  - 665467423840145408
-author:
-  - kazu634
 categories:
-  - 旅行
+  - Travel
 tags:
-  - Indonesia
-  - Java
+  - indonesia
+  - java
 
 ---
 <a href="https://www.flickr.com/photos/42332031@N02/18306403106" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.flickr.com/photos/42332031@N02/18306403106', '');" title="Untitled by Kazuhiro MUSASHI, on Flickr"><img class=" aligncenter" src="https://c1.staticflickr.com/1/373/18306403106_4718440bf4.jpg" alt="Untitled" width="500" height="375" /></a>

@@ -1,19 +1,12 @@
 ---
 title: すし哲@塩釜のお寿司を食べてきた
-author: kazu634
 date: 2014-10-12
-wordtwit_posted_tweets:
-  - 'a:1:{i:0;i:1867;}'
-wordtwit_post_info:
-  - 'O:8:"stdClass":13:{s:6:"manual";b:0;s:11:"tweet_times";s:1:"1";s:5:"delay";s:1:"0";s:7:"enabled";s:1:"1";s:10:"separation";i:60;s:7:"version";s:3:"3.7";s:14:"tweet_template";b:0;s:6:"status";i:2;s:6:"result";a:0:{}s:13:"tweet_counter";i:2;s:13:"tweet_log_ids";a:1:{i:0;i:1867;}s:9:"hash_tags";a:0:{}s:8:"accounts";a:1:{i:0;s:7:"kazu634";}}'
-tmac_last_id:
-  - 528919750714605568
 author:
   - kazu634
 categories:
-  - つれづれ
+  - Misc
 tags:
-  - 塩釜
+  - shiogama
 
 ---
 祖父母のn,m回忌ということで実家に帰省していました。法事の後は塩釜にある人気のお寿司屋さん、[すし哲][1]でお寿司を食べてきました。これが非常においしかったです。
