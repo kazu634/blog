@@ -5,7 +5,7 @@ categories = ["Quotes"]
 tags = ["book"]
 date = "2016-03-27T20:45:32+08:00"
 title = "あらゆる「案内」において、最も難しいのは、自分の状態を把握すること"
-images = ["images/11357463_fc442ad946.jpg"]
+
 +++
 
 昔のメモを読み返してみたところ、<a href="https://www.amazon.co.jp/exec/obidos/ASIN/4840117713/simsnes-22/ref=nosim/" name="amazletlink" target="_blank">『MORI LOG ACADEMY (4) 投げたらあかん!』</a>でこんなことが書いてあって、メモをしていた:

@@ -5,7 +5,7 @@ description = "フルセイルコーヒーのLight House Blendを飲み始めま
 tags = ["coffee"]
 categories = ["Misc"]
 author = "kazu634"
-images = ["images/IMG_0072.JPG"]
+
 +++
 
 ![](https://lh3.googleusercontent.com/-iLQthM5QqhM/WaEA5E_j0rI/AAAAAAAAZ3M/BvxWeh-0_3c5cDIprh2XWUga7PLC4rMTQCHMYCw/I/IMG_0072.JPG)

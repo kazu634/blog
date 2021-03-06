@@ -1,5 +1,5 @@
 +++
-images = ["images/9592407287_1bb4d50e78_z.jpg"]
+
 categories = ["Linux", "Labs", "Infra"]
 tags = ["ubuntu", "cache"]
 author = "kazu634"

@@ -5,7 +5,7 @@ description = "LPICについて調べていたら、英語でしか受験でき�
 tags = ["prometheus"]
 categories = ["Labs", "Linux", "Monitoring"]
 author = "kazu634"
-images = ["images/38278788676_0cd63ffc01.jpg"]
+
 draft = false
 +++
 

@@ -5,7 +5,7 @@ description = "一時帰国中に川崎にあるゲームセンター・ウェ�
 categories = ["Travel", "Misc"]
 tags = ["kawasaki"]
 author = "kazu634"
-images = ["https://live.staticflickr.com/65535/48916097103_74e0785756_z.jpg"]
+
 +++
 
 一時帰国中に川崎にあるゲームセンター・ウェアハウス川崎を訪ねてきました。香港にある九龍城をモチーフにしたゲームセンターだそうです。

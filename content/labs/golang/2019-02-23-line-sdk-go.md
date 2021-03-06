@@ -5,7 +5,7 @@ description = "GolangでLine APIを利用してみましたよ。"
 tags = ["Golang"]
 categories = ["Labs", "Program"]
 author = "kazu634"
-images = ["https://farm9.staticflickr.com/8462/29581774242_bf25a0a820_z.jpg"]
+
 +++
 
 # GolangでLine APIをいじくる

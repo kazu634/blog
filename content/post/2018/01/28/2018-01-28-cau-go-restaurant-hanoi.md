@@ -6,7 +6,7 @@ tags = ["hanoi"]
 categories = ["Misc", "Travel"]
 author = "kazu634"
 draft = false
-images = ["images/26002890188_b3fac7b085_z.jpg"]
+
 +++
 
 ハノイに出張に行き、お勧めされたCau Go Restraurantに行ってきました。場所は旧市街地の湖畔にあるお店で、ロケーション・景色・料理すべてが良かったです！ガイドブックなどにも掲載されている有名店のようですが、行く価値アリです。

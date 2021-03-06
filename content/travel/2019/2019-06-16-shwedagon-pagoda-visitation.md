@@ -5,7 +5,7 @@ description = "2019/05/18-20の期間、ヤンゴン旅行へ行ってきまし�
 tags = ["yangon"]
 categories = ["Travel"]
 author = "kazu634"
-images = ["https://live.staticflickr.com/65535/40924208703_2afa35c59b_z.jpg"]
+
 +++
 
 ミャンマー仏教の総本山、シェダゴンパゴダに行ってまいりました。Wikipediaによると:

@@ -5,7 +5,7 @@ description = "星系出雲兵站-遠征- 2で気になった部分"
 tags = ["book"]
 categories = ["Quotes"]
 author = "kazu634"
-images = ["https://m.media-amazon.com/images/I/51ZjJ8TjEpL._SL160_.jpg"]
+
 +++
 
 [星系出雲兵站-遠征- 2](https://www.amazon.co.jp/exec/obidos/ASIN/4150314012/simsnes-22/)で気になった部分をまとめました。異星人の死体を回収し、調査しなければいけなくなった際の戸惑いの部分です。異星人を知的生命体と認めるならば、倫理的な問題をどのように解決していくのか、そこが問題になってきますです。

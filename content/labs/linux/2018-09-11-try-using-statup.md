@@ -1,5 +1,5 @@
 +++
-images = ["images/43806262985_22aca620eb_z.jpg"]
+
 tags = ["statup"]
 categories = ["Labs", "Infra", "Linux", "Monitoring"]
 author = "kazu634"

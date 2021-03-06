@@ -5,7 +5,7 @@ description = "兵站(= Military Logistics)にスポットを当てたSF小説�
 tags = ["book"]
 categories = ["Quotes"]
 author = "kazu634"
-images = ["https://images-fe.ssl-images-amazon.com/images/I/51raFJDaLfL._SL160_.jpg"]
+
 +++
 
 兵站(= Military Logistics)にスポットを当てたSF小説ということで読んでいる『星系出雲の兵站』シリーズですが、新シリーズに突入しました。これからも読んでいきます。

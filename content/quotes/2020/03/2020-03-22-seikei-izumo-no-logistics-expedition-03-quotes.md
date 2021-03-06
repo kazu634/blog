@@ -5,7 +5,7 @@ description = "星系出雲兵站-遠征- 3で気になった部分をまとめ�
 tags = ["book"]
 categories = ["Quotes"]
 author = "kazu634"
-images = ["https://m.media-amazon.com/images/I/51Dv5DmDJbL._SL160_.jpg"]
+
 +++
 
 [星系出雲兵站-遠征- 3](https://www.amazon.co.jp/exec/obidos/ASIN/B084SVWRPL/simsnes-22/)で気になった部分をまとめました。

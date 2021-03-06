@@ -2,7 +2,7 @@
 title="色々あるグラフをどのように使い分けるか、まとめてみます"
 date=2020-06-13T15:04:05Z
 description="グラフをどのように使い分けるか、『グラフを作る前に読む本』にまとめられていたのでメモします"
-images = [""]
+
 chart=true
 categories = ["Labs", "Visualization"]
 tags = ["chart.js"]

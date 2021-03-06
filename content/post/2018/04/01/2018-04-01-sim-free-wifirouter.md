@@ -5,7 +5,7 @@ description = "SIMフリーWiFIルーターのAterm MR05LNを買いました"
 tags = ["adget"]
 categories = ["Misc"]
 author = "kazu634"
-images = ["images/41161511511_01c2b81bd2_z.jpg"]
+
 +++
 
 シンガポールに住んでいる私ですが、結構シンガポール国外に出ることが多いです。その場合、空港などで現地のSIMを購入し、入れ替えて対応しています。

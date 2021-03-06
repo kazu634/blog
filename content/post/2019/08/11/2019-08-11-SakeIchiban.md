@@ -5,7 +5,7 @@ description = "7月のタイの連休にこっそり行ってきました。隣�
 tags = ["hakata"]
 categories = ["Misc", "Travel"]
 author = "kazu634"
-images = ["https://live.staticflickr.com/65535/48289457097_5e9bfeb4a5_z.jpg"]
+
 +++
 
 博多の中洲にあるお店。それほどまで高いわけではなく、コストパフォーマンスが良いお店ということで有名みたい。

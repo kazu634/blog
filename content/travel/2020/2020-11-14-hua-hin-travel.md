@@ -5,7 +5,7 @@ description = "タイの「葉山」、ホアヒンを訪ねてきました。"
 tags = ["hua hin"]
 categories = ["Travel"]
 author = "kazu634"
-images = ["https://live.staticflickr.com/65535/49450740856_d5fd2be650_z.jpg"]
+
 +++
 
 ホアヒンは「タイの葉山」です。タイ王室の別荘がある場所として始まり、それが徐々に観光地化してきた場所です。今回は平日お休みをとってホアヒンを訪ねてきました。

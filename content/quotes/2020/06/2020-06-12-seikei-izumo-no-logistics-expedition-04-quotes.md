@@ -5,7 +5,7 @@ description = "星系出雲兵站-遠征- 4で気になった部分をまとめ�
 tags = ["book"]
 categories = ["Quotes"]
 author = "kazu634"
-images = ["https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B088TLCPK8&Format= _SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=simsnes-22&language=ja_JP"]
+
 +++
 
 『[星系出雲の兵站-遠征-4](https://www.amazon.co.jp/%E6%98%9F%E7%B3%BB%E5%87%BA%E9%9B%B2%E3%81%AE%E5%85%B5%E7%AB%99-%E9%81%A0%E5%BE%81-4-%E3%83%8F%E3%83%A4%E3%82%AB%E3%83%AF%E6%96%87%E5%BA%ABJA-%E6%9E%97-%E8%AD%B2%E6%B2%BB/dp/4150314322)』で気になった部分をまとめました。

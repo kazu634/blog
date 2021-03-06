@@ -5,7 +5,7 @@ description = "Hanoi市街地から少し離れた宝石のようなカフェに
 tags = ["hanoi"]
 categories = ["Travel", "Misc"]
 author = "kazu634"
-images = ["images/41335917114_1c1d187c35_o.jpg"]
+
 +++
 
 Hanoiの週末に訪れたカフェ。とてもお洒落で雰囲気のいいお店。また訪れたい。

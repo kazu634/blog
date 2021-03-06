@@ -5,7 +5,7 @@ categories = ["Quotes"]
 tags = ["book"]
 date = "2016-02-14T23:10:46+08:00"
 title = "人間とは”感じとる”いきものだ"
-images = ["https://farm3.staticflickr.com/2750/4236375007_ae06de0927_z.jpg"]
+
 +++
 いきものがかりのギター・リードを担当する水野良樹さんが語る「感じ取られるべきもの」について:
 

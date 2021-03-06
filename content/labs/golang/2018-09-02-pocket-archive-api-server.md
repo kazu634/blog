@@ -1,5 +1,5 @@
 +++
-images = ["images/5691141369_0eb8199f37_z.jpg"]
+
 tags = ["Golang"]
 categories = ["Labs", "Program"]
 author = "kazu634"

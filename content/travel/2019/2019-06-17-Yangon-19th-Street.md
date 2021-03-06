@@ -5,7 +5,7 @@ description = "2019/05/18-20の期間、ヤンゴン旅行へ行ってきまし�
 tags = ["yangon"]
 categories = ["Travel"]
 author = "kazu634"
-images = ["https://live.staticflickr.com/65535/40924164163_59352c8dc3_z.jpg"]
+
 +++
 
 ヤンゴン旅行中に Yangon 19th Street に行きました。有名な酒場通りということです。

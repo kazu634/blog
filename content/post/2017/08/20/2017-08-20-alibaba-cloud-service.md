@@ -5,7 +5,7 @@ description = "Alibabaのクラウドサービスについて考えたことで�
 tags = ["alibaba"]
 categories = ["Misc"]
 author = "kazu634"
-images = ["images/25718827003_b8dfdc8fac.jpg"]
+
 +++
 
 アリババのクラウドサービスがVPN接続をサポートしたようです。今まではインターネット側からしかアクセスできなかったのかな。これでセキュアにオンプレのデータセンターからアクセスできるようになったみたいです。
