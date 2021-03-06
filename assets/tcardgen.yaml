@@ -2,16 +2,16 @@ template: assets/base.png
 title:
   start:
     px: 113
-    pY: 252
+    pY: 247
   fgHexColor: "#FFFFFF"
-  fontSize: 72
+  fontSize: 65
   fontStyle: Bold
   maxWidth: 946
   lineSpacing: 10
 category:
   start:
     px: 113
-    py: 211
+    py: 195
   fgHexColor: "#E5B52A"
   fontSize: 42
   fontStyle: Regular
@@ -25,11 +25,11 @@ info:
 tags:
   start:
     px: 120
-    py: 475
+    py: 490
   fgHexColor: "#FFFFFF"
   bgHexColor: "#7F7776"
   fontSize: 22
-  fontStyle: Medium
+  fontStyle: Regular
   boxAlign: Left
   boxSpacing: 6
   boxPadding:
