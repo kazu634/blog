@@ -1,16 +1,12 @@
 ---
 title: 第23回仙台国際ハーフマラソンを走って来ました
-author: kazu634
-date: 2013-05-26
-has_been_twittered:
-  - yes
-tmac_last_id:
-  - 9223372036854775807
+date: 2013-05-26T15:04:05Z
+author:
+  - kazu634
 categories:
-  - スポーツ
-  - ランニング
+  - Misc
 tags:
-  - 仙台
+  - sendai
 
 ---
 仙台ハーフマラソンの完走証が郵送されてきました！今年は久しぶりに 90 min を切れたので嬉しいです！

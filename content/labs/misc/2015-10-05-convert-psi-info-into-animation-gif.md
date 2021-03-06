@@ -1,12 +1,14 @@
 ---
 title: 'じゆうけんきゅう: シンガポールのhaze情報のページからPSI情報を取得してアニメーションGIFにしてみた'
 author: kazu634
-date: 2015-10-04
-tmac_last_id:
-  - 665467418412756993
+date: 2015-10-04T15:04:05Z
+author:
+  - kazu634
 categories:
+  - Labs
+  - Program
+tags:
   - cron
-  - linux
   - ruby
 
 ---

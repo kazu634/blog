@@ -1,15 +1,12 @@
 ---
 title: 西新井大師を訪ねて
-author: kazu634
-date: 2012-12-30
-has_been_twittered:
-  - yes
-tmac_last_id:
-  - 303816628007743489
+date: 2012-12-30T15:04:05Z
+author:
+  - kazu634
 categories:
-  - つれづれ
+  - Misc
 tags:
-  - 大師前
+  - taishimae
 
 ---
 用事があって西新井大師までお出かけしてきました、「大師」とつく地名は「川崎大師」しか知らなかったので、東京にも大師があると驚いたのはここだけの話。。。

@@ -1,9 +1,12 @@
 +++
 title="色々あるグラフをどのように使い分けるか、まとめてみます"
-date=2020-06-13
-Description="グラフをどのように使い分けるか、『グラフを作る前に読む本』にまとめられていたのでメモします"
-images = [""]
+date=2020-06-13T15:04:05Z
+description="グラフをどのように使い分けるか、『グラフを作る前に読む本』にまとめられていたのでメモします"
+
 chart=true
+categories = ["Labs", "Visualization"]
+tags = ["chart.js"]
+author = "kazu634"
 +++
 
 <a href="https://www.amazon.co.jp/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E5%89%8D%E3%81%AB%E8%AA%AD%E3%82%80%E6%9C%AC%EF%BC%BB%E4%B8%80%E7%9E%AC%E3%81%A7%E4%BC%9D%E3%82%8F%E3%82%8B%E8%A1%A8%E7%8F%BE%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9F%E3%81%AE%E3%81%8B%EF%BC%BD-%E6%9D%BE%E6%9C%AC-%E5%81%A5%E5%A4%AA%E9%83%8E-ebook/dp/B075WRLPGV/ref=as_li_ss_il?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%B0%E3%83%A9%E3%83%95%E3%82%92%E4%BD%9C%E3%82%8B%E5%89%8D%E3%81%AB&qid=1592495480&sr=8-1&linkCode=li2&tag=simsnes-22&linkId=e0d680dadb70490cd55526f37e9e4fed&language=ja_JP" target="_blank">『グラフを作る前に読む本』</a>に、グラフをどのようにようにように使い分けるかについてまとめられていたのでメモします。
@@ -19,7 +22,7 @@ chart=true
 棒グラフの特徴として、以下のようにまとめられていました:
 
 > 棒グラフでは、複数並んだ棒の高さを比べて「棒が大きい(小さい)項目はどれだろう？」と考えます。つまり棒グラフが一番得意な表現方法はデータの「比較」です。棒グラフを使えば、比べたいデータを最も分かりやすクズで表現できます。
-> 
+>
 > 「高さ」を比べて項目の量の違いを感覚的につかめるのが棒グラフの特徴です。
 
 {{<chart canvas="box" height="200">}}
@@ -55,7 +58,7 @@ chart=true
             scheme: 'tableau.Tableau20',
             fillAlpha: 0.3
           }
-        } 
+        }
       }
   });
 {{< /chart >}}
@@ -69,9 +72,9 @@ chart=true
 折れ線グラフの特徴に以下のようにまとめられていました:
 
 > 折れ線グラフは必ずデータ項目の複数の時点を描きます。点を一つだけ描く折れ線グラフを目にする機会はないでしょう。
-> 
+>
 > 折れ線グラフでは、ある時点とある時点を左から右に線で結んで「線の傾きが大きい(小さい)時点はどれだろう？」、「傾きの傾向が変化するのはどの時点だろう？」と考えます。つまり折れ線グラフが一番得意な表現方法はデータの「推移」です。折れ線グラフを使えば、データの変化を最もわかりやすく図で表現できます。
-> 
+>
 > ある時点とある時点の間の「傾き」から変化を感覚的につかめるのが折れ線グラフの特徴です。
 
 {{<chart canvas="line-chart" height="200">}}
@@ -108,7 +111,7 @@ chart=true
             scheme: 'tableau.Tableau20',
             fillAlpha: 0.3
           }
-        } 
+        }
     }
 });
 {{< /chart >}}
@@ -149,7 +152,7 @@ chart=true
           scheme: 'tableau.Tableau20',
           fillAlpha: 0.3
         }
-      } 
+      }
     }
   });
 {{< /chart >}}
@@ -171,7 +174,7 @@ chart=true
   var ctx = document.getElementById("radar-chart");
   var myPieChart = new Chart(ctx, {
     type: 'radar',
-    data: { 
+    data: {
       labels: ["English", "Math", "Japanese", "Science", "History"],
       datasets: [{
         label: 'Alice',
@@ -207,7 +210,7 @@ chart=true
           scheme: 'tableau.Tableau20',
           fillAlpha: 0.3
         }
-      } 
+      }
     }
   });
 {{< /chart >}}
@@ -236,13 +239,13 @@ chart=true
   var ctx = document.getElementById("scatter-chart");
 
   var myScatterChart = new Chart(ctx, {
-    type: 'scatter', 
-    data: { 
+    type: 'scatter',
+    data: {
       datasets: [
         {
           label: '1st Class',
           data: [{x:90, y:82},{x:39, y:45},{x:63, y:65},{x:83, y:75},{x:83, y:95}]
-          }, 
+          },
         {
           label: '2nd Class',
           data: [{x:97, y:92},{x:63, y:70},{x:48, y:52},{x:83, y:79},{x:66, y:74}]
@@ -254,10 +257,10 @@ chart=true
           text: 'Test Results'
       },
       scales: {
-        xAxes: [{        
-          scaleLabel: {             
-            display: true,          
-            labelString: 'English' 
+        xAxes: [{
+          scaleLabel: {
+            display: true,
+            labelString: 'English'
           },
           ticks: {
             suggestedMin: 0,
@@ -268,10 +271,10 @@ chart=true
             }
           }
         }],
-        yAxes: [{        
-          scaleLabel: {             
-            display: true,          
-            labelString: 'Math' 
+        yAxes: [{
+          scaleLabel: {
+            display: true,
+            labelString: 'Math'
           },
           ticks: {
             suggestedMax: 100,
@@ -354,7 +357,7 @@ chart=true
           scheme: 'tableau.Tableau20',
           fillAlpha: 0.3
         }
-      }  
+      }
   },
   });
 {{< /chart >}}
@@ -409,7 +412,7 @@ chart=true
         stacked100: {
           enable: true
         },
-      }  
+      }
     },
   });
 {{< /chart >}}
@@ -420,7 +423,7 @@ chart=true
 > 面グラフは1つの線を描き終えると、2つ目の先は先に引いた線上を0の基準とみなして再び線を描きます。2つ目の線は、1つ目に引かれた線を0という基準にしていいるのを明確にするために、1つ目に引いた線の下側を塗りつぶし、2つ目の線の下側と1つ目の線の上側も塗りつぶします。だから面グラフと言われています。
 
 > 面グラフは必ず複数の時点、面の中に複数のデータ項目を描きます。面の内訳が1つだけ描かれる面グラフは単なる折れ線グラフです。そんな面グラフを目にする機会はないでしょう。面グラフでは、面の推移を比べて「全体に対して占める割合が大きい(小さい)データ量はどのように変化するのだろう？」と考えます。つまり面グラフが一番得意な表現方法は、データ全体の「内訳」の「推移」です。面グラフは、データ(数字)の総量と内訳の変化を最もわかりやすく図で表現できます。
-> 
+>
 > データ全体に対する特定のデータ項目の「推移」から内訳の変化を感覚的につかめるのが面グラフの特徴です。
 
 > 面グラフは、円グラフが得意とする「内訳」と折れ線グラフが得意とする「推移」のどちらかを強調したいか決めれば、何が言いたいのかより伝わります。

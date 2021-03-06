@@ -1,10 +1,11 @@
 +++
-Categories = []
-Description = "『数学ガール/乱択アルゴリズム』で気になった部分を引用しています。「約束は、意思の表明だ。きみはーーどんな道を歩む？」"
-Tags = []
+author = "kazu634"
+description = "『数学ガール/乱択アルゴリズム』で気になった部分を引用しています。「約束は、意思の表明だ。きみはーーどんな道を歩む？」"
+categories = ["Quotes"]
+tags = ["book"]
 date = "2016-03-19T22:37:00+08:00"
 title = "約束を守らないのは、悪者。約束が守れなくなるのは事故。でも……約束をしないのは弱虫だ"
-images = ["images/3676624894_ee4142a611_z.jpg"]
+
 +++
 
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/479736100X/simsnes-22/ref=nosim/" name="amazletlink" target="_blank">『数学ガール/乱択アルゴリズム』</a>で気になった部分です:

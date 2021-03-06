@@ -1,15 +1,13 @@
 ---
 title: ユリウス・カエサル ルビコン以前──ローマ人の物語 IV を読む
 author: kazu634
-date: 2014-10-12
-wordtwit_posted_tweets:
-  - 'a:1:{i:0;i:1868;}'
-wordtwit_post_info:
-  - 'O:8:"stdClass":13:{s:6:"manual";b:0;s:11:"tweet_times";s:1:"1";s:5:"delay";s:1:"0";s:7:"enabled";s:1:"1";s:10:"separation";i:60;s:7:"version";s:3:"3.7";s:14:"tweet_template";b:0;s:6:"status";i:2;s:6:"result";a:0:{}s:13:"tweet_counter";i:2;s:13:"tweet_log_ids";a:1:{i:0;i:1868;}s:9:"hash_tags";a:0:{}s:8:"accounts";a:1:{i:0;s:7:"kazu634";}}'
-tmac_last_id:
-  - 528919750982643712
+date: 2014-10-12T15:04:05Z
+author:
+  - kazu634
 categories:
-
+  - Quotes
+tags:
+  - book
 
 ---
 塩野七生のローマ人の物語を読んでいます。といっても英語版。日本語で読んだのは学生の時だから、あれから5年くらいかな。今が一番おもしろいカエサルのところを読んでいます。

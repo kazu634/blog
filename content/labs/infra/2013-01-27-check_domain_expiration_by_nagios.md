@@ -1,16 +1,19 @@
 ---
 title: Nagiosでドメイン有効期限を監視する
 author: kazu634
-date: 2013-01-27
+date: 2013-01-27T15:04:05Z
 has_been_twittered:
   - yes
 tmac_last_id:
   - 307653283424636929
+author:
+  - kazu634
 categories:
+  - Labs
+  - Infra
+  - Monitoring
+tags:
   - nagios
-  - Programming
-  - シェルスクリプト
-
 ---
 「<a href="http://blog.kazu634.com/2013/01/14/check_domain_expiration/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.kazu634.com/2013/01/14/check_domain_expiration/', 'ドメインの残り有効期限を取得するシェルスクリプト');" title="ドメインの残り有効期限を取得するシェルスクリプト"  target="_blank">ドメインの残り有効期限を取得するシェルスクリプト</a>」で紹介したスクリプトを Nagios から使用できるようにしてみました。
 
@@ -19,7 +22,7 @@ categories:
 Nagios からドメインの有効期限を監視します。今のところ .com にしか対応していません。作業完了後のイメージはこんな感じです:
 
 <a href="http://www.flickr.com/photos/42332031@N02/8397684471/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.flickr.com/photos/42332031@N02/8397684471/', '');" title="Nagios Core by kazu634, on Flickr"><img class="aligncenter" src="http://farm9.staticflickr.com/8506/8397684471_e5f82ba38f.jpg" alt="Nagios Core" width="500" height="76" /></a>
-  
+
 <!--more-->
 
 ## Nagiosプラグインの仕様
@@ -155,27 +158,27 @@ Nagiosのcommands.cfgに以下の行を追加します:
 <div class="amazlet-image" style="float: left; margin: 0px 12px 1px 0px;">
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/4774145823/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/4774145823/simsnes-22/ref=nosim/', '');" name="amazletlink"  target="_blank"><img style="border: none;" src="https://images-na.ssl-images-amazon.com/images/I/51H7Wq1BVDL._SL160_.jpg" alt="Nagios統合監視[実践]リファレンス (Software Design ｐlus)" /></a>
 </div>
-  
+
 <div class="amazlet-info" style="line-height: 120%; margin-bottom: 10px;">
 <div class="amazlet-name" style="margin-bottom: 10px; line-height: 120%;">
-<a href="https://www.amazon.co.jp/exec/obidos/ASIN/4774145823/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/4774145823/simsnes-22/ref=nosim/', 'Nagios統合監視[実践]リファレンス (Software Design ｐlus)');" name="amazletlink"  target="_blank">Nagios統合監視[実践]リファレンス (Software Design ｐlus)</a></p> 
-      
+<a href="https://www.amazon.co.jp/exec/obidos/ASIN/4774145823/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/4774145823/simsnes-22/ref=nosim/', 'Nagios統合監視[実践]リファレンス (Software Design ｐlus)');" name="amazletlink"  target="_blank">Nagios統合監視[実践]リファレンス (Software Design ｐlus)</a></p>
+
 <div class="amazlet-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%;">
         posted with <a href="http://www.amazlet.com/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.amazlet.com/', 'amazlet');" title="amazlet"  target="_blank">amazlet</a> at 13.01.27
 </div>
 </div>
-    
+
 <div class="amazlet-detail">
       株式会社エクストランス 佐藤 省吾 Team-Nagios<br /> 技術評論社<br /> 売り上げランキング: 53,459
 </div>
-    
+
 <div class="amazlet-sub-info" style="float: left;">
 <div class="amazlet-link" style="margin-top: 5px;">
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/4774145823/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/4774145823/simsnes-22/ref=nosim/', '');" name="amazletlink"  target="_blank"></a>Amazon.co.jp で詳細を見る
 </div>
 </div>
 </div>
-  
+
 <div class="amazlet-footer" style="clear: left;">
 </div>
 </div>

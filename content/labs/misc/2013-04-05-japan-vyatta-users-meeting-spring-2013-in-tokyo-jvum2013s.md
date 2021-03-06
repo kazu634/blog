@@ -1,17 +1,15 @@
 ---
 title: 'Japan Vyatta Users Meeting Spring 2013 in Tokyo #jvum2013s'
 author: kazu634
-date: 2013-04-05
-has_been_twittered:
-  - yes
-tmac_last_id:
-  - 366071693510311937
-wordtwit_post_info:
-  - 'O:8:"stdClass":13:{s:6:"manual";b:0;s:11:"tweet_times";s:1:"1";s:5:"delay";s:1:"0";s:7:"enabled";s:1:"1";s:10:"separation";i:60;s:7:"version";s:3:"3.7";s:14:"tweet_template";b:0;s:6:"status";i:3;s:6:"result";a:0:{}s:13:"tweet_counter";i:1;s:13:"tweet_log_ids";a:0:{}s:9:"hash_tags";a:0:{}s:8:"accounts";a:1:{i:0;s:7:"kazu634";}}'
+date: 2013-04-05T15:04:05Z
+author:
+  - kazu634
 categories:
+  - Labs
+  - Infra
+tags:
   - vyatta
-  - インフラ
-
+  
 ---
 <a href="http://atnd.org/event/jvum2013s" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://atnd.org/event/jvum2013s', 'Japan Vyatta Users Meeting Spring 2013 in Tokyo');">Japan Vyatta Users Meeting Spring 2013 in Tokyo</a>に参加して来ました。Vyatta、インフラ系のエンジニアにとっては「仮想環境で複数ネットワーク環境にするために導入するソフトウェアルータ」というイメージしかありません。SDN(Software Defined Network)という言葉がこれから来そうな中で、どのように使われているのかユースケースを知りたくて参加してみました。
 

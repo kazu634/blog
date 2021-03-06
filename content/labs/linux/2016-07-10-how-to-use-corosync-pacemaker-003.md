@@ -1,11 +1,11 @@
 +++
-Categories = ["Clustering", "Pacemaker", "Corosync"]
-Description = "Pacemaker + Corosyncを用いてクラスタ環境を構築してみました。RHEL 6.4で検証しました。今回はPacemakeとCorosyncを利用できるようにします"
-Tags = []
+author = "kazu634"
+description = "Pacemaker + Corosyncを用いてクラスタ環境を構築してみました。RHEL 6.4で検証しました。今回はPacemakeとCorosyncを利用できるようにします"
+categories = ["Labs", "Linux"]
+tags = ["clustering", "pacemaker", "corosync"]
 date = "2016-07-10T23:48:32+08:00"
-draft = false
 title = "Pacemaker + Corosyncを用いてクラスタ環境の構築 - Pacemaker, Corosyncの構築"
-images = ["images/7241213444_1c8a40e897.jpg"]
+
 +++
 
 お仕事でLinux環境でHAクラスタを検証する必要が出てきたので、手順を調べてみました。

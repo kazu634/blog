@@ -1,10 +1,11 @@
 +++
 title = "カトマンズを訪ねる旅へ"
 date = 2020-01-28T15:49:49+08:00
-Description = "ネパールの首都カトマンズを訪ねてきました。エベレストを見てきましたよ"
-Tags = ["Katmandu", "Nepal"]
-Categories = ["旅行"]
-images = ["https://live.staticflickr.com/65535/49450740856_d5fd2be650_z.jpg"]
+description = "ネパールの首都カトマンズを訪ねてきました。エベレストを見てきましたよ"
+tags = ["katmandu", "nepal"]
+categories = ["Travel"]
+author = "kazu634"
+
 +++
 
 シンガポールにいた時は行くのが難しかったけれど、バンコクからなら簡単に行ける国に行こうということでネパールに行ってきました。

@@ -1,9 +1,10 @@
 +++
 title = "星系出雲の兵站1で気になった部分"
-date = 2019-04-17
-Description = "兵站(= Military Logistics)にスポットを当てたSF小説ということで読んでみました。"
-Tags = []
-Categories = []
+date = 2019-04-17T15:04:05Z
+description = "兵站(= Military Logistics)にスポットを当てたSF小説ということで読んでみました。"
+tags = ["book"]
+categories = ["Quotes"]
+author = "kazu634"
 +++
 
 兵站にスポットを当てたSF小説ということで[星系出雲の兵站 1](https://www.amazon.co.jp/exec/obidos/ASIN/4150313407/simsnes-22/ref=nosim/)が紹介されていたので、読んでみました。

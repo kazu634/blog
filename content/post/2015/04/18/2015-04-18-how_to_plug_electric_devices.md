@@ -1,14 +1,13 @@
 ---
 title: シンガポールのコンセントの使い方
-author: kazu634
-date: 2015-04-18
-tmac_last_id:
-  - 665445575299637249
+date: 2015-04-18T15:04:05Z
+author:
+  - kazu634
 categories:
-  - つれづれ
+  - Misc
 tags:
   - dakota
-  - Singapore
+  - singapore
 
 ---
 <a href="https://www.flickr.com/photos/shutterbugsheep/15738093341" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.flickr.com/photos/shutterbugsheep/15738093341', '');" title="Humble Plug by Tracy, on Flickr"><img class=" aligncenter" src="https://farm8.staticflickr.com/7574/15738093341_0ca274df94.jpg" alt="Humble Plug" width="500" height="354" /></a>

@@ -1,14 +1,14 @@
 ---
 title: Selfish Gene @ Tanjong Pagar
-author: kazu634
-date: 2015-05-01
-tmac_last_id:
-  - 665467424393797632
+date: 2015-05-01T15:04:05Z
+author:
+  - kazu634
 categories:
-  - つれづれ
+  - Misc
 tags:
-  - Singapore
-  - Tanjong Pagar
+  - singapore
+  - tanjong pagar
+  - coffee
 
 ---
 シンガポールにいる間に、シンガポールのカフェを色々と回ってこようと思います。シンガポールはどちらかと言うと、スタバに影響を受けた、個人経営のお店が多い雰囲気です。サードウェーブ的なお店は自分の観測範囲ではほとんど見かけないです。。。個人経営のお店は、カプチーノやカフェラテがおいてあって、本当にコーヒーで勝負するお店は無いですね。

@@ -1,10 +1,11 @@
 +++
-Categories = ["node.js"]
-Description = "Hubot使ってみたかったから、nodebrewを使って、node.jsをMac (El Capitan 10.11.3)にインストールしてみました。"
-Tags = []
+author = "kazu634"
+description = "Hubot使ってみたかったから、nodebrewを使って、node.jsをMac (El Capitan 10.11.3)にインストールしてみました。"
+categories = ["Labs", "Program"]
+tags = ["node.js"]
 date = "2016-03-20T14:53:36+08:00"
 title = "nodebrewを使って、node.jsをMacにインストールしてみた"
-images = ["images/4932794177_e73e90a820_z.jpg"]
+
 +++
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/ncc_badiey/4932794177/in/photolist-8vTRRt-8vTGyg-8GHj9Z-8vWTLy-8vTUtF-8vTTzr-8vWUP7-8vWW11-8vTSFV-c6cfGW-8vQPme-a77qLQ-8vTT8t-8THvsD-ma59Cy-8vWVrU-8vWUSU-dQUJyT-8vTRZp-8vWUr9-8vWUjU-8vTSar-8vWTFf-8vWW5y-8vWUwh-bAnNC8-8vTTrV-8vWUBd-8vWWyL-8vWVRA-bufANU-8vTUkc-8vTRAa-8vTS6K-8vTTut-8vTTS8-8vTSyP-8vWWrY-8vWVLu-ma5bEE-ma5hdd-rfmy16-ma4gge-ma4fKe-ma4n3p-ma5iqo-ma3zf4-ma5kDG-ma5ePf-ma4ike" title="Node.js Knockout"><img src="https://farm5.staticflickr.com/4120/4932794177_e73e90a820_z.jpg" width="640" height="425" alt="Node.js Knockout"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

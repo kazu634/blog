@@ -1,11 +1,12 @@
 +++
-Categories = ["VyOS","Edgerouter"]
-Description = "EdgeRouter XとVyOS on AWSでOpenVPNを用いた拠点間VPNをはりました"
-Tags = []
+author = "kazu634"
+description = "EdgeRouter XとVyOS on AWSでOpenVPNを用いた拠点間VPNをはりました"
+categories = ["Labs", "Network"]
+tags = ["vyOS","edgerouter"]
 date = "2016-10-31T21:07:13+08:00"
 draft = false
 title = "EdgeRouter XとVyOS on AWSで拠点間VPNを構築する"
-images = ["images/3100879440_3e9d0ff8dc_b.jpg"]
+
 +++
 
 [EdgeRouter X がすごい \| yabe\.jp](http://yabe.jp/gadgets/edgerouter-x/)に触発されて、EdgeRouter Xを購入しました。手元のハードとしてきちんとしたルーターがあるっていいことだと思います。色々と実験できるので。
@@ -52,7 +53,7 @@ Uptime:       13:38:07 up 1 day,  4:33,  1 user,  load average: 1.16, 1.60, 1.86
 ```
 vyos@VyOS-AMI:~$ show version
 Version:      VyOS 1.1.7
-Description:  VyOS 1.1.7 (helium)
+description:  VyOS 1.1.7 (helium)
 Copyright:    2016 VyOS maintainers and contributors
 Built by:     maintainers@vyos.net
 Built on:     Wed Feb 17 09:57:31 UTC 2016

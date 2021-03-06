@@ -1,10 +1,13 @@
 +++
 title="Leaflet.jsでMapboxのタイルを用いて地図を表示する"
-date=2019-04-08
-publishdate=2019-04-08
-Description="Leaflet.jsでMapboxのタイルを用いて地図を表示するよ"
-images = ["https://farm9.staticflickr.com/8462/29581774242_bf25a0a820_z.jpg"]
+date=2019-04-08T15:04:05Z
+publishdate=2019-04-08T15:04:05Z
+description="Leaflet.jsでMapboxのタイルを用いて地図を表示するよ"
+
 leaflet=true
+categories = ["Labs", "Map"]
+tags = ["leaflet.js"]
+author = "kazu634"
 +++
 
 [Leaflet.js](https://leafletjs.com/)でMapboxのタイルを用いて地図を表示してみます:

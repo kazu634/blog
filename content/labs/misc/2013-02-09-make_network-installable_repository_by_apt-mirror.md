@@ -1,10 +1,17 @@
 ---
 title: apt-mirrorを使ってネットワークインストール可能なレポジトリを作成する
 author: kazu634
-date: 2013-02-09
+date: 2013-02-09T15:04:05Z
+author:
+  - kazu634
 categories:
+  - Labs
+  - Linux
+  - Infra
+tags:
   - apt
-  - インフラ
+  - ubuntu
+  - preseed
 
 ---
 apt-mirrorを使用してネットワークインストール可能なレポジトリを作成しようとしたら、うまくいかずにハマったのでここにまとめておきます。

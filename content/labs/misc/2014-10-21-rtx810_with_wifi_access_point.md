@@ -1,16 +1,14 @@
 ---
 title: RTX810と無線LANアクセスポイントを組み合わせてみた
 author: kazu634
-date: 2014-10-20
-wordtwit_posted_tweets:
-  - 'a:1:{i:0;i:1879;}'
-wordtwit_post_info:
-  - 'O:8:"stdClass":14:{s:6:"manual";b:1;s:11:"tweet_times";i:1;s:5:"delay";s:1:"0";s:7:"enabled";s:1:"1";s:10:"separation";i:60;s:7:"version";s:3:"3.7";s:14:"tweet_template";s:126:"ブログに新しい記事を投稿したよ: RTX810と無線LANアクセスポイントを組み合わせてみた - [link] ";s:6:"status";i:2;s:6:"result";a:0:{}s:13:"tweet_counter";i:2;s:13:"tweet_log_ids";a:1:{i:0;i:1879;}s:9:"hash_tags";a:0:{}s:8:"accounts";a:1:{i:0;s:7:"kazu634";}s:4:"text";s:145:"ブログに新しい記事を投稿したよ: RTX810と無線LANアクセスポイントを組み合わせてみた - http://tinyurl.com/k74pluf";}'
-tmac_last_id:
-  - 529629725275090944
+date: 2014-10-20T15:04:05Z
+author:
+  - kazu634
 categories:
+  - Labs
+  - Infra
+tags:
   - network
-  - インフラ
 
 ---
 <a href="https://www.flickr.com/photos/sacabezas/5829340509" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.flickr.com/photos/sacabezas/5829340509', '');" title="Router by Santiago Cabezas, on Flickr"><img class="aligncenter" src="https://farm6.staticflickr.com/5277/5829340509_df496661e0.jpg" alt="Router" width="500" height="375" /></a>

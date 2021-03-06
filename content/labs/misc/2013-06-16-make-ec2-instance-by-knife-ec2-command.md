@@ -1,20 +1,15 @@
 ---
 title: knife ec2コマンドで AWS EC2 インスタンスを作成する
 author: kazu634
-date: 2013-06-16
-has_been_twittered:
-  - failed
-twitter_failure_code:
-  - 410
-tmac_last_id:
-  - 9223372036854775807
-wordtwit_posted_tweets:
-  - 'a:1:{i:0;i:1550;}'
-wordtwit_post_info:
-  - 'O:8:"stdClass":13:{s:6:"manual";b:0;s:11:"tweet_times";s:1:"1";s:5:"delay";s:1:"0";s:7:"enabled";s:1:"1";s:10:"separation";i:60;s:7:"version";s:3:"3.0";s:14:"tweet_template";b:0;s:6:"status";i:2;s:6:"result";a:0:{}s:13:"tweet_counter";i:3;s:13:"tweet_log_ids";a:2:{i:0;i:1549;i:1;i:1550;}s:9:"hash_tags";a:0:{}s:8:"accounts";a:1:{i:0;s:7:"kazu634";}}'
+date: 2013-06-16T15:04:05Z
+author:
+  - kazu634
 categories:
+  - Labs
+  - Infra
+tags:
   - chef
-  - インフラ
+  - aws
 
 ---
 ここ一ヶ月ほどは EC2 インスタンスを作って遊んでいました。Chef を使っていると、knife コマンドで AWS の EC2 インスタンスを作成できると便利です。そこで今回は knife コマンドで ec2 インスタンスを作成するところまでをご紹介します。

@@ -1,10 +1,11 @@
 +++
 title = "Huen Muai Jai: 北部タイ料理を食べられるお店"
 date = 2019-04-21T17:38:34+08:00
-Description = "Chiang Maiにある北部タイ料理を食べられるレストラン、Huen Muai Jaiを訪ねました。"
-Tags = ["Chiang Mai"]
-Categories = ["旅行"]
-images = ["https://live.staticflickr.com/65535/46934424104_07703374f9.jpg"]
+description = "Chiang Maiにある北部タイ料理を食べられるレストラン、Huen Muai Jaiを訪ねました。"
+tags = ["chiang mai"]
+categories = ["Misc", "Travel"]
+author = "kazu634"
+
 +++
 
 Chiang Maiにあるタイ北部の料理を出してくれる有名店。このお店は2015年末にも来ていて、友達と一緒にご飯食べたのでした。

@@ -1,11 +1,11 @@
 +++
 title = "シンガポールの主だった観光地を回ってきました。"
 date = 2017-11-26T22:54:05+08:00
-Description = "お友達がシンガポールに弾丸でやってきたので、主だった観光地を案内して回りました。"
-Tags = ["Singapore"]
-Categories = ["旅行"]
-images = ["images/24757210958_9bdb218cf8.jpg"]
-draft = false
+description = "お友達がシンガポールに弾丸でやってきたので、主だった観光地を案内して回りました。"
+tags = ["singapore"]
+categories = ["Travel"]
+author = "kazu634"
+
 +++
 
 お友達がシンガポールに弾丸でやってきましたので、主だった観光地を一緒に回りました。観光地巡りのまとめです。

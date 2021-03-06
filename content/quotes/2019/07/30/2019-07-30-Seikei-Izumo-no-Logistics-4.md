@@ -1,9 +1,10 @@
 +++
 title = "我々が未踏分野を切り開く。だからこそ、機械的に判断して機械的に動く。そうすれば何が足りないのか見えてくる"
-date = 2019-08-04
-Description = "兵站(= Military Logistics)にスポットを当てたSF小説ということで読んでみました。"
-Tags = []
-Categories = []
+date = 2019-08-04T15:04:05Z
+description = "兵站(= Military Logistics)にスポットを当てたSF小説ということで読んでみました。"
+tags = ["book"]
+categories = ["Quotes"]
+author = "kazu634"
 +++
 
 兵站(= Military Logistics)にスポットを当てたSF小説ということで読んでいる『星系出雲の兵站』シリーズですが、4巻目まで到達しました。人類と似た生命体と遭遇した際に、人類はどのように交戦すべきかといったことが今回は語られていると思います。

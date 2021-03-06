@@ -1,10 +1,11 @@
 +++
 title = "Brainwakecafeを訪ねてきました"
 date = 2018-04-28T10:12:17+09:00
-Description = "Sukhumvit Soi23の奥の方にあるカフェ。ブログを検索していて、オシャレスポットであることを知る。バンコク旅行の最終日に訪問。"
-Tags = ["Bangkok"]
-Categories = ["旅行"]
-images = ["images/41114324812_ffbd19a811.jpg"]
+description = "Sukhumvit Soi23の奥の方にあるカフェ。ブログを検索していて、オシャレスポットであることを知る。バンコク旅行の最終日に訪問。"
+tags = ["bangkok"]
+categories = ["Misc", "Travel"]
+author = "kazu634"
+
 +++
 
 色々と調べてみると、SukhumvitN Soi23にあるBrainwakecafeというのがオシャレスポットとわかり、訪ねてみました。軽い朝ごはんとコーヒーで一息つく。ゆったりとした時間が過ごせるのが嬉しい。オーガニック系の健康に優しい食事を取り揃えているみたい。

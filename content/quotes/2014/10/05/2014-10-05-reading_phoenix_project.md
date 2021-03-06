@@ -1,15 +1,13 @@
 ---
 title: 『the DevOps 逆転だ!究極の継続的デリバリー』を読む
 author: kazu634
-date: 2014-10-05
-wordtwit_posted_tweets:
-  - 'a:1:{i:0;i:1787;}'
-wordtwit_post_info:
-  - 'O:8:"stdClass":14:{s:6:"manual";b:1;s:11:"tweet_times";i:1;s:5:"delay";s:1:"0";s:7:"enabled";s:1:"1";s:10:"separation";i:60;s:7:"version";s:3:"3.7";s:14:"tweet_template";s:126:"ブログに新しい記事を投稿したよ: 『the DevOps 逆転だ!究極の継続的デリバリー』を読む - [link] ";s:6:"status";i:2;s:6:"result";a:0:{}s:13:"tweet_counter";i:2;s:13:"tweet_log_ids";a:1:{i:0;i:1787;}s:9:"hash_tags";a:0:{}s:8:"accounts";a:1:{i:0;s:7:"kazu634";}s:4:"text";s:145:"ブログに新しい記事を投稿したよ: 『the DevOps 逆転だ!究極の継続的デリバリー』を読む - http://tinyurl.com/n72c9t8";}'
-tmac_last_id:
-  - 528527127428096001
+date: 2014-10-05T15:04:05Z
+author:
+  - kazu634
 categories:
-
+  - Quotes
+tags:
+  - book
 
 ---
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00AZRBLHO/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/B00AZRBLHO/simsnes-22/ref=nosim/', 'The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win');" target="_blank" name="amazletlink"><em>The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</em></a>を読みました。これまで Agile や Dev/Ops と呼ばれる潮流について正直理解できていなかったのですが、これを読んで理解できたように感じます。要はものづくりの現場の改善活動の手法をITの分野に拡大していく潮流だったのですね。

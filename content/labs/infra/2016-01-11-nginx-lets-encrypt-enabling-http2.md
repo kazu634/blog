@@ -1,10 +1,10 @@
 +++
-Categories = [ "nginx" ]
-Description = "nginx + Let's Encryptを用いてhttp/2環境を構築してみました。"
-Tags = []
+categories = [ "Labs", "Infra" ]
+author = "kazu634"
+description = "nginx + Let's Encryptを用いてhttp/2環境を構築してみました。"
+tags = ["nginx"]
 date = "2016-01-11T23:32:47+08:00"
 title = "nginx + let's encryptを利用してHTTP/2を有効化した"
-thumnail = "images/24021542270_0971890cc8_z.jpg"
 +++
 
 `nginx`+`Let's Encrypt`で`http/2`環境を構築したのでその時のメモです。

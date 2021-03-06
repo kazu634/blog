@@ -1,8 +1,10 @@
 +++
 title = "JavaScriptではじめるWebマップアプリケーション: Chapter3-1"
 date = 2019-05-04T15:03:21+08:00
-Description = "JavaScriptではじめるWebマップアプリケーションの内容を淡々と試してみます。"
-Categories = ["Leaflet.js"]
+description = "JavaScriptではじめるWebマップアプリケーションの内容を淡々と試してみます。"
+categories = ["Labs", "Map", ]
+author = "kazu634"
+tags = ["leaflet.js"]
 +++
 
 『[JavaScriptではじめるWebマップアプリケーション \(PDF版\)](https://booth.pm/ja/items/1314906)』の内容を淡々と試してみます。`Leaflet.js`でラスタ形式の地図を表示してみます:

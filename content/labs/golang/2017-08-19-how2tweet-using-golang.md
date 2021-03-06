@@ -1,11 +1,11 @@
 +++
 title = "GolangでTwitterに投稿する方法"
 date = 2017-08-19T23:02:35+08:00
-Description = "Golangを利用してTwitterにツイートする方法を調べました。"
-Tags = []
-Categories = ["Golang"]
-draft = false
-images = ["https://farm5.staticflickr.com/4441/36623773886_ef58e32e8e.jpg"]
+description = "Golangを利用してTwitterにツイートする方法を調べました。"
+tags = ["Golang"]
+categories = ["Labs", "Program"]
+author = "kazu634"
+
 +++
 
 簡単なWeb APIサーバを`golang`で作ることをもくろんでいて、その一環で現在`golang`で`Twitter`に投稿する方法を調べています。調べた結果をシェアします:

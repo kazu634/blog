@@ -1,9 +1,10 @@
 +++
 title = "Golangのnet/httpでREST APIをたたくときのメモ"
 date = 2020-03-07T21:12:22+08:00
-Description = "Golangの標準ライブラリnet/httpでREST APIをたたくときのメモです。"
-Tags = []
-Categories = ["golang", "programming"]
+description = "Golangの標準ライブラリnet/httpでREST APIをたたくときのメモです。"
+tags = ["Golang"]
+categories = ["Labs", "Program"]
+author = "kazu634"
 +++
 
 Golang標準ライブラリの`net/http`でREST APIをたたく時に必要となりそうなことをまとめます。

@@ -1,15 +1,13 @@
 ---
 title: チェンマイ旅行3日目
 author: kazu634
-date: 2013-03-02
-has_been_twittered:
-  - yes
-tmac_last_id:
-  - 318266676514803713
+date: 2013-03-02T15:04:05Z
+author:
+  - kazu634
 categories:
-  - 旅行
+  - Travel
 tags:
-  - Chiang Mai
+  - chiang mai
 
 ---
 チェンマイ旅行3日目です。もう先月の出来事になってしまった。。。3日目は寺院めぐり、首長族さんの村訪問、ゾウさんと戯れ、伝統舞踊です。

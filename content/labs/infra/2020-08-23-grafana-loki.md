@@ -1,9 +1,10 @@
 +++
 title = "Grafana Lokiをお試しで使ってみたよ"
 date = 2020-08-23T19:49:43+08:00
-Description = "Grafana Lokiを試しに使ってみたのでレポートしてみるよ"
-Tags = []
-Categories = ["Linux", "インフラ", "Grafana", "Loki"]
+description = "Grafana Lokiを試しに使ってみたのでレポートしてみるよ"
+tags = ["Loki", "Grafana", "Linux"]
+categories = ["Labs", "Infra"]
+author = "kazu634"
 image=""
 +++
 
@@ -82,7 +83,7 @@ table_manager:
 
 ```ini
 [Unit]
-Description=Grafana Loki
+description=Grafana Loki
 Documentation=https://github.com/grafana/loki
 After=network-online.target
 

@@ -1,9 +1,10 @@
 +++
 title = "敵も多いが味方も多い—。だけど、味方は圧倒的なシンパばかりなんだそうです"
-date = 2020-12-04
-Description = "『半沢直樹 アルルカンと道化師』で気になった部分をまとめました"
-Tags = []
-Categories = []
+date = 2020-12-04T15:04:05Z
+description = "『半沢直樹 アルルカンと道化師』で気になった部分をまとめました"
+tags = ["book"]
+categories = ["Quotes"]
+author = "kazu634"
 +++
 
 [『半沢直樹 アルルカンと道化師』](https://www.amazon.co.jp/%E5%8D%8A%E6%B2%A2%E7%9B%B4%E6%A8%B9-%E3%82%A2%E3%83%AB%E3%83%AB%E3%82%AB%E3%83%B3%E3%81%A8%E9%81%93%E5%8C%96%E5%B8%AB-%E6%B1%A0%E4%BA%95%E6%88%B8-%E6%BD%A4/dp/4065190169/ref=nodl_)で気になった部分になります:

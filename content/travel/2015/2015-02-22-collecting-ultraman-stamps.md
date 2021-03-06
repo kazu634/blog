@@ -1,16 +1,11 @@
 ---
 title: ウルトラマンスタンプを回収する旅へ
 author: kazu634
-date: 2015-02-22
-wordtwit_posted_tweets:
-  - 'a:1:{i:0;i:6671;}'
-wordtwit_post_info:
-  - 'O:8:"stdClass":13:{s:6:"manual";b:0;s:11:"tweet_times";s:1:"1";s:5:"delay";s:1:"0";s:7:"enabled";s:1:"1";s:10:"separation";i:60;s:7:"version";s:3:"3.7";s:14:"tweet_template";b:0;s:6:"status";i:2;s:6:"result";a:0:{}s:13:"tweet_counter";i:2;s:13:"tweet_log_ids";a:1:{i:0;i:6671;}s:9:"hash_tags";a:0:{}s:8:"accounts";a:1:{i:0;s:7:"kazu634";}}'
-tmac_last_id:
-  - 605368492645228546
+date: 2015-02-22T15:04:05Z
 categories:
-  - サイクリング
-  - スポーツ
+  - Travel
+tags:
+  - cycling
 
 ---
 <a href="https://www.jreast.co.jp/ultraman-rally/?src=brandpanel" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.jreast.co.jp/ultraman-rally/?src=brandpanel', '');" title="ultraman04 by Kazuhiro MUSASHI, on Flickr"><img class=" aligncenter" src="https://farm9.staticflickr.com/8576/16425078798_024c1b63ac.jpg" alt="ultraman04" width="483" height="500" /></a>
