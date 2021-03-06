@@ -1,3 +1,4 @@
 public
 *.swp
-static/ogp/*
+static/ogp/*.webp
+assets/font/*.ttf
