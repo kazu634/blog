@@ -24,4 +24,6 @@ task :tcard do
 
     sh "img2webp -lossy -q 50 #{src} -o #{dest}"
   end
+
+  sh "find #{OGP_DIR} -type f -name '*.png' | xargs -t --no-run-if-empty rm"
 end
