@@ -152,6 +152,7 @@ Success to generate twitter card into /home/kazu634/works/mnt/others/blog/static
 
 上のコマンドを実行すると、以下のような画像が表示されます。
 
+![Image](https://farm66.staticflickr.com/65535/51011791732_410798acc7_c.jpg)
 
 ### PNG形式をwebp形式に変換する
 tcardgenコマンドで生成したPNG画像は1ファイル1MB程度だったため、ファイルサイズが大きすぎと感じたので、webp形式に変換することにしました。webp形式への変換は`img2webp`コマンドを利用しました。
