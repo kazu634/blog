@@ -89,9 +89,7 @@ A/Dコンバーターというのは、要するに流れてくる電圧を測�
 
 ![Image](https://farm66.staticflickr.com/65535/51058488412_496ab3a90f_c.jpg)
 
-青のつまみを回すと、抵抗の値が変わっていき、流れてくる電圧を変更できます。それをA/Dコンバーターが読み取って、ラズパイのコンソールに出力します。コンソール出力はこんな感じです。
-
-<script id="asciicast-kYvSZAVMkIGUdUPKE0WKx3t0J" src="https://asciinema.org/a/kYvSZAVMkIGUdUPKE0WKx3t0J.js" async></script>
+青のつまみを回すと、抵抗の値が変わっていき、流れてくる電圧を変更できます。それをA/Dコンバーターが読み取って、ラズパイのコンソールに出力します。
 
 #### 照度センサーの値をA/Dコンバーター経由で取得する
 同じようにして、照度センサーの値をA/Dコンバーター経由で取得してみます。
