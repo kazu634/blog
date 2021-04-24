@@ -17,7 +17,7 @@ title = "自宅のネットワーク環境の構築メモ"
 ## ネットワーク図
 最終的なネットワーク図はこちらになります:
 
-[image:7652B1D8-FFD5-41EE-AD76-AF225AF7B4DC-7831-00000E16442F1ADC/Photo Apr 10, 2021 222428.jpg]
+![Network Diagram](https://farm66.staticflickr.com/65535/51106908638_e7e5f03c05_c.jpg)
 
 AWS上のネットワークと家の間に拠点間VPNを張っています。
 
