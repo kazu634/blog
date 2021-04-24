@@ -3,7 +3,7 @@ author = "kazu634"
 description = "インターネット開通したので、ネットワーク環境を構築しました。そのメモです"
 categories = ["Labs", "Network"]
 tags = ["vyOS","edgerouter"]
-date = "2016-10-31T21:07:13+08:00"
+date = "2021-04-24T12:07:13+08:00"
 draft = false
 title = "自宅のネットワーク環境の構築メモ"
 +++
