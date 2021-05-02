@@ -77,7 +77,7 @@ steps:
       - grep -l -r "http://www.amazon.co.jp/exec" content/ | sort | uniq | xargs -t --no-run-if-empty sed -i -e "s/http:\/\/www.amazon.co.jp\/exec/https:\/\/www.amazon.co.jp\/exec/g"
 
   - name: generate-ogp-images
-    image: reg.kazu634.com/kazu634/tcardgen
+    image: reg.kazu634.com/kazu634/tcardgen:v0.1
     environment:
       OGP_DIR: static/ogp/
       CONTENT_DIR: content/
