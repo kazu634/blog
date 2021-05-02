@@ -78,8 +78,17 @@ steps:
 
   - name: generate-ogp-images
     image: reg.kazu634.com/kazu634/tcardgen
+    environment:
+      OGP_DIR: static/ogp/
+      CONTENT_DIR: content/
+      FONT_DIR: assets/font/
+      CONFIG: assets/tcardgen.yaml
     commands:
-      - /entrypoint.sh
+      - find ${OGP_DIR} -type f -name '*.png' | xargs -t --no-run-if-empty rm
+      - LIST=`find ${CONTENT_DIR} -type f -name '*.md' | grep -v '_index'`
+      - for ARTICLE in ${LIST} ; do
+      -   /tcardgen -f ${FONT_DIR} -o ${OGP_DIR} -c ${CONFIG} ${ARTICLE}
+      - done
 
   - name: hugo
     image: cibuilds/hugo:0.83.0
