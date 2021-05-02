@@ -61,10 +61,13 @@ Yahoo!BB!は専用のルーターを提供してくれているのですが、IP
 ### VPN接続した際に、VMWareのWebUIにアクセスするとうまく表示できない
 これもなぜだろう。。HTTPs通信がうまいこと動作していない気がします。VMWare側の問題な気がしています。。
 
+### 会社のPCを家のネットワークに接続するな問題
+コンプライアンスとかあるからね。vLANを切って、対応したよ。[EdgeRouter - VLAN-Aware Switch &ndash; Ubiquiti Support and Help Center](https://help.ui.com/hc/en-us/articles/115012700967-EdgeRouter-VLAN-Aware-Switch)を参考にしました。
+
 ## 参考
 - [EdgeRouter X - 6. 自宅にどこからでもアクセスできるようにする ( リモートアクセス VPN ) | yabe.jp](https://yabe.jp/gadgets/edgerouter-x-06-l2tp/)
 - [EdgeRouter X - 7. 自宅と実家の２つの LAN を拠点間 VPN でつなぐ ( OpenVPN ) | yabe.jp](https://yabe.jp/gadgets/edgerouter-x-07-site-to-site-openvpn/)
 - [VyOSで安物ルータを置き換える - ザキンコのブログ](https://zakinco.hatenablog.com/entry/2018/11/20/171717)
 - [EdgeRouter X をなるべくCLIで設定する - Qiita](https://qiita.com/maiani/items/08dbfbd9e6663da86079#firewall%E3%81%AE%E8%A8%AD%E5%AE%9A)
 - [EdgeRouterLiteを使ってiijmioひかりでインターネット接続する方法メモ - /home/tnishinaga/TechMEMO](https://tnishinaga.hatenablog.com/entry/2015/05/07/035448)
-
+- [EdgeRouter - VLAN-Aware Switch &ndash; Ubiquiti Support and Help Center](https://help.ui.com/hc/en-us/articles/115012700967-EdgeRouter-VLAN-Aware-Switch)
