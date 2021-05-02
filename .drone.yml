@@ -78,14 +78,12 @@ steps:
 
   - name: generate-ogp-images
     image: reg.kazu634.com/kazu634/tcardgen:v0.2
-    environment:
-      OGP_DIR: static/ogp/
-      CONTENT_DIR: content/
-      FONT_DIR: assets/font/
-      CONFIG: assets/tcardgen.yaml
     commands:
       - mkdir -p static/ogp/
-      - find content/ -type f -name '*.md' | grep -v '_index' | xargs -n 1 -t /usr/local/bin/tcardgen -f assets/font/ -o static/ogp/ -c assets/tcardgen.yaml
+      - wget 'https://github.com/yuru7/HackGen/releases/download/v2.3.0/HackGenNerd_v2.3.0.zip' -O /tmp/font.zip
+      - unzip /tmp/font.zip -d /tmp/font
+      - find /tmp/font -type f -name *.ttf | xargs -I% -n 1 cp -p % assets/font/
+      - find content/ -type f -name '*.md' | grep -v '_index' | xargs -n 1 /usr/local/bin/tcardgen -f assets/font/ -o static/ogp/ -c assets/tcardgen.yaml
 
   - name: hugo
     image: cibuilds/hugo:0.83.0
