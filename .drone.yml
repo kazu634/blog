@@ -77,14 +77,14 @@ steps:
       - grep -l -r "http://www.amazon.co.jp/exec" content/ | sort | uniq | xargs -t --no-run-if-empty sed -i -e "s/http:\/\/www.amazon.co.jp\/exec/https:\/\/www.amazon.co.jp\/exec/g"
 
   - name: generate-ogp-images
-    image: reg.kazu634.com/kazu634/tcardgen:v0.2
+    image: reg.kazu634.com/kazu634/tcardgen:v0.3
     commands:
       - mkdir -p static/ogp/
       - wget 'https://github.com/yuru7/HackGen/releases/download/v2.3.0/HackGenNerd_v2.3.0.zip' -O /tmp/font.zip
       - unzip /tmp/font.zip -d /tmp/font
       - find /tmp/font -type f -name *.ttf | xargs -I% -n 1 cp -p % assets/font/
       - find content/ -type f -name '*.md' | grep -v '_index' | xargs -n 1 /usr/local/bin/tcardgen -f assets/font/ -o static/ogp/ -c assets/tcardgen.yaml > /dev/null 2>&1
-      - find static/ogp/ -type f -name '*.png' | xargs -I% -n 1 img2webp -lossy -q 50 % -o `echo % | sed -e 's/png/webp'`
+      - find static/ogp/ -type f -name '*.png' | xargs -I% -n 1 img2webp -lossy -q 50 % -o `echo % | sed -e 's/png/webp/g'`
       - find static/ogp/ -type f -name '*.png' | xargs --no-run-if-empty rm
 
   - name: hugo
