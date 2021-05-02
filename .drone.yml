@@ -85,7 +85,7 @@ steps:
       CONFIG: assets/tcardgen.yaml
     commands:
       - find static/ogp/ -type f -name '*.png' | xargs -t --no-run-if-empty rm
-      - find content/ -type f -name '*.md' | grep -v '_index' | xargs -n 1 -t /tcardgen -f assets/font/ -o static/ogp/ -c assets/tcardgen.yaml
+      - find content/ -type f -name '*.md' | grep -v '_index' | xargs -n 1 -t tcardgen -f assets/font/ -o static/ogp/ -c assets/tcardgen.yaml
 
   - name: hugo
     image: cibuilds/hugo:0.83.0
