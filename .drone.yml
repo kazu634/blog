@@ -84,7 +84,7 @@ steps:
       - unzip /tmp/font.zip -d /tmp/font
       - find /tmp/font -type f -name *.ttf | xargs -I% -n 1 cp -p % assets/font/
       - find content/ -type f -name '*.md' | grep -v '_index' | xargs -n 1 /usr/local/bin/tcardgen -f assets/font/ -o static/ogp/ -c assets/tcardgen.yaml > /dev/null 2>&1
-      - find static/ogp/ -type f -name '*.png' | xargs -I% -n 1 img2webp -lossy -q 50 % -o `echo % | sed -e 's/png/webp/g'`
+      - find static/ogp/ -type f -name '*.png' | xargs -I% -n 1 img2webp -lossy -q 50 % -o `echo % | sed -e 's/png/webp/g'` > /dev/null 2>&1
       - find static/ogp/ -type f -name '*.png' | xargs --no-run-if-empty rm
 
   - name: hugo
