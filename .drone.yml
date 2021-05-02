@@ -11,8 +11,6 @@ steps:
 
   - name: generate-ogp-images
     image: reg.kazu634.com/kazu634/tcardgen
-    commands:
-      - /entrypoint.sh
 
   - name: hugo
     image: cibuilds/hugo:0.83.0
