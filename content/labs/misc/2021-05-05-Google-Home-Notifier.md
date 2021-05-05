@@ -252,4 +252,3 @@ Device notified
 - [Google Home/Nestを喋らせるgoogle-home-notifierの導入マニュアル [2020年12月版] - RemoteRoom](https://remoteroom.jp/diary/2020-12-31/)
 - [GitHub - noelportugal/google-home-notifier: Send notifications to Google Home](https://github.com/noelportugal/google-home-notifier)
 - [GitHub - TomPenguin/google-home-notifier at feature/support-new-google-tts-api](https://github.com/TomPenguin/google-home-notifier/tree/feature/support-new-google-tts-api)
-- [![asciicast](https://asciinema.org/a/411953.svg)](https://asciinema.org/a/411953)
