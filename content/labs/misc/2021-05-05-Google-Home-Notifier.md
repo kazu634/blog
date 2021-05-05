@@ -193,7 +193,7 @@ app.listen(serverPort, function () {
 
 なお、Google HomeのIPアドレスはアプリから調べることができます:
 
-[image:77389DA9-2AA9-4895-BDBB-E9EA20B6C7B9-3039-000005BAEFB19F6D/Photo May 5, 2021 204057.jpg]
+![Image](https://farm66.staticflickr.com/65535/51160371155_3b1420c44e_c.jpg)
 
 修正後、以下のコマンドを実行します:
 
