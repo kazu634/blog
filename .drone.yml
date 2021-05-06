@@ -69,9 +69,8 @@ steps:
       - unzip /tmp/font.zip -d /tmp/font
       - find /tmp/font -type f -name *.ttf | xargs -I% -n 1 cp -p % assets/font/
       - find content/ -type f -name '*.md' | grep -v '_index' | xargs -n 1 /usr/local/bin/tcardgen -f assets/font/ -o static/ogp/ -c assets/tcardgen.yaml > /dev/null
-      - find static/ogp/ -type f -name '*.png' | xargs -I% -n 1 img2webp -lossy -q 50 % -o %.webp > /dev/null
+      - find static/ogp/ -type f -name '*.png' | xargs -I% -t -n 1 img2webp -lossy -q 50 % -o $(basename % .png).webp > /dev/null
       - find static/ogp/ -type f -name '*.png' | xargs --no-run-if-empty rm
-      - for webp in $(find static/ogp/ -type f -name *.webp); do mv ${webp} ${webp//.png./.}; done
 
   - name: hugo
     image: cibuilds/hugo:0.83.0
