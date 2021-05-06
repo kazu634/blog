@@ -70,7 +70,6 @@ steps:
       - find /tmp/font -type f -name *.ttf | xargs -I% -n 1 cp -p % assets/font/
       - find content/ -type f -name '*.md' | grep -v '_index' | xargs -n 1 /usr/local/bin/tcardgen -f assets/font/ -o static/ogp/ -c assets/tcardgen.yaml > /dev/null
       - find static/ogp/ -type f -name '*.png' | xargs -I% -n 1 img2webp -lossy -q 50 % -o %.webp > /dev/null
-      - find static/ogp/ -type f -name '*.png.webp' | xargs -I% -n 1 -t mv % static/ogp/`basename % .png.webp`.webp
       - find static/ogp/ -type f -name '*.png' | xargs --no-run-if-empty rm
 
   - name: hugo
