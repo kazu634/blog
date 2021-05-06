@@ -65,7 +65,6 @@ steps:
   - name: generate-ogp-images
     image: reg.kazu634.com/kazu634/tcardgen:v0.3
     commands:
-      - mkdir -p static/ogp/ && rm static/ogp/*
       - wget 'https://github.com/yuru7/HackGen/releases/download/v2.3.0/HackGenNerd_v2.3.0.zip' -O /tmp/font.zip
       - unzip /tmp/font.zip -d /tmp/font
       - find /tmp/font -type f -name *.ttf | xargs -I% -n 1 cp -p % assets/font/
