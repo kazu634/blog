@@ -2,9 +2,9 @@
 title = "プレゼン動画を事前録画するときのtips"
 date = 2021-05-30T15:10:34+09:00
 description = "アナウンサーの人、カメラ目線で原稿読んでいて、尊敬します。"
-categories = ["Misc", "gadget"]
+categories = ["Misc"]
 author = "kazu634"
-tags = [""]
+tags = ["gadget"]
 +++
 
 5月はお仕事関係で2つプレゼン動画を作成する必要があり、必要に迫られて動画作成をしていました。そこで得たtipsをまとめたいと思います。
