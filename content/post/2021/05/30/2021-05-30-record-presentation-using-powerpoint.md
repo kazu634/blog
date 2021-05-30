@@ -2,7 +2,7 @@
 title = "プレゼン動画を事前録画するときのtips"
 date = 2021-05-30T15:10:34+09:00
 description = "アナウンサーの人、カメラ目線で原稿読んでいて、尊敬します。"
-categories = ["Misc"]
+categories = ["Misc", "gadget"]
 author = "kazu634"
 tags = [""]
 +++
