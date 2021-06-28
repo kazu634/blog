@@ -1,6 +1,6 @@
 +++
 title = "VaultをIntegrated Storage (raft)でセットアップ"
-date = 2021-06-28T13:49:43+08:00
+date = 2021-06-28T13:49:43+09:00
 description = "VaultをIntegrated Storage (raft)でセットアップしてみました。"
 tags = ["Vault", "Linux"]
 categories = ["Labs", "Infra", "HashiCorp"]
