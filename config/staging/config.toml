@@ -1,4 +1,4 @@
-baseurl = "http://test.kazu634.com/"
+baseUrl = "http://test.kazu634.com/"
 title = "His greatness lies in his sense of responsibility"
 DefaultContentLanguage = "jp"
 languageCode = "ja"
