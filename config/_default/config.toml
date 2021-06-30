@@ -1,4 +1,4 @@
-baseUrl = "https://blog.kazu634.com/"
+baseURL = "https://blog.kazu634.com/"
 title = "His greatness lies in his sense of responsibility"
 DefaultContentLanguage = "ja"
 languageCode = "ja"
