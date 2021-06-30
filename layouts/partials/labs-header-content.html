@@ -84,7 +84,7 @@
       </div>
       <div id="social" class="col span_6">
         <ul>
-          {{ partial "sections-definition.html" }}
+          {{ partial "sections-definition.html" . }}
           {{ with .Site.Params.twitter }}<li><a href="{{ . }}" target="_blank">Twitter</a></li>{{ end }}
           {{ with .Site.Params.facebook }}<li><a href="{{ . }}" target="_blank">Facebook</a></li>{{ end }}
           {{ with .Site.Params.github }}<li><a href="{{ . }}" target="_blank">GitHub</a></li>{{ end }}
