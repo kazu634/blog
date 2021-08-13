@@ -2,8 +2,8 @@
 title = "ロードバイクを購入したので、高尾山までサイクリング"
 date = 2021-08-13T10:49:49+09:00
 description = "コロナがひどい中でも身体を動かしたい、遠くにお出かけしたいと考えて、ロードバイクを購入しました。というわけで、片道50kmほど離れた高尾山までサイクリングすることに"
-tags = ["hua hin"]
-categories = ["Travel"]
+tags = ["takao-san"]
+categories = ["Travel","Cycling"]
 author = "kazu634"
 
 +++
