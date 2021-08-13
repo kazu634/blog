@@ -1,0 +1,3 @@
+{{ if and (.Get "id") (.Get "key") }}
+<div class="embedly-responsive" style="position: relative;padding-bottom: 78.2227%;height: 0;overflow: hidden;"><iframe class="embedly-embed" frameborder="0" scrolling="no" allowfullscreen src="https://cdn.embedly.com/widgets/media.html?src=https://www.relive.cc/view/{{ .Get "id" }}/widget?r=embed-site&url=https://www.relive.cc/view/{{ .Get "id" }}?r=embed-site&image=https://www.relive.cc/view/{{ .Get "id" }}/png?x-ref=embed-site&key={{ .Get "key" }}&type=text/html&schema=relive" width="1024" height="801" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></iframe></div>
+{{ end }}
