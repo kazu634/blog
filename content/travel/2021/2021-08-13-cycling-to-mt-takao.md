@@ -49,7 +49,7 @@ Strava, Reliveによる動画はこちら:
 
 {{< strava id="5773732341" hash="34126cc147131fc8520e8aba6b4076999b1b9dc1" >}}
 
-{{< relive id="vdORwwzjwr6" key="f1631a41cb254ca5b035dc5747a5bd75" >}}
+{{< relive id="vdORwwzjwr6" >}}
 
 ## 復路: 高尾山 → 武蔵新田付近 (野猿街道を通って、アップダウンしてから、府中付近で多摩川沿いに合流)
 復路は別なルートを取ろうということで、野猿街道を通って帰りました。野猿街道は記憶がまちがえていなければ、二郎を食べに来たような記憶があります。野猿街道はアップダウンがあり、結構大変でした。
@@ -66,11 +66,7 @@ Strava, Reliveはこちら:
 
 {{< strava id="5773680867" hash="d8489a6b45bd0a74d13307dfd8bc8962f7210d55" >}}
 
-{{< relive id="vRO7VVNVYyv" key="f1631a41cb254ca5b035dc5747a5bd75" >}}
-
-```html
-<div class="embedly-responsive" style="position: relative;padding-bottom: 78.2227%;height: 0;overflow: hidden;"><iframe class="embedly-embed" frameborder="0" scrolling="no" allowfullscreen src="https://cdn.embedly.com/widgets/media.html?src=https://www.relive.cc/view/vRO7VVNVYyv/widget?r=embed-site&url=https://www.relive.cc/view/vRO7VVNVYyv?r=embed-site&image=https://www.relive.cc/view/vRO7VVNVYyv/png?x-ref=embed-site&key=f1631a41cb254ca5b035dc5747a5bd75&type=text/html&schema=relive" width="1024" height="801" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></iframe></div>
-```
+{{< relive id="vRO7VVNVYyv" >}}
 
 ## 終わりに
 ロードバイクを手に入れたので、ここからは色々と遠出ができるようになりました。色々とチャレンジしていこうと思います。
