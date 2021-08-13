@@ -41,6 +41,10 @@ author = "kazu634"
 
 ![高尾山🚟🚟](https://farm66.staticflickr.com/65535/51373571206_fdfed9c519_c.jpg)
 
+モノレールの入り口まで入っていって、到着です！
+
+{{< tweet 1425287561971445762 >}}
+
 高尾山口ではTAKAO COFFEEというお店で一休みをして、往路は終了です:
 
 ![TAKAO COFFEE](https://farm66.staticflickr.com/65535/51374577330_dfbb076bfd_c.jpg)
