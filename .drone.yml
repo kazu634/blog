@@ -18,11 +18,15 @@ steps:
       - find content/ -type f -name '*.md' | grep -v '_index' | xargs -n 1 /usr/local/bin/tcardgen -f assets/font/ -o static/ogp/ -c assets/tcardgen.yaml > /dev/null
       - find static/ogp/ -type f -name '*.png' | xargs -n 1 -I% basename % .png | xargs -I% -n 1 img2webp -lossy -q 50 static/ogp/%.png -o static/ogp/%.webp > /dev/null
       - find static/ogp/ -type f -name '*.png' | xargs --no-run-if-empty rm
+    depends_on:
+      - Modify-Amazon-Links
 
   - name: hugo
     image: cibuilds/hugo:0.83.0
     commands:
       - sudo hugo -e production --minify -v -s .
+    depends_on:
+      - Modify-Amazon-Links
 
   - name: Compress-the-Assets
     image: alpine:3.9
@@ -43,6 +47,8 @@ steps:
       script:
         - rm -rf /var/www/blog/*
         - rm -rf /home/webadm/works/public/*
+    depends_on:
+      - Compress-the-Assets
 
   - name: scp
     image: appleboy/drone-scp
@@ -58,6 +64,8 @@ steps:
         from_secret: ssh_key
       overwrite: true
       strip_components: 1
+    depends_on:
+      - housekeep
 
 trigger:
   branch:
