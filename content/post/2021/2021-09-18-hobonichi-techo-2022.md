@@ -12,7 +12,7 @@ tags = ["gadget"]
 ## 最近の使い方
 [Peripage](https://www.amazon.co.jp/PeriPage-Compatible-Notebooks-Convenient-Lifbetter/dp/B086C91WT9)というサーマルプリンターを使って、携帯などで撮った写真を手帳に貼り付けることにしました。そうするとこんな感じになります:
 
-![Image](https://farm66.staticflickr.com/65535/51488948696_a659ab392f_c.jpg)
+![Image](https://farm66.staticflickr.com/65535/51489259658_015aa4db38_c.jpg)
 
 でも、こうしてしまうと、文字を書き込むことができないことに気づきました。。そこで、倍のサイズのカズンを来年は使うことにしました！
 
