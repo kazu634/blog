@@ -28,6 +28,9 @@ steps:
     image: alpine:3.9
     commands:
       - find public/ -type f | egrep "\.(css|js|png|jpg|html|JPG|PNG|CSS|JS|HTML)$" | xargs -n 1 -i% -P 0 sh -c 'cp % %.bk && gzip % && mv %.bk %'
+    depends_on:
+      - generate-ogp-images
+      - hugo
 
   - name: housekeep
     image: appleboy/drone-ssh
