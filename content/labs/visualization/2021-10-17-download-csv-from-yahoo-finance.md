@@ -9,6 +9,10 @@ author = "kazu634"
 
 日本のYahoo!では無料では取得できないそうなのですが、アメリカのYahoo.comでは日本企業の株価でもCSVで取得できるということで、どのようにすればダウンロードできるか確認してみました。
 
+最終的には自動で株価データをデータベースに入れて、自動的に毎日グラフを更新できるようにするのが目標だよ。こんな感じね。
+
+{{< tweet 1449329281771868167 >}}
+
 ## ブラウザから
 一番簡単な方法としては、ブラウザからダウンロードします。例えばANAの場合は、[ANA HOLDINGS INC (9202.T) Stock Price, News, Quote & History - Yahoo Finance](https://finance.yahoo.com/quote/9202.T?p=9202.T&.tsrc=fin-srch)にアクセスするとページが表示されます。
 
