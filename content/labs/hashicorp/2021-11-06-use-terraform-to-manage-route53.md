@@ -198,8 +198,7 @@ resource "aws_route53_zone" "kazu634" {}
 
 `xxx`には`kazu634`を指定します。`<Hosted-Zone-ID>`には、AWS Consoleから、`Route53`を開いて、ゾーン定義の詳細部分でIDを調べます:
 
-
-
+![Image](https://farm66.staticflickr.com/65535/51658897950_d0431b7ffb_c.jpg)
 
 これでインポートの準備ができました。次のようにコマンドを実行すると、インポートできます。
 
