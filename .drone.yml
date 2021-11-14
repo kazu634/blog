@@ -20,7 +20,7 @@ steps:
       - find static/ogp/ -type f -name '*.png' | xargs --no-run-if-empty rm
 
   - name: hugo
-    image: cibuilds/hugo:0.83.0
+    image: cibuilds/hugo:0.89.2
     commands:
       - sudo hugo -e production --minify -v -s .
 
@@ -73,7 +73,7 @@ steps:
       - grep -l -r "http://www.amazon.co.jp/exec" content/ | sort | uniq | xargs -t --no-run-if-empty sed -i -e "s/http:\/\/www.amazon.co.jp\/exec/https:\/\/www.amazon.co.jp\/exec/g"
 
   - name: hugo
-    image: cibuilds/hugo:0.83.0
+    image: cibuilds/hugo:0.89.2
     commands:
       - sudo hugo -e staging --minify -v -s  .
 
