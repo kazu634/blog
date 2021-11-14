@@ -19,8 +19,13 @@ steps:
       - find static/ogp/ -type f -name '*.png' | xargs -n 1 -I% basename % .png | xargs -I% -n 1 img2webp -lossy -q 50 static/ogp/%.png -o static/ogp/%.webp > /dev/null
       - find static/ogp/ -type f -name '*.png' | xargs --no-run-if-empty rm
 
+  - name: submodules
+    image: alpine/git
+    commands:
+    - git submodule update --init --recursive
+
   - name: hugo
-    image: cibuilds/hugo:0.83.0
+    image: cibuilds/hugo:0.89.2
     commands:
       - sudo hugo -e production --minify -v -s .
 
@@ -72,8 +77,13 @@ steps:
       - grep -l -r ecx.images-amazon.com content/ | sort | uniq | xargs -t --no-run-if-empty sed -ie "s/http:\/\/ecx.images-amazon.com/https:\/\/images-na.ssl-images-amazon.com/g"
       - grep -l -r "http://www.amazon.co.jp/exec" content/ | sort | uniq | xargs -t --no-run-if-empty sed -i -e "s/http:\/\/www.amazon.co.jp\/exec/https:\/\/www.amazon.co.jp\/exec/g"
 
+  - name: submodules
+    image: alpine/git
+    commands:
+    - git submodule update --init --recursive
+
   - name: hugo
-    image: cibuilds/hugo:0.83.0
+    image: cibuilds/hugo:0.89.2
     commands:
       - sudo hugo -e staging --minify -v -s  .
 
