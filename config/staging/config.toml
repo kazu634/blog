@@ -22,13 +22,8 @@ HasCJKLanguage = true
   category = "categories"
   series = "series"
   tag = "tags"
- 
-[markup]
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = true
-    style = "monokai"
 
+[markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe= true

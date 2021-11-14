@@ -1,34 +1,263 @@
 baseURL = "https://blog.kazu634.com/"
-title = "His greatness lies in his sense of responsibility"
-DefaultContentLanguage = "ja"
-languageCode = "ja"
-theme = "angels-ladder"
-HasCJKLanguage = true
+# [en, zh-cn, fr, ...] determines default content language
+defaultContentLanguage = "en"
+# language code
+languageCode = "jp"
+title = "His greatness lies in his sense of responsibilities."
+
+# Change the default theme to be use when building the site with Hugo
+theme = "LoveIt"
+
+# Author config
+[author]
+  name = "kazu634"
+  email = "simoom634@yahoo.co.jp"
+  link = ""
 
 [params]
-  subtitle = "named after the quotation from Wind, Sand, and Stars by Saint Exupery."
-  facebook = "https://www.facebook.com/kazu634"
-  twitter = "https://twitter.com/MusashiKazuhiro"
-  github = "https://github.com/kazu634"
-  profile = "/images/profile.png"
-  analytics = "UA-57665492-1"
-  copyright = "Written by Kazuhiro MUSASHI"
+  author = "kazu634"
+  # LoveIt theme version
+  version = "0.2.X"
+  # site description
+  description = "@kazu634のブログです"
+  # site keywords
+  keywords = ["Blog", "Hugo", "Tech"]
+  # site default theme ("light", "dark", "auto")
+  defaultTheme = "auto"
+  # LoveIt NEW | 0.2.0 date format
+  dateFormat = "2006-01-02"
 
-  description = "the blog written by @MusashiKazuhiro"
-  title = "His greatness lies in his sense of responsibility"
-  images = ["/images/profile.png"]
+  [params.page.seo]
+    # image URL
+    images = []
+    # Publisher info
+    [params.page.seo.publisher]
+      name = "kazu634"
+      logoUrl = ""
 
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
+  # Header config
+  [params.header]
+    # desktop header mode ("fixed", "normal", "auto")
+    desktopMode = "fixed"
+    # mobile header mode ("fixed", "normal", "auto")
+    mobileMode = "auto"
+
+    # LoveIt NEW | 0.2.0 Header title config
+    [params.header.title]
+      # title name
+      name = "His greatness lies in his sense of responsibilities"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      # LoveIt NEW | 0.2.5 whether to use typeit animation for title name
+      typeit = false
+
+    [params.footer]
+      enable = true
+      # LoveIt NEW | 0.2.0 Custom content (HTML format is supported)
+      custom = ''
+      # LoveIt NEW | 0.2.0 whether to show Hugo and theme info
+      hugo = true
+      # LoveIt NEW | 0.2.0 whether to show copyright info
+      copyright = true
+      # LoveIt NEW | 0.2.0 whether to show the author
+      author = true
+      # Site creation time
+      since = 2005
+
+    # LoveIt NEW | 0.2.0 Section (all posts) page config
+    [params.section]
+      # special amount of posts in each section page
+      paginate = 15
+      # date format (month and day)
+      dateFormat = "01-02"
+      # amount of RSS pages
+      rss = 10
+
+    # LoveIt NEW | 0.2.0 List (category or tag) page config
+    [params.list]
+      # special amount of posts in each list page
+      paginate = 15
+      # date format (month and day)
+      dateFormat = "01-02"
+      # amount of RSS pages
+      rss = 10
+
+    # Home page config
+    [params.home]
+      # LoveIt NEW | 0.2.0 amount of RSS pages
+      rss = 10
+      # Home page profile
+      [params.home.profile]
+        enable = true
+        # URL of avatar shown in home page
+        avatarURL = "/images/profile.png"
+        # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
+        title = "Kazuhiro MUSASHI"
+        # subtitle shown in home page
+        subtitle = "ITエンジニアです。本当は手を動かしたいけど、いまはプレセールスやっています。"
+        # whether to use typeit animation for subtitle
+        typeit = true
+        # whether to show social links
+        social = true
+        # LoveIt NEW | 0.2.0 disclaimer (HTML format is supported)
+        disclaimer = "Opinions are my own."
+      # Home page posts
+      [params.home.posts]
+        enable = true
+        # special amount of posts in each home posts page
+        paginate = 5
+        # LoveIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
+        # default behavior when you don't set "hiddenFromHomePage" in front matter
+        defaultHiddenFromHomePage = false
+
+  # Social config about the author
+  [params.social]
+    Gitea = "https://gitea.kazu634.com/kazu634"
+    Twitter = "MusashiKazuhiro"
+    Facebook = "kazu634"
+    Linkedin = "一弘-武蔵-b90bba54"
+    Flickr = "42332031@N02"
+    RSS = true # LoveIt NEW | 0.2.0
+
+  # LoveIt CHANGED | 0.2.0 Page config
+  [params.page]
+    # LoveIt NEW | 0.2.0 whether to hide a page from home page
+    hiddenFromHomePage = false
+    # LoveIt NEW | 0.2.0 whether to hide a page from search results
+    hiddenFromSearch = false
+    # LoveIt NEW | 0.2.0 whether to enable twemoji
+    twemoji = true
+    # whether to enable lightgallery
+    lightgallery = true
+    # LoveIt NEW | 0.2.0 whether to enable the ruby extended syntax
+    ruby = true
+    # LoveIt NEW | 0.2.0 whether to enable the fraction extended syntax
+    fraction = true
+    # LoveIt NEW | 0.2.0 whether to enable the fontawesome extended syntax
+    fontawesome = true
+    # whether to show link to Raw Markdown content of the content
+    linkToMarkdown = true
+    # LoveIt NEW | 0.2.4 whether to show the full text content in RSS
+    rssFullText = false
+    # LoveIt NEW | 0.2.0 Table of the contents config
+
+    [params.page.toc]
+      # whether to enable the table of the contents
+      enable = true
+      # LoveIt NEW | 0.2.9 whether to keep the static table of the contents in front of the post
+      keepStatic = false
+      # whether to make the table of the contents in the sidebar automatically collapsed
+      auto = true
+
+    # LoveIt CHANGED | 0.2.0 KaTeX mathematical formulas
+    [params.page.math]
+      enable = true
+      # default block delimiter is $$ ... $$ and \\[ ... \\]
+      blockLeftDelimiter = ""
+      blockRightDelimiter = ""
+      # default inline delimiter is $ ... $ and \\( ... \\)
+      inlineLeftDelimiter = ""
+      inlineRightDelimiter = ""
+      # KaTeX extension copy_tex
+      copyTex = true
+      # KaTeX extension mhchem
+      mhchem = true
+    # LoveIt NEW | 0.2.0 Code config
+
+    [params.page.code]
+      # whether to show the copy button of the code block
+      copy = true
+      # the maximum number of lines of displayed code by default
+      maxShownLines = 10
+
+    # LoveIt NEW | 0.2.0 Mapbox GL JS config
+    [params.page.mapbox]
+      # access token of Mapbox GL JS
+      accessToken = ""
+      # style for the light theme
+      lightStyle = "mapbox://styles/mapbox/light-v9"
+      # style for the dark theme
+      darkStyle = "mapbox://styles/mapbox/dark-v9"
+      # whether to add NavigationControl
+      navigation = true
+      # whether to add GeolocateControl
+      geolocate = true
+      # whether to add ScaleControl
+      scale = true
+      # whether to add FullscreenControl
+      fullscreen = true
+
+    # LoveIt CHANGED | 0.2.0 social share links in post page
+    [params.page.share]
+      enable = true
+      Twitter = true
+      Facebook = true
+      Line = true
+      Pocket = true
+
+  # LoveIt NEW | 0.2.0 Analytics config
+  [params.analytics]
+    enable = true
+    # Google Analytics
+    [params.analytics.google]
+      id = "UA-57665492-1"
+      # whether to anonymize IP
+      anonymizeIP = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+    weight = 3
 
 [markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
   [markup.highlight]
     codeFences = true
     guessSyntax = true
-    style = "monokai"
-
+    lineNos = true
+    lineNumbersInTable = true
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+  # Goldmark is from Hugo 0.60 the default library used for Markdown
   [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
     [markup.goldmark.renderer]
-      unsafe= true
+      # whether to use HTML tags directly in the document
+      unsafe = true
+  # Table Of Contents settings
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6

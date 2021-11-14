@@ -2,3 +2,5 @@ public
 *.swp
 static/ogp/*.webp
 assets/font/*.ttf
+.hugo_build.lock
+resources
