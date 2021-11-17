@@ -3,8 +3,7 @@ title: お仕事で覚えたシェルスクリプトの使い方
 date: 2013-07-20T15:04:05Z
 author: kazu634
 categories:
-  - Labs
-  - Infra
+  - インフラ
 tags:
   - ShellScript
 ---

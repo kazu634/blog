@@ -1,6 +1,5 @@
 +++
-
-categories = ["Linux", "Labs", "Infra"]
+categories = ["Linux", "インフラ"]
 tags = ["ubuntu", "cache"]
 author = "kazu634"
 date = "2018-08-26T23:06:30+08:00"

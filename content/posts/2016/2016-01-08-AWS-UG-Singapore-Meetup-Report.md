@@ -1,5 +1,5 @@
 +++
-categories = [ "Misc", "Infra" ]
+categories = [ "インフラ" ]
 author = "kazu634"
 description = "6th Jan 2016に行われたAWS User Group Singaporeのレポートです。ただし英語。。。"
 tags = [ "singapore", "aws" ]

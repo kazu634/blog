@@ -3,7 +3,7 @@ title = "カトマンズを訪ねる旅へ"
 date = 2020-01-28T15:49:49+08:00
 description = "ネパールの首都カトマンズを訪ねてきました。エベレストを見てきましたよ"
 tags = ["katmandu", "nepal"]
-categories = ["Travel"]
+categories = ["旅行"]
 author = "kazu634"
 
 +++

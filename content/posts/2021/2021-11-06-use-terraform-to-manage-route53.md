@@ -2,8 +2,8 @@
 title = "TerraformでRoute53を管理してみたメモ"
 date = 2021-11-06T14:21:43+09:00
 description = "これまでは`roadwork`で`Route53`を管理していたのですが、お仕事関係のこともあってTerraformを利用して、`Route53`を管理してみようと思いたち、始めてみました。"
-tags = ["Terraform", "Linux"]
-categories = ["Infra", "HashiCorp"]
+tags = ["Terraform"]
+categories = ["インフラ", "HashiCorp", "Linux"]
 author = "kazu634"
 +++
 

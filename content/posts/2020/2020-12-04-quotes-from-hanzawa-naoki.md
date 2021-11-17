@@ -3,7 +3,7 @@ title = "敵も多いが味方も多い—。だけど、味方は圧倒的な�
 date = 2020-12-04T15:04:05Z
 description = "『半沢直樹 アルルカンと道化師』で気になった部分をまとめました"
 tags = ["book"]
-categories = ["Quotes"]
+categories = ["引用"]
 author = "kazu634"
 +++
 

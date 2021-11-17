@@ -3,7 +3,7 @@ title: 日光観光に行ってきた
 date: 2014-11-03T15:04:05Z
 author: kazu634
 categories:
-  - Travel
+  - 旅行
 tags:
   - 日光
 ---

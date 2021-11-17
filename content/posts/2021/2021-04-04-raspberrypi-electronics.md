@@ -2,8 +2,8 @@
 title = "RaspberryPIで電子工作を始めてみました"
 date = 2021-04-04T13:47:22+09:00
 description = "なかなか外出できないので、おうちでRaspberryPIをいじってみた結果をまとめました。"
-tags = ["electronics"]
-categories = ["Labs"]
+tags = ["電子工作"]
+categories = ["RaspberryPI"]
 author = "kazu634"
 +++
 

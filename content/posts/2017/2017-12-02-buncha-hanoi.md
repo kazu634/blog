@@ -3,9 +3,8 @@ title = "Hanoi名物のBun Chaを食べてきた"
 date = 2017-12-02T00:29:49+08:00
 description = "Hanoi名物のBun Chaを食べました。オバマ元アメリカ大統領も食べたことがあるんだって。"
 tags = ["Hanoi"]
-categories = ["Travel", "Misc"]
+categories = ["旅行", "レストラン"]
 author = "kazu634"
-
 +++
 
 ハノイに来て、名物の[Bun cha](https://en.wikipedia.org/wiki/Bun_cha)を食べて来ました。[Bun cha](https://en.wikipedia.org/wiki/Bun_cha)というのは、

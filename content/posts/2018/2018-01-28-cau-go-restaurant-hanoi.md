@@ -3,10 +3,8 @@ title = "Cau Go Restaurant Hanoi: ハノイにあるベトナム料理のレス�
 date = 2018-01-28T14:11:23+08:00
 description = "ハノイ出張に行き、お勧めされた Cau Go Restaurant に行ってきました。ロケーション・景色・料理、すべてが良かったです。"
 tags = ["hanoi"]
-categories = ["Misc", "Travel"]
+categories = ["レストラン", "旅行"]
 author = "kazu634"
-draft = false
-
 +++
 
 ハノイに出張に行き、お勧めされたCau Go Restraurantに行ってきました。場所は旧市街地の湖畔にあるお店で、ロケーション・景色・料理すべてが良かったです！ガイドブックなどにも掲載されている有名店のようですが、行く価値アリです。

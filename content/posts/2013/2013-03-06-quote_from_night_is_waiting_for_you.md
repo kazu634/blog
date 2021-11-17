@@ -4,10 +4,9 @@ author: kazu634
 date: 2013-03-06T15:04:05Z
 excerpt: 「忘れてないよ」のいちばんの表現は「会う」だよねー。
 categories:
-  - Quotes
+  - 引用
 tags:
   - book
-
 ---
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/4902516764/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/4902516764/simsnes-22/ref=nosim/', '夜は、待っている。 (Hobonichi books)');" target="_blank" name="amazletlink">夜は、待っている。 (Hobonichi books)</a>で気になった部分です:
 

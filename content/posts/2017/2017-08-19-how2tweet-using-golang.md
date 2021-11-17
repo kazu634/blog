@@ -3,9 +3,8 @@ title = "GolangでTwitterに投稿する方法"
 date = 2017-08-19T23:02:35+08:00
 description = "Golangを利用してTwitterにツイートする方法を調べました。"
 tags = ["Golang"]
-categories = ["Labs", "Program"]
+categories = ["プログラミング"]
 author = "kazu634"
-
 +++
 
 簡単なWeb APIサーバを`golang`で作ることをもくろんでいて、その一環で現在`golang`で`Twitter`に投稿する方法を調べています。調べた結果をシェアします:

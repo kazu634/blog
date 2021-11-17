@@ -2,10 +2,9 @@
 title = "Metabaseをお試しで使ってみた"
 date = 2018-07-02T21:15:53+08:00
 description = "オープンソースのお手軽BIツール・Metabaseをお試しで使ってみました。これ使えば、エンジニアじゃない人にもグラフを作ってもらえそう"
-categories = ["Labs", "Visualization"]
+categories = ["Visualization"]
 tags = ["metabase"]
 author = "kazu634"
-
 +++
 
 [Metabase](https://www.metabase.com/)という、オープンソースのお手軽BIツールがあるということで試してみました。これぐらいお手軽だと、エンジニアじゃない人にも「触ってみて」と言えそうです。

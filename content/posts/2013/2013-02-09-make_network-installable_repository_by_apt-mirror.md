@@ -3,14 +3,12 @@ title: apt-mirrorを使ってネットワークインストール可能なレポ
 date: 2013-02-09T15:04:05Z
 author: kazu634
 categories:
-  - Labs
   - Linux
-  - Infra
+  - インフラ
 tags:
   - apt
   - ubuntu
   - preseed
-
 ---
 apt-mirrorを使用してネットワークインストール可能なレポジトリを作成しようとしたら、うまくいかずにハマったのでここにまとめておきます。
 

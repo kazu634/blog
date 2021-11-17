@@ -3,9 +3,9 @@ title: 大木屋のエアーズロック食べてきた！
 date: 2014-01-01T15:04:05Z
 author: kazu634
 categories:
-  - Misc
+  - レストラン
 tags:
-  - ichigaya
+  - 市ヶ谷
 ---
 年末に同僚に誘われて<a href="http://r.gnavi.co.jp/gabr800/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://r.gnavi.co.jp/gabr800/', '大木屋・市ヶ谷店');">大木屋・市ヶ谷店</a>に行ってきました。このお店はエアーズロックっていう大きなステーキで有名らしいです。でも、もんじゃ屋さんなんだとか。一応もんじゃも出てきたけれど、やっぱりエアーズロックのインパクトが強すぎました。
 

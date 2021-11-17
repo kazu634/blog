@@ -1,7 +1,7 @@
 +++
 author = "kazu634"
 description = "『数学ガール-ゲーテルの不完全性定理』を読んで気になった部分をまとめました。"
-categories = ["Quotes"]
+categories = ["引用"]
 tags = ["book"]
 date = "2016-02-01T11:49:22+08:00"
 title = "新しい道へ進むときには、誰でもためらうものなんだよ"

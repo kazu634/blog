@@ -3,9 +3,8 @@ title = "フルセイルコーヒーの Light House Blend と HARIO のケトル
 date = 2017-08-27T21:00:35+08:00
 description = "フルセイルコーヒーのLight House Blendを飲み始めました。力強い光で陸地の存在を知らせる<灯台>は海と岬の守り番。眠らない灯台守のための深煎りブレンド。あと、HARIOのケトルも買いました。"
 tags = ["coffee"]
-categories = ["Misc"]
+categories = ["ガジェット"]
 author = "kazu634"
-
 +++
 
 ![](https://lh3.googleusercontent.com/-iLQthM5QqhM/WaEA5E_j0rI/AAAAAAAAZ3M/BvxWeh-0_3c5cDIprh2XWUga7PLC4rMTQCHMYCw/I/IMG_0072.JPG)

@@ -3,9 +3,8 @@ title = "人は変わることができる。意識を変えねばならない�
 date = 2020-03-22T15:04:05Z
 description = "星系出雲兵站-遠征- 3で気になった部分をまとめています"
 tags = ["book"]
-categories = ["Quotes"]
+categories = ["引用"]
 author = "kazu634"
-
 +++
 
 [星系出雲兵站-遠征- 3](https://www.amazon.co.jp/exec/obidos/ASIN/B084SVWRPL/simsnes-22/)で気になった部分をまとめました。

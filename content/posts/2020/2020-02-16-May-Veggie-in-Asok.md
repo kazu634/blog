@@ -2,9 +2,8 @@
 title = "May Veggieを訪ねてきました"
 date = 2020-02-16T10:10:34+08:00
 description = "Asokにあるベジタリアンレストラン May Veggie を訪ねてきました"
-categories = ["Misc"]
+categories = ["レストラン"]
 author = "kazu634"
-
 tags = ["bangkok"]
 +++
 

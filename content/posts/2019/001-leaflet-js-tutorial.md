@@ -3,9 +3,8 @@ title="Leaflet.jsでMapboxのタイルを用いて地図を表示する"
 date=2019-04-08T15:04:05Z
 publishdate=2019-04-08T15:04:05Z
 description="Leaflet.jsでMapboxのタイルを用いて地図を表示するよ"
-
 leaflet=true
-categories = ["Labs", "Map"]
+categories = ["Map"]
 tags = ["leaflet.js"]
 author = "kazu634"
 +++

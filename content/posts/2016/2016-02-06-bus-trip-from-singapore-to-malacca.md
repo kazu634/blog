@@ -1,5 +1,5 @@
 +++
-categories = ["Travel"]
+categories = ["旅行"]
 author = "kazu634"
 description = "シンガポールからバスでマラッカへ向かう時の注意事項"
 tags = ["singapore", "malacca"]

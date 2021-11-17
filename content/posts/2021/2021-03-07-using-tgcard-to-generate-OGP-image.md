@@ -2,8 +2,7 @@
 title = "tcardgenを利用したOGP画像の生成"
 date = 2021-03-07T13:47:22+09:00
 description = "tcardgenを利用して、OGP画像を生成してみました。"
-tags = ["hugo"]
-categories = ["Labs"]
+categories = ["Blog"]
 author = "kazu634"
 +++
 
@@ -44,20 +43,20 @@ HTTP による接続要求を送信しました、応答を待っています...
 長さ: 44009406 (42M) [application/octet-stream]
 `HackGenNerd_v2.3.0.zip.3' に保存中
 
-HackGenNerd_v2.3.0.zip.3    100%[========================================>]  41.97M  1.15MB/s    in 33s     
+HackGenNerd_v2.3.0.zip.3    100%[========================================>]  41.97M  1.15MB/s    in 33s
 
 2021-03-07 14:01:06 (1.26 MB/s) - `HackGenNerd_v2.3.0.zip.3' へ保存完了 [44009406/44009406]
 kazu634@bastion2004% unzip HackGenNerd_v2.3.0.zip                                                     [/tmp]
 Archive:  HackGenNerd_v2.3.0.zip
    creating: HackGenNerd_v2.3.0/
-  inflating: HackGenNerd_v2.3.0/HackGen35Nerd-Bold.ttf  
-  inflating: HackGenNerd_v2.3.0/HackGen35Nerd-Regular.ttf  
-  inflating: HackGenNerd_v2.3.0/HackGen35NerdConsole-Bold.ttf  
-  inflating: HackGenNerd_v2.3.0/HackGen35NerdConsole-Regular.ttf  
-  inflating: HackGenNerd_v2.3.0/HackGenNerd-Bold.ttf  
-  inflating: HackGenNerd_v2.3.0/HackGenNerd-Regular.ttf  
-  inflating: HackGenNerd_v2.3.0/HackGenNerdConsole-Bold.ttf  
-  inflating: HackGenNerd_v2.3.0/HackGenNerdConsole-Regular.ttf  
+  inflating: HackGenNerd_v2.3.0/HackGen35Nerd-Bold.ttf
+  inflating: HackGenNerd_v2.3.0/HackGen35Nerd-Regular.ttf
+  inflating: HackGenNerd_v2.3.0/HackGen35NerdConsole-Bold.ttf
+  inflating: HackGenNerd_v2.3.0/HackGen35NerdConsole-Regular.ttf
+  inflating: HackGenNerd_v2.3.0/HackGenNerd-Bold.ttf
+  inflating: HackGenNerd_v2.3.0/HackGenNerd-Regular.ttf
+  inflating: HackGenNerd_v2.3.0/HackGenNerdConsole-Bold.ttf
+  inflating: HackGenNerd_v2.3.0/HackGenNerdConsole-Regular.ttf
 kazu634@bastion2004% cp HackGenNerd_v2.3.0/HackGen*.ttf ~/works/mnt/others/blog/assets/font/          [/tmp]
 ```
 
@@ -116,7 +115,7 @@ tags:
     right: 10
     bottom: 6
     left: 8
-    
+
 ```
 
 ### hugo記事の指定について
@@ -158,13 +157,13 @@ Success to generate twitter card into /home/kazu634/works/mnt/others/blog/static
 tcardgenコマンドで生成したPNG画像は1ファイル1MB程度だったため、ファイルサイズが大きすぎと感じたので、webp形式に変換することにしました。webp形式への変換は`img2webp`コマンドを利用しました。
 
 ```
-kazu634@bastion2004% img2webp -lossy -q 50 2020-08-01-Bangkok-Restaurants.png -o 2020-08-01-Bangkok-Restaurants.webp 
+kazu634@bastion2004% img2webp -lossy -q 50 2020-08-01-Bangkok-Restaurants.png -o 2020-08-01-Bangkok-Restaurants.webp
 output file: 2020-08-01-Bangkok-Restaurants.webp     [1 frames, 31206 bytes].
 
 kazu634@bastion2004% ll *.png
 -rw-rw-r-- 1 kazu634 kazu634 974K  3月  7 14:21 2020-08-01-Bangkok-Restaurants.png
 
-kazu634@bastion2004% ll 2020-08-01-Bangkok-Restaurants.webp 
+kazu634@bastion2004% ll 2020-08-01-Bangkok-Restaurants.webp
 -rw-rw-r-- 1 kazu634 kazu634 31K  3月  7 14:26 2020-08-01-Bangkok-Restaurants.webp
 ```
 

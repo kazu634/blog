@@ -3,14 +3,13 @@ title: 北千住へサイクリング
 date: 2012-11-24T15:04:05Z
 author: kazu634
 categories:
-  - Misc
+  - サイクリング
 tags:
-  - cycling
-  - minowa
-  - ueno
-  - iriya
-  - kitasenju
-  - minamisenju
+  - 三ノ輪
+  - 上野
+  - 入谷
+  - 北千住
+  - 南千住
 ---
 ポカポカ陽気に誘われて本日はサイクリングへ。北千住まで行って来ました！ There was a problem connecting to Twitter.
 

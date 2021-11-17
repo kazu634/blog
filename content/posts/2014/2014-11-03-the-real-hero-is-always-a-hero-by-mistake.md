@@ -3,15 +3,14 @@ title: The real hero is always a hero by mistake…
 author: kazu634
 date: 2014-11-02T15:04:05Z
 categories:
-  - Quotes
+  - 引用
 tags:
   - book
-
 ---
 「本当の英雄というのは、誤って英雄になってしまったのであって、他の人と同じように誠実な意気地なしになることを夢見ている」って、この見解は真実を射抜いている気がします。
 
 > The real hero is always a hero by mistake; he dreams of being an honest coward like everybody else.
-> 
+>
 > &#8211;by Umberto Eco
 
 * * *

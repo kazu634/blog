@@ -1,7 +1,6 @@
 +++
-
 tags = ["statup"]
-categories = ["Labs", "Infra", "Linux", "Monitoring"]
+categories = ["インフラ", "監視"]
 author = "kazu634"
 date = "2018-09-11T01:25:05+09:00"
 title = "お手軽にステータスページを作成できるStatupを触ってみた"

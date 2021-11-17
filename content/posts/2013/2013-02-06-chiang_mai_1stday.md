@@ -3,9 +3,9 @@ title: チェンマイ旅行1日目
 date: 2013-02-06T15:04:05Z
 author: kazu634
 categories:
-  - Travel
+  - 旅行
 tags:
-  - Chiang Mai
+  - chiang mai
 ---
 友人の結婚式でタイのチェンマイに行って来ました。
 

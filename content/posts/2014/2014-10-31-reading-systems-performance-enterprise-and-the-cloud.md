@@ -3,11 +3,10 @@ title: 'Systems Performance: Enterprise and the Cloud を読む'
 date: 2014-10-31T15:04:05Z
 author: kazu634
 categories:
-  - Labs
-  - Infra
+  - インフラ
+  - 監視
 tags:
   - book
-
 ---
 <a href="http://www.amazon.co.jp/Systems-Performance-Enterprise-Brendan-Gregg-ebook/dp/B00FLYU9T2/ref=sr_1_6?s=english-books&ie=UTF8&qid=1414762573&sr=1-6&keywords=system+performance" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.amazon.co.jp/Systems-Performance-Enterprise-Brendan-Gregg-ebook/dp/B00FLYU9T2/ref=sr_1_6?s=english-books&ie=UTF8&qid=1414762573&sr=1-6&keywords=system+performance', 'Systems Performance: Enterprise and the Cloud');">Systems Performance: Enterprise and the Cloud</a>を読んでいます。システム管理の分野で顕著な成果として2013年度のLISA Awardというのを受賞した書籍らしいのですが、これがまた面白い。たぶん自分が何を説明しているのかを正確に理解している人が、わかりやすく伝える努力を惜しまずに書くとこんな書籍になるのだと思う。これは最後まで読まねば。
 

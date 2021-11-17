@@ -3,8 +3,7 @@ title: knife ec2コマンドで AWS EC2 インスタンスを作成する
 date: 2013-06-16T15:04:05Z
 author: kazu634
 categories:
-  - Labs
-  - Infra
+  - インフラ
 tags:
   - chef
   - aws

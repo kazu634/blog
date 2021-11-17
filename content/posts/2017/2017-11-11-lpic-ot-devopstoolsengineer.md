@@ -3,10 +3,8 @@ title = "LPIC OT: DevOps Tools Engineerという試験を見つけたよ"
 date = 2017-11-11T22:58:38+08:00
 description = "LPICについて調べていたら、英語でしか受験できないLPIC OT: DevOps Tools Engineerという試験を見つけたよ。最近のオープンソースを用いたDevOps関係のはやりを抑えた試験になっているみたい"
 tags = ["prometheus"]
-categories = ["Labs", "Linux", "Monitoring"]
+categories = ["インフラ", "Linux", "監視"]
 author = "kazu634"
-
-draft = false
 +++
 
 シンガポールでもLPICを受験できると知り、LPICについて色々と調べていると、英語でしか受験できない[LPIC\-OT 701: DevOps Tools Engineer](http://www.lpi.org/our-certifications/lpic-ot-devops-overview)という資格を見つけました。

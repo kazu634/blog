@@ -3,10 +3,9 @@ title: 日本人が残業をするのは、生産的になろうとするため�
 author: kazu634
 date: 2014-11-15T15:04:05Z
 categories:
-  - Quotes
+  - 引用
 tags:
   - book
-
 ---
 <a href="https://www.flickr.com/photos/zenzenok/24820832" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.flickr.com/photos/zenzenok/24820832', '');" title="Crushed Salaryman by ZenzenOK, on Flickr"><img class="aligncenter" src="https://farm1.staticflickr.com/23/24820832_03c464b408.jpg" alt="Crushed Salaryman" width="500" height="375" /></a>
 

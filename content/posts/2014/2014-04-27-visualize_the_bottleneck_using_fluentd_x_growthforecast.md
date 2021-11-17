@@ -3,13 +3,11 @@ title: Fluentd X GrowthForecastの組み合わせで可視化してみた
 date: 2014-04-27T15:04:05Z
 author: kazu634
 categories:
-  - Infra
-  - Labs
-  - Monitoring
+  - インフラ
+  - 監視
 tags:
   - growthforecast
   - fluentd
-
 ---
 `Fluentd`と`GrowthForecast`を組み合わせてレスポンスタイムの可視化を実施しました。
 

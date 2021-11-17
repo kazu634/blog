@@ -3,11 +3,10 @@ title: サプライズに直面すると人は考え始めるものです
 author: kazu634
 date: 2015-12-17T15:04:05Z
 categories:
-  - Quotes
+  - 引用
 tags:
   - book
 description: Sports Graphics Numberを読んで気になった部分
-
 ---
 水泳の荻野選手:
 

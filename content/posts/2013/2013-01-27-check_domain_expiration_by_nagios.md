@@ -1,15 +1,10 @@
 ---
 title: Nagiosでドメイン有効期限を監視する
 date: 2013-01-27T15:04:05Z
-has_been_twittered:
-  - yes
-tmac_last_id:
-  - 307653283424636929
 author: kazu634
 categories:
-  - Labs
-  - Infra
-  - Monitoring
+  - インフラ
+  - 監視
 tags:
   - nagios
 ---

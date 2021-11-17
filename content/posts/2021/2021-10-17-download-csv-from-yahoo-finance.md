@@ -2,7 +2,7 @@
 title="Yahoo.com Financeから株価のCSVを取得する方法"
 date=2021-10-17T14:04:05+09:00
 description="アメリカのYahoo.comでは日本企業の株価でもCSVで取得できるということで、どのようにすればダウンロードできるか確認してみました"
-categories = ["Labs", "Visualization"]
+categories = ["Visualization", "Finance"]
 tags = ["chart.js"]
 author = "kazu634"
 +++

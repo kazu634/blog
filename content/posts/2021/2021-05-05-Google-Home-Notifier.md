@@ -1,7 +1,7 @@
 +++
 author = "kazu634"
 description = "ゴールデンウィークの暇潰しにGoogle Nestで任意の文章を喋らせるようにしてみました。"
-categories = ["Labs", "Program"]
+categories = ["プログラミング"]
 tags = ["node.js"]
 date = "2021-05-05T20:53:36+09:00"
 title = "google-home-notifierでGoogle Nestを喋らせてみました。"

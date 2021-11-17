@@ -2,9 +2,9 @@
 title = "GoProを自転車に乗せて走りました"
 date = 2021-09-11T12:00:34+09:00
 description = "GoProを自転車に乗せて走ってきました"
-categories = ["Cycling"]
+categories = ["サイクリング"]
 author = "kazu634"
-tags = ["tokyo", "yokohama"]
+tags = ["東京", "横浜"]
 +++
 
 GoProを持っているのですが、うまく活用するためにロードバイクに乗せて走ってみることにしました。

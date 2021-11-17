@@ -2,10 +2,9 @@
 title = "MetabaseでGeojsonを用いたカスタムマップを利用する"
 date = 2020-03-01T09:15:53+08:00
 description = "オープンソースのお手軽BIツール・Metabaseで自分で作成した白地図上にデータを可視化できるようになっていたようなので、試してみました"
-categories = ["Labs", "Visualization"]
+categories = ["Visualization"]
 tags = ["metabase"]
 author = "kazu634"
-
 +++
 
 オープンソースのBIツール・[Metabase](https://github.com/metabase/metabase)をアップグレードしたところ、Geojsonを用いて、自分で用意した地図上にデータの可視化ができるようになっていました。

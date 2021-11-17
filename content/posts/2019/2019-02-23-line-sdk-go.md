@@ -3,9 +3,8 @@ title = "GolangでLine APIをいじくるよ"
 date = 2019-03-03T19:12:22+08:00
 description = "GolangでLine APIを利用してみましたよ。"
 tags = ["Golang"]
-categories = ["Labs", "Program"]
+categories = ["プログラミング"]
 author = "kazu634"
-
 +++
 
 # GolangでLine APIをいじくる

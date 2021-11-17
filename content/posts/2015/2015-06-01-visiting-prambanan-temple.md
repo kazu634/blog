@@ -3,7 +3,7 @@ title: 'インドネシアの世界遺産を見てきた: Prambanan Temple'
 date: 2015-06-01T15:04:05Z
 author: kazu634
 categories:
-  - Travel
+  - 旅行
 tags:
   - indonesia
   - java

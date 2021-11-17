@@ -3,10 +3,9 @@ title: ユリウス・カエサル ルビコン以前──ローマ人の物語
 author: kazu634
 date: 2014-10-12T15:04:05Z
 categories:
-  - Quotes
+  - 引用
 tags:
   - book
-
 ---
 塩野七生のローマ人の物語を読んでいます。といっても英語版。日本語で読んだのは学生の時だから、あれから5年くらいかな。今が一番おもしろいカエサルのところを読んでいます。
 
@@ -24,29 +23,29 @@ tags:
 <div class="amazlet-image" style="float: left; margin: 0px 12px 1px 0px;">
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00MA5SBZO/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/B00MA5SBZO/simsnes-22/ref=nosim/', '');" target="_blank" name="amazletlink"><img style="border: none;" src="https://images-na.ssl-images-amazon.com/images/I/51x16CSJYlL._SL160_.jpg" alt="Julius Caesar: To the Banks of the Rubicon - The Story of the Roman People vol. IV" /></a>
 </div>
-  
+
 <div class="amazlet-info" style="line-height: 120%; margin-bottom: 10px;">
 <div class="amazlet-name" style="margin-bottom: 10px; line-height: 120%;">
 <p>
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00MA5SBZO/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/B00MA5SBZO/simsnes-22/ref=nosim/', 'Julius Caesar: To the Banks of the Rubicon &#8211; The Story of the Roman People vol. IV');" target="_blank" name="amazletlink">Julius Caesar: To the Banks of the Rubicon &#8211; The Story of the Roman People vol. IV</a>
 </p>
-      
+
 <div class="amazlet-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%;">
         posted with <a href="http://www.amazlet.com/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.amazlet.com/', 'amazlet');" title="amazlet"  target="_blank">amazlet</a> at 14.10.12
 </div>
 </div>
-    
+
 <div class="amazlet-detail">
       SHINCHOSHA Publishing Co., Ltd. (2014-08-08)
 </div>
-    
+
 <div class="amazlet-sub-info" style="float: left;">
 <div class="amazlet-link" style="margin-top: 5px;">
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00MA5SBZO/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/B00MA5SBZO/simsnes-22/ref=nosim/', 'Amazon.co.jpで詳細を見る');" target="_blank" name="amazletlink">Amazon.co.jpで詳細を見る</a>
 </div>
 </div>
 </div>
-  
+
 <div class="amazlet-footer" style="clear: left;">
 </div>
 </div>

@@ -3,8 +3,7 @@ title="Legoの使い方メモ"
 date=2019-04-14T15:04:05Z
 publishdate=2019-04-14T15:04:05Z
 description="Legoを用いたDNS経由でのSSL/TSL証明書取得について調べた内容をまとめました"
-
-categories = ["Labs", "Infra"]
+categories = ["インフラ"]
 author = "kazu634"
 tags = ["Lego", "Let'sEncrypt"]
 +++
@@ -21,7 +20,7 @@ SSL/TSL証明書を発行するにあたり、そのドメインの所有者が�
 ### HTTP-01認証
 ドメインの所有者であれば、そのドメインにアクセスした際に表示されるコンテンツを自由にできるはずですので、それを利用した認証方式です。具体的には[Let&#39;s Encrypt](https://letsencrypt.org/)から送られてきたトークンを記入したファイルをウェブサーバで配信できる状態にして、[Let&#39;s Encrypt](https://letsencrypt.org/)にそのファイル・トークンを確認してもらうことで、ドメインを所有していることを証明します。
 
-{{<mermaid align="center">}}
+{{< mermaid >}}
 sequenceDiagram
     participant User
     participant Web Server

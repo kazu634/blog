@@ -1,6 +1,6 @@
 +++
 tags = ["ssl"]
-categories = ["Labs", "Infra", "Linux"]
+categories = ["インフラ", "Linux", "HashiCorp"]
 author = "kazu634"
 date = "2021-08-01T20:25:05+09:00"
 title = "CA認証局について色々調べてみたまとめです"
@@ -27,10 +27,10 @@ SSL証明書を発行するためには、CA認証局というのを構築する
 次のようにしてインストールします:
 
 ```bash
-% wget https://github.com/FiloSottile/mkcert/releases/download/v1.4.3/mkcert-v1.4.3-amd64                                                                                                        
---2021-08-01 15:14:34--  https://github.com/FiloSottile/mkcert/releases/download/v1.4.3/mkcert-v1.4.3-linux-amd64                                                                                                         
-github.com (github.com) をDNSに問いあわせています... 52.69.186.44                                            
-github.com (github.com)|52.69.186.44|:443 に接続しています... 接続しました。                                 
+% wget https://github.com/FiloSottile/mkcert/releases/download/v1.4.3/mkcert-v1.4.3-amd64
+--2021-08-01 15:14:34--  https://github.com/FiloSottile/mkcert/releases/download/v1.4.3/mkcert-v1.4.3-linux-amd64
+github.com (github.com) をDNSに問いあわせています... 52.69.186.44
+github.com (github.com)|52.69.186.44|:443 に接続しています... 接続しました。
 HTTP による接続要求を送信しました、応答を待っています... 302 Found
 場所: https://github-releases.githubusercontent.com/138547797/89a9d600-2f20-11eb-9474-a9aab8fb1873?X-Amz-Algo
 rithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210801%2Fus-east-1%2Fs3%2Faws4_request&X-Amz
@@ -67,14 +67,14 @@ The local CA is already installed in the Firefox and/or Chrome/Chromium trust st
 
 ```bash
 % mkcert localhost 192.168.10.101
-                                                                                                             
-Created a new certificate valid for the following names 📜                                                   
- - "localhost"                                                                                               
- - "192.168.10.101"                                                                                          
-                                                                                                             
-The certificate is at "./localhost+1.pem" and the key at "./localhost+1-key.pem" ✅                          
-                                                                                                             
-It will expire on 25 October 2023 🗓     
+
+Created a new certificate valid for the following names 📜
+ - "localhost"
+ - "192.168.10.101"
+
+The certificate is at "./localhost+1.pem" and the key at "./localhost+1-key.pem" ✅
+
+It will expire on 25 October 2023 🗓
 ```
 
 ### 作成したSSL証明書のテスト
@@ -213,7 +213,7 @@ Your new CA certificate file for publishing is at:
 Generating RSA private key, 2048 bit long modulus (2 primes)
 ........................................................................+++++
 .................................................................+++++
-e is 65537 (0x010001)     
+e is 65537 (0x010001)
 ```
 
 その後、CSRを作成します。`bastion2004`としてある部分は、サーバ証明書を利用するホスト名を指定してください:
