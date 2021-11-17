@@ -3,7 +3,7 @@ title = "Golangのnet/httpでREST APIをたたくときのメモ"
 date = 2020-03-07T21:12:22+08:00
 description = "Golangの標準ライブラリnet/httpでREST APIをたたくときのメモです。"
 tags = ["Golang"]
-categories = ["Labs", "Program"]
+categories = ["プログラミング"]
 author = "kazu634"
 +++
 

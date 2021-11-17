@@ -3,9 +3,10 @@ title: みんみん@宇都宮で餃子を食べてきた
 date: 2014-11-04T15:04:05Z
 author: kazu634
 categories:
-  - Travel
+  - 旅行
+  - レストラン
 tags:
-  - utsunomiya
+  - 宇都宮
 ---
 宇都宮の餃子有名店・みんみんで餃子を食べてきました。
 

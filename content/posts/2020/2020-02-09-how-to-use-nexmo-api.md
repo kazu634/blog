@@ -3,7 +3,7 @@ title = "nexmo APIの使い方"
 date = 2020-02-09T03:12:22+08:00
 description = "nexmo APIの使い方のメモ書きです"
 tags = ["Golang"]
-categories = ["Labs", "Program"]
+categories = ["プログラミング"]
 author = "kazu634"
 +++
 

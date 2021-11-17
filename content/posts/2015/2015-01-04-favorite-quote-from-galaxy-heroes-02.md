@@ -3,7 +3,7 @@ title: 銀河英雄伝説2で気になった部分
 author: kazu634
 date: 2015-01-04T15:04:05Z
 categories:
-  - Quotes
+  - 引用
 tags:
   - book
 ---
@@ -23,27 +23,27 @@ tags:
 <div class="amazlet-image" style="float: left; margin: 0px 12px 1px 0px;">
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/4488725023/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/4488725023/simsnes-22/ref=nosim/', '');" target="_blank" name="amazletlink"><img style="border: none;" src="https://images-na.ssl-images-amazon.com/images/I/51F1P%2BWJGtL._SL160_.jpg" alt="銀河英雄伝説〈2〉野望篇 (創元SF文庫)" /></a>
 </div>
-  
+
 <div class="amazlet-info" style="line-height: 120%; margin-bottom: 10px;">
 <div class="amazlet-name" style="margin-bottom: 10px; line-height: 120%;">
-<a href="https://www.amazon.co.jp/exec/obidos/ASIN/4488725023/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/4488725023/simsnes-22/ref=nosim/', '銀河英雄伝説〈2〉野望篇 (創元SF文庫)');" target="_blank" name="amazletlink">銀河英雄伝説〈2〉野望篇 (創元SF文庫)</a></p> 
-      
+<a href="https://www.amazon.co.jp/exec/obidos/ASIN/4488725023/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/4488725023/simsnes-22/ref=nosim/', '銀河英雄伝説〈2〉野望篇 (創元SF文庫)');" target="_blank" name="amazletlink">銀河英雄伝説〈2〉野望篇 (創元SF文庫)</a></p>
+
 <div class="amazlet-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%;">
         posted with <a href="http://www.amazlet.com/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.amazlet.com/', 'amazlet');" title="amazlet"  target="_blank">amazlet</a> at 15.01.04
 </div>
 </div>
-    
+
 <div class="amazlet-detail">
       田中 芳樹<br /> 東京創元社<br /> 売り上げランキング: 24,271
 </div>
-    
+
 <div class="amazlet-sub-info" style="float: left;">
 <div class="amazlet-link" style="margin-top: 5px;">
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/4488725023/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/4488725023/simsnes-22/ref=nosim/', 'Amazon.co.jpで詳細を見る');" target="_blank" name="amazletlink">Amazon.co.jpで詳細を見る</a>
 </div>
 </div>
 </div>
-  
+
 <div class="amazlet-footer" style="clear: left;">
 </div>
 </div>

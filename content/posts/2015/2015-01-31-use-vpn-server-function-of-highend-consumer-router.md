@@ -3,8 +3,8 @@ title: コンシューマー向けのハイエンドルーターでVPNを利用�
 date: 2015-01-31T15:04:05Z
 author: kazu634
 categories:
-  - Labs
-  - Network
+  - ガジェット
+  - ネットワーク
 tags:
   - vpn
 ---

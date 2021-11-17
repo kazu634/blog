@@ -3,9 +3,9 @@ title: 国立科学博物館で行われている大恐竜展を観に行った�
 date: 2013-12-14T15:04:05Z
 author: kazu634
 categories:
-  - Misc
+  - 雑記
 tags:
-  - ueno
+  - 上野
 ---
 <a href="http://daikyoryu.com/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://daikyoryu.com/', '');" title="大恐竜展 ゴビ砂漠の驚異｜国立科学博物館　東京上野公園 by Kazuhiro MUSASHI, on Flickr"><img class="aligncenter" alt="大恐竜展 ゴビ砂漠の驚異｜国立科学博物館　東京上野公園" src="http://farm4.staticflickr.com/3717/11366214433_b1aa8252d0.jpg" width="500" height="218" /></a>
 

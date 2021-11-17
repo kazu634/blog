@@ -2,8 +2,8 @@
 title = "野毛を訪ねてきました"
 date = 2019-11-02T10:05:34+08:00
 description = "一時帰国中に横浜の野毛を訪ねてきました。おでんとどぜう鍋をおいしくいただいてきました。"
-categories = ["Travel", "Misc"]
-tags = ["noge"]
+categories = ["旅行", "レストラン"]
+tags = ["野毛"]
 author = "kazu634"
 
 +++

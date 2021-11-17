@@ -3,8 +3,7 @@ title: 'じゆうけんきゅう: シンガポールのhaze情報のページか
 date: 2015-10-04T15:04:05Z
 author: kazu634
 categories:
-  - Labs
-  - Program
+  - プログラミング
 tags:
   - cron
   - ruby

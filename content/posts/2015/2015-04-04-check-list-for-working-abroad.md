@@ -3,7 +3,7 @@ title: 海外赴任する前に事前に確認しておくと慌てずに済む�
 date: 2015-04-03T15:04:05Z
 author: kazu634
 categories:
-  - Misc
+  - 雑記
 tags:
   - singapore
 ---

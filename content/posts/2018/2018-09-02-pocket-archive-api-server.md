@@ -1,7 +1,6 @@
 +++
-
 tags = ["Golang"]
-categories = ["Labs", "Program"]
+categories = ["プログラミング"]
 author = "kazu634"
 date = "2018-09-02T18:40:47+09:00"
 title = "APIサーバを作ってみた: Pocketの記事をアーカイブするよ"

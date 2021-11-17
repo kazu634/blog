@@ -3,10 +3,10 @@ title: 横浜卸売市場〜シーパラダイスに行って参りました
 date: 2013-04-19T15:04:05Z
 author: kazu634
 categories:
-  - Misc
+  - 旅行
 tags:
-  - hakkeijima
-  - yokohama
+  - 八景島
+  - 横浜
 ---
 4月の頭に横浜卸売市場とシーパラダイスに行って参りました。楽しかったです！
 

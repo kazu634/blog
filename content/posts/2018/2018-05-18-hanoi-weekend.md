@@ -3,7 +3,7 @@ title = "ハノイの週末"
 date = 2018-05-18T21:03:59+08:00
 description = "ハノイの週末を360度カメラで撮影してきました。"
 tags = ["hanoi"]
-categories = ["Travel", "Misc"]
+categories = ["旅行"]
 author = "kazu634"
 
 +++

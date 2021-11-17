@@ -2,7 +2,7 @@
 title = "JavaScriptではじめるWebマップアプリケーション: Chapter2-2"
 date = 2019-05-01T21:07:08+07:00
 description = "JavaScriptではじめるWebマップアプリケーションの内容を淡々と試してみます。"
-categories = ["Labs", "Map"]
+categories = ["Map"]
 author = "kazu634"
 tags = ["mapbox.js"]
 +++

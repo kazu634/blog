@@ -3,7 +3,7 @@ title: シンガポールへの出張＋観光
 date: 2015-03-08T15:04:05Z
 author: kazu634
 categories:
-  - Travel
+  - 旅行
 tags:
   - singapore
 ---

@@ -1,5 +1,5 @@
 +++
-categories = ["Travel"]
+categories = ["旅行"]
 author = "kazu634"
 description = "マラッカへ旅行してきました。"
 tags = ["malacca"]

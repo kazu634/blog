@@ -3,12 +3,10 @@ title: ブルートフォースアタックの形跡があったんだけど。�
 date: 2015-01-25T15:04:05Z
 author: kazu634
 categories:
-  - Labs
-  - Infra
-  - Monitoring
+  - インフラ
+  - 監視
 tags:
   - troubleshooting
-
 ---
 <a href="https://www.flickr.com/photos/sonickphotographie/14381819697" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.flickr.com/photos/sonickphotographie/14381819697', '');" title="Impossible is not AP Tune's by Yannick Soler, on Flickr"><img class=" aligncenter" src="https://farm3.staticflickr.com/2901/14381819697_287de5e033.jpg" alt="Impossible is not AP Tune's" width="500" height="333" /></a>
 

@@ -3,9 +3,9 @@ title: 松戸でIngressを始めてみました
 date: 2014-11-09T15:04:05Z
 author: kazu634
 categories:
-  - Misc
+  - 雑記
 tags:
-  - matsudo
+  - 松戸
 ---
 友だちに誘われて、最近話題の<a href="https://www.ingress.com/intel" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.ingress.com/intel', 'Ingress');">Ingress</a>をはじめてみました。今日の成果はこんな感じで、LV3になりました:
 

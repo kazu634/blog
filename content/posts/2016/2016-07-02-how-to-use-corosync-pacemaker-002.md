@@ -2,11 +2,9 @@
 author = "kazu634"
 description = "Pacemaker + Corosyncを用いてクラスタ環境を構築してみました。RHEL 6.4で検証しました。今回は共有ディスクを利用できるようにします"
 tags = ["clustering", "pacemaker", "corosync"]
-categories = ["Labs", "Linux"]
+categories = ["インフラ", "Linux"]
 date = "2016-07-02T23:48:32+08:00"
-draft = false
 title = "Pacemaker + Corosyncを用いてクラスタ環境の構築 - iSCSIサーバを利用した共有ディスクの作成"
-
 +++
 
 お仕事でLinux環境でHAクラスタを検証する必要が出てきたので、手順を調べてみました。

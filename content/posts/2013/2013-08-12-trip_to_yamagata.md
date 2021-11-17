@@ -3,9 +3,9 @@ title: 山形は素敵な瀬戸物屋さんが多かった
 date: 2013-08-12T15:04:05Z
 author: kazu634
 categories:
-  - Travel
+  - 旅行
 tags:
-  - yamagata
+  - 山形
 ---
 お仕事の方がどうやら落ち着き、今週は急遽呼び出される……なんてことが無くなったようなので、突発的に旅立ちました。 There was a problem connecting to Twitter.
 

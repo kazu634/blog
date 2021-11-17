@@ -3,9 +3,9 @@ title: Blue Bottle Coffeeに行ってきました
 date: 2015-02-11T15:04:05Z
 author: kazu634
 categories:
-  - Misc
+  - 雑記
 tags:
-  - kiyosumishirakawa
+  - 清澄白河
   - coffee
 ---
 <a href="https://www.flickr.com/photos/scottloftesness/14119601494" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.flickr.com/photos/scottloftesness/14119601494', '');" title="Blue Bottle - San Francisco - 2014 by Scott Loftesness, on Flickr"><img class=" aligncenter" src="https://farm6.staticflickr.com/5237/14119601494_8109b7ec00.jpg" alt="Blue Bottle - San Francisco - 2014" width="500" height="289" /></a>

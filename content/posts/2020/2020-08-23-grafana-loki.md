@@ -2,8 +2,8 @@
 title = "Grafana Lokiをお試しで使ってみたよ"
 date = 2020-08-23T19:49:43+08:00
 description = "Grafana Lokiを試しに使ってみたのでレポートしてみるよ"
-tags = ["Loki", "Grafana", "Linux"]
-categories = ["Labs", "Infra"]
+tags = ["Loki", "Grafana"]
+categories = ["インフラ", "Linux"]
 author = "kazu634"
 image=""
 +++
@@ -140,15 +140,15 @@ $ sudo mv promtail-linux-amd64 /usr/local/bin/promtail
 以下のような設定ファイルを作成して、ひとまず`/opt/loki/promtail-local-config.yaml`として保存することにしてみます:
 
 ```yaml
-server:                                                                                                      
-  http_listen_port: 9080                                                                                     
-  grpc_listen_port: 0                                                                                        
-                                                                                                             
-positions:                                                                                                   
-  filename: /tmp/positions.yaml                                                                              
-                                                                                                             
-clients:                                                                                                     
-  - url: http://localhost:3100/loki/api/v1/push                                                              
+server:
+  http_listen_port: 9080
+  grpc_listen_port: 0
+
+positions:
+  filename: /tmp/positions.yaml
+
+clients:
+  - url: http://localhost:3100/loki/api/v1/push
 
 scrape_configs:
   - job_name: loki

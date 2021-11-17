@@ -3,7 +3,7 @@ title = "バンコクからチェンマイへの寝台列車の旅"
 date = 2019-05-01T12:49:49+08:00
 description = "バンコクからチェンマイへ寝台列車に乗って旅してきました"
 tags = ["bangkok", "chiang mai"]
-categories = ["Travel"]
+categories = ["旅行"]
 author = "kazu634"
 
 +++

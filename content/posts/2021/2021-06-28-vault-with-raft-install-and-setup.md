@@ -3,7 +3,7 @@ title = "VaultをIntegrated Storage (raft)でセットアップ"
 date = 2021-06-28T13:49:43+09:00
 description = "VaultをIntegrated Storage (raft)でセットアップしてみました。"
 tags = ["Vault", "Linux"]
-categories = ["Labs", "Infra", "HashiCorp"]
+categories = ["インフラ", "HashiCorp"]
 author = "kazu634"
 +++
 
@@ -70,19 +70,19 @@ $ sudo apt-add-repository "deb [arch=amd64] https://apt.releases.hashicorp.com $
 
 ```bash
 % openssl x509 -text -noout -in /opt/vault/tls/tls.crt
-Certificate:                                                                                                 
-    Data:                                                                                                    
-        Version: 3 (0x2)                                                                                     
-        Serial Number: 7e:28:fd:b0:56:83:69:a9:d0:08:8c:26:f5:18:60:1e:42:17:16:02                                      
-        Signature Algorithm: sha256WithRSAEncryption                                                         
-        Issuer: O = HashiCorp, CN = Vault                                                                    
-        Validity                                                                                             
-            Not Before: Jun  7 23:23:17 2021 GMT                                                             
-            Not After : Jun  6 23:23:17 2024 GMT                                                             
-        Subject: O = HashiCorp, CN = Vault                                                                   
-        Subject Public Key Info:                                                                             
-            Public Key Algorithm: rsaEncryption                                                              
-                RSA Public-Key: (4096 bit)                                                                   
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 7e:28:fd:b0:56:83:69:a9:d0:08:8c:26:f5:18:60:1e:42:17:16:02
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: O = HashiCorp, CN = Vault
+        Validity
+            Not Before: Jun  7 23:23:17 2021 GMT
+            Not After : Jun  6 23:23:17 2024 GMT
+        Subject: O = HashiCorp, CN = Vault
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (4096 bit)
 […snip…]
 ```
 
@@ -184,29 +184,29 @@ vault03    192.168.10.144:8201    leader      true
 
 ```bash
 kazu634@vault01% vault operator raft autopilot state
-Healthy:                      true                                                                           
-Failure Tolerance:            1                                                                              
-Leader:                       vault03                                                                        
-Voters:                                                                                                      
-   vault03                                                                                                   
-   vault01                                                                                                   
-   vault02                                                                                                   
-Servers:                                                                                                     
-   vault01                                                                                                   
-      Name:            vault01                                                                               
-      Address:         192.168.10.142:8201                                                                   
-      Status:          voter                                                                                 
-      Node Status:     alive                                                                                 
-      Healthy:         true                                                                                  
-      Last Contact:    3.880838102s                                                                          
-      Last Term:       10                                                                                    
-      Last Index:      31293                                                                                 
-   vault02                                                                                                   
-      Name:            vault02                                                                               
-      Address:         192.168.10.143:8201                                                                   
-      Status:          voter                                                                                 
-      Node Status:     alive                                                                                 
-      Healthy:         true 
+Healthy:                      true
+Failure Tolerance:            1
+Leader:                       vault03
+Voters:
+   vault03
+   vault01
+   vault02
+Servers:
+   vault01
+      Name:            vault01
+      Address:         192.168.10.142:8201
+      Status:          voter
+      Node Status:     alive
+      Healthy:         true
+      Last Contact:    3.880838102s
+      Last Term:       10
+      Last Index:      31293
+   vault02
+      Name:            vault02
+      Address:         192.168.10.143:8201
+      Status:          voter
+      Node Status:     alive
+      Healthy:         true
       Last Contact:    1.404623564s
       Last Term:       10
       Last Index:      31293

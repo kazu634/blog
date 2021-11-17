@@ -4,7 +4,7 @@ date: 2016-01-02T15:04:05Z
 author: kazu634
 description: 『高倉健インタビューズ』を読んで気になった部分をまとめています
 categories:
-  - Quotes
+  - 引用
 tags:
   - book
 ---

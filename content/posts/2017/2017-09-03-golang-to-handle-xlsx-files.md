@@ -3,9 +3,8 @@ title = "GolangでExcelファイル(.xlsx)を読み込む"
 date = 2017-09-03T22:47:31+08:00
 description = "GolangでどうすればExcelファイルを読み込めるのか調べました。"
 tags = ["Golang"]
-categories = ["Labs", "Program"]
+categories = ["プログラミング"]
 author = "kazu634"
-
 +++
 
 `github.com/tealeg/xlsx`を用いればいいみたいということがわかりました。

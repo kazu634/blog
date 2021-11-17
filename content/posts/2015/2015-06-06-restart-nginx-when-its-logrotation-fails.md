@@ -3,8 +3,7 @@ title: nginxのログローテーションがうまく動いていないのでmo
 date: 2015-06-06T15:04:05Z
 author: kazu634
 categories:
-  - Labs
-  - Infra
+  - インフラ
 tags:
   - nginx
 ---

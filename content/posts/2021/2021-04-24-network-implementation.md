@@ -1,10 +1,9 @@
 +++
 author = "kazu634"
 description = "インターネット開通したので、ネットワーク環境を構築しました。そのメモです"
-categories = ["Labs", "Network"]
+categories = ["ネットワーク"]
 tags = ["vyOS","edgerouter"]
 date = "2021-04-24T12:07:13+08:00"
-draft = false
 title = "自宅のネットワーク環境の構築メモ"
 +++
 

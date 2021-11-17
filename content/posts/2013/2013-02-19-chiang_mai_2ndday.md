@@ -3,9 +3,9 @@ title: チェンマイ旅行2日目
 date: 2013-02-19T15:04:05Z
 author: kazu634
 categories:
-  - Travel
+  - 旅行
 tags:
-  - Chiang Mai
+  - chiang mai
 ---
 チェンマイに行ってきたシリーズの2日目です。2日目は結婚式に出席、観光、披露宴です。
 

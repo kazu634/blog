@@ -3,9 +3,9 @@ title: B-SIDE LABELのステッカー
 date: 2014-03-23T15:04:05Z
 author: kazu634
 categories:
-  - Misc
+  - ガジェット
 tags:
-  - kyoto
+  - 京都
 ---
 京都をぶらぶらしていて、<a href="http://www.bside-label.com/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.bside-label.com/', 'B-Side Label');">B-Side Label</a>の店舗を発見しました。マリオがギター担いでいるんです。気になりますよね。
 

@@ -3,8 +3,7 @@ title: 'Japan Vyatta Users Meeting Spring 2013 in Tokyo #jvum2013s'
 date: 2013-04-05T15:04:05Z
 author: kazu634
 categories:
-  - Labs
-  - Infra
+  - インフラ
 tags:
   - vyatta
 ---

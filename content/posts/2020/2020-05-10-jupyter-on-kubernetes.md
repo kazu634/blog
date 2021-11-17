@@ -3,7 +3,7 @@ title = "Kubernetes上でJupyterを稼働させる"
 date = 2020-05-10T18:12:22+08:00
 description = "データサイエンティスト入門講座を受講するため、Jupyterをお家Kubernetes上で動作させました。"
 tags = ["python", "kubernetes"]
-categories = ["Labs", "Jupyter"]
+categories = ["Visualization"]
 author = "kazu634"
 +++
 
@@ -36,15 +36,15 @@ Kubernetesの設定をまとめます。
 Persistent Volumeはお家NASからNFSで領域を確保しています。
 
 ```yaml
-apiVersion: v1                                                                                               
-kind: PersistentVolume                                                                                       
-metadata:                                                                                                    
-  name: nfs-jupyter-work                                                                                     
-  namespace: jupyter                                                                                         
-  labels:                                                                                                    
-    name: nfs-jupyter-work                                                                                   
-  annotations:                                                                                               
-    volume.beta.kubernetes.io/storage-class: "slow"                                                          
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: nfs-jupyter-work
+  namespace: jupyter
+  labels:
+    name: nfs-jupyter-work
+  annotations:
+    volume.beta.kubernetes.io/storage-class: "slow"
 spec:
   capacity:
     storage: 25Gi
@@ -68,14 +68,14 @@ metadata:
     volume.beta.kubernetes.io/storage-class: "slow"
 spec:
   capacity:
-   storage: 25Gi     
+   storage: 25Gi
   accessModes:
-    - ReadWriteMany       
+    - ReadWriteMany
   persistentVolumeReclaimPolicy: Retain
   mountOptions:
-    - nfsvers=4.1           
-  nfs:        
-    server: 192.168.10.200                         
+    - nfsvers=4.1
+  nfs:
+    server: 192.168.10.200
     path: /volume1/Shared/kubernetes/jupyter/config
 ```
 
@@ -122,17 +122,17 @@ spec:
 Deploymentの設定で、`Jupyter`のコンテナをデプロイします。レプリカの数は1個にしています。おそらく複数コンテナを起動しても、ステートレスに接続できないと考えたためです。
 
 ```yaml
-apiVersion: apps/v1                                                                                          
-kind: Deployment                                                                                             
-metadata:                                                                                                    
-  name: jupyter                                                                                              
-  namespace: jupyter                                                                                         
-  labels:                                                                                                    
-    app: jupyter                                                                                             
-spec:                                                                                                        
-  replicas: 1                                                                                                
-  selector:                                                                                                  
-    matchLabels:                                                                                             
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: jupyter
+  namespace: jupyter
+  labels:
+    app: jupyter
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
       app: jupyter
   template:
     metadata:
@@ -154,13 +154,13 @@ spec:
         volumeMounts:
         - mountPath: /home/jovyan/work
           name: docker-jupyter-work
-          readOnly: false                     
+          readOnly: false
         - mountPath: /home/jovyan/.jupyter
           name: docker-jupyter-config
           readOnly: false
-      volumes:              
+      volumes:
       - name: docker-jupyter-work
-        persistentVolumeClaim:   
+        persistentVolumeClaim:
           claimName: jupyter-claim-work
       - name: docker-jupyter-config
         persistentVolumeClaim:

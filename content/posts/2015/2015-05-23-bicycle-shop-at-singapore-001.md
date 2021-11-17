@@ -3,12 +3,11 @@ title: シンガポールの自転車屋さん – (1)
 date: 2015-05-23T15:04:05Z
 author: kazu634
 categories:
-  - Misc
+  - サイクリング
 tags:
   - bugis
   - chinatown
   - singapore
-  - cycling
 ---
 <a href="https://www.flickr.com/photos/yl_tan/5866571835" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.flickr.com/photos/yl_tan/5866571835', '');" title="Yet another bicycle by YL Tan, on Flickr"><img class=" aligncenter" src="https://c2.staticflickr.com/6/5227/5866571835_691e758cd3.jpg" alt="Yet another bicycle" width="500" height="331" /></a>
 

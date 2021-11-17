@@ -3,9 +3,9 @@ title: 大木屋・本店に行ってまたエアーズロック食べてきた
 date: 2014-03-02T15:04:05Z
 author: kazu634
 categories:
-  - Misc
+  - レストラン
 tags:
-  - nippori
+  - 日暮里
 ---
 <a href="http://blog.kazu634.com/2014/01/01/ohkiya_at_ichigaya_airs_rock_beef/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://blog.kazu634.com/2014/01/01/ohkiya_at_ichigaya_airs_rock_beef/', '前回市ヶ谷店に行ってエアーズロックを食べてきた');" title="大木屋のエアーズロック食べてきた！">前回市ヶ谷店に行ってエアーズロックを食べてきた</a>わけですが、今回は日暮里にある本店に行ってまいりました。
 

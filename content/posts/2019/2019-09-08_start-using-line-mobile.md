@@ -2,10 +2,9 @@
 title = "Line Mobile Thailand生活始めました"
 date = 2019-09-08T13:05:34+08:00
 description = "タイで働き始めてもうすぐ10ヶ月程度。よくよく考えてみると、Lineを使っていることが多いことに気づきました。そうであれば、タイでも展開をしているLine MobileのSIMを使った方が料金少なめで済むのではないかと考え申し込みました"
-categories = ["Misc"]
+categories = ["ガジェット"]
 author = "kazu634"
-
-tags = ["gadget"]
+tags = ["bangkok"]
 +++
 
 タイで働き始めてもうすぐ10ヶ月程度。よくよく考えてみると、Lineを使っていることが多いことに気づきました。そうであれば、タイでも展開をしているLine MobileのSIMを使った方が料金少なめで済むのではないかと考え、Line Mobileを申し込んでみました。

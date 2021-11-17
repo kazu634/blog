@@ -3,7 +3,7 @@ title: シンガポールのコンセントの使い方
 date: 2015-04-18T15:04:05Z
 author: kazu634
 categories:
-  - Misc
+  - 雑記
 tags:
   - dakota
   - singapore

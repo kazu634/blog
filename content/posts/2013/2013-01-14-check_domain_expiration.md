@@ -1,14 +1,9 @@
 ---
 title: ドメインの残り有効期限を取得するシェルスクリプト
 date: 2013-01-14T15:04:05Z
-has_been_twittered:
-  - yes
-tmac_last_id:
-  - 303816623784083456
 author: kazu634
 categories:
-  - Infra
-  - Labs
+  - インフラ
 tags:
   - DNS
   - Domain

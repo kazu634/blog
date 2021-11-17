@@ -3,7 +3,7 @@ title: 『the DevOps 逆転だ!究極の継続的デリバリー』を読む
 author: kazu634
 date: 2014-10-05T15:04:05Z
 categories:
-  - Quotes
+  - 引用
 tags:
   - book
 
@@ -13,7 +13,7 @@ tags:
 作中では『ゴール』で描かれている Theory of Constraint について度々言及されているのだけれど、製造業のものづくりの現場の改善活動の輪を IT に拡大していこうという活動として捉えられていました。この視点がこれまで自分にはありませんでした。Wikipedia によれば、Theory of Constraint とは
 
 > 制約条件の理論は、収入の割合がひとつ以上の制約プロセス、すなわちボトルネックにより制限されているという前提を基礎にしている。ボトルネックプロセスにおけるスループット (生産率) の増大によってのみ、全体的なスループットの増大が可能になる。効果的なTOCアプローチの実施において鍵となるステップは次のとおりである。
-> 
+>
 >   1. 制約を特定する (ボトルネックはそのプロセスの前の製品在庫により識別される)
 >   2. その制約を徹底活用する (その有用性と効率性を増やす)
 >   3. ほかの全プロセスをその制約プロセスに従わせる (ほかのプロセスはボトルネックに奉仕する)
@@ -28,29 +28,29 @@ tags:
 <div class="amazlet-image" style="float: left; margin: 0px 12px 1px 0px;">
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0057H2M70/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/B0057H2M70/simsnes-22/ref=nosim/', '');" target="_blank" name="amazletlink"><img style="border: none;" src="https://images-na.ssl-images-amazon.com/images/I/51hocASZ3bL._SL160_.jpg" alt="Kanban" /></a>
 </div>
-  
+
 <div class="amazlet-info" style="line-height: 120%; margin-bottom: 10px;">
 <div class="amazlet-name" style="margin-bottom: 10px; line-height: 120%;">
 <p>
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0057H2M70/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/B0057H2M70/simsnes-22/ref=nosim/', 'Kanban');" target="_blank" name="amazletlink">Kanban</a>
 </p>
-      
+
 <div class="amazlet-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%;">
         posted with <a href="http://www.amazlet.com/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.amazlet.com/', 'amazlet');" title="amazlet"  target="_blank">amazlet</a> at 14.10.05
 </div>
 </div>
-    
+
 <div class="amazlet-detail">
       Blue Hole Press Inc (2013-11-12)
 </div>
-    
+
 <div class="amazlet-sub-info" style="float: left;">
 <div class="amazlet-link" style="margin-top: 5px;">
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0057H2M70/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/B0057H2M70/simsnes-22/ref=nosim/', 'Amazon.co.jpで詳細を見る');" target="_blank" name="amazletlink">Amazon.co.jpで詳細を見る</a>
 </div>
 </div>
 </div>
-  
+
 <div class="amazlet-footer" style="clear: left;">
 </div>
 </div>
@@ -63,29 +63,29 @@ tags:
 <div class="amazlet-image" style="float: left; margin: 0px 12px 1px 0px;">
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00AZRBLHO/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/B00AZRBLHO/simsnes-22/ref=nosim/', '');" target="_blank" name="amazletlink"><img style="border: none;" src="https://images-na.ssl-images-amazon.com/images/I/51l49io0gcL._SL160_.jpg" alt="The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win" /></a>
 </div>
-  
+
 <div class="amazlet-info" style="line-height: 120%; margin-bottom: 10px;">
 <div class="amazlet-name" style="margin-bottom: 10px; line-height: 120%;">
 <p>
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00AZRBLHO/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/B00AZRBLHO/simsnes-22/ref=nosim/', 'The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win');" target="_blank" name="amazletlink">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a>
 </p>
-      
+
 <div class="amazlet-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%;">
         posted with <a href="http://www.amazlet.com/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.amazlet.com/', 'amazlet');" title="amazlet"  target="_blank">amazlet</a> at 14.10.05
 </div>
 </div>
-    
+
 <div class="amazlet-detail">
       IT Revolution Press (2013-01-10)
 </div>
-    
+
 <div class="amazlet-sub-info" style="float: left;">
 <div class="amazlet-link" style="margin-top: 5px;">
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00AZRBLHO/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/B00AZRBLHO/simsnes-22/ref=nosim/', 'Amazon.co.jpで詳細を見る');" target="_blank" name="amazletlink">Amazon.co.jpで詳細を見る</a>
 </div>
 </div>
 </div>
-  
+
 <div class="amazlet-footer" style="clear: left;">
 </div>
 </div>
@@ -94,29 +94,29 @@ tags:
 <div class="amazlet-image" style="float: left; margin: 0px 12px 1px 0px;">
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0081M7YEE/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/B0081M7YEE/simsnes-22/ref=nosim/', '');" target="_blank" name="amazletlink"><img style="border: none;" src="https://images-na.ssl-images-amazon.com/images/I/41xuCFb3r7L._SL160_.jpg" alt="ザ・ゴール" /></a>
 </div>
-  
+
 <div class="amazlet-info" style="line-height: 120%; margin-bottom: 10px;">
 <div class="amazlet-name" style="margin-bottom: 10px; line-height: 120%;">
 <p>
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0081M7YEE/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/B0081M7YEE/simsnes-22/ref=nosim/', 'ザ・ゴール');" target="_blank" name="amazletlink">ザ・ゴール</a>
 </p>
-      
+
 <div class="amazlet-powered-date" style="font-size: 80%; margin-top: 5px; line-height: 120%;">
         posted with <a href="http://www.amazlet.com/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.amazlet.com/', 'amazlet');" title="amazlet"  target="_blank">amazlet</a> at 14.10.05
 </div>
 </div>
-    
+
 <div class="amazlet-detail">
       ダイヤモンド社 (2012-09-14)<br /> 売り上げランキング: 3,015
 </div>
-    
+
 <div class="amazlet-sub-info" style="float: left;">
 <div class="amazlet-link" style="margin-top: 5px;">
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0081M7YEE/simsnes-22/ref=nosim/" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.amazon.co.jp/exec/obidos/ASIN/B0081M7YEE/simsnes-22/ref=nosim/', 'Amazon.co.jpで詳細を見る');" target="_blank" name="amazletlink">Amazon.co.jpで詳細を見る</a>
 </div>
 </div>
 </div>
-  
+
 <div class="amazlet-footer" style="clear: left;">
 </div>
 </div>

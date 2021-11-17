@@ -1,5 +1,5 @@
 +++
-categories = [ "Labs", "Infra" ]
+categories = ["インフラ"]
 author = "kazu634"
 description = "nginx + Let's Encryptを用いてhttp/2環境を構築してみました。"
 tags = ["nginx"]

@@ -2,9 +2,8 @@
 title = "緊急事態宣言が緩和しつつあるバンコクでのお食事をまとめます"
 date = 2020-08-01T10:10:34+08:00
 description = "緊急事態宣言が緩和されつつあるバンコクで、6/15〜に外でお食事した写真をまとめていますよ。"
-categories = ["Misc"]
+categories = ["レストラン"]
 author = "kazu634"
-
 tags = ["bangkok"]
 +++
 

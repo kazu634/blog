@@ -3,7 +3,7 @@ title = "ヤンゴンの飲屋街、19番ストリートへ"
 date = 2019-06-17T11:50:41+07:00
 description = "2019/05/18-20の期間、ヤンゴン旅行へ行ってきました。19番ストリートを楽しんできました"
 tags = ["yangon"]
-categories = ["Travel"]
+categories = ["旅行", "レストラン"]
 author = "kazu634"
 
 +++

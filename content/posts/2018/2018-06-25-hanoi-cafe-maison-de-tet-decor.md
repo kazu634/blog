@@ -3,9 +3,8 @@ title = "Hanoiにあるカフェ: Maison de Tet Decor"
 date = 2018-06-25T23:36:05+08:00
 description = "Hanoi市街地から少し離れた宝石のようなカフェに行ってきました。"
 tags = ["hanoi"]
-categories = ["Travel", "Misc"]
+categories = ["旅行", "レストラン"]
 author = "kazu634"
-
 +++
 
 Hanoiの週末に訪れたカフェ。とてもお洒落で雰囲気のいいお店。また訪れたい。

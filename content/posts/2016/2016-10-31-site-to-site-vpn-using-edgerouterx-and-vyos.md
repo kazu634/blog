@@ -1,12 +1,10 @@
 +++
 author = "kazu634"
 description = "EdgeRouter XとVyOS on AWSでOpenVPNを用いた拠点間VPNをはりました"
-categories = ["Labs", "Network"]
+categories = ["ネットワーク", "インフラ"]
 tags = ["vyOS","edgerouter"]
 date = "2016-10-31T21:07:13+08:00"
-draft = false
 title = "EdgeRouter XとVyOS on AWSで拠点間VPNを構築する"
-
 +++
 
 [EdgeRouter X がすごい \| yabe\.jp](http://yabe.jp/gadgets/edgerouter-x/)に触発されて、EdgeRouter Xを購入しました。手元のハードとしてきちんとしたルーターがあるっていいことだと思います。色々と実験できるので。

@@ -3,9 +3,9 @@ title: m+のtrouser’s clip買いました
 date: 2014-06-07T15:04:05Z
 author: kazu634
 categories:
-  - Misc
+  - 雑記
 tags:
-  - kuramae
+  - 蔵前
 ---
 <a href="http://m-piu.com/catalog/trousers-clip/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://m-piu.com/catalog/trousers-clip/', 'm+');">m+</a>と<a href="http://www.tokyobike.com/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.tokyobike.com/', 'Tokyo Bike');" title="Tokyo Bike"  target="_blank">Tokyo Bike</a>がコラボして作成した Trouser&#8217;s Clip を購入しました。これです:
 
