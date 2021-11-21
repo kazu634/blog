@@ -4,6 +4,8 @@ author: kazu634
 date: 2009-10-30T15:04:05Z
 categories:
   - 引用
+tags:
+  - book
 ---
 <div class="section">
 <blockquote title="Speaker’s Tip: Don’t tell the audience you aren’t prepared by Jason Fried of Basecamp" cite="http://37signals.com/svn/posts/1989-speakers-tip-dont-tell-the-audience-you-arent-prepared">

@@ -4,6 +4,8 @@ author: kazu634
 date: 2010-03-25T15:04:05Z
 categories:
   - 引用
+tags:
+  - book
 ---
 <div class="section">
 <blockquote title="Things I love" cite="http://kazu634.tumblr.com/post/468349920">

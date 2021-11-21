@@ -4,6 +4,8 @@ author: kazu634
 date: 2008-09-28T15:04:05Z
 categories:
   - 引用
+tags:
+  - book
 ---
 <div class="section">
 <blockquote title="How to Use Pressure to Get More Done Without Freaking Out - Stepcase Lifehack" cite="http://www.lifehack.org/articles/productivity/how-to-use-pressure-to-get-more-done-without-freaking-out.html">
