@@ -4,6 +4,8 @@ author: kazu634
 date: 2008-12-13T15:04:05Z
 categories:
   - 引用
+tags:
+  - book
 ---
 <div class="section">
 <blockquote title="Wayne Dyer%27s Top 8 Tips for Building a Better Social Life" cite="http://www.positivityblog.com/index.php/2008/12/12/wayne-dyers-top-8-tips-for-building-a-better-social-life/">

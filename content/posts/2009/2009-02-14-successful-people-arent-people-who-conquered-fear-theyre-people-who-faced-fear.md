@@ -4,6 +4,8 @@ author: kazu634
 date: 2009-02-14T15:04:05Z
 categories:
   - 引用
+tags:
+  - book
 ---
 <div class="section">
 <blockquote title="Change The Way You See Fear And Change Your Life - Stepcase Lifehack" cite="http://www.lifehack.org/articles/lifestyle/change-the-way-you-see-fear-and-change-your-life.html">

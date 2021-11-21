@@ -4,6 +4,8 @@ author: kazu634
 date: 2009-12-05T15:04:05Z
 categories:
   - 引用
+tags:
+  - book
 ---
 <div class="section">
 <blockquote title="Inefficiencies are what make you special by Matt Linderman of Basecamp" cite="http://37signals.com/svn/posts/2038-inefficiencies-are-what-make-you-special">

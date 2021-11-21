@@ -3,6 +3,7 @@ title = "tcardgenを利用したOGP画像の生成"
 date = 2021-03-07T13:47:22+09:00
 description = "tcardgenを利用して、OGP画像を生成してみました。"
 categories = ["Blog"]
+tags = ["hugo"]
 author = "kazu634"
 +++
 

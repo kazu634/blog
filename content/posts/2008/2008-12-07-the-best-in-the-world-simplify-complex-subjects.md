@@ -4,6 +4,8 @@ author: kazu634
 date: 2008-12-07T15:04:05Z
 categories:
   - 引用
+tags:
+  - book
 ---
 <div class="section">
 <blockquote title="流鏑馬を５日でマスターできるか？ エキストリーム・ライフハックの簡単な３つのルール | Lifehacking.jp" cite="http://lifehacking.jp/2008/12/three-rules-of-extreme-lifehacking/">

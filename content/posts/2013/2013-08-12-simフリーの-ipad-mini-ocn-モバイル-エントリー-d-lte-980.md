@@ -4,6 +4,8 @@ date: 2013-08-12T15:04:05Z
 author: kazu634
 categories:
   - ガジェット
+tags:
+  - 谷中
 ---
 <div class="entry-content">
 <p>

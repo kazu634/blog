@@ -4,6 +4,8 @@ author: kazu634
 date: 2009-11-12T15:04:05Z
 categories:
   - 引用
+tags:
+  - book
 ---
 <div class="section">
 <blockquote title="Quote: If you set your goals ridiculously high and… by Jamie of Basecamp" cite="http://37signals.com/svn/posts/2011-if-you-set-your-goals-ridiculously-high-and">

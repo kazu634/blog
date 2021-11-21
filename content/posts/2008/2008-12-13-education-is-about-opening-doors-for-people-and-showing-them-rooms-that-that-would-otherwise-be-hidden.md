@@ -4,6 +4,8 @@ author: kazu634
 date: 2008-12-13T15:04:05Z
 categories:
   - 引用
+tags:
+  - book
 ---
 <div class="section">
 <blockquote title="We Need to Challenge our Children - Stepcase Lifehack" cite="http://www.lifehack.org/articles/communication/we-need-to-challenge-our-children.html">

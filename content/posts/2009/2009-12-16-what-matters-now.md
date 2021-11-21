@@ -4,6 +4,8 @@ author: kazu634
 date: 2009-12-15T15:04:05Z
 categories:
   - 引用
+tags:
+  - book
 ---
 <div class="section">
 <blockquote title="”What Matters Now” - Seth Godin’s new free eBook by Jason Fried of Basecamp" cite="http://37signals.com/svn/posts/2058-what-matters-now-seth-godins-new-free-ebook">
