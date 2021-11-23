@@ -10,7 +10,7 @@ author = "kazu634"
 [Vault as an OIDC Identity Provider \| Vault \- HashiCorp Learn](https://learn.hashicorp.com/tutorials/vault/oidc-identity-provider)を参考にして、`Vault`をOIDC Providerとして利用するようにセットアップしてみました。
 
 ## 前提
-`Vault`は`root`トークンで使う前提だよ。環境はこちら:
+`Vault`は`root`トークンで使う前提だよ。環境はこちら。`Vault`は事前にセットアップ済み、`Boundary`は新規にインストールする想定です。ただし、`Boundary`のインストール方法などは説明しません([ここ](https://learn.hashicorp.com/tutorials/boundary/getting-started-install)を見てください)。また、`Boundary`サーバには`Docker`を事前に導入しておかないと、手順通りにはいきません。
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/51699619746/in/dateposted-public/" title="vault-oidc-provider.drawio"><img src="https://live.staticflickr.com/65535/51699619746_a2f0984c36_z.jpg" width="640" height="287" alt="vault-oidc-provider.drawio"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -451,7 +451,6 @@ kazu634@boundary% sudo boundary dev -host-address=192.168.10.175 -api-listen-add
 元のターミナルに戻って、`Boundary`の設定を行います。`192.168.10.175`にバインドしているため、`BOUNDARY_ADDR`環境変数を指定します:
 
 ```sh
-
 kazu634@boundary% export BOUNDARY_ADDR=http://192.168.10.175:9200
 ```
 
@@ -673,4 +672,5 @@ Scope information:
 
 ## 参考リンク
 - [Vault as an OIDC Identity Provider \| Vault \- HashiCorp Learn](https://learn.hashicorp.com/tutorials/vault/oidc-identity-provider)
+- [Install Boundary \| Boundary \- HashiCorp Learn](https://learn.hashicorp.com/tutorials/boundary/getting-started-install)
 
