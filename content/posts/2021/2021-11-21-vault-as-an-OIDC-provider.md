@@ -666,7 +666,7 @@ Scope information:
 
 `Vault OIDC Provider`を選択して、`Authenticate`ボタンをクリックします。すると新しいタブが開いて、`Vault`のログイン画面が表示されます:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/51700482645/in/dateposted-public/" title="Authenticate _ B"><img src="https://live.staticflickr.com/65535/51700482645_725c23457b_z.jpg" width="640" height="430" alt="Authenticate _ B"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/51698799322/in/dateposted-public/" title="Vault"><img src="https://live.staticflickr.com/65535/51698799322_4e1550c1fc_z.jpg" width="640" height="401" alt="Vault"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 `Username`を選択し、`end-user`と`password`を入力し、`Sign in`ボタンをクリックします。すると、`Boundary`にログインできるはずです。
 
