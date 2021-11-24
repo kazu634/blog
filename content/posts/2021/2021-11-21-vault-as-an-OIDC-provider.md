@@ -272,7 +272,7 @@ kazu634@bastion2004% CLIENT_ID=$(vault read -field=client_id identity/oidc/clien
 ## OIDCプロバイダーの作成
 VaultのOIDCプロバイダーは一つ以上のVault OIDCスコープをサポートします。これらのスコープはテンプレートで指定されたメタデータクレームを定義します。メタデータクレームは、ユーザーとOIDCサービスに関する情報を含んだキー・バリュー・ペアーです。
 
-### OIDCスコープの作成
+### ユーザースコープの作成
 `USER_SCOPE_TEMPLATE`という変数を作成し、ユーザー・スコープ・テンプレートを格納します:
 
 ```sh
@@ -298,7 +298,7 @@ kazu634@bastion2004% vault write identity/oidc/scope/user \
 Success! Data written to: identity/oidc/scope/user
 ```
 
-### OIDCスコープの作成
+### グループスコープの作成
 `GROUPS_SCOPE_TEMPLATE`という変数にグループスコープテンプレートを格納します:
 
 ```sh
