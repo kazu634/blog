@@ -18,7 +18,7 @@ author = "kazu634"
 ### AWSのIAMユーザー作成
 今回はAWSからコードを生成するので、AWSから情報を取得するIAMユーザーを作成します。ポリシーは`ReadOnlyAccess`を割り当ててみました:
 
-[image:A23972B4-D553-49EF-9990-D08463E1F4ED-877-00000015FDFCFCEF/IAM Management C.png]
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/51708608624/in/dateposted-public/" title="IAM Management C"><img src="https://live.staticflickr.com/65535/51708608624_6881a50569_z.jpg" width="640" height="491" alt="IAM Management C"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### AWS認証情報を設定ファイルに格納
 `~/.aws/credentials`に先ほど作成したIAMユーザーのアクセスキー・シークレットキーの情報、あとはリージョン情報を格納します:
