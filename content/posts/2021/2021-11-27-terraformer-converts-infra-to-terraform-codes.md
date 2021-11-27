@@ -261,3 +261,9 @@ resource "aws_route53_record" "tfer--ZI0FHD0611WVA_test-002E-kazu634-002E-com-00
 
 ## まとめ
 `terraform import`コマンドを使うと、AWSリソースのIDをいちいち調べて指定して、一つずつインポートするという苦行をしていたのですが、[terraformer](https://github.com/GoogleCloudPlatform/terraformer)を利用するとコマンド一発で`terraform`のコードに落とし込んでもらえるので、だいぶ楽になるということがわかりました。はまるとすると、IAMとかポリシーの部分ですかね。
+
+## 参考
+- [Terraformerを使ってTerraformに既存インフラのリソースをインポートする \| 株式会社ビヨンド](https://beyondjapan.com/blog/2020/05/terraformer-import-existing-infrastructure/?utm_source=pocket_mylist)
+- [terraformerをmaster accountからassume roleでアクセス＆MFA必須なAWS環境で使う \- Qiita](https://qiita.com/nntsugu/items/c34fc5183e0b5ffdf88e?utm_source=pocket_mylist)
+- [設定ファイルと認証情報ファイルの設定](https://docs.aws.amazon.com/ja_jp/cli/latest/userguide/cli-configure-files.html)
+- [ubuntuでtreeコマンドを使う方法 – magazine off](https://off.tokyo/blog/ubuntu-tree/)
