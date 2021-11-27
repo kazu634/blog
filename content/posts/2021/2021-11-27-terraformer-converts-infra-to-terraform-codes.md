@@ -123,7 +123,7 @@ drwxr-xr-x  3 kazu634 kazu634 4.0K Nov 27 00:54 .terraform
 kazu634@bastion2004% pwd
 /home/kazu634/works/mnt/others/terraformer/generated
 
-kaws
+aws
     └── route53
         ├── outputs.tf
         ├── provider.tf
