@@ -175,7 +175,7 @@ theme = "LoveIt"
     # LoveIt NEW | 0.2.0 Mapbox GL JS config
     [params.page.mapbox]
       # access token of Mapbox GL JS
-      accessToken = "sk.eyJ1Ijoia2F6dTYzNCIsImEiOiJja3drcDN6d3YwNG9nMm9sbndxb2gyeWFwIn0.MHdT9vdHgxBjL69plzlvPQ"
+      accessToken = "pk.eyJ1Ijoia2F6dTYzNCIsImEiOiJja3drcGt4MWUxaHp2MzFwYm9iMTE5MXNxIn0.wqNoFnA8BDNNRhxFuvB_xw"
       # style for the light theme
       lightStyle = "mapbox://styles/mapbox/light-v9"
       # style for the dark theme
