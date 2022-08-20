@@ -12,7 +12,7 @@ steps:
   - name: generate-ogp-images
     image: reg.kazu634.com/kazu634/tcardgen:v0.3
     commands:
-      - find /var/tmp/ -type f -name *.ttf | xargs -t -I% -n 1 cp -p % assets/font/
+      - find /root -type f -name *.ttf | xargs -t -I% -n 1 cp -p % assets/font/
       - find content/ -type f -name '*.md' | grep -v '_index' | xargs -t -n 1 /usr/local/bin/tcardgen -f assets/font/ -o static/ogp/ -c assets/tcardgen.yaml > /dev/null
       - find static/ogp/ -type f -name '*.png' | xargs -n 1 -I% basename % .png | xargs -I% -n 1 img2webp -lossy -q 50 static/ogp/%.png -o static/ogp/%.webp > /dev/null
       - find static/ogp/ -type f -name '*.png' | xargs --no-run-if-empty rm
