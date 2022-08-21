@@ -1,6 +1,8 @@
 ---
 title: If you set your goals ridiculously high and it’s a failure,
 author: kazu634
+images:
+  - "ogp/2009-11-12-if-you-set-your-goals-ridiculously-high-and-its-a-failure.webp"
 date: 2009-11-12T15:04:05Z
 categories:
   - 引用

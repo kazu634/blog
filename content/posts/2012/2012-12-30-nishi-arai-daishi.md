@@ -2,6 +2,8 @@
 title: 西新井大師を訪ねて
 date: 2012-12-30T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2012-12-30-nishi-arai-daishi.webp"
 categories:
   - 雑記
 tags:

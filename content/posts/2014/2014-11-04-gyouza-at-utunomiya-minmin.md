@@ -2,6 +2,8 @@
 title: みんみん@宇都宮で餃子を食べてきた
 date: 2014-11-04T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2014-11-04-gyouza-at-utunomiya-minmin.webp"
 categories:
   - 旅行
   - レストラン

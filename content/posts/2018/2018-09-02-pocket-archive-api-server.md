@@ -2,6 +2,7 @@
 tags = ["Golang"]
 categories = ["プログラミング"]
 author = "kazu634"
+images = ["ogp/2018-09-02-pocket-archive-api-server.webp"]
 date = "2018-09-02T18:40:47+09:00"
 title = "APIサーバを作ってみた: Pocketの記事をアーカイブするよ"
 description = "GolangでPocketの記事をアーカイブするAPIサーバを作ってみました。"

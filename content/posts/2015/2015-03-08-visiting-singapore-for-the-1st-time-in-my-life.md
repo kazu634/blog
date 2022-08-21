@@ -2,6 +2,8 @@
 title: シンガポールへの出張＋観光
 date: 2015-03-08T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2015-03-08-visiting-singapore-for-the-1st-time-in-my-life.webp"
 categories:
   - 旅行
 tags:

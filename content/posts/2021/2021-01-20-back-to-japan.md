@@ -4,6 +4,7 @@ date = 2021-01-20T10:10:34+09:00
 description = "6年ぶりに日本に帰国して驚いたことや試してみたことをまとめてみました"
 categories = ["雑記"]
 author = "kazu634"
+images = ["ogp/2021-01-20-back-to-japan.webp"]
 tags = ["日本"]
 +++
 

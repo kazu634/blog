@@ -5,6 +5,7 @@ description = "ネパールの首都カトマンズを訪ねてきました。�
 tags = ["katmandu", "nepal"]
 categories = ["旅行"]
 author = "kazu634"
+images = ["ogp/2020-01-29-nepal-travel.webp"]
 
 +++
 

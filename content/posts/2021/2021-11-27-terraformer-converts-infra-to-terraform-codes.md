@@ -5,6 +5,7 @@ description = "必要に迫られて[terraformer](https://github.com/GoogleCloud
 tags = ["terraform"]
 categories = ["インフラ", "HashiCorp"]
 author = "kazu634"
+images = ["ogp/2021-11-27-terraformer-converts-infra-to-terraform-codes.webp"]
 +++
 
 必要に迫られて[terraformer](https://github.com/GoogleCloudPlatform/terraformer)を使ってみました。`terraform import`をお手軽簡単にできるものみたいです。

@@ -5,6 +5,7 @@ description = "数学ガール ポアンカレ予想で気になった部分を�
 tags = ["book"]
 categories = ["引用"]
 author = "kazu634"
+images = ["ogp/2018-05-20-mathgirl-poincare-conjecture-quote.webp"]
 
 +++
 

@@ -5,6 +5,7 @@ description = "データサイエンティスト入門講座を受講するた�
 tags = ["python", "kubernetes"]
 categories = ["Visualization"]
 author = "kazu634"
+images = ["ogp/2020-05-10-jupyter-on-kubernetes.webp"]
 +++
 
 Udemyがバーゲンをしていることに気づいたため、日本のゴールデンウィーク期間中は「[【ゼロから始めるデータ分析】 ビジネスケースで学ぶPythonデータサイエンス入門](https://www.udemy.com/course/optworks_1/)」でお勉強をしています。まだ終わっていません。。

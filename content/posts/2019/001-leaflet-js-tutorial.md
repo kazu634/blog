@@ -7,6 +7,7 @@ leaflet=true
 categories = ["Map"]
 tags = ["leaflet.js"]
 author = "kazu634"
+images = ["ogp/001-leaflet-js-tutorial.webp"]
 +++
 
 [Leaflet.js](https://leafletjs.com/)でMapboxのタイルを用いて地図を表示してみます:

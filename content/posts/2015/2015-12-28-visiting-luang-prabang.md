@@ -2,6 +2,8 @@
 title: Luang Prabang滞在
 date: 2015-12-28T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2015-12-28-visiting-luang-prabang.webp"
 categories:
   - 旅行
 tags:

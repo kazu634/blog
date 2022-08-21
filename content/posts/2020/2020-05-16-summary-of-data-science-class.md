@@ -5,6 +5,7 @@ description = "データサイエンティスト入門講座を受講してい�
 tags = ["python"]
 categories = ["Visualization"]
 author = "kazu634"
+images = ["ogp/2020-05-16-summary-of-data-science-class.webp"]
 +++
 
 「[【ゼロから始めるデータ分析】 ビジネスケースで学ぶPythonデータサイエンス入門](https://www.udemy.com/course/optworks_1/)」で統計について学んだことをここにまとめていきます。

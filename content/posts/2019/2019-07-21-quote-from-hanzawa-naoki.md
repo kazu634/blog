@@ -5,6 +5,7 @@ description = "半沢直樹を読みました。原作もテレビと同じで�
 tags = ["book"]
 categories = ["引用"]
 author = "kazu634"
+images = ["ogp/2019-07-21-quote-from-hanzawa-naoki.webp"]
 image=""
 +++
 

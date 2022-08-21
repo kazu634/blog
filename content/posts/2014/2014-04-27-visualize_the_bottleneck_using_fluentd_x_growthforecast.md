@@ -2,6 +2,8 @@
 title: Fluentd X GrowthForecastの組み合わせで可視化してみた
 date: 2014-04-27T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2014-04-27-visualize_the_bottleneck_using_fluentd_x_growthforecast.webp"
 categories:
   - インフラ
   - 監視

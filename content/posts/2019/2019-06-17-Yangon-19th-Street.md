@@ -5,6 +5,7 @@ description = "2019/05/18-20の期間、ヤンゴン旅行へ行ってきまし�
 tags = ["yangon"]
 categories = ["旅行", "レストラン"]
 author = "kazu634"
+images = ["ogp/2019-06-17-Yangon-19th-Street.webp"]
 
 +++
 

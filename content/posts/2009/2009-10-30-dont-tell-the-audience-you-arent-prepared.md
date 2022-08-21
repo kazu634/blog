@@ -1,6 +1,8 @@
 ---
 title: Don’t tell the audience you aren’t prepared.
 author: kazu634
+images:
+  - "ogp/2009-10-30-dont-tell-the-audience-you-arent-prepared.webp"
 date: 2009-10-30T15:04:05Z
 categories:
   - 引用

@@ -5,6 +5,7 @@ description = "兵站(= Military Logistics)にスポットを当てたSF小説�
 tags = ["book"]
 categories = ["引用"]
 author = "kazu634"
+images = ["ogp/2019-07-30-Seikei-Izumo-no-Logistics-4.webp"]
 +++
 
 兵站(= Military Logistics)にスポットを当てたSF小説ということで読んでいる『星系出雲の兵站』シリーズですが、4巻目まで到達しました。人類と似た生命体と遭遇した際に、人類はどのように交戦すべきかといったことが今回は語られていると思います。

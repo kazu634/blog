@@ -5,6 +5,7 @@ description = "Golangの標準ライブラリnet/httpでREST APIをたたくと�
 tags = ["Golang"]
 categories = ["プログラミング"]
 author = "kazu634"
+images = ["ogp/2020-03-07-how-to-use-net-http.webp"]
 +++
 
 Golang標準ライブラリの`net/http`でREST APIをたたく時に必要となりそうなことをまとめます。

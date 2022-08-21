@@ -1,6 +1,7 @@
 +++
 categories = ["旅行"]
 author = "kazu634"
+images = ["ogp/2016-02-06-bus-trip-from-singapore-to-malacca.webp"]
 description = "シンガポールからバスでマラッカへ向かう時の注意事項"
 tags = ["singapore", "malacca"]
 date = "2016-02-06T22:37:22+08:00"

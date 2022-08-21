@@ -1,6 +1,8 @@
 ---
 title: 銀河英雄伝説2で気になった部分
 author: kazu634
+images:
+  - "ogp/2015-01-04-favorite-quote-from-galaxy-heroes-02.webp"
 date: 2015-01-04T15:04:05Z
 categories:
   - 引用

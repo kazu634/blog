@@ -2,6 +2,8 @@
 title: B-SIDE LABELのステッカー
 date: 2014-03-23T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2014-03-23-b-side-label-sticker.webp"
 categories:
   - ガジェット
 tags:

@@ -5,6 +5,7 @@ description = "VaultをIntegrated Storage (raft)でセットアップしてみ�
 tags = ["Vault", "Linux"]
 categories = ["インフラ", "HashiCorp"]
 author = "kazu634"
+images = ["ogp/2021-06-28-vault-with-raft-install-and-setup.webp"]
 +++
 
 Vaultをインストール・セットアップしてみたので、そのときのメモになります。

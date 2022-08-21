@@ -1,5 +1,6 @@
 +++
 author = "kazu634"
+images = ["ogp/2016-02-22-re-create-japan-rugby.webp"]
 description = "日本ラグビーの今後の指導方針についての提言。Numberからの引用です"
 categories = ["引用"]
 tags = ["book"]

@@ -5,6 +5,7 @@ description = "nexmo APIの使い方のメモ書きです"
 tags = ["Golang"]
 categories = ["プログラミング"]
 author = "kazu634"
+images = ["ogp/2020-02-09-how-to-use-nexmo-api.webp"]
 +++
 
 SMS送信などができるWebサービス、nexmo APIの使い方をまとめます。基本は参考URLからのコピペです。。

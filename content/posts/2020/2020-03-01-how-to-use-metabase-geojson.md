@@ -5,6 +5,7 @@ description = "オープンソースのお手軽BIツール・Metabaseで自分�
 categories = ["Visualization"]
 tags = ["metabase"]
 author = "kazu634"
+images = ["ogp/2020-03-01-how-to-use-metabase-geojson.webp"]
 +++
 
 オープンソースのBIツール・[Metabase](https://github.com/metabase/metabase)をアップグレードしたところ、Geojsonを用いて、自分で用意した地図上にデータの可視化ができるようになっていました。

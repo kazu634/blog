@@ -4,6 +4,7 @@ date = 2021-05-30T15:10:34+09:00
 description = "アナウンサーの人、カメラ目線で原稿読んでいて、尊敬します。"
 categories = ["雑記", "ガジェット"]
 author = "kazu634"
+images = ["ogp/2021-05-30-record-presentation-using-powerpoint.webp"]
 tags = ["プレゼン"]
 +++
 

@@ -1,6 +1,8 @@
 ---
 title: 日本人が残業をするのは、生産的になろうとするためではない
 author: kazu634
+images:
+  - "ogp/2014-11-15-japanese-salarymen-work-overtime-for-appearances-sake.webp"
 date: 2014-11-15T15:04:05Z
 categories:
   - 引用

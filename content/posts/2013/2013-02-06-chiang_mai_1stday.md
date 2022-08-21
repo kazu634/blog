@@ -2,6 +2,8 @@
 title: チェンマイ旅行1日目
 date: 2013-02-06T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2013-02-06-chiang_mai_1stday.webp"
 categories:
   - 旅行
 tags:

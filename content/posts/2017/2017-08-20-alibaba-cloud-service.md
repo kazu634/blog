@@ -4,6 +4,7 @@ date = 2017-08-20T22:24:03+08:00
 description = "Alibabaのクラウドサービスについて考えたことでございます。"
 categories = ["雑記"]
 author = "kazu634"
+images = ["ogp/2017-08-20-alibaba-cloud-service.webp"]
 tags = ["クラウド"]
 +++
 

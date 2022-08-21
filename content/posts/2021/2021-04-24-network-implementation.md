@@ -1,5 +1,6 @@
 +++
 author = "kazu634"
+images = ["ogp/2021-04-24-network-implementation.webp"]
 description = "インターネット開通したので、ネットワーク環境を構築しました。そのメモです"
 categories = ["ネットワーク"]
 tags = ["vyOS","edgerouter"]

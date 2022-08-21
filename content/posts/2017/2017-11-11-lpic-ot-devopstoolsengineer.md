@@ -5,6 +5,7 @@ description = "LPICについて調べていたら、英語でしか受験でき�
 tags = ["prometheus"]
 categories = ["インフラ", "Linux", "監視"]
 author = "kazu634"
+images = ["ogp/2017-11-11-lpic-ot-devopstoolsengineer.webp"]
 +++
 
 シンガポールでもLPICを受験できると知り、LPICについて色々と調べていると、英語でしか受験できない[LPIC\-OT 701: DevOps Tools Engineer](http://www.lpi.org/our-certifications/lpic-ot-devops-overview)という資格を見つけました。

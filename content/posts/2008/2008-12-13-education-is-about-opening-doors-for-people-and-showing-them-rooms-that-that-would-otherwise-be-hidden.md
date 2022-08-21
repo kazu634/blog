@@ -1,6 +1,8 @@
 ---
 title: Education is about opening doors for people and showing them rooms that that would otherwise be hidden.
 author: kazu634
+images:
+  - "ogp/2008-12-13-education-is-about-opening-doors-for-people-and-showing-them-rooms-that-that-would-otherwise-be-hidden.webp"
 date: 2008-12-13T15:04:05Z
 categories:
   - 引用

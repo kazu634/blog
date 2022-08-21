@@ -1,6 +1,8 @@
 ---
 title: 気になった文章 from tumblr
 author: kazu634
+images:
+  - "ogp/2010-03-25-気になった文章-from-tumblr-2.webp"
 date: 2010-03-25T15:04:05Z
 categories:
   - 引用

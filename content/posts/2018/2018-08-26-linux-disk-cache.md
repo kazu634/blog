@@ -2,6 +2,7 @@
 categories = ["Linux", "インフラ"]
 tags = ["ubuntu", "cache"]
 author = "kazu634"
+images = ["ogp/2018-08-26-linux-disk-cache.webp"]
 date = "2018-08-26T23:06:30+08:00"
 title = "Linuxサーバでディスクキャッシュを説明する"
 description = ""

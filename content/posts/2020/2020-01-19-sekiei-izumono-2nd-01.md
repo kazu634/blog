@@ -5,6 +5,7 @@ description = "兵站(= Military Logistics)にスポットを当てたSF小説�
 tags = ["book"]
 categories = ["引用"]
 author = "kazu634"
+images = ["ogp/2020-01-19-sekiei-izumono-2nd-01.webp"]
 +++
 
 兵站(= Military Logistics)にスポットを当てたSF小説ということで読んでいる『星系出雲の兵站』シリーズですが、新シリーズに突入しました。これからも読んでいきます。

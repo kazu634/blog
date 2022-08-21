@@ -5,6 +5,7 @@ description = "MySQLのリモート接続用ユーザーの追加・削除方法
 tags = ["MySQL", "MariaDB"]
 categories = ["インフラ"]
 author = "kazu634"
+images = ["ogp/2022-08-20-mysql-remote-access-user-settings.webp"]
 +++
 
 `MySQL`や`MariaDB`のリモート接続用ユーザーの設定をまとめています。

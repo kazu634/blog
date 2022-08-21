@@ -1,6 +1,8 @@
 ---
 title: The real hero is always a hero by mistake…
 author: kazu634
+images:
+  - "ogp/2014-11-03-the-real-hero-is-always-a-hero-by-mistake.webp"
 date: 2014-11-02T15:04:05Z
 categories:
   - 引用

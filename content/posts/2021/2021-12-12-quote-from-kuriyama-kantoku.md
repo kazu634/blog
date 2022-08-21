@@ -5,6 +5,7 @@ description = "Numberの記事を読んでいて、栗山監督の退任にあ�
 tags = ["book"]
 categories = ["引用"]
 author = "kazu634"
+images = ["ogp/2021-12-12-quote-from-kuriyama-kantoku.webp"]
 +++
 
 <a href="https://www.amazon.co.jp/Number-%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC-1041%E5%8F%B7-%E9%9B%91%E8%AA%8C-Number%E7%B7%A8%E9%9B%86%E9%83%A8-ebook/dp/B09MRLQ42S?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=number&qid=1639309115&sr=8-1&linkCode=li2&tag=simsnes-22&linkId=b7004a98f885896ae98d0a0c0d61e680&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow">Number(ナンバー)1041号[雑誌]</a>で気になった部分を引用します。

@@ -5,6 +5,7 @@ description = "Chiang Maiにある北部タイ料理を食べられるレスト�
 tags = ["chiang mai"]
 categories = ["レストラン"]
 author = "kazu634"
+images = ["ogp/2019-04-21-huen-muai-jai-in-chiang-mai.webp"]
 +++
 
 Chiang Maiにあるタイ北部の料理を出してくれる有名店。このお店は2015年末にも来ていて、友達と一緒にご飯食べたのでした。

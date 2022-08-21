@@ -1,6 +1,8 @@
 ---
 title: Working smart involves identifying the things you need to do …
 author: kazu634
+images:
+  - "ogp/2008-09-28-working-smart-involves-identifying-the-things-you-need-to-do.webp"
 date: 2008-09-28T15:04:05Z
 categories:
   - 引用

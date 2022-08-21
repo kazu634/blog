@@ -1,5 +1,6 @@
 +++
 author = "kazu634"
+images = ["ogp/2016-02-01-quote-from-mathgirls.webp"]
 description = "『数学ガール-ゲーテルの不完全性定理』を読んで気になった部分をまとめました。"
 categories = ["引用"]
 tags = ["book"]

@@ -5,6 +5,7 @@ description = "Grafana Lokiを試しに使ってみたのでレポートして�
 tags = ["Loki", "Grafana"]
 categories = ["インフラ", "Linux"]
 author = "kazu634"
+images = ["ogp/2020-08-23-grafana-loki.webp"]
 image=""
 +++
 

@@ -4,6 +4,7 @@ date = 2020-06-27T15:04:05Z
 description = "お気に入りのTweetをまとめました。"
 categories = ["引用"]
 author = "kazu634"
+images = ["ogp/2020-06-27-favorite-tweets.webp"]
 tags = ["book"]
 +++
 

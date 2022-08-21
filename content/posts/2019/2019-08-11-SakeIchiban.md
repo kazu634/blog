@@ -5,6 +5,7 @@ description = "7月のタイの連休にこっそり行ってきました。隣�
 tags = ["博多"]
 categories = ["レストラン", "旅行"]
 author = "kazu634"
+images = ["ogp/2019-08-11-SakeIchiban.webp"]
 
 +++
 

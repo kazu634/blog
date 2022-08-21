@@ -2,6 +2,8 @@
 title: しまなみ海道を自転車で駆け抜けてきた
 date: 2014-08-17T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2014-08-17-riding-bicycle-through-shimanami-kaido.webp"
 categories:
   - サイクリング
 tags:

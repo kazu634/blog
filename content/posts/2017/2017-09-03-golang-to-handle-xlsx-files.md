@@ -5,6 +5,7 @@ description = "GolangでどうすればExcelファイルを読み込めるのか
 tags = ["Golang"]
 categories = ["プログラミング"]
 author = "kazu634"
+images = ["ogp/2017-09-03-golang-to-handle-xlsx-files.webp"]
 +++
 
 `github.com/tealeg/xlsx`を用いればいいみたいということがわかりました。

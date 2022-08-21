@@ -1,5 +1,6 @@
 +++
 author = "kazu634"
+images = ["ogp/2016-07-10-how-to-use-corosync-pacemaker-003.webp"]
 description = "Pacemaker + Corosyncを用いてクラスタ環境を構築してみました。RHEL 6.4で検証しました。今回はPacemakeとCorosyncを利用できるようにします"
 categories = ["インフラ", "Linux"]
 tags = ["clustering", "pacemaker", "corosync"]

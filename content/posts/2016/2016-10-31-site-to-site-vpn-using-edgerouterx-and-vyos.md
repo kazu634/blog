@@ -1,5 +1,6 @@
 +++
 author = "kazu634"
+images = ["ogp/2016-10-31-site-to-site-vpn-using-edgerouterx-and-vyos.webp"]
 description = "EdgeRouter XとVyOS on AWSでOpenVPNを用いた拠点間VPNをはりました"
 categories = ["ネットワーク", "インフラ"]
 tags = ["vyOS","edgerouter"]

@@ -2,6 +2,8 @@
 title: Blue Bottle Coffeeに行ってきました
 date: 2015-02-11T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2015-02-11-visiting-blue-bottle-coffee-kiyosumi-shirakawa.webp"
 categories:
   - 雑記
 tags:

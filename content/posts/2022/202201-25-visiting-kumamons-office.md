@@ -5,6 +5,7 @@ description = "くまモンは熊本県の営業部長をされています。�
 tags = ["熊本"]
 categories = ["旅行"]
 author = "kazu634"
+images = ["ogp/202201-25-visiting-kumamons-office.webp"]
 +++
 
 くまモンは熊本県の営業部長をされています。年末の忙しい時期ではありましたが、営業部長のオフィスも併設されているくまモンスクエアに営業部長を訪ねてきました。

@@ -3,6 +3,7 @@ description = "お仕事で必要に迫られたのでAWS EC2の利用状況を�
 tags = ["AWS"]
 categories = ["インフラ"]
 author = "kazu634"
+images = ["ogp/2016-11-06-how-to-get-aws-information.webp"]
 date = "2016-11-06T23:38:21+08:00"
 title = "aws-cliを用いてEC2インスタンスの情報を取得する"
 +++

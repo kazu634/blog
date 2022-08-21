@@ -5,6 +5,7 @@ description = "Hanoi市街地から少し離れた宝石のようなカフェに
 tags = ["hanoi"]
 categories = ["旅行", "レストラン"]
 author = "kazu634"
+images = ["ogp/2018-06-25-hanoi-cafe-maison-de-tet-decor.webp"]
 +++
 
 Hanoiの週末に訪れたカフェ。とてもお洒落で雰囲気のいいお店。また訪れたい。

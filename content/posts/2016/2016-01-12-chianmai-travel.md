@@ -1,6 +1,7 @@
 +++
 categories = ["旅行"]
 author = "kazu634"
+images = ["ogp/2016-01-12-chianmai-travel.webp"]
 description = "2015-2016の年末年始は友達を訪ねてChiang Maiに行きました。"
 tags = [ "chiang mai" ]
 date = "2016-01-12T23:19:01+08:00"

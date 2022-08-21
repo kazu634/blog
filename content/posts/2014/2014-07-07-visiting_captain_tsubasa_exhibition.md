@@ -2,6 +2,8 @@
 title: キャプテン翼展に行ってきました
 date: 2014-07-07T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2014-07-07-visiting_captain_tsubasa_exhibition.webp"
 categories:
   - 雑記
 tags:

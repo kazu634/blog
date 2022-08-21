@@ -2,6 +2,7 @@
 description = "日本に一時帰国中に両親とコミュニケーションをとるためにやることリストを検討しました"
 categories = ["雑記"]
 author = "kazu634"
+images = ["ogp/2017-07-01-how-to-communicate-with-my-parents.webp"]
 date = "2017-07-01T20:45:07+08:00"
 title = "両親とのコミュニケーション手段を確保するよ"
 tags = ["多賀城"]

@@ -5,6 +5,7 @@ description = "バックパッカーの聖地ということで有名なカオ�
 tags = ["bangkok", "kahosan road"]
 categories = ["旅行"]
 author = "kazu634"
+images = ["ogp/2018-04-08-visiting-khaosan-roads-in-bangkok.webp"]
 +++
 
 カオサン通りを訪ねてきました。バンコクにはカオサン通りという通りがあります。バックパッカーの聖地ということで有名と知り、行ってみました。

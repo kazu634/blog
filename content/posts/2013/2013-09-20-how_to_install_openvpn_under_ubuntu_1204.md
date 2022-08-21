@@ -2,6 +2,8 @@
 title: Ubuntu 12.04でOpenVPNをインストールする
 date: 2013-09-20T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2013-09-20-how_to_install_openvpn_under_ubuntu_1204.webp"
 categories:
   - ネットワーク
 tags:

@@ -2,6 +2,8 @@
 title: ウルトラマンスタンプを回収する旅へ
 date: 2015-02-22T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2015-02-22-collecting-ultraman-stamps.webp"
 categories:
   - 旅行
   - サイクリング

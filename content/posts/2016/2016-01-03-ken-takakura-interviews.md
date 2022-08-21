@@ -2,6 +2,8 @@
 title: あなたが努力していることは必ず誰かが見ている。だから、手を抜かないでみんなでいい映画をつくろう
 date: 2016-01-02T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2016-01-03-ken-takakura-interviews.webp"
 description: 『高倉健インタビューズ』を読んで気になった部分をまとめています
 categories:
   - 引用

@@ -5,6 +5,7 @@ description = "Golangのライブラリtviewを使うと、お気軽にCUIを作
 tags = ["Golang"]
 categories = ["プログラミング"]
 author = "kazu634"
+images = ["ogp/2019-01-06-go-excel-util-using-tview.webp"]
 +++
 
 「[gocuiのコンポーネントライブラリを作った話](https://qiita.com/gorilla0513/items/ea26398e6dfcaf0674c2)」という記事を読んでいて、[rivo/tview](https://github.com/rivo/tview)というライブラリを使うと、CUIをお手軽に作成できるようなので、お試しで使ってみました。

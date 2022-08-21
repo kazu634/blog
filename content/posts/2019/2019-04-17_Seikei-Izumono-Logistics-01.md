@@ -5,6 +5,7 @@ description = "兵站(= Military Logistics)にスポットを当てたSF小説�
 tags = ["book"]
 categories = ["引用"]
 author = "kazu634"
+images = ["ogp/2019-04-17_Seikei-Izumono-Logistics-01.webp"]
 +++
 
 兵站にスポットを当てたSF小説ということで[星系出雲の兵站 1](https://www.amazon.co.jp/exec/obidos/ASIN/4150313407/simsnes-22/ref=nosim/)が紹介されていたので、読んでみました。

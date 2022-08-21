@@ -5,6 +5,7 @@ description = "クアラルンプールの観光地を尋ねてみたら、Batu 
 tags = ["malaysia", "kuala lumpur"]
 categories = ["旅行"]
 author = "kazu634"
+images = ["ogp/2017-12-26-batu-caves-kl.webp"]
 +++
 
 クアラルンプールの観光地を尋ねてみたら、Batu Cavesをお勧めされたので行ってきました。「洞窟なんだろうなぁ」と思って行ったのですが、実物はヒンディー教の寺院でした（洞窟の中に寺院があった）。

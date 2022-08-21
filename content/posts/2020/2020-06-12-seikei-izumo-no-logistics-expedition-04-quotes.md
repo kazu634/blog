@@ -5,6 +5,7 @@ description = "星系出雲兵站-遠征- 4で気になった部分をまとめ�
 tags = ["book"]
 categories = ["引用"]
 author = "kazu634"
+images = ["ogp/2020-06-12-seikei-izumo-no-logistics-expedition-04-quotes.webp"]
 
 +++
 

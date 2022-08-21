@@ -5,6 +5,7 @@ description = "星系出雲兵站-遠征- 3で気になった部分をまとめ�
 tags = ["book"]
 categories = ["引用"]
 author = "kazu634"
+images = ["ogp/2020-03-22-seikei-izumo-no-logistics-expedition-03-quotes.webp"]
 +++
 
 [星系出雲兵站-遠征- 3](https://www.amazon.co.jp/exec/obidos/ASIN/B084SVWRPL/simsnes-22/)で気になった部分をまとめました。

@@ -5,6 +5,7 @@ description = "Sukhumvit Soi23の奥の方にあるカフェ。ブログを検�
 tags = ["bangkok"]
 categories = ["レストラン", "旅行"]
 author = "kazu634"
+images = ["ogp/2018-04-28-braincafe-at-bangkok.webp"]
 +++
 
 色々と調べてみると、SukhumvitN Soi23にあるBrainwakecafeというのがオシャレスポットとわかり、訪ねてみました。軽い朝ごはんとコーヒーで一息つく。ゆったりとした時間が過ごせるのが嬉しい。オーガニック系の健康に優しい食事を取り揃えているみたい。

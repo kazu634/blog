@@ -5,6 +5,7 @@ description = "nomadのCSIストレージを利用してみましたよ。democr
 tags = ["nomad"]
 categories = ["インフラ", "HashiCorp"]
 author = "kazu634"
+images = ["ogp/2022-01-09-using-democratic-csi-for-nomad.webp"]
 +++
 
 `nomad`で[democratic-csi](https://github.com/democratic-csi/democratic-csi)を利用して、`Synology`のNASから動的に`iscsi`の領域を確保して、マウントして、コンテナのストレージとして利用できるようにしてみました。ノードを跨いで、ステートを保持できるようになるよ。

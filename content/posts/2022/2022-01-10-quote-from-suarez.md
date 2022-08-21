@@ -5,6 +5,7 @@ description = "Numberの記事を読んでいて、アトレティコ・マド�
 tags = ["book"]
 categories = ["引用"]
 author = "kazu634"
+images = ["ogp/2022-01-10-quote-from-suarez.webp"]
 +++
 
 <a href="https://www.amazon.co.jp/Number-%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC-1042%E5%8F%B7-%E9%9B%91%E8%AA%8C-Number%E7%B7%A8%E9%9B%86%E9%83%A8-ebook/dp/B09NLTS28T?keywords=number+%E9%9B%91%E8%AA%8C&qid=1641792926&sprefix=number%2Caps%2C152&sr=8-2&linkCode=li2&tag=simsnes-22&linkId=2fb2e01b84a5bc5735152ce6d8322733&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow" rel="nofollow">『Number(ナンバー)1042号[雑誌]』</a>を読んで気になった部分を引用します。

@@ -2,6 +2,8 @@
 title: SIMフリーの iPad Mini + OCN モバイル エントリー D LTE 980
 date: 2013-08-12T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2013-08-12-simフリーの-ipad-mini-ocn-モバイル-エントリー-d-lte-980.webp"
 categories:
   - ガジェット
 tags:

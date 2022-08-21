@@ -1,6 +1,7 @@
 +++
 categories = ["旅行"]
 author = "kazu634"
+images = ["ogp/2016-02-09-stay-in-malacca.webp"]
 description = "マラッカへ旅行してきました。"
 tags = ["malacca"]
 date = "2016-02-09T22:25:13+08:00"

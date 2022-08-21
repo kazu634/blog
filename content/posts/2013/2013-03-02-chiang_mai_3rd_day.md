@@ -2,6 +2,8 @@
 title: チェンマイ旅行3日目
 date: 2013-03-02T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2013-03-02-chiang_mai_3rd_day.webp"
 categories:
   - 旅行
 tags:

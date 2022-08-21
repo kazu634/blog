@@ -5,6 +5,7 @@ description = "フルセイルコーヒーのLight House Blendを飲み始めま
 tags = ["coffee"]
 categories = ["ガジェット"]
 author = "kazu634"
+images = ["ogp/2017-08-27-fullsail-lighthouseblend.webp"]
 +++
 
 ![](https://lh3.googleusercontent.com/-iLQthM5QqhM/WaEA5E_j0rI/AAAAAAAAZ3M/BvxWeh-0_3c5cDIprh2XWUga7PLC4rMTQCHMYCw/I/IMG_0072.JPG)

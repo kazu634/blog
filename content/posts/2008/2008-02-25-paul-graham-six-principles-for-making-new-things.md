@@ -1,6 +1,8 @@
 ---
 title: 'Paul Graham: Six Principles for Making New Things'
 author: kazu634
+images:
+  - "ogp/2008-02-25-paul-graham-six-principles-for-making-new-things.webp"
 date: 2008-02-25T15:04:05Z
 categories:
   - 引用

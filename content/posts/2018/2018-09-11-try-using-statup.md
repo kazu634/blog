@@ -2,6 +2,7 @@
 tags = ["statup"]
 categories = ["インフラ", "監視"]
 author = "kazu634"
+images = ["ogp/2018-09-11-try-using-statup.webp"]
 date = "2018-09-11T01:25:05+09:00"
 title = "お手軽にステータスページを作成できるStatupを触ってみた"
 description = "お手軽にステータスページを作成できるStatupを試しに使ってみました"

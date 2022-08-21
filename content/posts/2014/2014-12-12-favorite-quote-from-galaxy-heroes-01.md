@@ -1,6 +1,8 @@
 ---
 title: 銀河英雄伝説1黎明編で気になった部分
 author: kazu634
+images:
+  - "ogp/2014-12-12-favorite-quote-from-galaxy-heroes-01.webp"
 date: 2014-12-12T15:04:05Z
 categories:
   - 引用

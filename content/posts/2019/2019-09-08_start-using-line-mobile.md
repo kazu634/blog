@@ -4,6 +4,7 @@ date = 2019-09-08T13:05:34+08:00
 description = "タイで働き始めてもうすぐ10ヶ月程度。よくよく考えてみると、Lineを使っていることが多いことに気づきました。そうであれば、タイでも展開をしているLine MobileのSIMを使った方が料金少なめで済むのではないかと考え申し込みました"
 categories = ["ガジェット"]
 author = "kazu634"
+images = ["ogp/2019-09-08_start-using-line-mobile.webp"]
 tags = ["bangkok"]
 +++
 

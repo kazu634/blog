@@ -1,5 +1,6 @@
 +++
 author = "kazu634"
+images = ["ogp/2021-05-05-Google-Home-Notifier.webp"]
 description = "ゴールデンウィークの暇潰しにGoogle Nestで任意の文章を喋らせるようにしてみました。"
 categories = ["プログラミング"]
 tags = ["node.js"]

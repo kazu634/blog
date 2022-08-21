@@ -5,6 +5,7 @@ description = "GolangからOLEを利用することでOutlookを操作してみ�
 tags = ["Golang"]
 categories = ["プログラミング"]
 author = "kazu634"
+images = ["ogp/2020-04-19-use-ole-to-export-mails-from-outlook.webp"]
 +++
 
 お仕事上の便利ツール開発を目的に、GolangからOLE経由でOutlookを操作してみました。

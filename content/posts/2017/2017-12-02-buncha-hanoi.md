@@ -5,6 +5,7 @@ description = "Hanoi名物のBun Chaを食べました。オバマ元アメリ�
 tags = ["Hanoi"]
 categories = ["旅行", "レストラン"]
 author = "kazu634"
+images = ["ogp/2017-12-02-buncha-hanoi.webp"]
 +++
 
 ハノイに来て、名物の[Bun cha](https://en.wikipedia.org/wiki/Bun_cha)を食べて来ました。[Bun cha](https://en.wikipedia.org/wiki/Bun_cha)というのは、
