@@ -5,6 +5,7 @@ description = "ハノイ出張に行き、お勧めされた Cau Go Restaurant �
 tags = ["hanoi"]
 categories = ["レストラン", "旅行"]
 author = "kazu634"
+images = ["ogp/2018-01-28-cau-go-restaurant-hanoi.webp"]
 +++
 
 ハノイに出張に行き、お勧めされたCau Go Restraurantに行ってきました。場所は旧市街地の湖畔にあるお店で、ロケーション・景色・料理すべてが良かったです！ガイドブックなどにも掲載されている有名店のようですが、行く価値アリです。

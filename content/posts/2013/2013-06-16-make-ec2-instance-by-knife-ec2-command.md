@@ -2,6 +2,8 @@
 title: knife ec2コマンドで AWS EC2 インスタンスを作成する
 date: 2013-06-16T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2013-06-16-make-ec2-instance-by-knife-ec2-command.webp"
 categories:
   - インフラ
 tags:

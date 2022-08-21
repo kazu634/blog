@@ -1,6 +1,8 @@
 ---
 title: What matters now.
 author: kazu634
+images:
+  - "ogp/2009-12-16-what-matters-now.webp"
 date: 2009-12-15T15:04:05Z
 categories:
   - 引用

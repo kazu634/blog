@@ -5,6 +5,7 @@ description = "お友達がシンガポールに弾丸でやってきたので�
 tags = ["singapore"]
 categories = ["旅行"]
 author = "kazu634"
+images = ["ogp/2017-11-26-singapore-sightseeing-2017.webp"]
 +++
 
 お友達がシンガポールに弾丸でやってきましたので、主だった観光地を一緒に回りました。観光地巡りのまとめです。

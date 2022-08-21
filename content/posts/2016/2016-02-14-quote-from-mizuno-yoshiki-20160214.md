@@ -1,5 +1,6 @@
 +++
 author = "kazu634"
+images = ["ogp/2016-02-14-quote-from-mizuno-yoshiki-20160214.webp"]
 description = "いきものがかりのギター・リードを担当する水野良樹さんが語る「感じ取られるべきもの」について"
 categories = ["引用"]
 tags = ["book"]

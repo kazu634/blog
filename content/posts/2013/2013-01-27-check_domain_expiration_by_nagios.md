@@ -2,6 +2,8 @@
 title: Nagiosでドメイン有効期限を監視する
 date: 2013-01-27T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2013-01-27-check_domain_expiration_by_nagios.webp"
 categories:
   - インフラ
   - 監視

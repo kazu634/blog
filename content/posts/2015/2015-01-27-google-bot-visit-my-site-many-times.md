@@ -2,6 +2,8 @@
 title: 今度はボットが襲来しました
 date: 2015-01-26T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2015-01-27-google-bot-visit-my-site-many-times.webp"
 categories:
   - インフラ
   - 監視

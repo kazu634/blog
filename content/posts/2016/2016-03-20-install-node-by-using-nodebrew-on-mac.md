@@ -1,5 +1,6 @@
 +++
 author = "kazu634"
+images = ["ogp/2016-03-20-install-node-by-using-nodebrew-on-mac.webp"]
 description = "Hubot使ってみたかったから、nodebrewを使って、node.jsをMac (El Capitan 10.11.3)にインストールしてみました。"
 categories = ["プログラミング"]
 tags = ["node.js"]

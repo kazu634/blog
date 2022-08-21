@@ -4,6 +4,7 @@ date = 2019-06-29T18:41:00+07:00
 description = "JavaScriptではじめるWebマップアプリケーションの内容を淡々と試してみます。"
 categories = ["Map"]
 author = "kazu634"
+images = ["ogp/005-display-raster-style-data-mapbox.webp"]
 tags = ["mapbox"]
 +++
 

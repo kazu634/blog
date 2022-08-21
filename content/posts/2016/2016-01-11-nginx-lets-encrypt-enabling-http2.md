@@ -1,6 +1,7 @@
 +++
 categories = ["インフラ"]
 author = "kazu634"
+images = ["ogp/2016-01-11-nginx-lets-encrypt-enabling-http2.webp"]
 description = "nginx + Let's Encryptを用いてhttp/2環境を構築してみました。"
 tags = ["nginx"]
 date = "2016-01-11T23:32:47+08:00"

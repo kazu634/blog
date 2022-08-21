@@ -1,6 +1,8 @@
 ---
 title: 夜は、待っている。で気になった部分
 author: kazu634
+images:
+  - "ogp/2013-03-06-quote_from_night_is_waiting_for_you.webp"
 date: 2013-03-06T15:04:05Z
 excerpt: 「忘れてないよ」のいちばんの表現は「会う」だよねー。
 categories:

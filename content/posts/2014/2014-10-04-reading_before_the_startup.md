@@ -1,6 +1,8 @@
 ---
 title: ゲームの攻略法が効かなくなる領域に足を踏み出す
 author: kazu634
+images:
+  - "ogp/2014-10-04-reading_before_the_startup.webp"
 date: 2014-10-04T15:04:05Z
 categories:
   - 引用

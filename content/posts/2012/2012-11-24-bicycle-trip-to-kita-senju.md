@@ -2,6 +2,8 @@
 title: 北千住へサイクリング
 date: 2012-11-24T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2012-11-24-bicycle-trip-to-kita-senju.webp"
 categories:
   - サイクリング
 tags:

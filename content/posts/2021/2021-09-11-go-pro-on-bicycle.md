@@ -4,6 +4,7 @@ date = 2021-09-11T12:00:34+09:00
 description = "GoProを自転車に乗せて走ってきました"
 categories = ["サイクリング"]
 author = "kazu634"
+images = ["ogp/2021-09-11-go-pro-on-bicycle.webp"]
 tags = ["東京", "横浜"]
 +++
 

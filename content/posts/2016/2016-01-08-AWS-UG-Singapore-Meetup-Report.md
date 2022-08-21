@@ -1,6 +1,7 @@
 +++
 categories = [ "インフラ" ]
 author = "kazu634"
+images = ["ogp/2016-01-08-AWS-UG-Singapore-Meetup-Report.webp"]
 description = "6th Jan 2016に行われたAWS User Group Singaporeのレポートです。ただし英語。。。"
 tags = [ "singapore", "aws" ]
 date = "2016-01-08T22:23:32+08:00"

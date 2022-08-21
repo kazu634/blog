@@ -5,6 +5,7 @@ description = "有名？な点心屋さんに行って、点心を食べてき�
 tags = ["singapore", "chinatown"]
 categories = ["レストラン"]
 author = "kazu634"
+images = ["ogp/2017-07-29-yum-cha-restaurant-chinatown.webp"]
 +++
 
 

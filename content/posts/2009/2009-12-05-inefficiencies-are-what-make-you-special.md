@@ -1,6 +1,8 @@
 ---
 title: Inefficiencies are what make you special.
 author: kazu634
+images:
+  - "ogp/2009-12-05-inefficiencies-are-what-make-you-special.webp"
 date: 2009-12-05T15:04:05Z
 categories:
   - 引用

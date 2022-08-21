@@ -5,6 +5,7 @@ description = "星系出雲兵站-遠征- 2で気になった部分"
 tags = ["book"]
 categories = ["引用"]
 author = "kazu634"
+images = ["ogp/2020-03-14-seikei-izumo-no-logisrtics-expedition-02-quotes.webp"]
 +++
 
 [星系出雲兵站-遠征- 2](https://www.amazon.co.jp/exec/obidos/ASIN/4150314012/simsnes-22/)で気になった部分をまとめました。異星人の死体を回収し、調査しなければいけなくなった際の戸惑いの部分です。異星人を知的生命体と認めるならば、倫理的な問題をどのように解決していくのか、そこが問題になってきますです。

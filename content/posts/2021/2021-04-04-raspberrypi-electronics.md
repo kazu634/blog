@@ -5,6 +5,7 @@ description = "なかなか外出できないので、おうちでRaspberryPIを
 tags = ["電子工作"]
 categories = ["RaspberryPI"]
 author = "kazu634"
+images = ["ogp/2021-04-04-raspberrypi-electronics.webp"]
 +++
 
 日本に帰国し、リモートワークが徹底されていることに気がついたため、自宅内でCO2濃度を計測してみたいと思い立って、手を動かしています。そのメモになります。

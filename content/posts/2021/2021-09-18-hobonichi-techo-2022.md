@@ -4,6 +4,7 @@ date = 2021-09-18T20:00:34+09:00
 description = "2022年はほぼ日手帳カズンを使うことにしました。"
 categories = ["ガジェット"]
 author = "kazu634"
+images = ["ogp/2021-09-18-hobonichi-techo-2022.webp"]
 tags = ["武蔵新田"]
 +++
 

@@ -5,6 +5,7 @@ description = "熊本にある居酒屋・ねぎぼうずを訪ねました"
 tags = ["熊本"]
 categories = ["レストラン"]
 author = "kazu634"
+images = ["ogp/2021-12-26-negibozu-in-kumamoto.webp"]
 +++
 
 熊本にある居酒屋、ねぎぼうずを訪ねてきました。このお店、3年前にも訪ねた記憶があります。

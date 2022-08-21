@@ -2,6 +2,8 @@
 title: すし哲@塩釜のお寿司を食べてきた
 date: 2014-10-12T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2014-10-12-enjoyed_sushi_at_sushi_tetsu.webp"
 categories:
   - レストラン
 tags:

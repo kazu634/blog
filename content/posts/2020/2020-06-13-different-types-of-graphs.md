@@ -6,6 +6,7 @@ chart=true
 categories = ["Visualization"]
 tags = ["chart.js"]
 author = "kazu634"
+images = ["ogp/2020-06-13-different-types-of-graphs.webp"]
 +++
 
 <a href="https://www.amazon.co.jp/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E5%89%8D%E3%81%AB%E8%AA%AD%E3%82%80%E6%9C%AC%EF%BC%BB%E4%B8%80%E7%9E%AC%E3%81%A7%E4%BC%9D%E3%82%8F%E3%82%8B%E8%A1%A8%E7%8F%BE%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9F%E3%81%AE%E3%81%8B%EF%BC%BD-%E6%9D%BE%E6%9C%AC-%E5%81%A5%E5%A4%AA%E9%83%8E-ebook/dp/B075WRLPGV/ref=as_li_ss_il?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%B0%E3%83%A9%E3%83%95%E3%82%92%E4%BD%9C%E3%82%8B%E5%89%8D%E3%81%AB&qid=1592495480&sr=8-1&linkCode=li2&tag=simsnes-22&linkId=e0d680dadb70490cd55526f37e9e4fed&language=ja_JP" target="_blank">『グラフを作る前に読む本』</a>に、グラフをどのようにようにように使い分けるかについてまとめられていたのでメモします。

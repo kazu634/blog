@@ -5,6 +5,7 @@ description = "一時帰国中に横浜の野毛を訪ねてきました。お�
 categories = ["旅行", "レストラン"]
 tags = ["野毛"]
 author = "kazu634"
+images = ["ogp/2019-11-02-japan-trip-visiting-noge.webp"]
 
 +++
 

@@ -5,6 +5,7 @@ description = "これまでは`roadwork`で`Route53`を管理していたので�
 tags = ["Terraform"]
 categories = ["インフラ", "HashiCorp", "Linux"]
 author = "kazu634"
+images = ["ogp/2021-11-06-use-terraform-to-manage-route53.webp"]
 +++
 
 これまでは`roadwork`で`Route53`を管理していたのですが、お仕事関係のこともあってTerraformを利用して、`Route53`を管理してみようと思いたち、始めてみました。

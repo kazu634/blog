@@ -5,6 +5,7 @@ description = "tcardgenを利用して、OGP画像を生成してみました。
 categories = ["Blog"]
 tags = ["hugo"]
 author = "kazu634"
+images = ["ogp/2021-03-07-using-tgcard-to-generate-OGP-image.webp"]
 +++
 
 「[Go製のtcardgenでHugoで作ったブログのOGPを自動生成してみた](https://qiita.com/BIwashi/items/26cf8a1c9c54f7c38614)」を見ると、hugoをOGP画像を自動生成するまとめ記事があったので、そちらを参照して試してみました。

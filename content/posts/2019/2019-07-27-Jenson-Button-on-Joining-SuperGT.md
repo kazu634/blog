@@ -5,6 +5,7 @@ description = "元F1レーサーのジェンソン・バトンがスーパーGT�
 tags = ["book"]
 categories = ["引用"]
 author = "kazu634"
+images = ["ogp/2019-07-27-Jenson-Button-on-Joining-SuperGT.webp"]
 +++
 
 元F1レーサーのジェンソン・バトンがスーパーGTドライバーになるにあたってのコメントを引用しました:

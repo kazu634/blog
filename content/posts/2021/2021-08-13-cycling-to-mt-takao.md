@@ -5,6 +5,7 @@ description = "コロナがひどい中でも身体を動かしたい、遠く�
 tags = ["高尾山"]
 categories = ["旅行","サイクリング"]
 author = "kazu634"
+images = ["ogp/2021-08-13-cycling-to-mt-takao.webp"]
 
 +++
 

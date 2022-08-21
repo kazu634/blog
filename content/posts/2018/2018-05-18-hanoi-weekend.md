@@ -5,6 +5,7 @@ description = "ハノイの週末を360度カメラで撮影してきました�
 tags = ["hanoi"]
 categories = ["旅行"]
 author = "kazu634"
+images = ["ogp/2018-05-18-hanoi-weekend.webp"]
 
 +++
 

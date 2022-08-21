@@ -2,6 +2,8 @@
 title: 大木屋のエアーズロック食べてきた！
 date: 2014-01-01T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2014-01-01-ohkiya_at_ichigaya_airs_rock_beef.webp"
 categories:
   - レストラン
 tags:

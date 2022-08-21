@@ -2,6 +2,8 @@
 title: ドメインの残り有効期限を取得するシェルスクリプト
 date: 2013-01-14T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2013-01-14-check_domain_expiration.webp"
 categories:
   - インフラ
 tags:

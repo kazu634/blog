@@ -1,5 +1,6 @@
 +++
 author = "kazu634"
+images = ["ogp/2016-03-27-important-thing-is-to-know-the-current-situation.webp"]
 description = "「このことは、地図に限らない、マニュアルであったり、あるいはハウツー本であったり、他人からのアドバイスであったり、あらゆる「案内」において、最も難しいのは、自分の状態を把握することなのだ」そうだけれども、自分の状態を把握することに時間がかかる人はセンスが無いということなのか…"
 categories = ["引用"]
 tags = ["book"]

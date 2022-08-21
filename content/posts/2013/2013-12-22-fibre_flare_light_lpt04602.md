@@ -2,6 +2,8 @@
 title: 夜のサイクリング用にファイバーフレアライトを買った
 date: 2013-12-22T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2013-12-22-fibre_flare_light_lpt04602.webp"
 categories:
   - ガジェット
   - サイクリング

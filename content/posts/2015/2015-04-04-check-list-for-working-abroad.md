@@ -2,6 +2,8 @@
 title: 海外赴任する前に事前に確認しておくと慌てずに済むことリスト
 date: 2015-04-03T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2015-04-04-check-list-for-working-abroad.webp"
 categories:
   - 雑記
 tags:

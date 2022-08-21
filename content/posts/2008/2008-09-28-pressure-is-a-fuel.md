@@ -1,6 +1,8 @@
 ---
 title: Pressure is a fuel!
 author: kazu634
+images:
+  - "ogp/2008-09-28-pressure-is-a-fuel.webp"
 date: 2008-09-28T15:04:05Z
 categories:
   - 引用

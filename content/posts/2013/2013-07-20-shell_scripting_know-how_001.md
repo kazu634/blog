@@ -2,6 +2,8 @@
 title: お仕事で覚えたシェルスクリプトの使い方
 date: 2013-07-20T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2013-07-20-shell_scripting_know-how_001.webp"
 categories:
   - インフラ
 tags:

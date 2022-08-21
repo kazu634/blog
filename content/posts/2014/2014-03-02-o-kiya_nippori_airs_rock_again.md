@@ -2,6 +2,8 @@
 title: 大木屋・本店に行ってまたエアーズロック食べてきた
 date: 2014-03-02T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2014-03-02-o-kiya_nippori_airs_rock_again.webp"
 categories:
   - レストラン
 tags:

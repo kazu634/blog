@@ -5,6 +5,7 @@ description = "バンコクからチェンマイへ寝台列車に乗って旅�
 tags = ["bangkok", "chiang mai"]
 categories = ["旅行"]
 author = "kazu634"
+images = ["ogp/2019-05-01-sleeper-train-in-thailand.webp"]
 
 +++
 

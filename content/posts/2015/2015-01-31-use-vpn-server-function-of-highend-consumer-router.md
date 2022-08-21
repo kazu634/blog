@@ -2,6 +2,8 @@
 title: コンシューマー向けのハイエンドルーターでVPNを利用してみた
 date: 2015-01-31T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2015-01-31-use-vpn-server-function-of-highend-consumer-router.webp"
 categories:
   - ガジェット
   - ネットワーク

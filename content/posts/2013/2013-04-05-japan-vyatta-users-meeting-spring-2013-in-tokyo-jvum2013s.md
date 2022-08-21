@@ -2,6 +2,8 @@
 title: 'Japan Vyatta Users Meeting Spring 2013 in Tokyo #jvum2013s'
 date: 2013-04-05T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2013-04-05-japan-vyatta-users-meeting-spring-2013-in-tokyo-jvum2013s.webp"
 categories:
   - インフラ
 tags:

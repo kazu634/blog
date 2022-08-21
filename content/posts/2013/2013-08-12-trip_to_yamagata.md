@@ -2,6 +2,8 @@
 title: 山形は素敵な瀬戸物屋さんが多かった
 date: 2013-08-12T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2013-08-12-trip_to_yamagata.webp"
 categories:
   - 旅行
 tags:

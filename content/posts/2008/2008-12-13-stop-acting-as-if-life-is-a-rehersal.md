@@ -1,6 +1,8 @@
 ---
 title: Stop acting as if life is a rehersal.
 author: kazu634
+images:
+  - "ogp/2008-12-13-stop-acting-as-if-life-is-a-rehersal.webp"
 date: 2008-12-13T15:04:05Z
 categories:
   - 引用

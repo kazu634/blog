@@ -2,6 +2,8 @@
 title: シンガポールのコンセントの使い方
 date: 2015-04-18T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2015-04-18-how_to_plug_electric_devices.webp"
 categories:
   - 雑記
 tags:

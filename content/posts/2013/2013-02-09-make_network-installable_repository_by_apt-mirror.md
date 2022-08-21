@@ -2,6 +2,8 @@
 title: apt-mirrorを使ってネットワークインストール可能なレポジトリを作成する
 date: 2013-02-09T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2013-02-09-make_network-installable_repository_by_apt-mirror.webp"
 categories:
   - Linux
   - インフラ

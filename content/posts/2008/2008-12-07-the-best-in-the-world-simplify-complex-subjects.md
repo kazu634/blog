@@ -1,6 +1,8 @@
 ---
 title: The best in the world simplify complex subjects!
 author: kazu634
+images:
+  - "ogp/2008-12-07-the-best-in-the-world-simplify-complex-subjects.webp"
 date: 2008-12-07T15:04:05Z
 categories:
   - 引用

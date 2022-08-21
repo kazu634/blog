@@ -2,6 +2,8 @@
 title: m+のtrouser’s clip買いました
 date: 2014-06-07T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2014-06-07-m-piu_trouser_clip.webp"
 categories:
   - 雑記
 tags:

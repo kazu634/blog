@@ -1,6 +1,8 @@
 ---
 title: Because ”it sucks” is not a reason to redesign.
 author: kazu634
+images:
+  - "ogp/2009-10-07-because-it-sucks-is-not-a-reason-to-redesign.webp"
 date: 2009-10-07T15:04:05Z
 categories:
   - 引用

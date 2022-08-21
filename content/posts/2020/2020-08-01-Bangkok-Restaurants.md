@@ -4,6 +4,7 @@ date = 2020-08-01T10:10:34+08:00
 description = "緊急事態宣言が緩和されつつあるバンコクで、6/15〜に外でお食事した写真をまとめていますよ。"
 categories = ["レストラン"]
 author = "kazu634"
+images = ["ogp/2020-08-01-Bangkok-Restaurants.webp"]
 tags = ["bangkok"]
 +++
 

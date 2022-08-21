@@ -2,6 +2,8 @@
 title: 松戸でIngressを始めてみました
 date: 2014-11-09T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2014-11-09-first-time-playing-ingress-at-matsudo.webp"
 categories:
   - 雑記
 tags:

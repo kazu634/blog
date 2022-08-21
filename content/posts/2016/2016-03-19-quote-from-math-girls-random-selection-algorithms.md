@@ -1,5 +1,6 @@
 +++
 author = "kazu634"
+images = ["ogp/2016-03-19-quote-from-math-girls-random-selection-algorithms.webp"]
 description = "『数学ガール/乱択アルゴリズム』で気になった部分を引用しています。「約束は、意思の表明だ。きみはーーどんな道を歩む？」"
 categories = ["引用"]
 tags = ["book"]

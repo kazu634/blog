@@ -2,6 +2,8 @@
 title: nginxのログローテーションがうまく動いていないのでmonitを使って対症療法してみた
 date: 2015-06-06T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2015-06-06-restart-nginx-when-its-logrotation-fails.webp"
 categories:
   - インフラ
 tags:

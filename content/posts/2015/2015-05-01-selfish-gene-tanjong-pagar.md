@@ -2,6 +2,8 @@
 title: Selfish Gene @ Tanjong Pagar
 date: 2015-05-01T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2015-05-01-selfish-gene-tanjong-pagar.webp"
 categories:
   - レストラン
 tags:

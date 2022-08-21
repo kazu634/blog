@@ -2,6 +2,8 @@
 title: 国立科学博物館で行われている大恐竜展を観に行った！
 date: 2013-12-14T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2013-12-14-2013_dinasour_exhibition_at_national_museum_of_nature_and_science.webp"
 categories:
   - 雑記
 tags:

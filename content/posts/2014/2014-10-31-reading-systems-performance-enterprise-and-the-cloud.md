@@ -2,6 +2,8 @@
 title: 'Systems Performance: Enterprise and the Cloud を読む'
 date: 2014-10-31T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2014-10-31-reading-systems-performance-enterprise-and-the-cloud.webp"
 categories:
   - インフラ
   - 監視

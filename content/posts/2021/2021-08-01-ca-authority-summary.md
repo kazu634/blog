@@ -2,6 +2,7 @@
 tags = ["ssl"]
 categories = ["インフラ", "Linux", "HashiCorp"]
 author = "kazu634"
+images = ["ogp/2021-08-01-ca-authority-summary.webp"]
 date = "2021-08-01T20:25:05+09:00"
 title = "CA認証局について色々調べてみたまとめです"
 description = "SSL証明書などを発行するCA認証局まわりについて興味を持ったため、色々と調べてみました。"

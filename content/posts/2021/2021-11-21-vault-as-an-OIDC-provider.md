@@ -5,6 +5,7 @@ description = "Vault 1.9.0で新しく追加されたOIDC Identity Provider機�
 tags = ["Vault"]
 categories = ["インフラ", "HashiCorp"]
 author = "kazu634"
+images = ["ogp/2021-11-21-vault-as-an-OIDC-provider.webp"]
 +++
 
 [Vault as an OIDC Identity Provider \| Vault \- HashiCorp Learn](https://learn.hashicorp.com/tutorials/vault/oidc-identity-provider)を参考にして、`Vault`をOIDC Providerとして利用するようにセットアップしてみました。

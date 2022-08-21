@@ -1,6 +1,8 @@
 ---
 title: The competitor to be feared…
 author: kazu634
+images:
+  - "ogp/2010-03-10-the-competitor-to-be-feared.webp"
 date: 2010-03-10T15:04:05Z
 categories:
   - 引用

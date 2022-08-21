@@ -5,6 +5,7 @@ description = "GolangでLine APIを利用してみましたよ。"
 tags = ["Golang"]
 categories = ["プログラミング"]
 author = "kazu634"
+images = ["ogp/2019-02-23-line-sdk-go.webp"]
 +++
 
 # GolangでLine APIをいじくる

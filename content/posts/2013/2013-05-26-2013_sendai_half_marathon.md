@@ -2,6 +2,8 @@
 title: 第23回仙台国際ハーフマラソンを走って来ました
 date: 2013-05-26T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2013-05-26-2013_sendai_half_marathon.webp"
 categories:
   - ランニング
 tags:

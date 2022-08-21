@@ -5,6 +5,7 @@ publishdate=2019-04-14T15:04:05Z
 description="Legoを用いたDNS経由でのSSL/TSL証明書取得について調べた内容をまとめました"
 categories = ["インフラ"]
 author = "kazu634"
+images = ["ogp/2019-04-14_how_to_use_Lego.webp"]
 tags = ["Lego", "Let'sEncrypt"]
 +++
 

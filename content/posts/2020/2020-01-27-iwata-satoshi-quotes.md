@@ -5,6 +5,7 @@ description = "『岩田聡はこんなことを話していた』を読んで�
 tags = ["book"]
 categories = ["引用"]
 author = "kazu634"
+images = ["ogp/2020-01-27-iwata-satoshi-quotes.webp"]
 image = ""
 +++
 

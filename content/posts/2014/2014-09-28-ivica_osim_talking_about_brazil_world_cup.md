@@ -1,6 +1,8 @@
 ---
 title: オシムがブラジルワールドカップについて
 author: kazu634
+images:
+  - "ogp/2014-09-28-ivica_osim_talking_about_brazil_world_cup.webp"
 date: 2014-09-28T15:04:05Z
 categories:
   - 引用

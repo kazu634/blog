@@ -2,6 +2,8 @@
 title: 横浜卸売市場〜シーパラダイスに行って参りました
 date: 2013-04-19T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2013-04-19-yokohama-fish-market-and-sea-paradise.webp"
 categories:
   - 旅行
 tags:

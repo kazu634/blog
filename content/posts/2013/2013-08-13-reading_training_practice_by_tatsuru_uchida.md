@@ -1,6 +1,8 @@
 ---
 title: 『修行論』を読んで気になった部分
 author: kazu634
+images:
+  - "ogp/2013-08-13-reading_training_practice_by_tatsuru_uchida.webp"
 date: 2013-08-13T15:04:05Z
 categories:
   - 引用

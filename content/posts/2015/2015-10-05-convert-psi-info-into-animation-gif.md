@@ -2,6 +2,8 @@
 title: 'じゆうけんきゅう: シンガポールのhaze情報のページからPSI情報を取得してアニメーションGIFにしてみた'
 date: 2015-10-04T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2015-10-05-convert-psi-info-into-animation-gif.webp"
 categories:
   - プログラミング
 tags:

@@ -2,6 +2,8 @@
 title: RTX810と無線LANアクセスポイントを組み合わせてみた
 date: 2014-10-20T15:04:05Z
 author: kazu634
+images:
+  - "ogp/2014-10-21-rtx810_with_wifi_access_point.webp"
 categories:
   - インフラ
   - ガジェット

@@ -5,6 +5,7 @@ description = "WindowsサーバのIISにLet's Encryptで取得したワイルド
 tags = ["Windows", "iis"]
 categories = ["インフラ"]
 author = "kazu634"
+images = ["ogp/2019-05-11-create-wildcard-ssl-certificate-on-windows.webp"]
 image=""
 +++
 

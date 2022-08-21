@@ -4,6 +4,7 @@ date = 2020-02-16T10:10:34+08:00
 description = "Asokにあるベジタリアンレストラン May Veggie を訪ねてきました"
 categories = ["レストラン"]
 author = "kazu634"
+images = ["ogp/2020-02-16-May-Veggie-in-Asok.webp"]
 tags = ["bangkok"]
 +++
 

@@ -1,6 +1,8 @@
 ---
 title: If you work really hard, and you’re kind, amazing thing will happen.
 author: kazu634
+images:
+  - "ogp/2010-01-24-if-you-work-really-hard-and-youre-kind-amazing-thing-will-happen.webp"
 date: 2010-01-24T15:04:05Z
 categories:
   - 引用

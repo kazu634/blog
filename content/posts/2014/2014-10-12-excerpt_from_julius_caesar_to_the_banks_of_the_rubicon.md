@@ -1,6 +1,8 @@
 ---
 title: ユリウス・カエサル ルビコン以前──ローマ人の物語 IV を読む
 author: kazu634
+images:
+  - "ogp/2014-10-12-excerpt_from_julius_caesar_to_the_banks_of_the_rubicon.webp"
 date: 2014-10-12T15:04:05Z
 categories:
   - 引用
