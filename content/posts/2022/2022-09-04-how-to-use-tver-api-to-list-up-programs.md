@@ -53,6 +53,11 @@ images = ["ogp/2022-09-04-how-to-use-tver-api-to-list-up-programs.webp"]
 ```
 
 ## 番組情報を取得する
+一つ前で取得した以下の情報を利用します:
+
+- `platform_uid`
+- `platform_token`
+
 こんなコマンドを実行するといいです:
 
 ```shell
@@ -113,6 +118,8 @@ images = ["ogp/2022-09-04-how-to-use-tver-api-to-list-up-programs.webp"]
         ]
 }
 ```
+
+具体的な検索キーワードがある場合には、「&keyword=ワンピース」みたいな形でURLに追加してあげるとOKのようです。
 
 ## 最後に
 これと[yt-dlp: A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)を組み合わせると、[TVer \- 無料で動画見放題](https://tver.jp/)で公開されている番組をさくっとダウンロードできる仕組み作りできるのでは。。
