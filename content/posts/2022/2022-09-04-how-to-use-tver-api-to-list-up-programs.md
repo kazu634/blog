@@ -1,11 +1,11 @@
 +++
 title = "TVerのAPIを利用してダウンロードできる番組を取得する"
 date = 2022-09-04T21:27:43+09:00
-description = "nomadのCSIストレージを利用してみましたよ。democratic-csiでSynology NASを利用します"
-tags = ["nomad"]
-categories = ["インフラ", "HashiCorp"]
+description = "非公開のTVer APIを利用して公開されている番組リストを取得する方法をまとめてみました"
+tags = ["tver"]
+categories = ["プログラミング"]
 author = "kazu634"
-images = ["ogp/2022-01-09-using-democratic-csi-for-nomad.webp"]
+images = ["ogp/2022-09-04-how-to-use-tver-api-to-list-up-programs.webp"]
 +++
 
 [TVerの新着番組をRSSで見る – 阿Qさんと一緒](https://blog.srytk.com/aquei/763.html)を参考に粛々と`curl`で動作するか試してみました。これを利用すると、公開されている番組を1000件取得するみたいです。基本的には公開されていない方法のようなので、これを使ってマッシュアップサイトを作ったりするのはNGに見えます。。
