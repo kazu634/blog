@@ -8,7 +8,7 @@ author = "kazu634"
 images = ["ogp/2022-09-04-how-to-use-tver-api-to-list-up-programs.webp"]
 +++
 
-[TVerの新着番組をRSSで見る – 阿Qさんと一緒](https://blog.srytk.com/aquei/763.html)を参考に粛々と`curl`で動作するか試してみました。これを利用すると、公開されている番組を1000件取得するみたいです。基本的には公開されていない方法のようなので、これを使ってマッシュアップサイトを作ったりするのはNGに見えます。。
+「[TVerの新着番組をRSSで見る](https://blog.srytk.com/aquei/763.html)」を参考に粛々と`curl`で動作するか試してみました。これを利用すると、公開されている番組を1000件取得するみたいです。基本的には公開されていない方法のようなので、これを使ってマッシュアップサイトを作ったりするのはNGに見えます。。
 
 <!--more-->
 
@@ -16,7 +16,7 @@ images = ["ogp/2022-09-04-how-to-use-tver-api-to-list-up-programs.webp"]
 `https://platform-api.tver.jp/v2/api/platform_users/browser/create`にアクセスして、トークンを作成するようです:
 
 ```shell
-% curl -w '\n' 'https://platform-api.tver.jp/v2/api/platform_users/browser/create' --data 'device_type=pc' -XPOST | jq .
+% curl -w '\n' -H 'Accept: */*' -H 'Referer: https://s.tver.jp/' -H 'Origin: https://s.tver.jp' -H 'Content-Type: application/x-www-form-urlencoded' -H 'Connection: keep-alive' -H 'Sec-Fetch-Dest: empty' -H 'Sec-Fetch-Mode: cors' -H 'Sec-Fetch-Site: same-site' 'https://platform-api.tver.jp/v2/api/platform_users/browser/create' --data 'device_type=pc' -XPOST | jq .
 {
   "api_version": "v2",
   "code": 0,
@@ -122,4 +122,9 @@ images = ["ogp/2022-09-04-how-to-use-tver-api-to-list-up-programs.webp"]
 具体的な検索キーワードがある場合には、「&keyword=ワンピース」みたいな形でURLに追加してあげるとOKのようです。
 
 ## 最後に
-これと[yt-dlp: A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)を組み合わせると、[TVer \- 無料で動画見放題](https://tver.jp/)で公開されている番組をさくっとダウンロードできる仕組み作りできるのでは。。
+これと[yt-dlp: A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)を組み合わせると、[TVer](https://tver.jp/)で公開されている番組をさくっとダウンロードできる仕組み作りできるのでは。。
+
+## 参考
+- [TVerの新着番組をRSSで見る – 阿Qさんと一緒](https://blog.srytk.com/aquei/763.html)
+- [GitHub \- yt\-dlp/yt\-dlp: A youtube\-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
+- [TVer \- 無料で動画見放題](https://tver.jp/)
