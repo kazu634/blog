@@ -23,9 +23,9 @@ images = ["ogp/2022-09-04-how-to-use-tver-api-to-list-up-programs.webp"]
   "message": "",
   "type": "hash",
   "result": {
-    "platform_uid": "59e4ad1c38fc463f8436304d412d3dc2262b",
-    "platform_ad_uuid": "a4f0f584-ecf0-4ae9-a546-2b812a16d81e",
-    "platform_token": "whfwp5uuj8h5fqfz4e3jymzfdb335150zkxezn7p",
+    "platform_uid": "secret-secret-secret",
+    "platform_ad_uuid": "secret-secret-secret",
+    "platform_token": "secret-secret-secret",
     "browser_id": "r0xclt0f4bfo2t6e7pfcey08277hhw6reap9",
     "device_type": "pc",
     "agreement_version": ""
@@ -42,9 +42,9 @@ images = ["ogp/2022-09-04-how-to-use-tver-api-to-list-up-programs.webp"]
   "message": "",
   "type": "hash",
   "result": {
-    "platform_uid": "59e4ad1c38fc463f8436304d412d3dc2262b",
-    "platform_ad_uuid": "a4f0f584-ecf0-4ae9-a546-2b812a16d81e",
-    "platform_token": "whfwp5uuj8h5fqfz4e3jymzfdb335150zkxezn7p",
+    "platform_uid": "secret-secret-secret",
+    "platform_ad_uuid": "secret-secret-secret",
+    "platform_token": "secret-secret-secret",
     "browser_id": "r0xclt0f4bfo2t6e7pfcey08277hhw6reap9",
     "device_type": "pc",
     "agreement_version": ""
@@ -61,7 +61,7 @@ images = ["ogp/2022-09-04-how-to-use-tver-api-to-list-up-programs.webp"]
 こんなコマンドを実行するといいです:
 
 ```shell
-% curl -w '\n' 'https://platform-api.tver.jp/service/api/v1/callSearch?platform_uid=59e4ad1c38fc463f8436304d412d3dc2262b&platform_token=whfwp5uuj8h5fqfz4e3jymzfdb335150zkxezn7p&require_data=later' -H 'x-tver-platform-type: web' | jq .
+% curl -w '\n' 'https://platform-api.tver.jp/service/api/v1/callSearch?platform_uid=secret-secret-secret&platform_token=secret-secret-secret&require_data=later' -H 'x-tver-platform-type: web' | jq .
 ```
 
 結果はこんな`json`で返ってきます:
