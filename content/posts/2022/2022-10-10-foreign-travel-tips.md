@@ -75,7 +75,12 @@ Wiseに送金した日本円とシンガポールドルでは、シンガポー�
 ### [Exposure Notifications]画面
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/52417683398/in/datetaken-public/" title="Untitled"><img src="https://live.staticflickr.com/65535/52417683398_7a3a96a069_z.jpg" width="296" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+### まとめと後日談
 注意点としては、日本に戻ったときに元に戻してくれはしないようなので、自分で日本に戻す必要があることです。日本だと、「接触通知」使わなくなったはずなので、あまり意味がないかもしれませんが。。
+
+ちなみに、「接触通知」はうまく動作していたみたいで、こんなふうに通知を受けて、PCR検査を受けてきました。無事陰性でございました:
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/52417316101/in/datetaken-public/" title="Untitled"><img src="https://live.staticflickr.com/65535/52417316101_1c8d299a36_z.jpg" width="360" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## まとめ
 こういうことを事前に知っておくとよかったなという事をまとめてみました。
