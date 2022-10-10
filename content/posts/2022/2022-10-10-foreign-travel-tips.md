@@ -59,11 +59,10 @@ Wiseに送金した日本円とシンガポールドルでは、シンガポー�
 
 設定箇所は、「Settings」 > 「Exposure Notification」 > 「Availability Alerts」をオンです。
 
-[Settings]
+### [Settings]画面
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/52417683403/in/datetaken-public/" title="Untitled"><img src="https://live.staticflickr.com/65535/52417683403_02936101da_z.jpg" width="296" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-[Exposure Notifications]
 
-[image:6C765D52-B914-41D9-B7B2-0F05EE2E9FED-8641-000009E02A0C2915/IMG_5074.png]
+### [Exposure Notifications]画面
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/52417683398/in/datetaken-public/" title="Untitled"><img src="https://live.staticflickr.com/65535/52417683398_7a3a96a069_z.jpg" width="296" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 注意点としては、日本に戻ったときに元に戻してくれはしないようなので、自分で日本に戻す必要があることです。日本だと、「接触通知」使わなくなったはずなので、あまり意味がないかもしれませんが。。
