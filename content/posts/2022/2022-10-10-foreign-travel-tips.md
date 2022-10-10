@@ -58,7 +58,7 @@ Wiseに送金した日本円とシンガポールドルでは、シンガポー�
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/52417455959/in/datetaken-public/" title="Untitled"><img src="https://live.staticflickr.com/65535/52417455959_930fa25bd9_z.jpg" width="296" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-これはホテルのカフェでカフェラテとサンドイッチを頼んだ時のものです。合計で`23.0 USD`を支払いました (支払った当初は`19.27 USD`を支払ったのですが、チップで`23.0 USD`に金額アップしました)。この画像の`COnversion details`の部分を見ると、日本円でお支払いをしていて、`3, 367 JPY`が[Wise](https://wise.com/jp/multi-currency-account/)の口座から引き落とされています。2022/10/8のJPY -> USDの為替レートは`0.0069`で、[Wise](https://wise.com/jp/multi-currency-account/)経由のレートが`0.00687726`なので、いい感じのレートになっていることがわかります。
+これはホテルのカフェでカフェラテとサンドイッチを頼んだ時のものです。合計で`23.0 USD`を支払いました (支払った当初は`19.27 USD`を支払ったのですが、チップで`23.0 USD`に金額アップしました)。この画像の`COnversion details`の部分を見ると、日本円でお支払いをしていて、`3,367 JPY`が[Wise](https://wise.com/jp/multi-currency-account/)の口座から引き落とされています。2022/10/8のJPY -> USDの為替レートは`0.0069`で、[Wise](https://wise.com/jp/multi-currency-account/)経由のレートが`0.00687726`なので、いい感じのレートになっていることがわかります。
 
 振り返ると、日本円で3,000円超で、カフェラテとサンドイッチなわけで、さすがにアメリカのインフレを痛感します。。
 
