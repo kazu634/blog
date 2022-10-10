@@ -67,7 +67,7 @@ Wiseに送金した日本円とシンガポールドルでは、シンガポー�
 
 そうすると、アメリカでデータ通信ができるようになると、「接触通知をカリフォルニアに変更しますか？」といった内容のダイアログが表示されました。変更を承諾すると、カリフォルニアに切り替わったようでした。
 
-設定箇所は、「Settings」 > 「Exposure Notification」 > 「Availability Alerts」をオンです。
+設定箇所は、`Settings` > `Exposure Notification` > `Availability Alerts`をオンです。
 
 ### [Settings]画面
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/52417683403/in/datetaken-public/" title="Untitled"><img src="https://live.staticflickr.com/65535/52417683403_02936101da_z.jpg" width="296" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
