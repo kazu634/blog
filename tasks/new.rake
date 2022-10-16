@@ -6,7 +6,7 @@ task :new do
   day = Time.now
   title = ARGV.last.downcase
 
-  postname = "#{day.year}-#{day.strftime("%m")}-#{day.strftime("%d")}-#{title}.md"
+  postname = "posts/#{day.year}/#{day.year}-#{day.strftime("%m")}-#{day.strftime("%d")}-#{title}.md"
 
   # generate the post md file:
   sh "hugo new #{postname}"
