@@ -49,6 +49,8 @@ images = ["ogp/2022-10-16-los-angeles-trip.webp"]
 
 ![Image](https://farm66.staticflickr.com/65535/52414466916_ec59fcc7a0_c.jpg)
 
+Walk of Fameはこちらになります:
+
 {{< mapbox lng=-118.3417161 lat=34.1016598 zoom=16 >}}
 
 #### ビバリーヒルズ周辺
