@@ -115,6 +115,9 @@ theme = "LoveIt"
   # Social config about the author
   [params.social]
     Gitea = "https://gitea.kazu634.com/kazu634"
+    Github = "kazu634"
+    Foursquare = "musashikazuhiro"
+    Strava = "89291248"
     Twitter = "MusashiKazuhiro"
     Facebook = "kazu634"
     Linkedin = "一弘-武蔵-b90bba54"
