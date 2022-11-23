@@ -23,7 +23,7 @@ steps:
     - git submodule update --init --recursive
 
   - name: hugo
-    image: cibuilds/hugo:0.101.0
+    image: cibuilds/hugo:0.106
     commands:
       - sudo hugo -e production --minify -v -s .
 
@@ -81,7 +81,7 @@ steps:
     - git submodule update --init --recursive
 
   - name: hugo
-    image: cibuilds/hugo:0.101.0
+    image: cibuilds/hugo:0.106
     commands:
       - sudo hugo -e staging --minify -v -s  .
 
