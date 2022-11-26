@@ -34,7 +34,7 @@ images = ["ogp/2022-11-20-osaka-tokyo-trip.webp"]
 
 全体の行程はこのような感じです:
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="8065282115"></div><script src="https://strava-embeds.com/embed.js"></script>
+{{< strava id="8065282115" >}}
 
 ## 大阪天満宮〜天神橋筋商店街
 夜は大阪天満宮〜天神橋筋商店街へ向かいました。辿り着くのがやや遅かったらしく、大阪天満宮は閉まっていたのでした。。こちらは目の前にあった、落語の寄席会場みたいです:
@@ -123,4 +123,4 @@ images = ["ogp/2022-11-20-osaka-tokyo-trip.webp"]
 
 久しぶりに長い距離を走りきったので満足です。高橋尚子さんにも応援してもらえたよ。
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="8074801819"></div><script src="https://strava-embeds.com/embed.js"></script>
+{{< strava id="8074801819" >}}
