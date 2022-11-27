@@ -4,6 +4,7 @@ date = 2022-11-23T21:21:00+09:00
 lastmod = 2022-11-23T21:21:00+09:00
 description = "竹鶴だよ"
 tags = ["蒲田"]
+categories = ["写真"]
 author = "kazu634"
 camera = "Sony a6400"
 lens = "E 35mm F1.8 OSS"
