@@ -15,7 +15,7 @@ images = ["ogp/2021-03-07-using-tgcard-to-generate-OGP-image.webp"]
 ## 成果物
 Twitterでの表示例はこちらになります。
 
-{{< tweet 1366036262465900544 >}}
+{{< tweet user="MusashiKazuhiro" id="1366036262465900544" >}}
 
 ## やったこと
 やったことを書き連ねていきますよ。
