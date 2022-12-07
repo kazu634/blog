@@ -484,7 +484,7 @@ theme = "DoIt"
 
 # Permalinks config
 [Permalinks]
-  posts = ":year/:filename"
+# posts = ":year/:filename"
 
 # Privacy config
 [privacy]
