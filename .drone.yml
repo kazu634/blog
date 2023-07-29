@@ -23,7 +23,7 @@ steps:
     - git submodule update --init --recursive
 
   - name: hugo
-    image: cibuilds/hugo:0.106
+    image: cibuilds/hugo:0.115.4
     commands:
       - sudo hugo -e production --minify -v -s .
 
@@ -35,7 +35,7 @@ steps:
   - name: housekeep
     image: appleboy/drone-ssh
     settings:
-      host: 10.0.1.166
+      host: 10.0.1.222
       username: webadm
       port: 10022
       key:
@@ -47,7 +47,7 @@ steps:
   - name: scp
     image: appleboy/drone-scp
     settings:
-      host: 10.0.1.166
+      host: 10.0.1.222
       username: webadm
       port: 10022
       target:
@@ -81,7 +81,7 @@ steps:
     - git submodule update --init --recursive
 
   - name: hugo
-    image: cibuilds/hugo:0.106
+    image: cibuilds/hugo:0.115.4
     commands:
       - sudo hugo -e staging --minify -v -s  .
 
@@ -93,7 +93,7 @@ steps:
   - name: housekeep
     image: appleboy/drone-ssh
     settings:
-      host: 10.0.1.166
+      host: 10.0.1.222
       username: webadm
       port: 10022
       key:
@@ -104,7 +104,7 @@ steps:
   - name: scp
     image: appleboy/drone-scp
     settings:
-      host: 10.0.1.166
+      host: 10.0.1.222
       username: webadm
       port: 10022
       target: /var/www/test
