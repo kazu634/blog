@@ -3,6 +3,7 @@ baseURL = "https://blog.kazu634.com/"
 defaultContentLanguage = "en"
 # language code
 languageCode = "jp"
+hasCJKLanguage = true
 title = "His greatness lies in his sense of responsibilities"
 
 # Change the default theme to be use when building the site with Hugo
