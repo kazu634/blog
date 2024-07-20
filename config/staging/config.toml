@@ -328,11 +328,11 @@ theme = "DoIt"
       Trello = true
     #  Comment config
     [params.page.comment]
-      enable = true
+      enable = false
       # Disqus comment config
       [params.page.comment.disqus]
         #
-        enable = true
+        enable = false
         # Disqus shortname to use Disqus in posts
         shortname = "blog-kazu634"
     #  Third-party library config
