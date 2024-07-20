@@ -157,7 +157,7 @@ theme = "DoIt"
       #  title shown in home page (HTML format is supported)
       title = "Kazuhiro Musashi"
       # subtitle shown in home page
-      subtitle = "ITエンジニアです。本当は手を動かしたいけど、いまはプレセールスをしています"
+      subtitle = "ITコンサル見習いに転職しました"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
