@@ -11,4 +11,4 @@ location = "カオサンロード"
 images = ["ogp/2023-12-26-khao-san-road.webp"]
 +++
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/53352608321/in/datetaken-public/" title="R0001377.JPG"><img src="https://live.staticflickr.com/65535/53352608321_dda215b7ac_z.jpg" width="640" height="427" alt="R0001377.JPG"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/53446171891/in/album-72177720313852146" title="DSC03571.JPG"><img src="https://live.staticflickr.com/65535/53446171891_81ea96ac05.jpg" width="500" height="333" alt="DSC03571.JPG"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
