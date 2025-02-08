@@ -35,7 +35,7 @@ steps:
   - name: housekeep
     image: appleboy/drone-ssh
     settings:
-      host: 10.0.1.222
+      host: 10.0.1.96
       username: webadm
       port: 10022
       key:
@@ -47,7 +47,7 @@ steps:
   - name: scp
     image: appleboy/drone-scp
     settings:
-      host: 10.0.1.222
+      host: 10.0.1.96
       username: webadm
       port: 10022
       target:
@@ -93,7 +93,7 @@ steps:
   - name: housekeep
     image: appleboy/drone-ssh
     settings:
-      host: 10.0.1.222
+      host: 10.0.1.96
       username: webadm
       port: 10022
       key:
@@ -104,7 +104,7 @@ steps:
   - name: scp
     image: appleboy/drone-scp
     settings:
-      host: 10.0.1.222
+      host: 10.0.1.96
       username: webadm
       port: 10022
       target: /var/www/test
