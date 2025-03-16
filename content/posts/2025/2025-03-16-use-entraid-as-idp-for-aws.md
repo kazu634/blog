@@ -11,6 +11,9 @@ images = ["ogp/2025-03-16-use-entraid-as-idp-for-aws.webp"]
 
 お仕事で部門のサーバー管理者・クラウド管理者になって気になったものを検証してみたシリーズだよ。EntraIDをAWSのIdPとして利用して、シングルサインオンするための手順をまとめたよ
 
+大まかな見取り図は以下の通りです:
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42332031@N02/54390453359/in/datetaken/" title="Untitled"><img src="https://live.staticflickr.com/65535/54390453359_cd965fd65a_z.jpg" width="640" height="301" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## 必要なもの
 - `EntraID` (個人のアカウントで`Azure`契約すると、自動的に`EntraID`が作成されるから、それを利用するのがお手軽)
 - `AWS`
