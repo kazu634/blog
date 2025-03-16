@@ -18,7 +18,6 @@ images = ["ogp/2025-03-16-use-entraid-as-idp-for-aws.webp"]
 - `EntraID` (個人のアカウントで`Azure`契約すると、自動的に`EntraID`が作成されるから、それを利用するのがお手軽)
 - `AWS`
 
-<!--more-->
 ## SSO の設定手順
 `SSO`に必要となる手順をまとめていきます。
 
