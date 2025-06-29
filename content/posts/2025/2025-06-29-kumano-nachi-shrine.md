@@ -13,7 +13,7 @@ author = "kazu634"
 ## 熊野那智神社へのドライブ
 熊野那智神社は仙台市近郊の名取市にあります。こんな感じでドライブしました。
 
-<iframe width="100%" height="450" src="http://blog.kazu634.com/gpxapp/?gpx=202506281412182305" title="ドライブ" referrerpolicy="origin-when-cross-origin"></iframe>
+<iframe width="100%" height="450" src="https://blog.kazu634.com/gpxapp/?gpx=202506281412182305" title="ドライブ" referrerpolicy="origin-when-cross-origin"></iframe>
 
 ## 熊野那智神社の様子
 神社の様子はこんな感じでした:
