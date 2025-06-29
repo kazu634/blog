@@ -6,6 +6,7 @@ description = "仙台市近郊にある熊野那智神社に向かいました�
 tags = ["名取"]
 categories = ["ドライブ"]
 author = "kazu634"
+images = ["ogp/2025-06-29-kumano-nachi-shrine.webp"]
 +++
 
 最近自動車を買いました。行動範囲が広がり、色々なところに行っています。今回は仙台市近郊にある熊野那智神社に向かいました。
