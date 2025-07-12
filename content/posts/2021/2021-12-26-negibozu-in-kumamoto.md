@@ -10,9 +10,9 @@ images = ["ogp/2021-12-26-negibozu-in-kumamoto.webp"]
 
 熊本にある居酒屋、ねぎぼうずを訪ねてきました。このお店、3年前にも訪ねた記憶があります。
 
-{{< tweet user="MusashiKazuhiro" id="1474672362251505669" >}}
+{{< x user="MusashiKazuhiro" id="1474672362251505669" >}}
 
-{{< tweet user="MusashiKazuhiro" id="1474680386873864196" >}}
+{{< x user="MusashiKazuhiro" id="1474680386873864196" >}}
 
 ## 店内の様子
 店内はこんな感じです。目の前の茶碗にお金を入れておいて、好きなものを頼む感じです。飲み物や料理が届くと、店員さんが茶碗からお会計を済ませてくれます。

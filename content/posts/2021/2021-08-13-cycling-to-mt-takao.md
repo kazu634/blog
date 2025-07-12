@@ -44,7 +44,7 @@ images = ["ogp/2021-08-13-cycling-to-mt-takao.webp"]
 
 モノレールの入り口まで入っていって、到着です！
 
-{{< tweet user="MusashiKazuhiro" id="1425287561971445762" >}}
+{{< x user="MusashiKazuhiro" id="1425287561971445762" >}}
 
 高尾山口ではTAKAO COFFEEというお店で一休みをして、往路は終了です:
 

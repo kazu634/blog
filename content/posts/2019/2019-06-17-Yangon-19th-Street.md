@@ -9,6 +9,7 @@ images = ["ogp/2019-06-17-Yangon-19th-Street.webp"]
 
 +++
 
+<!--more-->
 ヤンゴン旅行中に Yangon 19th Street に行きました。有名な酒場通りということです。
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/42332031@N02/40924164163/in/album-72157708525915875/" title="IMG_1175.JPG"><img src="https://live.staticflickr.com/65535/40924164163_59352c8dc3_z.jpg" width="640" height="480" alt="IMG_1175.JPG"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
