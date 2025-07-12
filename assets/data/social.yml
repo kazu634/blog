@@ -1,0 +1,131 @@
+# 001: Github
+github:
+  Weight: 5
+  Prefix: https://github.com/
+  Title: GitHub
+  Icon:
+    Simpleicons: github
+
+# 002: LinkedIn
+linkedin:
+  Weight: 4
+  Prefix: https://linkedin.com/in/
+  Title: LinkedIn
+  Icon:
+    Fontawesome:
+      Style: brands
+      Icon: linkedin
+
+# 003: Twitter
+twitter:
+  Weight: 1
+  Prefix: https://twitter.com/
+  Title: Twitter
+  Icon:
+    Fontawesome:
+      Style: brands
+      Icon: twitter
+
+# 005: facebook
+facebook:
+  Weight: 3
+  Prefix: https://facebook.com/
+  Title: facebook
+  Icon:
+    Fontawesome:
+      Style: brands
+      Icon: facebook
+
+# 011: YouTube Channel
+youtubechannel:
+  Weight: 10
+  Prefix: https://www.youtube.com/channel/
+  Title: YouTube
+  Icon:
+    Fontawesome:
+      Style: brands
+      Icon: youtube
+
+# 024: Flickr
+flickr:
+  Weight: 9
+  Prefix: https://www.flickr.com/photos/
+  Title: Flickr
+  Icon:
+    Fontawesome:
+      Style: brands
+      Icon: flickr
+
+# 035: Foursquare
+foursquare:
+  Weight: 7
+  Prefix: https://foursquare.com/
+  Title: Foursquare
+  Icon:
+    Fontawesome:
+      Style: brands
+      Icon: foursquare
+
+# 041: Strava
+strava:
+  Weight: 8
+  Prefix: https://www.strava.com/athletes/
+  Title: Strava
+  Icon:
+    Fontawesome:
+      Style: brands
+      Icon: strava
+
+# 056: Mastodon
+mastodon:
+  Weight: 2
+  Prefix: https://mstdn.guru/
+  Title: Mastodon
+  Icon:
+    Fontawesome:
+      Style: brands
+      Icon: mastodon
+
+# 059: Gitea
+gitea:
+  Weight: 6
+  Title: Gitea
+  Icon:
+    Simpleicons: gitea
+
+# 074: X
+x:
+  Weight: 74
+  Prefix: https://x.com/
+  Title: X
+  Icon:
+    Simpleicons: x
+
+# 075: Bluesky
+bluesky:
+  Weight: 75
+  Prefix: https://bsky.app/profile/
+  Title: Bluesky
+  Icon:
+    Simpleicons: bluesky
+
+# 076: Email
+email:
+  Weight: 76
+  Template: mailto:%v
+  Title: Email
+  Icon:
+    Fontawesome:
+      Style: regular
+      Icon: envelope
+
+# 077: RSS
+rss:
+  Weight: 77
+  Url: /index.xml
+  Title: RSS
+  Newtab: true
+  Icon:
+    Fontawesome:
+      Style: solid
+      Icon: rss
