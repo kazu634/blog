@@ -8,6 +8,7 @@ author = "kazu634"
 images = ["ogp/2018-06-25-hanoi-cafe-maison-de-tet-decor.webp"]
 +++
 
+<!--more-->
 Hanoiの週末に訪れたカフェ。とてもお洒落で雰囲気のいいお店。また訪れたい。
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/42332031@N02/42056339181" title="IMG_20180512_091558.JPG"><img src="https://farm1.staticflickr.com/964/42056339181_05e41dfce0_z.jpg" width="640" height="480" alt="IMG_20180512_091558.JPG"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

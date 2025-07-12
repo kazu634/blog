@@ -12,7 +12,7 @@ images = ["ogp/2021-10-17-download-csv-from-yahoo-finance.webp"]
 
 最終的には自動で株価データをデータベースに入れて、自動的に毎日グラフを更新できるようにするのが目標だよ。こんな感じね。
 
-{{< tweet user="MusashiKazuhiro" id="1449329281771868167" >}}
+{{< x user="MusashiKazuhiro" id="1449329281771868167" >}}
 
 ## ブラウザから
 一番簡単な方法としては、ブラウザからダウンロードします。例えばANAの場合は、[ANA HOLDINGS INC (9202.T) Stock Price, News, Quote & History - Yahoo Finance](https://finance.yahoo.com/quote/9202.T?p=9202.T&.tsrc=fin-srch)にアクセスするとページが表示されます。
