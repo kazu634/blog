@@ -8,6 +8,7 @@ images = ["ogp/2020-08-01-Bangkok-Restaurants.webp"]
 tags = ["bangkok"]
 +++
 
+<!--more-->
 緊急事態宣言が緩和されつつあるバンコクで、6/15〜に外でお食事した写真をまとめていますよ。
 
 ## マッシリア

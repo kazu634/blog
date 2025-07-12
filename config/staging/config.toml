@@ -11,11 +11,11 @@ theme = "DoIt"
 
 [params]
   #  DoIt theme version
-  version = "0.2.X"
+  version = "0.4.X"
   # website title
   title = "His greatness lies in his sense of responsibilities"
   # site description
-  description = "@kazu634のブログです"
+  description = "kazu634のブログです"
   # site keywords
   keywords = ["Tech", "Hugo"]
   #  site default theme ("light", "dark", "black", "auto")
@@ -31,9 +31,24 @@ theme = "DoIt"
   images = ["/images/profile.png"]
   #  enable PWA support
   enablePWA = false
-  #  App icon config
+  # [Experimental] cache remote images in markdown, more info: https://github.com/HEIGE-PCloud/DoIt/pull/860#issue-1574342372
+  cacheRemoteImages = true
+  # [Experimental] generate image srcset attribute with hugo image processing feature.
+  optimizeImages = true
+  # [Experimental] resize method for srcset attribute in optimizeImages, more info: https://gohugo.io/content-management/image-processing/#image-processing-options
+  srcsetSmallResizeMethod = "700x webp Lanczos q75"
+  srcsetDefaultResizeMethod = "1200x webp Lanczos q75"
+  srcsetLargeResizeMethod = "2000x webp Lanczos q75"
   #  License information
-  license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+  license = '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+  # Author config
+  [params.author]
+    name = "kazu634"
+    email = "kazu634@kazu634.com"
+    link = ""
+    avatar = ""
+    gravatarEmail = ""
+  #  App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     title = "@kazu634 Blog"
@@ -49,7 +64,7 @@ theme = "DoIt"
   #  Search config
   [params.search]
     enable = true
-    # type of search engine ("lunr", "algolia", "fuse")
+    # type of search engine ("algolia", "fuse")
     type = "fuse"
     # max index length of the chunked content
     contentLength = 4000
@@ -63,6 +78,10 @@ theme = "DoIt"
     highlightTag = "em"
     #  whether to use the absolute URL based on the baseURL in search index
     absoluteURL = false
+    [params.search.algolia]
+      index = ""
+      appID = ""
+      searchKey = ""
     [params.search.fuse]
       #  https://fusejs.io/api/options.html
       isCaseSensitive = false
@@ -74,12 +93,14 @@ theme = "DoIt"
       ignoreLocation = false
       useExtendedSearch = false
       ignoreFieldNorm = false
+
+  [params.image]
+    # cache remote images for better optimisations
+    cacheRemote = true
+    # Image resizing and optimisation
+    optimise = true
   # Header config
   [params.header]
-    # desktop header mode ("fixed", "normal", "auto")
-    desktopMode = "fixed"
-    # mobile header mode ("fixed", "normal", "auto")
-    mobileMode = "auto"
     #  Theme change mode
     # theme change mode ("switch", "select")
     themeChangeMode = "select"
@@ -104,7 +125,7 @@ theme = "DoIt"
     #  whether to show Hugo and theme info
     hugo = true
     #  Hosted on (HTML format is supported)
-    # <a title="Github Pages" href="https://docs.github.com/en/pages/" target="_blank" rel="noopener noreffer">GitHub Pages</a>
+    # <a title="Github Pages" href="https://docs.github.com/en/pages/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>
     hostedOn = ''
     #  whether to show copyright info
     copyright = true
@@ -115,7 +136,7 @@ theme = "DoIt"
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
-    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    license = '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
   #  Section (all posts) page config
   [params.section]
@@ -154,6 +175,8 @@ theme = "DoIt"
       # Place your avatar file under static or assets directory
       # The filepath is relative to the static or assets directory
       avatarURL = "/images/profile.png"
+      # URL the avatar links to
+      avatarLinkURL = ""
       #  title shown in home page (HTML format is supported)
       title = "Kazuhiro Musashi"
       # subtitle shown in home page
@@ -175,59 +198,78 @@ theme = "DoIt"
 
   # Social config about the author
   [params.social]
+    Twitter = "MusashiKazuhiro"
+    GitHub = "kazu634"
+    Linkedin = "一弘-武蔵-b90bba54"
+    Instagram = ""
+    Facebook = "kazu634"
+    Telegram = ""
+    Medium = ""
+    Gitlab = ""
+    Youtubelegacy = ""
+    Youtubecustom = ""
+    Youtubechannel = "UC1acPRvMPda9eL1JqlO-_rA"
+    Tumblr = ""
+    Quora = ""
+    Keybase = ""
+    Pinterest = ""
+    Reddit = ""
+    Codepen = ""
+    FreeCodeCamp = ""
+    Bitbucket = ""
+    Stackoverflow = ""
+    Weibo = ""
+    Odnoklassniki = ""
+    VK = ""
+    Flickr = "42332031@N02"
+    Xing = ""
+    Snapchat = ""
+    Soundcloud = ""
+    Spotify = ""
+    Bandcamp = ""
+    Paypal = ""
+    Fivehundredpx = ""
+    Mix = ""
+    Goodreads = ""
+    Lastfm = ""
+    Foursquare = "musashikazuhiro"
+    Hackernews = ""
+    Kickstarter = ""
+    Patreon = ""
+    Steam = ""
+    Twitch = ""
+    Strava = "89291248"
+    Skype = ""
+    Whatsapp = ""
+    Zhihu = ""
+    Douban = ""
+    Angellist = ""
+    Slidershare = ""
+    Jsfiddle = ""
+    Deviantart = ""
+    Behance = ""
+    Dribbble = ""
+    Wordpress = ""
+    Vine = ""
+    Googlescholar = ""
+    Researchgate = ""
+    Mastodon = "@kazu634"
+    Thingiverse = ""
+    Devto = ""
+    Gitea = "https://gitea.kazu634.com/kazu634"
+    XMPP = ""
+    Matrix = ""
+    Bilibili = ""
+    ORCID = ""
+    Liberapay = ""
+    Ko-Fi = ""
+    BuyMeACoffee = ""
+    Linktree = ""
+    QQ = ""
+    QQGroup = ""
+    Email = "misc+blog@kazu634.com"
     RSS = true #
-    [params.social.Twitter]
-      weight = 1
-      id = "MusashiKazuhiro"
-    [params.social.Mastodon]
-      # weight when arranging icons (the greater the weight,  the later the icon is positioned)
-      weight = 2
-      # your social ID
-      id = "@kazu634"
-      # prefix of your social link
-      prefix = "https://mstdn.guru/"
-      # content hovering on the icon
-      title = "Mastodon"
-    [params.social.Facebook]
-      # weight when arranging icons (the greater the weight,  the later the icon is positioned)
-      weight = 3
-      # your social ID
-      id = "kazu634"
-    [params.social.Linkedin]
-      # weight when arranging icons (the greater the weight,  the later the icon is positioned)
-      weight = 4
-      # your social ID
-      id = "一弘-武蔵-b90bba54"
-    [params.social.Github]
-      # weight when arranging icons (the greater the weight,  the later the icon is positioned)
-      weight = 5
-      # your social ID
-      id = "kazu634"
-    [params.social.Gitea]
-      # weight when arranging icons (the greater the weight,  the later the icon is positioned)
-      weight = 6
-      # your social ID
-      id = "https://gitea.kazu634.com/kazu634"
-    [params.social.Foursquare]
-      # weight when arranging icons (the greater the weight,  the later the icon is positioned)
-      weight = 7
-      # your social ID
-      id = "musashikazuhiro"
-    [params.social.Strava]
-      # weight when arranging icons (the greater the weight,  the later the icon is positioned)
-      weight = 8
-      # your social ID
-      id = "89291248"
-    [params.social.Flickr]
-      # weight when arranging icons (the greater the weight,  the later the icon is positioned)
-      weight = 9
-      # your social ID
-      id = "42332031@N02"
-    [params.social.Youtubechannel]
-      # weight when arranging icons (the greater the weight,  the later the icon is positioned)
-      weight = 10
-      # your social ID
-      id = "UC1acPRvMPda9eL1JqlO-_rA"
+
   #  Page config
   [params.page]
     #  whether to hide a page from home page
@@ -242,8 +284,6 @@ theme = "DoIt"
     ruby = true
     #  whether to enable the fraction extended syntax
     fraction = true
-    #  whether to enable the fontawesome extended syntax
-    fontawesome = true
     # whether to show link to Raw Markdown content of the content
     linkToMarkdown = false
     #  configure the link to the source file of the post
@@ -259,10 +299,14 @@ theme = "DoIt"
     # "https://github.com/user/repo/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/user/repo/blob/main/{path}|"
     #  whether to show the full text content in RSS
     rssFullText = false
-    #  page layout style ("normal", "wide")
-    pageStyle = "wide"
     #  whether to enable series navigation
     seriesNavigation = true
+    # whether to enable last modified time
+    enableLastMod = true
+    # whether to enable word count
+    enableWordCount = false
+    # whether to enable reading time estimation
+    enableReadingTime = false
     #  outdated article reminder config
     [params.page.outdatedArticleReminder]
       enable = false
@@ -291,12 +335,18 @@ theme = "DoIt"
       copyTex = true
       # KaTeX extension mhchem
       mhchem = true
+      # Use MathJax instead of KaTeX
+      mathjax = false
     #  Code config
     [params.page.code]
-      # whether to show the copy button of the code block
-      copy = true
       # the maximum number of lines of displayed code by default
       maxShownLines = 10
+      # whether to enable line numbers in the code block
+      lineNos = true
+      # whether to enable line wrapping in the code block
+      wrap = true
+      # whether to display the header in the code block
+      header = true
     #  Table config
     [params.page.table]
       # whether to enable sorting in the tables
@@ -322,10 +372,40 @@ theme = "DoIt"
       enable = true
       Twitter = true
       Facebook = true
-      Whatsapp = true
+      Linkedin = false
+      Whatsapp = false
+      Pinterest = false
+      Tumblr = false
+      HackerNews = false
+      Reddit = false
+      VK = false
+      Buffer = false
+      Xing = false
       Line = true
-      Pocket = true
-      Trello = true
+      Instapaper = false
+      Pocket = false
+      Digg = false
+      Stumbleupon = false
+      Flipboard = false
+      Weibo = true
+      Renren = false
+      Myspace = false
+      Blogger = false
+      Baidu = false
+      Odnoklassniki = false
+      Evernote = false
+      Skype = false
+      Trello = false
+      Mix = false
+      Mastodon = false
+    # server for PlantUML online rendering
+    [params.page.plantuml]
+      server = "https://www.plantuml.com/plantuml"
+
+    # instant.page config
+    [params.page.instantpage]
+      enable = false
+
     #  Comment config
     [params.page.comment]
       enable = false
@@ -334,7 +414,133 @@ theme = "DoIt"
         #
         enable = false
         # Disqus shortname to use Disqus in posts
-        shortname = "blog-kazu634"
+        shortname = ""
+      # Gitalk comment config
+      [params.page.comment.gitalk]
+        #
+        enable = false
+        owner = ""
+        repo = ""
+        clientId = ""
+        clientSecret = ""
+      # Valine comment config
+      [params.page.comment.valine]
+        enable = false
+        appId = ""
+        appKey = ""
+        placeholder = ""
+        avatar = "mp"
+        meta= ""
+        pageSize = 10
+        lang = ""
+        visitor = true
+        recordIP = true
+        highlight = true
+        enableQQ = false
+        serverURLs = ""
+        #  emoji data file name, default is "google.yml"
+        # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
+        # located in "themes/DoIt/assets/data/emoji/" directory
+        # you can store your own data files in the same path under your project:
+        # "assets/data/emoji/"
+        emoji = ""
+      # Waline comment config
+      [params.page.comment.waline]
+        #
+        enable = false
+        serverURL = ""
+        pageview = true
+        comment = true
+        # emoji = ['https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo']
+        # meta = ['nick', 'mail', 'link']
+        # requiredMeta = []
+        # login = 'enable'
+        # wordLimit = 0
+        # pageSize = 10
+        # imageUploader = false
+        # highlighter = false
+        # texRenderer = false
+      # Facebook comment config
+      [params.page.comment.facebook]
+        enable = false
+        width = "100%"
+        numPosts = 10
+        appId = ""
+        languageCode = ""
+      #  Telegram comments config
+      [params.page.comment.telegram]
+        enable = false
+        siteID = ""
+        limit = 5
+        height = ""
+        color = ""
+        colorful = true
+        dislikes = false
+        outlined = false
+        dark = false
+      #  Commento comment config
+      [params.page.comment.commento]
+        enable = false
+      #  Utterances comment config
+      [params.page.comment.utterances]
+        enable = false
+        # owner/repo
+        repo = ""
+        issueTerm = "pathname"
+        label = ""
+        lightTheme = "github-light"
+        darkTheme = "github-dark"
+      #  Twikoo comment config
+      [params.page.comment.twikoo]
+        enable = false
+        envId = ""
+        region = ""
+        path = ""
+        cloudbase = true # boolean : true / false. #If you deploy your Twikoo on CloudBase, set it to true.
+        visitor = true
+        commentCount = true
+      #  Vssue comment config
+      [params.page.comment.vssue]
+        enable = false
+        platform = "" # ("bitbucket", "gitea", "gitee", "github", "gitlab")
+        owner = ""
+        repo = ""
+        clientId = ""
+        clientSecret = ""
+      #  Remark42 comment config
+      [params.page.comment.remark42]
+        enable = false
+        host = ""
+        site_id = ""
+        max_shown_comments = 15
+        show_email_subscription = true
+        simple_view = false
+      #  giscus comment config
+      [params.page.comment.giscus]
+        enable = false
+        # owner/repo
+        dataRepo = ""
+        dataRepoId = ""
+        dataCategory = ""
+        dataCategoryId = ""
+        dataMapping = "pathname"
+        dataReactionsEnabled = "1"
+        dataEmitMetadata = "0"
+        dataInputPosition = "bottom"
+        lightTheme = "light"
+        darkTheme = "dark"
+        dataLang = "en"
+        dataLoading = "lazy"
+      # artalk comment config
+      [params.page.comment.artalk]
+        enable = false
+        server = ""
+        site = ""
+        lite = false
+        katex = false
+        lightbox = false
+        pageview = true
+        commentCount = true
     #  Third-party library config
     [params.page.library]
       [params.page.library.css]
@@ -371,6 +577,7 @@ theme = "DoIt"
         enable = false
         count = 5
 
+
   #  Sponsor config
   [params.sponsor]
     enable = false
@@ -405,19 +612,43 @@ theme = "DoIt"
     image = ""
     # thumbnail URL
     thumbnailUrl = ""
+    #
+    # alternate site name in Google search result
+    alternateName = [""]
 
   #  Analytics config
   [params.analytics]
-    enable = true
+    enable = false
     # Google Analytics
     [params.analytics.google]
-      id = "UA-57665492-1"
+      id = ""
       # whether to anonymize IP
       anonymizeIP = true
+    # Fathom Analytics
+    [params.analytics.fathom]
+      id = ""
+      # server url for your tracker if you're self hosting
+      server = ""
+    #  Baidu Analytics
+    [params.analytics.baidu]
+      id = ""
+    #  Umami Analytics
+    [params.analytics.umami]
+      data_website_id = ""
+      src = ""
+      data_host_url = ""
+      data_domains = ""
+    #  Plausible Analytics
+    [params.analytics.plausible]
+      data_domain = ""
+      src = ""
+    #  Cloudflare Analytics
+    [params.analytics.cloudflare]
+      token = ""
 
   #  Cookie consent config
   [params.cookieconsent]
-    enable = false
+    enable = true
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
       message = ""
@@ -435,10 +666,9 @@ theme = "DoIt"
 
   #  Compatibility config
   [params.compatibility]
-    # whether to use Polyfill.io to be compatible with older browsers
+    # whether to use Polyfill.io on cdnjs to be compatible with older browsers
+    # https://blog.cloudflare.com/polyfill-io-now-available-on-cdnjs-reduce-your-supply-chain-risk
     polyfill = false
-    # whether to use object-fit-images to be compatible with older browsers
-    objectFit = false
 
 # Markup related config in Hugo
 [markup]
@@ -469,14 +699,6 @@ theme = "DoIt"
     startLevel = 2
     endLevel = 6
 
-# Author config
-[author]
-  name = "kazu634"
-  email = "simoom634@yahoo.co.jp"
-  link = ""
-  avatar = ""
-  gravatarEmail = ""
-
 # Sitemap config
 [sitemap]
   changefreq = "weekly"
@@ -485,14 +707,16 @@ theme = "DoIt"
 
 # Permalinks config
 [Permalinks]
-# posts = ":year/:filename"
+  posts = ":year/:contentbasename"
+  # posts = ":year/:month/:contentbasename"
+  # posts = ":contentbasename"
 
 # Privacy config
 [privacy]
   #  privacy of the Google Analytics (replaced by params.analytics.google)
   [privacy.googleAnalytics]
     # ...
-  [privacy.twitter]
+  [privacy.x]
     enableDNT = true
   [privacy.youtube]
     privacyEnhanced = true
@@ -515,7 +739,6 @@ theme = "DoIt"
   page = ["HTML", "MarkDown"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML"]
 
 # Options for taxonomies
 [taxonomies]
@@ -523,7 +746,6 @@ author = "authors"
 category = "categories"
 tag = "tags"
 series = "series"
-
 
 [menu]
   [[menu.main]]
@@ -538,24 +760,13 @@ series = "series"
     title = ""
     weight = 1
   [[menu.main]]
-    identifier = "photos"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "Photos"
-    url = "/photos/"
-    # title will be shown when you hover on this menu link
-    title = ""
-    weight = 2
-  [[menu.main]]
     identifier = "tags"
     pre = ""
     post = ""
     name = "Tags"
     url = "/tags/"
     title = ""
-    weight = 3
+    weight = 2
   [[menu.main]]
     identifier = "categories"
     pre = ""
@@ -563,5 +774,5 @@ series = "series"
     name = "Categories"
     url = "/categories/"
     title = ""
-    weight = 4
+    weight = 3
 

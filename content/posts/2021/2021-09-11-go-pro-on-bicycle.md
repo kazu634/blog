@@ -37,7 +37,7 @@ GoProを自転車に乗せて走ってきました。多摩川沿いのコース
 
 サイクリング途中の馬車道駅でピカチューを見つけたよ:
 
-{{< tweet user="MusashiKazuhiro" id="1436626594789945344" >}}
+{{< x user="MusashiKazuhiro" id="1436626594789945344" >}}
 
 #### Stravaはこちら
 Stravaはこちらになります:

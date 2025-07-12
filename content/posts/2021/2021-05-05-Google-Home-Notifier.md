@@ -13,13 +13,13 @@ google-home-notifierでGoogle Nestを喋らせてみました。これまでの�
 ## TL;DR
 発端はこのような形でした:
 
-{{< tweet user="MusashiKazuhiro" id="1389508813200396291" >}}
+{{< x user="MusashiKazuhiro" id="1389508813200396291" >}}
 
-{{< tweet user="MusashiKazuhiro" id="1389554264310124545" >}}
+{{< x user="MusashiKazuhiro" id="1389554264310124545" >}}
 
-{{< tweet user="MusashiKazuhiro" id="1389775994584657922" >}}
+{{< x user="MusashiKazuhiro" id="1389775994584657922" >}}
 
-{{< tweet user="MusashiKazuhiro" id="1389862890853650432" >}}
+{{< x user="MusashiKazuhiro" id="1389862890853650432" >}}
 
 というわけで、以下のようにコマンドを実行すると、
 
