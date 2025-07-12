@@ -25,7 +25,7 @@ steps:
   - name: hugo
     image: cibuilds/hugo:0.148.1
     commands:
-      - sudo hugo -e production --minify -v -s .
+      - sudo hugo -e production --minify -s .
 
   - name: Compress-the-Assets
     image: alpine:3.9
@@ -83,7 +83,7 @@ steps:
   - name: hugo
     image: cibuilds/hugo:0.148.1
     commands:
-      - sudo hugo -e staging --minify -v -s  .
+      - sudo hugo -e staging --minify -s  .
 
   - name: Compress-the-Assets
     image: alpine:3.9
