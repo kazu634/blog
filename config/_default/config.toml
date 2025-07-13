@@ -32,7 +32,7 @@ theme = "DoIt"
   #  enable PWA support
   enablePWA = false
   # [Experimental] cache remote images in markdown, more info: https://github.com/HEIGE-PCloud/DoIt/pull/860#issue-1574342372
-  cacheRemoteImages = true
+  cacheRemoteImages = false
   # [Experimental] generate image srcset attribute with hugo image processing feature.
   optimizeImages = true
   # [Experimental] resize method for srcset attribute in optimizeImages, more info: https://gohugo.io/content-management/image-processing/#image-processing-options
